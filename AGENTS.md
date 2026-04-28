@@ -17,35 +17,22 @@ AI Knowledge Base Assistant 是一个自动化采集、分析和分发 AI/LLM/Ag
 
 ## 编码规范
 
-### Python 风格
-- **PEP 8**: 严格遵循 PEP 8 规范，使用 `ruff` 自动格式化
-- **命名**: `snake_case` 用于变量/函数，`PascalCase` 用于类，`UPPER_SNAKE_CASE` 用于常量
-- **Docstring**: 采用 Google 风格，所有公共函数必须包含文档字符串
+> **完整规范参见 [`docs/coding-standards.md`](docs/coding-standards.md)**
+> 
+> 以下摘要仅作快速参考，执行标准以完整文档为准。
 
-### 日志与调试
-```python
-# ❌ 禁止裸 print()
-print(f"Processing {url}")
+### 核心要求
+- **Python**: black (line-length=88) + isort + ruff + mypy
+- **TypeScript**: strict mode + eslint + prettier
+- **文档**: 所有 `export` 函数必须有 Google style docstring / JSDoc
+- **覆盖率**: 行覆盖 ≥ 80%，核心模块 ≥ 85%，分支覆盖 ≥ 70%
 
-# ✅ 使用结构化日志
-import logging
-logger = logging.getLogger(__name__)
-logger.info("Processing URL", extra={"url": url, "source": "github"})
-```
-
-### 类型注解
-```python
-from typing import Optional, List, Dict, Any
-from dataclasses import dataclass
-
-@dataclass
-class KnowledgeEntry:
-    id: str
-    title: str
-    source_url: str
-    summary: Optional[str] = None
-    tags: List[str] = []
-```
+### 红线摘要
+- 禁止魔法字符串（业务逻辑中的语义字面量）
+- 禁止 TODO/FIXME/HACK/XXX 进 main 分支（带 issue 引用除外）
+- 禁止裸 `print()`，必须使用 `logging`
+- 禁止捕获裸异常，必须指定异常类型
+- 禁止硬编码敏感信息
 
 ## 项目结构
 
