@@ -1,0 +1,363 @@
+[
+  {
+    "id": "1103012935",
+    "title": "openclaw",
+    "source_url": "https://github.com/openclaw/openclaw",
+    "source_type": "github",
+    "summary": "跨平台个人AI助手，采用龙虾方式构建，支持任意操作系统和平台，核心强调用户数据所有权和隐私保护，MIT协议开源，不到半年积累36万+星标。",
+    "tags": [
+      "AI",
+      "Assistant",
+      "TypeScript",
+      "Privacy",
+      "Cross-Platform"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-04-28T14:00:00+08:00",
+    "updated_at": "2026-04-28T14:00:00+08:00",
+    "metadata": {
+      "stars": 365684,
+      "language": "TypeScript",
+      "author": "openclaw",
+      "forks": 74947,
+      "open_issues": 6988,
+      "license": "MIT"
+    },
+    "ai_analysis": {
+      "relevance_score": 9,
+      "key_insights": [
+        "现象级增长，不到半年积累36万+星标",
+        "跨平台一致体验，打破生态壁垒",
+        "数据自有核心理念，符合隐私趋势",
+        "TypeScript实现，二次开发门槛低"
+      ],
+      "category": "应用平台",
+      "rating_reason": "重新定义个人AI助手的产品形态，数据自有切中用户痛点，社区增长速度惊人，可能成为下一个百亿级估值产品。唯一扣分点是issues较多（近7000个），稳定性和文档有待完善。"
+    }
+  },
+  {
+    "id": "45717250",
+    "title": "tensorflow",
+    "source_url": "https://github.com/tensorflow/tensorflow",
+    "source_type": "github",
+    "summary": "Google开源的工业级机器学习框架，支持分布式训练、多种硬件加速，是深度学习领域的基础设施级项目，经过十年打磨，生态系统极其完善。",
+    "tags": [
+      "Machine Learning",
+      "Deep Learning",
+      "C++",
+      "Framework",
+      "Distributed"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-04-28T14:00:00+08:00",
+    "updated_at": "2026-04-28T14:00:00+08:00",
+    "metadata": {
+      "stars": 194921,
+      "language": "C++",
+      "author": "tensorflow",
+      "forks": 75288,
+      "open_issues": 4780,
+      "license": "Apache-2.0"
+    },
+    "ai_analysis": {
+      "relevance_score": 10,
+      "key_insights": [
+        "深度学习领域事实标准，企业级首选",
+        "生态系统极其完善，周边工具齐全",
+        "十年打磨，稳定性和性能经过工业级验证",
+        "Google背书，长期维护有保障"
+      ],
+      "category": "基础设施",
+      "rating_reason": "定义了现代深度学习框架的标准，支撑了过去十年AI产业的发展，从科研到生产全场景覆盖，技术影响力和产业价值都达到顶峰。"
+    }
+  },
+  {
+    "id": "193215554",
+    "title": "n8n",
+    "source_url": "https://github.com/n8n-io/n8n",
+    "source_type": "github",
+    "summary": "公平代码许可的工作流自动化平台，原生集成AI能力，支持可视化拖拽和自定义代码混合开发，提供自托管和云服务两种模式，内置400+第三方集成。",
+    "tags": [
+      "Automation",
+      "Workflow",
+      "TypeScript",
+      "AI",
+      "Low-Code",
+      "MCP"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-04-28T14:00:00+08:00",
+    "updated_at": "2026-04-28T14:00:00+08:00",
+    "metadata": {
+      "stars": 185941,
+      "language": "TypeScript",
+      "author": "n8n-io",
+      "forks": 57187,
+      "open_issues": 1543,
+      "license": "NOASSERTION"
+    },
+    "ai_analysis": {
+      "relevance_score": 8.5,
+      "key_insights": [
+        "低代码/无代码标杆，业务人员也能快速搭建自动化",
+        "MCP协议原生支持，Agent生态集成度最高",
+        "400+集成覆盖绝大多数SaaS和API服务",
+        "自托管选项满足企业隐私合规需求"
+      ],
+      "category": "应用平台",
+      "rating_reason": "工作流自动化领域无可争议的领导者，AI集成走在所有竞品前面，MCP支持使其在Agent时代具备先发优势。Fair-code许可而非纯开源是唯一扣分项。"
+    }
+  },
+  {
+    "id": "614765452",
+    "title": "AutoGPT",
+    "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source_type": "github",
+    "summary": "自主AI Agent框架，让大语言模型能够独立设定目标、规划任务、执行操作，是Agent概念的定义者和普及者，支持多模型和插件系统。",
+    "tags": [
+      "Agent",
+      "LLM",
+      "Python",
+      "Autonomous",
+      "AI"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-04-28T14:00:00+08:00",
+    "updated_at": "2026-04-28T14:00:00+08:00",
+    "metadata": {
+      "stars": 183848,
+      "language": "Python",
+      "author": "Significant-Gravitas",
+      "forks": 46233,
+      "open_issues": 400,
+      "license": "NOASSERTION"
+    },
+    "ai_analysis": {
+      "relevance_score": 8,
+      "key_insights": [
+        "Agent时代的标志性项目，定义了自主Agent范式",
+        "18万+星证明社区认可度极高",
+        "支持多模型（GPT/Claude/Llama等）",
+        "插件系统完善，可扩展性强"
+      ],
+      "category": "Agent框架",
+      "rating_reason": "历史地位极高，开创了自主Agent这个全新品类。但近两年演进速度放缓，被后起之秀在某些场景超越，实际生产落地案例少于概念验证。"
+    }
+  },
+  {
+    "id": "1073224795",
+    "title": "superpowers",
+    "source_url": "https://github.com/obra/superpowers",
+    "source_type": "github",
+    "summary": "Agent技能框架和软件开发方法论，重新定义AI时代的软件开发方式，Shell实现零依赖，可集成到任何开发环境，半年积累17万+星标。",
+    "tags": [
+      "Agent",
+      "DevOps",
+      "Shell",
+      "Methodology",
+      "AI"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-04-28T14:00:00+08:00",
+    "updated_at": "2026-04-28T14:00:00+08:00",
+    "metadata": {
+      "stars": 170912,
+      "language": "Shell",
+      "author": "obra",
+      "forks": 15089,
+      "open_issues": 285,
+      "license": "MIT"
+    },
+    "ai_analysis": {
+      "relevance_score": 9,
+      "key_insights": [
+        "方法论+工具结合，不只是框架更是开发哲学",
+        "Shell实现，零依赖，可集成到任何开发环境",
+        "半年17万星，增长速度惊人",
+        "重新定义AI编程的正确姿势"
+      ],
+      "category": "开发范式",
+      "rating_reason": "真正从底层思考AI时代开发者应该如何工作，而不是简单在IDE上加个Chat框。方法论创新可能改变整个行业的开发模式，Shell实现反而是最大优势——简单、通用、无锁。"
+    }
+  },
+  {
+    "id": "658928958",
+    "title": "ollama",
+    "source_url": "https://github.com/ollama/ollama",
+    "source_type": "github",
+    "summary": "本地大模型运行工具，一键部署运行Kimi、GLM、DeepSeek、Qwen、Gemma等主流开源模型，大幅降低本地LLM使用门槛，Go语言实现性能优秀。",
+    "tags": [
+      "LLM",
+      "Go",
+      "Inference",
+      "Local-LLM",
+      "Open-Source"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-04-28T14:00:00+08:00",
+    "updated_at": "2026-04-28T14:00:00+08:00",
+    "metadata": {
+      "stars": 170207,
+      "language": "Go",
+      "author": "ollama",
+      "forks": 15851,
+      "open_issues": 3095,
+      "license": "MIT"
+    },
+    "ai_analysis": {
+      "relevance_score": 9.5,
+      "key_insights": [
+        "本地LLM事实标准，几乎所有开源模型都提供Ollama格式",
+        "Go语言实现，性能优秀，资源占用低",
+        "一行命令启动模型，零配置成本",
+        "API兼容OpenAI格式，现有代码几乎无缝迁移"
+      ],
+      "category": "工具框架",
+      "rating_reason": "没有Ollama就没有今天开源大模型的普及度，它解决了最后一公里的部署难题。Go语言选择极其正确，单二进制分发，跨平台体验一致。唯一扣分点是多GPU调度等企业级功能还在完善中。"
+    }
+  },
+  {
+    "id": "1136590548",
+    "title": "everything-claude-code",
+    "source_url": "https://github.com/affaan-m/everything-claude-code",
+    "source_type": "github",
+    "summary": "Claude Code性能优化系统，为Claude Code、Codex、Opencode、Cursor等AI编程工具提供技能、本能、记忆、安全和研究优先开发支持。",
+    "tags": [
+      "Claude",
+      "Developer Tools",
+      "JavaScript",
+      "Productivity",
+      "MCP"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-04-28T14:00:00+08:00",
+    "updated_at": "2026-04-28T14:00:00+08:00",
+    "metadata": {
+      "stars": 168993,
+      "language": "JavaScript",
+      "author": "affaan-m",
+      "forks": 26187,
+      "open_issues": 182,
+      "license": "MIT"
+    },
+    "ai_analysis": {
+      "relevance_score": 7.5,
+      "key_insights": [
+        "专注Agent性能优化，垂直领域深耕",
+        "多IDE/工具支持，覆盖面广",
+        "MCP协议集成，能力可扩展",
+        "强调研究优先的开发模式"
+      ],
+      "category": "效率工具",
+      "rating_reason": "优秀的垂直领域工具，能显著提升重度Claude Code用户的生产力。但适用场景较窄，只针对特定工具的进阶用户，普适性不如其他项目。"
+    }
+  },
+  {
+    "id": "527591471",
+    "title": "stable-diffusion-webui",
+    "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "source_type": "github",
+    "summary": "Stable Diffusion Web界面，AI图像生成领域的事实标准，插件生态极其丰富，功能全面覆盖从入门到专业场景，社区庞大。",
+    "tags": [
+      "AI-Art",
+      "Diffusion",
+      "Python",
+      "Image Generation",
+      "Gradio"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-04-28T14:00:00+08:00",
+    "updated_at": "2026-04-28T14:00:00+08:00",
+    "metadata": {
+      "stars": 162654,
+      "language": "Python",
+      "author": "AUTOMATIC1111",
+      "forks": 30290,
+      "open_issues": 2482,
+      "license": "AGPL-3.0"
+    },
+    "ai_analysis": {
+      "relevance_score": 8.5,
+      "key_insights": [
+        "AI生成图像领域用户最多的工具",
+        "插件生态千人千面，几乎任何功能都有插件实现",
+        "功能全面，从入门到专业场景全覆盖",
+        "社区庞大，教程和问题解决方案丰富"
+      ],
+      "category": "应用平台",
+      "rating_reason": "定义了AI图像生成工具的交互范式。AGPL协议对商业使用不友好，以及代码架构相对老旧是主要扣分项。"
+    }
+  },
+  {
+    "id": "574523116",
+    "title": "prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "source_type": "github",
+    "summary": "前Awesome ChatGPT Prompts项目，社区驱动的Prompt分享平台，支持发现、收集、分享优质提示词，可自托管，企业内部搭建Prompt知识库。",
+    "tags": [
+      "Prompt Engineering",
+      "Community",
+      "LLM",
+      "Next.js",
+      "Open-Source"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-04-28T14:00:00+08:00",
+    "updated_at": "2026-04-28T14:00:00+08:00",
+    "metadata": {
+      "stars": 161008,
+      "language": "HTML",
+      "author": "f",
+      "forks": 21042,
+      "open_issues": 41,
+      "license": "NOASSERTION"
+    },
+    "ai_analysis": {
+      "relevance_score": 7,
+      "key_insights": [
+        "Prompt工程领域最早的社区项目之一",
+        "收录Prompt质量高、分类全",
+        "可自托管，企业内部搭建Prompt知识库",
+        "Next.js实现，二次开发友好"
+      ],
+      "category": "社区资源",
+      "rating_reason": "实用且有影响力，但技术门槛较低，核心价值是内容而非技术。随着Agent技术发展，写好Prompt的重要性正在下降，项目长期价值面临挑战。"
+    }
+  },
+  {
+    "id": "155220641",
+    "title": "transformers",
+    "source_url": "https://github.com/huggingface/transformers",
+    "source_type": "github",
+    "summary": "Transformers，最先进机器学习模型框架，统一支持文本、视觉、音频、多模态模型的推理和训练，模型库最大最全面，是NLP/多模态领域事实标准。",
+    "tags": [
+      "NLP",
+      "Transformers",
+      "Python",
+      "Multimodal",
+      "Deep Learning"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-04-28T14:00:00+08:00",
+    "updated_at": "2026-04-28T14:00:00+08:00",
+    "metadata": {
+      "stars": 160038,
+      "language": "Python",
+      "author": "huggingface",
+      "forks": 33044,
+      "open_issues": 2345,
+      "license": "Apache-2.0"
+    },
+    "ai_analysis": {
+      "relevance_score": 10,
+      "key_insights": [
+        "NLP/多模态领域事实标准，所有SOTA模型都提供实现",
+        "模型库最大最全面，覆盖几乎所有主流模型",
+        "文档和教程质量极高，降低入门门槛",
+        "从科研到生产全链路支持，企业级部署方案完善"
+      ],
+      "category": "基础设施",
+      "rating_reason": "没有Transformers就没有今天的大模型繁荣。它统一了模型开发接口，让研究成果快速落地产业，技术影响力覆盖整个AI领域，是和TensorFlow同级别的基础设施级项目。"
+    }
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "4b657b1b-b5b1-459f-a9d6-adb505d242ce",
+  "title": "superpowers",
+  "source_url": "https://github.com/obra/superpowers",
+  "source_type": "github",
+  "summary": "Agent技能框架和软件开发方法论，重新定义AI时代的软件开发方式，Shell实现零依赖，可集成到任何开发环境，半年积累17万+星标。",
+  "tags": [
+    "Agent",
+    "DevOps",
+    "Shell",
+    "Methodology",
+    "AI"
+  ],
+  "status": "published",
+  "created_at": "2026-04-28T14:00:00+08:00",
+  "updated_at": "2026-04-28T14:00:00+08:00",
+  "metadata": {
+    "stars": 170912,
+    "language": "Shell",
+    "author": "obra",
+    "forks": 15089,
+    "open_issues": 285,
+    "license": "MIT"
+  },
+  "ai_analysis": {
+    "relevance_score": 9,
+    "key_insights": [
+      "方法论+工具结合，不只是框架更是开发哲学",
+      "Shell实现，零依赖，可集成到任何开发环境",
+      "半年17万星，增长速度惊人",
+      "重新定义AI编程的正确姿势"
+    ],
+    "category": "开发范式",
+    "rating_reason": "真正从底层思考AI时代开发者应该如何工作，而不是简单在IDE上加个Chat框。方法论创新可能改变整个行业的开发模式，Shell实现反而是最大优势——简单、通用、无锁。"
+  }
+}

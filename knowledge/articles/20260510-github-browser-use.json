@@ -1,0 +1,27 @@
+{
+  "id": "d4e5f6g7-8901-2hij-klmn-opqrstuvwxyz",
+  "title": "browser-use",
+  "source_url": "https://github.com/browser-use/browser-use",
+  "source_type": "github",
+  "summary": "browser-use 让网站对 AI Agent 可访问，能够轻松自动化在线任务，基于 Playwright 构建，拥有 9.3 万 stars，是浏览器自动化 Agent 的标杆项目。",
+  "tags": ["Agent", "浏览器自动化", "Playwright", "工具", "自动化", "Python"],
+  "status": "published",
+  "created_at": "2026-05-10T22:40:00+08:00",
+  "updated_at": "2026-05-10T22:40:00+08:00",
+  "metadata": {
+    "stars": 93188,
+    "language": "Python",
+    "author": "browser-use",
+    "license": "MIT"
+  },
+  "ai_analysis": {
+    "relevance_score": 8,
+    "key_insights": [
+      "9.3万 stars，浏览器自动化 Agent 的标杆项目",
+      "基于 Playwright 构建，支持所有主流浏览器",
+      "开箱即用，几行代码即可实现网页自动化"
+    ],
+    "category": "Agent工具",
+    "rating_reason": "解决了 Agent 与网页交互的核心痛点，场景落地价值极高"
+  }
+}

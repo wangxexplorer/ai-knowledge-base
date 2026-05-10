@@ -1,0 +1,27 @@
+{
+  "id": "c3d4e5f6-7890-1ghi-jklm-nopqrstuvwxy",
+  "title": "langchain",
+  "source_url": "https://github.com/langchain-ai/langchain",
+  "source_type": "github",
+  "summary": "LangChain 是领先的 Agent 工程平台，支持 Python 和 TypeScript 双语言，提供丰富的工具集成和 Agent 编排能力，拥有 13.6 万 stars，是 LLM 应用开发的事实标准框架。",
+  "tags": ["Agent", "框架", "LLM", "工具集成", "多语言", "Python"],
+  "status": "published",
+  "created_at": "2026-05-10T22:40:00+08:00",
+  "updated_at": "2026-05-10T22:40:00+08:00",
+  "metadata": {
+    "stars": 136293,
+    "language": "Python",
+    "author": "langchain-ai",
+    "license": "MIT"
+  },
+  "ai_analysis": {
+    "relevance_score": 8,
+    "key_insights": [
+      "13.6万 stars，LLM 应用开发的事实标准框架",
+      "支持 Python 和 TypeScript 双语言，覆盖绝大多数开发场景",
+      "集成 1000+ 工具和模型，生态最完善"
+    ],
+    "category": "Agent框架",
+    "rating_reason": "生产级 Agent 开发必备工具，生态成熟，直接提升开发效率"
+  }
+}

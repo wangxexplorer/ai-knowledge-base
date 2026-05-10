@@ -1,0 +1,27 @@
+{
+  "id": "h8i9j0k1-2345-6lmn-opqr-stuvwxyz1234",
+  "title": "autogen",
+  "source_url": "https://github.com/microsoft/autogen",
+  "source_type": "github",
+  "summary": "AutoGen 是微软推出的多 Agent 协作框架，支持多个 AI Agent 协同完成复杂任务，提供灵活的对话管理和工具调用能力，是多 Agent 系统的首选框架。",
+  "tags": ["多Agent", "微软", "协作", "LLM", "框架", "Python"],
+  "status": "published",
+  "created_at": "2026-05-10T22:40:00+08:00",
+  "updated_at": "2026-05-10T22:40:00+08:00",
+  "metadata": {
+    "stars": 65000,
+    "language": "Python",
+    "author": "microsoft",
+    "license": "MIT"
+  },
+  "ai_analysis": {
+    "relevance_score": 7,
+    "key_insights": [
+      "6.5万 stars，多 Agent 系统的首选框架",
+      "微软出品，技术路线有保障，持续迭代能力强",
+      "灵活的对话管理机制，支持复杂 Agent 协作模式"
+    ],
+    "category": "多Agent框架",
+    "rating_reason": "多 Agent 协作方向的代表性项目，值得深入研究和应用"
+  }
+}

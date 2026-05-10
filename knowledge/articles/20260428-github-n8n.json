@@ -1,0 +1,37 @@
+{
+  "id": "bb0e57e3-5c6e-4914-b5b4-101de3984bee",
+  "title": "n8n",
+  "source_url": "https://github.com/n8n-io/n8n",
+  "source_type": "github",
+  "summary": "公平代码许可的工作流自动化平台，原生集成AI能力，支持可视化拖拽和自定义代码混合开发，提供自托管和云服务两种模式，内置400+第三方集成。",
+  "tags": [
+    "Automation",
+    "Workflow",
+    "TypeScript",
+    "AI",
+    "Low-Code",
+    "MCP"
+  ],
+  "status": "published",
+  "created_at": "2026-04-28T14:00:00+08:00",
+  "updated_at": "2026-04-28T14:00:00+08:00",
+  "metadata": {
+    "stars": 185941,
+    "language": "TypeScript",
+    "author": "n8n-io",
+    "forks": 57187,
+    "open_issues": 1543,
+    "license": "NOASSERTION"
+  },
+  "ai_analysis": {
+    "relevance_score": 8.5,
+    "key_insights": [
+      "低代码/无代码标杆，业务人员也能快速搭建自动化",
+      "MCP协议原生支持，Agent生态集成度最高",
+      "400+集成覆盖绝大多数SaaS和API服务",
+      "自托管选项满足企业隐私合规需求"
+    ],
+    "category": "应用平台",
+    "rating_reason": "工作流自动化领域无可争议的领导者，AI集成走在所有竞品前面，MCP支持使其在Agent时代具备先发优势。Fair-code许可而非纯开源是唯一扣分项。"
+  }
+}

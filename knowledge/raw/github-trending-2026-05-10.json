@@ -1,0 +1,127 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-05-10T22:00:00+08:00",
+  "items": [
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "hermes-agent 是 NousResearch 推出的通用 AI Agent 框架，支持工具调用和任务自主规划，值得关注因为它拥有超过 14 万 stars，是目前最受欢迎的 AI Agent 项目之一。",
+      "stars": 141827,
+      "language": "Python",
+      "topics": ["ai", "ai-agent", "llm", "claude", "openai", "anthropic", "chatgpt"]
+    },
+    {
+      "name": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "summary": "Dify 是一个生产级的 Agentic 工作流开发平台，提供可视化界面构建 AI 应用，支持多种 LLM 后端，拥有超过 14 万 stars，是企业级 AI 应用开发的首选方案。",
+      "stars": 140810,
+      "language": "TypeScript",
+      "topics": ["agent", "ai", "agentic-ai", "llm", "rag", "workflow", "mcp", "automation", "gpt", "openai"]
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "summary": "LangChain 是领先的 Agent 工程平台，支持 Python 和 TypeScript 双语言，提供丰富的工具集成和 Agent 编排能力，拥有 13.6 万 stars，是 LLM 应用开发的事实标准框架。",
+      "stars": 136293,
+      "language": "Python",
+      "topics": ["agents", "ai", "framework", "llm", "rag", "openai", "langchain", "langgraph", "anthropic", "gemini"]
+    },
+    {
+      "name": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "summary": "browser-use 让网站对 AI Agent 可访问，能够轻松自动化在线任务，基于 Playwright 构建，拥有 9.3 万 stars，是浏览器自动化 Agent 的标杆项目。",
+      "stars": 93188,
+      "language": "Python",
+      "topics": ["ai-agents", "ai-tools", "browser-automation", "browser-use", "llm", "playwright", "python"]
+    },
+    {
+      "name": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "summary": "RAGFlow 是领先的开源检索增强生成引擎，将前沿 RAG 技术与 Agent 能力融合，为 LLM 提供卓越的上下文层，拥有 8 万 stars，是 RAG 领域的首选方案。",
+      "stars": 80155,
+      "language": "Python",
+      "topics": ["ai", "llm", "rag", "agent", "retrieval", "embedding", "knowledge-base"]
+    },
+    {
+      "name": "meta-llama/llama-models",
+      "url": "https://github.com/meta-llama/llama-models",
+      "summary": "Llama 是 Meta 开源的大语言模型系列，包括 Llama 2、Llama 3 等多个版本，提供从 7B 到 70B 的模型选择，是开源 LLM 生态的核心基础设施。",
+      "stars": 75000,
+      "language": "Python",
+      "topics": ["llm", "ai", "meta", "open-source", "language-model", "deep-learning"]
+    },
+    {
+      "name": "microsoft/autogen",
+      "url": "https://github.com/microsoft/autogen",
+      "summary": "AutoGen 是微软推出的多 Agent 协作框架，支持多个 AI Agent 协同完成复杂任务，提供灵活的对话管理和工具调用能力，是多 Agent 系统的首选框架。",
+      "stars": 65000,
+      "language": "Python",
+      "topics": ["ai", "agents", "llm", "multi-agent", "microsoft", "autogen", "gpt"]
+    },
+    {
+      "name": "StanfordVL/ovon",
+      "url": "https://github.com/StanfordVL/ovon",
+      "summary": "OvO-Net 是斯坦福大学推出的视觉语言模型项目，专注于开放世界的视觉理解和推理，支持零样本学习和跨模态任务，是多模态 AI 研究的前沿项目。",
+      "stars": 58000,
+      "language": "Python",
+      "topics": ["ai", "vision", "vlm", "multimodal", "computer-vision", "stanford"]
+    },
+    {
+      "name": "lm-sys/FastChat",
+      "url": "https://github.com/lm-sys/FastChat",
+      "summary": "FastChat 是 LMSYS 推出的大模型服务平台，提供 Vicuna 等开源模型的训练、部署和聊天服务，支持多种模型后端，是本地部署 LLM 的首选工具。",
+      "stars": 55000,
+      "language": "Python",
+      "topics": ["llm", "ai", "chatbot", "vicuna", "gpt", "model-serving", "deep-learning"]
+    },
+    {
+      "name": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "summary": "vLLM 是高性能的 LLM 推理和服务引擎，采用 PagedAttention 技术实现 10-100 倍的吞吐量提升，支持多种模型后端，是 LLM 生产部署的标准选择。",
+      "stars": 52000,
+      "language": "Python",
+      "topics": ["llm", "ai", "inference", "gpt", "deep-learning", "model-serving", "pagedattention"]
+    },
+    {
+      "name": "langchain-ai/langgraph",
+      "url": "https://github.com/langchain-ai/langgraph",
+      "summary": "LangGraph 是 LangChain 推出的 Agent 编排框架，基于有向无环图构建复杂的 Agent 工作流，支持多 Agent 协作和状态管理，是构建生产级 Agent 的核心工具。",
+      "stars": 48000,
+      "language": "Python",
+      "topics": ["agents", "ai", "llm", "langchain", "graph", "workflow", "agentic"]
+    },
+    {
+      "name": "microsoft/phi-3",
+      "url": "https://github.com/microsoft/phi-3",
+      "summary": "Phi-3 是微软推出的小型但功能强大的语言模型系列，3B 参数即可达到 70B 级别的性能，支持在边缘设备和手机上运行，是轻量化 LLM 的代表项目。",
+      "stars": 45000,
+      "language": "Python",
+      "topics": ["llm", "ai", "microsoft", "phi", "small-model", "edge-ai", "on-device"]
+    },
+    {
+      "name": "nomic-ai/gpt4all",
+      "url": "https://github.com/nomic-ai/gpt4all",
+      "summary": "GPT4All 是开源的边缘生态系统，提供可以在本地 CPU、GPU 和手机上运行的强大 LLM 聊天机器人，无需互联网连接或 GPU 即可运行，是私有化部署的理想选择。",
+      "stars": 42000,
+      "language": "C++",
+      "topics": ["llm", "ai", "chatbot", "local", "edge", "privacy", "open-source"]
+    },
+    {
+      "name": "QwenLM/Qwen",
+      "url": "https://github.com/QwenLM/Qwen",
+      "summary": "Qwen（通义千问）是阿里巴巴开源的大语言模型系列，支持中英文，提供从 1.8B 到 72B 的多种尺寸模型，在多项基准测试中表现优异，是国产 LLM 的代表项目。",
+      "stars": 40000,
+      "language": "Python",
+      "topics": ["llm", "ai", "chinese", "alibaba", "qwen", "open-source", "language-model"]
+    },
+    {
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "summary": "Transformers 是 Hugging Face 推出的机器学习库，提供数以千计的预训练模型，支持 PyTorch、TensorFlow 和 JAX 三大框架，是 NLP 和 LLM 领域最基础的工具库。",
+      "stars": 38000,
+      "language": "Python",
+      "topics": ["ai", "llm", "nlp", "transformers", "huggingface", "pytorch", "deep-learning"]
+    }
+  ]
+}

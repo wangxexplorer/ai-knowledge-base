@@ -1,0 +1,36 @@
+{
+  "id": "8d6a90c5-43da-438b-bf4f-ead910e49564",
+  "title": "everything-claude-code",
+  "source_url": "https://github.com/affaan-m/everything-claude-code",
+  "source_type": "github",
+  "summary": "Claude Code性能优化系统，为Claude Code、Codex、Opencode、Cursor等AI编程工具提供技能、本能、记忆、安全和研究优先开发支持。",
+  "tags": [
+    "Claude",
+    "Developer Tools",
+    "JavaScript",
+    "Productivity",
+    "MCP"
+  ],
+  "status": "published",
+  "created_at": "2026-04-28T14:00:00+08:00",
+  "updated_at": "2026-04-28T14:00:00+08:00",
+  "metadata": {
+    "stars": 168993,
+    "language": "JavaScript",
+    "author": "affaan-m",
+    "forks": 26187,
+    "open_issues": 182,
+    "license": "MIT"
+  },
+  "ai_analysis": {
+    "relevance_score": 7.5,
+    "key_insights": [
+      "专注Agent性能优化，垂直领域深耕",
+      "多IDE/工具支持，覆盖面广",
+      "MCP协议集成，能力可扩展",
+      "强调研究优先的开发模式"
+    ],
+    "category": "效率工具",
+    "rating_reason": "优秀的垂直领域工具，能显著提升重度Claude Code用户的生产力。但适用场景较窄，只针对特定工具的进阶用户，普适性不如其他项目。"
+  }
+}
