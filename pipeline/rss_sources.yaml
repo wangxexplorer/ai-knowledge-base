@@ -1,0 +1,84 @@
+# RSS 数据源配置文件
+#
+# 每个源包含以下字段：
+#   name:     数据源名称（用于日志和展示）
+#   url:      RSS/Atom feed URL
+#   category: 数据源分类
+#   enabled:  是否启用采集（true/false）
+#
+# 分类说明：
+#   综合技术  - 技术社区聚合、高质量讨论
+#   AI 研究   - 学术论文、研究动态
+#   公司博客  - AI 公司官方技术博客
+#   中文社区  - 中文 AI 媒体与社区
+#   research  - Reddit 等社区研究讨论
+#   open-source - 开源模型与工具生态
+#   news      - 科技媒体 AI 频道
+
+sources:
+  # ========== 综合技术 ==========
+  - name: "Hacker News Best (AI)"
+    url: "https://hnrss.org/best?q=AI+OR+LLM+OR+Agent+OR+GPT+OR+Claude+OR+transformer"
+    category: "综合技术"
+    enabled: true
+
+  - name: "Lobsters AI/ML"
+    url: "https://lobste.rs/t/ai.rss"
+    category: "综合技术"
+    enabled: true
+
+  # ========== AI 研究 ==========
+  - name: "arXiv cs.AI"
+    url: "http://export.arxiv.org/rss/cs.AI"
+    category: "AI 研究"
+    enabled: false  # 每日论文量较大，默认关闭
+
+  # ========== 公司博客 ==========
+  - name: "OpenAI Blog"
+    url: "https://openai.com/blog/rss.xml"
+    category: "公司博客"
+    enabled: true
+
+  - name: "Anthropic Research"
+    url: "https://www.anthropic.com/research/feed"
+    category: "公司博客"
+    enabled: true
+
+  - name: "Hugging Face Blog"
+    url: "https://huggingface.co/blog/feed.xml"
+    category: "公司博客"
+    enabled: true
+
+  - name: "Google AI Blog"
+    url: "https://blog.google/technology/ai/rss/"
+    category: "公司博客"
+    enabled: true
+
+  # ========== 中文社区 ==========
+  # 以下中文源 RSS 可用性待确认，默认关闭
+  - name: "机器之心"
+    url: "https://www.jiqizhixin.com/rss"
+    category: "中文社区"
+    enabled: false
+
+  - name: "量子位"
+    url: "https://www.qbitai.com/feed"
+    category: "中文社区"
+    enabled: false
+
+  # ========== 社区讨论 ==========
+  - name: "Reddit r/MachineLearning"
+    url: "https://www.reddit.com/r/MachineLearning/hot.rss"
+    category: "research"
+    enabled: true
+
+  - name: "Reddit r/LocalLLaMA"
+    url: "https://www.reddit.com/r/LocalLLaMA/hot.rss"
+    category: "open-source"
+    enabled: true
+
+  # ========== 科技媒体 ==========
+  - name: "The Verge (AI)"
+    url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    category: "news"
+    enabled: true
