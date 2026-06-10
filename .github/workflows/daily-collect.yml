@@ -32,35 +32,45 @@ jobs:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           QWEN_API_KEY: ${{ secrets.QWEN_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python pipeline/pipeline.py --sources github,rss --limit 20 --verbose
+        run: |
+          set -e
+          python pipeline/pipeline.py --sources github,rss --limit 20 --verbose
+          echo "::notice::Pipeline finished"
 
       - name: Validate and quality-check articles
+        if: always()
         run: |
+          set -e
+          if [ ! -d knowledge/articles ]; then
+            echo "::notice::knowledge/articles/ directory does not exist, skipping validation"
+            exit 0
+          fi
           shopt -s nullglob
           ARTICLES=(knowledge/articles/*.json)
           shopt -u nullglob
-
           if [ ${#ARTICLES[@]} -eq 0 ]; then
-            echo "No article files found. Nothing to validate."
+            echo "::notice::No article files to validate"
             exit 0
           fi
-
           echo "Validating ${#ARTICLES[@]} article(s)…"
           python hooks/validate_json.py "${ARTICLES[@]}"
-
           echo "Checking quality of ${#ARTICLES[@]} article(s)…"
           python hooks/check_quality.py "${ARTICLES[@]}"
 
       - name: Commit and push new articles
+        if: always()
         run: |
-          git add knowledge/
-
-          ARTICLE_COUNT=$(git diff --cached --name-only --diff-filter=A knowledge/articles/ | wc -l)
-          if [ "$ARTICLE_COUNT" -eq 0 ]; then
-            echo "No new articles to commit. Skipping."
+          set -e
+          if [ ! -d knowledge ]; then
+            echo "::notice::No knowledge/ directory, nothing to commit"
             exit 0
           fi
-
+          git add knowledge/ 2>/dev/null || true
+          ARTICLE_COUNT=$(git diff --cached --name-only --diff-filter=A knowledge/articles/ 2>/dev/null | wc -l)
+          if [ "$ARTICLE_COUNT" -eq 0 ]; then
+            echo "::notice::No new articles to commit"
+            exit 0
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git commit -m "Collect ${ARTICLE_COUNT} article(s) ($(date +%Y-%m-%d))"
