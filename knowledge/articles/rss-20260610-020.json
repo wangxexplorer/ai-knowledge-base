@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260610-020",
+  "title": "Claude Fable 5",
+  "source_url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+  "source_type": "rss",
+  "summary": "Anthropic发布了Claude Fable 5的系统卡（System Card），详细介绍了该模型的能力、安全评估和部署细节。该文档是理解Claude最新版本技术特性和安全性关键资料。",
+  "tags": [
+    "Claude",
+    "Anthropic",
+    "系统卡",
+    "大语言模型",
+    "安全评估"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-10T23:06:05+08:00",
+  "updated_at": "2026-06-10T23:06:05+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Claude Fable 5是Anthropic最新发布的大语言模型",
+      "系统卡提供了模型能力、安全评估和部署的详细信息",
+      "该发布对AI安全研究和LLM应用具有重要参考价值"
+    ],
+    "category": "模型发布"
+  }
+}

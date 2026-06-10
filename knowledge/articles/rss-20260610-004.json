@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260610-004",
+  "title": "A €0.01 bank transfer could compromise a banking AI agent",
+  "source_url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+  "source_type": "rss",
+  "summary": "文章探讨了金融AI助手的安全漏洞，指出通过0.01欧元的银行转账可能攻击AI代理，强调了AI在金融领域的安全风险。",
+  "tags": [
+    "AI安全",
+    "金融AI",
+    "Agent安全",
+    "漏洞分析"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-10T23:06:05+08:00",
+  "updated_at": "2026-06-10T23:06:05+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "小额转账可触发AI代理漏洞",
+      "金融AI助手需强化安全设计",
+      "实际案例展示攻击可行性"
+    ],
+    "category": "AI安全"
+  }
+}

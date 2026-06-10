@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260610-017",
+  "title": "Upcoming breaking changes for npm v12",
+  "source_url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+  "source_type": "rss",
+  "summary": "该条目是关于npm v12即将到来的破坏性变更的公告，主要面向Node.js开发者。内容涉及包管理工具的更新，与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "npm",
+    "Node.js",
+    "包管理",
+    "破坏性变更"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-10T23:06:05+08:00",
+  "updated_at": "2026-06-10T23:06:05+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "npm v12将引入破坏性变更",
+      "影响Node.js生态系统的包管理流程",
+      "开发者需关注更新以适应新版本"
+    ],
+    "category": "软件开发工具"
+  }
+}

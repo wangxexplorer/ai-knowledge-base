@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260610-012",
+  "title": "Rich Sutton on AI creativity and discovery",
+  "source_url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+  "source_type": "rss",
+  "summary": "Rich Sutton探讨AI创造力与发现，强调通过强化学习和探索实现创新，而非仅依赖人类数据。",
+  "tags": [
+    "AI创造力",
+    "强化学习",
+    "探索",
+    "发现"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-10T23:06:05+08:00",
+  "updated_at": "2026-06-10T23:06:05+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "AI创造力源于探索而非模仿",
+      "强化学习是发现新知识的关键",
+      "人类数据可能限制AI创新"
+    ],
+    "category": "AI理论"
+  }
+}

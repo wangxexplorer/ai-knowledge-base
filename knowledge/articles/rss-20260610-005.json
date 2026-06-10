@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260610-005",
+  "title": "ICE denies having a protester database. A letter to Congress sheds more light",
+  "source_url": "https://www.npr.org/2026/06/10/nx-s1-5843159/ice-protester-database-dhs",
+  "source_type": "rss",
+  "summary": "ICE否认建立抗议者数据库，但一封致国会的信揭示了更多信息。该事件涉及数据隐私与监控，与AI技术间接相关，可能影响AI在执法监控中的应用讨论。",
+  "tags": [
+    "数据隐私",
+    "监控",
+    "执法",
+    "AI伦理"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-10T23:06:05+08:00",
+  "updated_at": "2026-06-10T23:06:05+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "ICE否认建立抗议者数据库",
+      "国会信件揭示更多细节",
+      "涉及数据隐私与监控议题"
+    ],
+    "category": "社会与政策"
+  }
+}

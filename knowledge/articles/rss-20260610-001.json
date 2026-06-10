@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260610-001",
+  "title": "Britain Became as Poor as Mississippi",
+  "source_url": "https://www.theatlantic.com/magazine/2026/07/uk-productivity-economy-reform-party/687303/",
+  "source_type": "rss",
+  "summary": "文章讨论英国经济生产率下降，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "经济",
+    "生产率",
+    "英国"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-10T23:06:05+08:00",
+  "updated_at": "2026-06-10T23:06:05+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "英国经济生产率问题",
+      "与AI技术无关"
+    ],
+    "category": "经济"
+  }
+}

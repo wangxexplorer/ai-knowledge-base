@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260610-002",
+  "title": "Notes on DeepSeek",
+  "source_url": "https://twitter.com/NikoMcCarty/status/2064686557400100884",
+  "source_type": "rss",
+  "summary": "该条目为Hacker News上关于DeepSeek的讨论，包含推文链接和评论。DeepSeek是AI领域的大语言模型，该条目涉及对其技术或应用的讨论，与AI、LLM直接相关。",
+  "tags": [
+    "DeepSeek",
+    "大语言模型",
+    "AI",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-10T23:06:05+08:00",
+  "updated_at": "2026-06-10T23:06:05+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "DeepSeek是当前AI领域的热点模型",
+      "该条目反映了社区对DeepSeek的关注",
+      "讨论可能涉及模型性能或应用"
+    ],
+    "category": "技术讨论"
+  }
+}

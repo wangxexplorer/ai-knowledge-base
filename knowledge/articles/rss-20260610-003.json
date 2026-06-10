@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260610-003",
+  "title": "PgDog is funded and coming to a database near you",
+  "source_url": "https://pgdog.dev/blog/our-funding-announcement",
+  "source_type": "rss",
+  "summary": "PgDog是一个PostgreSQL连接池和代理工具，获得资金支持以进一步发展。它旨在优化数据库连接管理，提升性能。",
+  "tags": [
+    "数据库",
+    "PostgreSQL",
+    "连接池"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-10T23:06:05+08:00",
+  "updated_at": "2026-06-10T23:06:05+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "PgDog获得资金支持",
+      "专注于数据库连接管理",
+      "提升数据库性能"
+    ],
+    "category": "基础设施"
+  }
+}

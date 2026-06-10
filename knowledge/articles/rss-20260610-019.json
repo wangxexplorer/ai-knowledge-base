@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260610-019",
+  "title": "What it feels like to work with Mythos",
+  "source_url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+  "source_type": "rss",
+  "summary": "文章描述了与名为Mythos的AI系统协作的体验，探讨了AI在创意和决策过程中的角色，以及人类与AI交互的感受。",
+  "tags": [
+    "AI协作",
+    "用户体验",
+    "人机交互"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-10T23:06:05+08:00",
+  "updated_at": "2026-06-10T23:06:05+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "Mythos作为AI系统，其协作体验独特",
+      "文章可能涉及AI在创意或决策支持中的应用",
+      "反映了当前AI与人类协作的实践感受"
+    ],
+    "category": "AI应用体验"
+  }
+}

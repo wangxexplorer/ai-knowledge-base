@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260610-010",
+  "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+  "source_url": "https://news.ycombinator.com/item?id=48473166",
+  "source_type": "rss",
+  "summary": "AWS Bedrock要求使用Anthropic的Mythos及未来模型时，需同意数据共享与30天留存，用于检测滥用模式。数据将离开AWS安全边界，30天后自动删除，除非涉及安全调查或法律要求。",
+  "tags": [
+    "AWS Bedrock",
+    "Anthropic",
+    "数据共享",
+    "模型安全",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-10T23:06:05+08:00",
+  "updated_at": "2026-06-10T23:06:05+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Anthropic要求对Mythos类模型进行30天数据留存以检测滥用模式",
+      "数据留存将导致数据离开AWS安全边界",
+      "30天后数据自动删除，特殊情况除外"
+    ],
+    "category": "AI模型部署与安全"
+  }
+}

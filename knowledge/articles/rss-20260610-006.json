@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260610-006",
+  "title": "I Hate (Most) Keyboard 'Fn' Keys",
+  "source_url": "https://danq.me/2026/06/09/fn-keys/",
+  "source_type": "rss",
+  "summary": "文章批评大多数键盘上的Fn键设计，认为其位置和功能影响用户体验，并提出改进建议。",
+  "tags": [
+    "键盘设计",
+    "用户体验",
+    "硬件"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-10T23:06:05+08:00",
+  "updated_at": "2026-06-10T23:06:05+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Fn键位置不佳导致操作不便",
+      "用户常需自定义快捷键",
+      "设计应更注重实用性"
+    ],
+    "category": "硬件与用户体验"
+  }
+}
