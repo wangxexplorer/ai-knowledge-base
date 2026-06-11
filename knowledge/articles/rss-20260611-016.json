@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260611-016",
+  "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+  "source_url": "https://news.ycombinator.com/item?id=48477135",
+  "source_type": "rss",
+  "summary": "Eric Ries在AMA中介绍其新书《Incorruptible》，探讨企业如何避免因“金融引力”而偏离使命。他创立了Long-Term Stock Exchange，并联合创办AI研发实验室Answer.AI，参与Anthropic等公司治理。内容涉及组织治理、长期主义与AI研发，与AI/LLM/Agent领域间接相关。",
+  "tags": [
+    "组织治理",
+    "长期主义",
+    "AI研发",
+    "创业方法论"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-11T20:03:55+08:00",
+  "updated_at": "2026-06-11T20:03:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "企业因结构性问题偏离使命，需通过治理设计抵抗“金融引力”",
+      "长期主义与AI研发结合，如Answer.AI实验室",
+      "治理经验可应用于AI公司（如Anthropic）"
+    ],
+    "category": "创业与治理"
+  }
+}

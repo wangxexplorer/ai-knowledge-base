@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260611-008",
+  "title": "Raspberry Pi 5 – 16GB RAM",
+  "source_url": "https://www.adafruit.com/product/6125?src=raspberrypi",
+  "source_type": "rss",
+  "summary": "Raspberry Pi 5推出16GB RAM版本，提升了单板计算机的内存容量，有助于运行更复杂的应用，包括轻量级AI推理和边缘计算任务。",
+  "tags": [
+    "Raspberry Pi",
+    "硬件",
+    "边缘计算",
+    "AI推理"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-11T20:03:55+08:00",
+  "updated_at": "2026-06-11T20:03:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "16GB RAM使Raspberry Pi 5能支持更大规模的AI模型",
+      "适合边缘AI和轻量级LLM部署",
+      "提升本地Agent运行能力"
+    ],
+    "category": "硬件"
+  }
+}

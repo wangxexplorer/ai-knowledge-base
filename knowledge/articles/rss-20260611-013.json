@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260611-013",
+  "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
+  "source_url": "https://www.extend.ai/ui",
+  "source_type": "rss",
+  "summary": "Extend UI是一个开源UI工具包，提供PDF、DOCX、XLSX查看器、边界框引用、文件上传、电子签名等14个组件，MIT许可，可定制。适用于构建文档处理Agent、实时文档录入流程和内部工具。",
+  "tags": [
+    "开源UI工具包",
+    "文档处理",
+    "Agent",
+    "文件查看器",
+    "电子签名"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-11T20:03:55+08:00",
+  "updated_at": "2026-06-11T20:03:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "提供14个开源文档组件，支持PDF、DOCX、XLSX查看和边界框引用。",
+      "适用于构建文档处理Agent和实时文档录入流程。",
+      "MIT许可，可定制，已在生产环境中处理数百万页/天。"
+    ],
+    "category": "工具与基础设施"
+  }
+}

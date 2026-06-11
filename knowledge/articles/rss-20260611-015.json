@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260611-015",
+  "title": "Apache Burr: Build reliable AI agents and applications",
+  "source_url": "https://burr.apache.org/",
+  "source_type": "rss",
+  "summary": "Apache Burr是一个用于构建可靠AI代理和应用程序的开源框架，提供状态管理、可观测性和调试工具，支持LLM集成与复杂工作流编排。",
+  "tags": [
+    "AI Agent",
+    "LLM",
+    "框架",
+    "状态管理",
+    "可观测性"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-11T20:03:55+08:00",
+  "updated_at": "2026-06-11T20:03:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "专注于构建可靠AI代理和应用程序",
+      "提供状态管理与可观测性支持",
+      "与LLM集成并支持复杂工作流"
+    ],
+    "category": "AI Agent框架"
+  }
+}

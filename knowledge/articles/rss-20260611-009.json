@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260611-009",
+  "title": "πFS",
+  "source_url": "https://github.com/philipl/pifs",
+  "source_type": "rss",
+  "summary": "πFS是一个将文件系统存储在圆周率π的小数位中的实验性项目，通过将文件数据编码为π的数字序列来实现存储。该项目更多是概念验证和趣味性探索，与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "文件系统",
+    "π",
+    "数据存储",
+    "概念验证"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-11T20:03:55+08:00",
+  "updated_at": "2026-06-11T20:03:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "πFS利用π的小数位存储文件，属于创意项目",
+      "与AI、LLM、Agent技术无关"
+    ],
+    "category": "其他"
+  }
+}

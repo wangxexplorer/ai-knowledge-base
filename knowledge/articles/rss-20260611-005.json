@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260611-005",
+  "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+  "source_url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+  "source_type": "rss",
+  "summary": "该条目报道了Niantic公司利用《Pokémon Go》玩家扫描的地理数据训练军事无人机导航技术。这涉及AI在计算机视觉和自主导航中的应用，但核心是数据收集与军事用途，而非LLM或Agent。",
+  "tags": [
+    "AI",
+    "计算机视觉",
+    "无人机",
+    "数据收集",
+    "军事"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-11T20:03:55+08:00",
+  "updated_at": "2026-06-11T20:03:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "游戏用户数据被用于军事AI训练",
+      "计算机视觉在无人机导航中的关键作用",
+      "数据伦理与隐私问题"
+    ],
+    "category": "AI应用"
+  }
+}

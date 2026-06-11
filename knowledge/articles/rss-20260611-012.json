@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260611-012",
+  "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+  "source_url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+  "source_type": "rss",
+  "summary": "网络安全研究人员对Anthropic的Fable模型上的护栏措施表示不满，认为这些限制可能阻碍了安全研究，并引发了对AI透明度和可控性的担忧。",
+  "tags": [
+    "AI安全",
+    "护栏",
+    "Anthropic",
+    "网络安全",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-11T20:03:55+08:00",
+  "updated_at": "2026-06-11T20:03:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "AI护栏可能限制安全研究，引发透明度争议",
+      "Anthropic的Fable模型面临网络安全社区的批评",
+      "AI安全与开放研究之间的平衡成为焦点"
+    ],
+    "category": "AI安全与伦理"
+  }
+}

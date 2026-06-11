@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260611-003",
+  "title": "Web Browsers on Video Game Consoles",
+  "source_url": "https://vale.rocks/posts/game-console-browsers",
+  "source_type": "rss",
+  "summary": "文章探讨了视频游戏主机上网页浏览器的现状与挑战，包括性能限制、兼容性问题及用户体验差异。",
+  "tags": [
+    "Web Browser",
+    "Game Console",
+    "User Experience"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-11T20:03:55+08:00",
+  "updated_at": "2026-06-11T20:03:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "游戏主机浏览器性能受限",
+      "兼容性问题影响用户体验",
+      "与AI/LLM/Agent领域关联度低"
+    ],
+    "category": "技术综述"
+  }
+}

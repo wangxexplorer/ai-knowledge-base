@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260611-010",
+  "title": "GeoLibre 1.0",
+  "source_url": "https://geolibre.app/",
+  "source_type": "rss",
+  "summary": "GeoLibre 1.0 是一个地理信息相关的应用或工具，从Hacker News的讨论来看，它可能涉及开源地理数据或地图服务。与AI、LLM、Agent领域的直接相关性较低，但地理信息可作为AI应用的输入数据源。",
+  "tags": [
+    "地理信息",
+    "开源",
+    "地图"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-11T20:03:55+08:00",
+  "updated_at": "2026-06-11T20:03:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "GeoLibre 1.0 是一个地理信息工具",
+      "与AI领域间接相关，可作为数据源",
+      "来自Hacker News社区讨论"
+    ],
+    "category": "工具/应用"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260611-018",
+  "title": "Building an HTML-first site doubled our users overnight",
+  "source_url": "https://mohkohn.co.uk/writing/html-first/",
+  "source_type": "rss",
+  "summary": "文章介绍了一个网站通过采用HTML优先的设计方法，一夜之间用户量翻倍。该方法强调简化前端技术栈，优先使用原生HTML，减少对JavaScript的依赖，从而提升页面加载速度和用户体验。",
+  "tags": [
+    "HTML优先",
+    "前端优化",
+    "用户体验"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-11T20:03:55+08:00",
+  "updated_at": "2026-06-11T20:03:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "HTML优先设计可显著提升网站性能",
+      "简化技术栈有助于改善用户体验",
+      "减少JavaScript依赖可加快页面加载速度"
+    ],
+    "category": "Web开发"
+  }
+}

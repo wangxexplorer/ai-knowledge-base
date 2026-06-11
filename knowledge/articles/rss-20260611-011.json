@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260611-011",
+  "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+  "source_url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
+  "source_type": "rss",
+  "summary": "本文介绍了JPL如何维护13岁的好奇号火星车持续进行科学探索，涉及远程操作、软件更新和故障处理等工程挑战。",
+  "tags": [
+    "火星车",
+    "JPL",
+    "远程操作",
+    "科学探索"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-11T20:03:55+08:00",
+  "updated_at": "2026-06-11T20:03:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "好奇号火星车已运行13年，展示了长期太空任务的工程维护能力",
+      "远程软件更新和故障处理是维持火星车科学活动的关键"
+    ],
+    "category": "航天工程"
+  }
+}
