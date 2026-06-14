@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260614-007",
+  "title": "Weave: Merging based on language structure and not lines",
+  "source_url": "https://ataraxy-labs.github.io/weave/",
+  "source_type": "rss",
+  "summary": "Weave是一种基于语言结构而非行进行合并的工具，旨在提高代码合并的准确性和效率。它通过解析代码的抽象语法树（AST）来理解代码结构，从而避免传统基于行的合并产生的冲突。",
+  "tags": [
+    "代码合并",
+    "AST",
+    "开发工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-14T13:49:27+08:00",
+  "updated_at": "2026-06-14T13:49:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "基于AST的合并减少冲突",
+      "提升合并准确性",
+      "适用于复杂代码库"
+    ],
+    "category": "开发工具"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260614-003",
+  "title": "Software Architecture Guide",
+  "source_url": "https://martinfowler.com/architecture/",
+  "source_type": "rss",
+  "summary": "该条目为Martin Fowler的软件架构指南，内容涵盖架构设计原则、模式与实践，与AI、LLM、Agent领域无直接关联，但可作为AI系统设计时的架构参考。",
+  "tags": [
+    "软件架构",
+    "设计模式",
+    "系统设计"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-14T13:49:27+08:00",
+  "updated_at": "2026-06-14T13:49:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "软件架构原则对AI系统设计有间接参考价值",
+      "架构模式可应用于AI模块集成",
+      "非AI/LLM/Agent核心内容"
+    ],
+    "category": "软件工程"
+  }
+}

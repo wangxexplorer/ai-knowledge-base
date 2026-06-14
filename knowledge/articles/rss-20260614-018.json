@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260614-018",
+  "title": "The adder at the heart of Intel's 8087 floating-point chip",
+  "source_url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+  "source_type": "rss",
+  "summary": "文章深入分析了Intel 8087浮点协处理器中的加法器电路，通过逆向工程揭示了其内部设计细节。该加法器是8087芯片的核心组件之一，负责执行浮点加法运算。文章详细描述了加法器的逻辑结构、进位链实现以及与其他模块的交互方式，展示了早期浮点运算硬件的设计思路。",
+  "tags": [
+    "硬件",
+    "逆向工程",
+    "浮点运算"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-14T13:49:27+08:00",
+  "updated_at": "2026-06-14T13:49:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "8087加法器采用进位选择加法器设计以提升速度",
+      "加法器与指数对齐、舍入等模块紧密耦合",
+      "该设计体现了早期浮点协处理器的硬件优化策略"
+    ],
+    "category": "硬件架构"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260614-020",
+  "title": "Noise infusion banned from statistical products published by Census Bureau",
+  "source_url": "https://desfontain.es/blog/banning-noise.html",
+  "source_type": "rss",
+  "summary": "美国人口普查局禁止在统计产品中注入噪声，这一决策影响数据隐私保护与统计准确性。文章讨论了噪声注入技术被禁的原因及其对数据发布的影响。",
+  "tags": [
+    "数据隐私",
+    "统计",
+    "噪声注入"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-14T13:49:27+08:00",
+  "updated_at": "2026-06-14T13:49:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "噪声注入技术被禁影响数据隐私保护",
+      "统计产品准确性面临挑战"
+    ],
+    "category": "数据隐私与统计"
+  }
+}

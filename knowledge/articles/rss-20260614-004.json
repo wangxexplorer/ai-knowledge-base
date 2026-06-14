@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260614-004",
+  "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+  "source_url": "https://sqltoerdiagram.com/",
+  "source_type": "rss",
+  "summary": "这是一个在浏览器中运行的免费SQL转ER图工具，无需上传数据。该工具将SQL语句转换为实体关系图，属于数据库设计辅助工具。",
+  "tags": [
+    "SQL",
+    "ER图",
+    "数据库工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-14T13:49:27+08:00",
+  "updated_at": "2026-06-14T13:49:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "浏览器端运行，无需上传数据",
+      "将SQL转换为ER图"
+    ],
+    "category": "数据库工具"
+  }
+}

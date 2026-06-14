@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260614-011",
+  "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
+  "source_url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
+  "source_type": "rss",
+  "summary": "ReactOS是一个开源Windows兼容操作系统，近期在真实硬件上成功运行了3D加速的《半条命》游戏，展示了其兼容性和性能进展。",
+  "tags": [
+    "ReactOS",
+    "操作系统",
+    "兼容性",
+    "开源"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-14T13:49:27+08:00",
+  "updated_at": "2026-06-14T13:49:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "ReactOS在真实硬件上实现3D加速游戏运行",
+      "展示了与Windows应用的兼容性",
+      "开源操作系统领域的重要进展"
+    ],
+    "category": "操作系统"
+  }
+}

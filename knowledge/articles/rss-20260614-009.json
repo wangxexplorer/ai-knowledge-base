@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260614-009",
+  "title": "Apt Encounters of the Third Kind",
+  "source_url": "https://igor-blue.github.io/2021/03/24/apt1.html",
+  "source_type": "rss",
+  "summary": "文章标题为“Apt Encounters of the Third Kind”，来源为Hacker News，内容涉及APT（高级持续性威胁）相关技术讨论，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "APT",
+    "安全",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-14T13:49:27+08:00",
+  "updated_at": "2026-06-14T13:49:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "文章讨论APT相关技术",
+      "与AI/LLM/Agent无直接关联"
+    ],
+    "category": "网络安全"
+  }
+}

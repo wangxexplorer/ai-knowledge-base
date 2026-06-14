@@ -1,0 +1,31 @@
+{
+  "id": "github-20260614-012",
+  "title": "mem0",
+  "source_url": "https://github.com/mem0ai/mem0",
+  "source_type": "github",
+  "summary": "mem0是一个为AI Agent提供通用记忆层的开源项目，基于Python实现，支持聊天机器人等应用场景。它通过持久化存储和检索Agent的交互历史，增强Agent的上下文理解和个性化响应能力，是构建长期记忆Agent的关键基础设施。",
+  "tags": [
+    "AI Agent",
+    "记忆层",
+    "开源",
+    "Python",
+    "聊天机器人"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-14T13:49:27+08:00",
+  "updated_at": "2026-06-14T13:49:27+08:00",
+  "metadata": {
+    "stars": 58502,
+    "language": "Python",
+    "author": "mem0ai"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "为AI Agent提供通用记忆层，解决长期上下文保持问题",
+      "支持多种应用场景，尤其是聊天机器人",
+      "开源项目，社区活跃，星标数高"
+    ],
+    "category": "AI Agent基础设施"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260614-013",
+  "title": "Human Routers of Machine Words",
+  "source_url": "https://borretti.me/article/human-routers-of-machine-words",
+  "source_type": "rss",
+  "summary": "文章探讨了人类在机器语言交互中充当“路由器”的角色，即人类如何将机器输出转化为可理解的指令或信息，并传递回机器。这涉及人机协作、语言模型的应用以及人类在AI系统中的中介作用。",
+  "tags": [
+    "人机交互",
+    "语言模型",
+    "AI中介",
+    "机器语言"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-14T13:49:27+08:00",
+  "updated_at": "2026-06-14T13:49:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "人类在AI系统中扮演关键的中介角色，将机器输出转化为人类可理解的指令。",
+      "该概念与LLM和Agent领域相关，强调人类在自动化流程中的监督和翻译作用。",
+      "文章可能探讨了如何优化人机通信，以提升AI系统的实用性和可靠性。"
+    ],
+    "category": "人机协作"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260614-014",
+  "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+  "source_url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+  "source_type": "rss",
+  "summary": "一名英国警察因涉嫌在多起案件中使用AI伪造证据而接受调查。此事件凸显了AI技术被滥用于司法系统的风险，引发对AI伦理和法律监管的讨论。",
+  "tags": [
+    "AI伦理",
+    "法律监管",
+    "滥用风险",
+    "司法系统"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-14T13:49:27+08:00",
+  "updated_at": "2026-06-14T13:49:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "AI技术可能被用于伪造证据，挑战司法公正。",
+      "事件暴露了AI在执法领域缺乏有效监管。",
+      "需要加强AI使用的法律框架和伦理指南。"
+    ],
+    "category": "AI伦理与法律"
+  }
+}

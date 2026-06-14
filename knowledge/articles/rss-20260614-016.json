@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260614-016",
+  "title": "GameBoy Workboy",
+  "source_url": "https://tcrf.net/Workboy",
+  "source_type": "rss",
+  "summary": "GameBoy Workboy是任天堂GameBoy的一款外设，旨在将其转变为个人数字助理（PDA），具备日历、通讯录等功能。该条目主要涉及复古游戏硬件和未发布原型，与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "GameBoy",
+    "外设",
+    "PDA",
+    "复古硬件"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-14T13:49:27+08:00",
+  "updated_at": "2026-06-14T13:49:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Workboy是GameBoy的PDA外设",
+      "属于未发布的原型产品",
+      "与AI技术无关"
+    ],
+    "category": "游戏硬件"
+  }
+}

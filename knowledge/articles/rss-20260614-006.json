@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260614-006",
+  "title": "Making Claude a Chemist",
+  "source_url": "https://www.anthropic.com/research/making-claude-a-chemist",
+  "source_type": "rss",
+  "summary": "本文介绍Anthropic如何将Claude模型应用于化学领域，通过微调、提示工程和工具集成，使其能够辅助化学研究，如分子性质预测、反应路径规划等，展示了LLM在科学领域的应用潜力。",
+  "tags": [
+    "LLM",
+    "AI应用",
+    "化学",
+    "科学计算",
+    "Claude"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-14T13:49:27+08:00",
+  "updated_at": "2026-06-14T13:49:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "LLM可通过微调和工具集成在专业科学领域发挥作用",
+      "Claude在化学任务中展示了良好的推理和预测能力",
+      "该研究为AI辅助科学研究提供了新范例"
+    ],
+    "category": "AI应用"
+  }
+}

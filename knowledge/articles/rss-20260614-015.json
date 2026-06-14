@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260614-015",
+  "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+  "source_url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
+  "source_type": "rss",
+  "summary": "该条目描述了在Behringer DDX3216数字调音台上运行DOS系统，并从头构建DIY x86 BIOS的过程。内容聚焦于逆向工程、硬件改造和底层系统开发，与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "逆向工程",
+    "硬件改造",
+    "BIOS",
+    "DOS",
+    "嵌入式系统"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-14T13:49:27+08:00",
+  "updated_at": "2026-06-14T13:49:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "展示了在非标准硬件上运行传统操作系统的技术挑战",
+      "涉及底层BIOS开发与硬件逆向工程",
+      "与AI/LLM/Agent领域无直接关联"
+    ],
+    "category": "硬件与系统开发"
+  }
+}

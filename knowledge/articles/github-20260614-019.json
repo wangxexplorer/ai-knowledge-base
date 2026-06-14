@@ -1,0 +1,31 @@
+{
+  "id": "github-20260614-019",
+  "title": "ai-engineering-hub",
+  "source_url": "https://github.com/patchy631/ai-engineering-hub",
+  "source_type": "github",
+  "summary": "ai-engineering-hub是一个GitHub仓库，提供关于LLMs、RAGs和真实世界AI代理应用的深入教程。该仓库使用Jupyter Notebook编写，涵盖代理、AI、LLMs、机器学习和MCP等主题，拥有超过35,000颗星，是AI工程领域的重要学习资源。",
+  "tags": [
+    "LLM",
+    "RAG",
+    "AI Agent",
+    "教程",
+    "GitHub"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-14T13:49:27+08:00",
+  "updated_at": "2026-06-14T13:49:27+08:00",
+  "metadata": {
+    "stars": 35778,
+    "language": "Jupyter Notebook",
+    "author": "patchy631"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "提供LLMs、RAGs和AI代理的深入教程",
+      "涵盖代理、AI、LLMs、机器学习和MCP等主题",
+      "拥有超过35,000颗星，社区认可度高"
+    ],
+    "category": "学习资源"
+  }
+}

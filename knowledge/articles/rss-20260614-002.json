@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260614-002",
+  "title": "Pac-Man, but You're the Ghost",
+  "source_url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+  "source_type": "rss",
+  "summary": "该条目描述了一篇关于Pac-Man游戏变体的文章，玩家扮演幽灵而非吃豆人。内容与AI、LLM或Agent技术无直接关联，属于游戏设计或娱乐领域。",
+  "tags": [
+    "游戏",
+    "Pac-Man",
+    "变体"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-14T13:49:27+08:00",
+  "updated_at": "2026-06-14T13:49:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "玩家扮演幽灵的Pac-Man变体",
+      "游戏机制创新",
+      "与AI技术无关"
+    ],
+    "category": "游戏设计"
+  }
+}

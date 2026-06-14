@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260614-019",
+  "title": "GLM 5.2 Is Out",
+  "source_url": "https://twitter.com/jietang/status/2065784751345287314",
+  "source_type": "rss",
+  "summary": "GLM 5.2版本发布，来自智谱AI的大语言模型更新，在Hacker News上获得459分和251条评论，引发技术社区关注。",
+  "tags": [
+    "GLM",
+    "大语言模型",
+    "模型发布",
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-14T13:49:27+08:00",
+  "updated_at": "2026-06-14T13:49:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "GLM 5.2是智谱AI的最新大语言模型版本",
+      "在Hacker News社区获得高关注度",
+      "可能包含性能或功能改进"
+    ],
+    "category": "模型发布"
+  }
+}
