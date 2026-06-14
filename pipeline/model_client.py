@@ -2,7 +2,8 @@
 
 This module provides one small abstraction over DeepSeek, Qwen, and OpenAI
 chat-completions APIs while keeping transport logic based on direct ``httpx``
-requests instead of provider SDKs.
+requests instead of provider SDKs. A module-level ``CostTracker`` records
+token usage and estimates cost in RMB for domestic model pricing.
 """
 
 from __future__ import annotations
@@ -178,6 +179,177 @@ MODEL_PRICING_USD: Mapping[str, ModelPricing] = {
     "gpt-4o": ModelPricing(input_per_million=2.50, output_per_million=10.00),
 }
 
+# ──────────────────────────────────────────────────────────────────────
+# Cost tracking (RMB pricing for domestic LLM providers)
+# ──────────────────────────────────────────────────────────────────────
+
+PROVIDER_PRICING_CNY: Mapping[str, Mapping[str, float]] = {
+    "deepseek": {"input": 1.0, "output": 2.0},
+    "qwen": {"input": 4.0, "output": 12.0},
+    "openai": {"input": 150.0, "output": 600.0},
+}
+"""Provider pricing in RMB per million tokens.
+
+Each entry maps ``input`` and ``output`` prices in CNY (元).  ``openai``
+pricing defaults to gpt-4o-mini rates.
+"""
+
+
+@dataclass
+class CostRecord:
+    """Single LLM API call record for cost tracking.
+
+    Attributes:
+        provider: Provider identifier (deepseek, qwen, openai).
+        model: Model name used for the request.
+        prompt_tokens: Input tokens consumed.
+        completion_tokens: Output tokens produced.
+        timestamp: Monotonic timestamp of the call.
+    """
+
+    provider: str
+    model: str
+    prompt_tokens: int
+    completion_tokens: int
+    timestamp: float
+
+
+class CostTracker:
+    """Track LLM API token usage and estimate costs in RMB.
+
+    Usage::
+
+        tracker = enable_cost_tracking()
+        # ... run pipeline — each LLM call is auto-recorded ...
+        tracker.report()
+
+    Attributes:
+        _records: List of recorded API calls.
+    """
+
+    def __init__(self) -> None:
+        """Initialize an empty cost tracker."""
+        self._records: list[CostRecord] = []
+
+    def record(
+        self,
+        usage: Usage,
+        provider: str,
+        model: str = "",
+    ) -> None:
+        """Record one API call's token usage.
+
+        Args:
+            usage: Token usage statistics from the LLM response.
+            provider: Provider identifier (e.g. ``deepseek``, ``qwen``,
+                ``openai``).
+            model: Optional model name for display purposes.
+        """
+        self._records.append(
+            CostRecord(
+                provider=provider,
+                model=model,
+                prompt_tokens=usage.prompt_tokens,
+                completion_tokens=usage.completion_tokens,
+                timestamp=time.monotonic(),
+            )
+        )
+
+    def _provider_records(self, provider: str = "") -> list[CostRecord]:
+        """Filter records by provider.
+
+        Args:
+            provider: Provider name filter, or empty for all.
+
+        Returns:
+            Matching records.
+        """
+        if not provider:
+            return list(self._records)
+        return [r for r in self._records if r.provider == provider]
+
+    def estimated_cost(self, provider: str = "") -> float:
+        """Calculate estimated cost in RMB.
+
+        Args:
+            provider: Provider name filter, or empty for all providers.
+
+        Returns:
+            Estimated total cost in RMB. Unknown providers contribute zero.
+        """
+        total = 0.0
+        for record in self._provider_records(provider):
+            pricing = PROVIDER_PRICING_CNY.get(record.provider, {})
+            input_price = pricing.get("input", 0.0)
+            output_price = pricing.get("output", 0.0)
+            total += (
+                record.prompt_tokens * input_price / TOKENS_PER_MILLION
+                + record.completion_tokens * output_price / TOKENS_PER_MILLION
+            )
+        return total
+
+    def report(self, provider: str = "") -> None:
+        """Print a cost report to the logging output.
+
+        Args:
+            provider: Provider name to filter, or empty for all providers.
+        """
+        records = self._provider_records(provider)
+        if not records:
+            LOGGER.info("CostTracker: No records to report.")
+            return
+
+        total_prompt = sum(r.prompt_tokens for r in records)
+        total_completion = sum(r.completion_tokens for r in records)
+        total_cost = self.estimated_cost(provider)
+
+        label = provider or "all providers"
+        LOGGER.info("=" * 50)
+        LOGGER.info("CostTracker Report (%s)", label)
+        LOGGER.info("=" * 50)
+        LOGGER.info("  Calls:           %d", len(records))
+        LOGGER.info("  Prompt tokens:   %d", total_prompt)
+        LOGGER.info("  Completion tok:  %d", total_completion)
+        LOGGER.info("  Total tokens:    %d", total_prompt + total_completion)
+        LOGGER.info("  Estimated cost:  ¥%.4f", total_cost)
+
+        providers = {r.provider for r in records}
+        if len(providers) > 1 and not provider:
+            LOGGER.info("  --- Per Provider ---")
+            for pv in sorted(providers):
+                cost = self.estimated_cost(pv)
+                pv_records = [r for r in records if r.provider == pv]
+                pv_tokens = sum(
+                    r.prompt_tokens + r.completion_tokens for r in pv_records
+                )
+                LOGGER.info(
+                    "  %-12s %d calls, %d tokens, ¥%.4f",
+                    pv,
+                    len(pv_records),
+                    pv_tokens,
+                    cost,
+                )
+        LOGGER.info("=" * 50)
+
+
+# Module-level tracker singleton.  Call :func:`enable_cost_tracking` to
+# activate automatic recording in every ``LLMProvider.chat`` call.
+cost_tracker: CostTracker | None = None
+
+
+def enable_cost_tracking() -> CostTracker:
+    """Create and activate the global cost tracker.
+
+    All subsequent ``LLMProvider.chat`` calls will automatically record
+    token usage to the returned tracker.
+
+    Returns:
+        The newly created :class:`CostTracker` instance.
+    """
+    global cost_tracker
+    cost_tracker = CostTracker()
+    return cost_tracker
+
 
 class OpenAICompatibleProvider(LLMProvider):
     """Provider implementation for OpenAI-compatible chat APIs."""
@@ -236,7 +408,12 @@ class OpenAICompatibleProvider(LLMProvider):
             payload["max_tokens"] = max_tokens
 
         response_data = await self._post_json(payload)
-        return self.parse_response(response_data, model=selected_model)
+        result = self.parse_response(response_data, model=selected_model)
+        if cost_tracker is not None:
+            cost_tracker.record(
+                result.usage, self.provider_name, selected_model
+            )
+        return result
 
     def parse_response(self, data: Mapping[str, Any], model: str) -> LLMResponse:
         """Normalize OpenAI-compatible response JSON.
