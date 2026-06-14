@@ -26,7 +26,7 @@ MODULE_DIR = Path(__file__).resolve().parent
 if str(MODULE_DIR) not in sys.path:
     sys.path.insert(0, str(MODULE_DIR))
 
-from model_client import chat_with_retry, get_provider
+from model_client import chat_with_retry, cost_tracker, enable_cost_tracking, get_provider
 
 
 LOGGER = logging.getLogger(__name__)
@@ -961,6 +961,9 @@ def run_pipeline(
     articles = organize_articles(analyzed)
     saved = save_articles(articles, dry_run)
 
+    if cost_tracker is not None:
+        cost_tracker.report()
+
     return len(collected), len(analyzed), saved
 
 
@@ -972,6 +975,8 @@ def main() -> int:
     """
     args = parse_args()
     configure_logging(args.verbose)
+    if not args.dry_run:
+        enable_cost_tracking()
     try:
         sources = parse_sources(args.sources)
     except ValueError as exc:
