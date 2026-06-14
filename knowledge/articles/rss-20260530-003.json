@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260530-003",
+  "title": "Ember.js 7.0",
+  "source_url": "https://blog.emberjs.com/ember-released-7-0/",
+  "source_type": "rss",
+  "summary": "Ember.js 7.0 是一个前端JavaScript框架的版本发布，主要关注Web应用开发，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "前端框架",
+    "JavaScript",
+    "Web开发"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-30T15:52:33+08:00",
+  "updated_at": "2026-05-30T15:52:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Ember.js 7.0 是前端框架的版本更新",
+      "不涉及AI或LLM技术",
+      "属于常规Web开发工具"
+    ],
+    "category": "前端开发"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260530-002",
+  "title": "Naphtha shortages in Japan",
+  "source_url": "https://www.nippon.com/en/japan-data/h02783/",
+  "source_type": "rss",
+  "summary": "日本石脑油短缺的报道，主要涉及能源供应和化工原料问题，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "能源",
+    "化工",
+    "日本"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-30T15:52:33+08:00",
+  "updated_at": "2026-05-30T15:52:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "日本石脑油供应紧张",
+      "可能影响化工产业"
+    ],
+    "category": "能源与化工"
+  }
+}

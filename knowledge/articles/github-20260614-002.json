@@ -3,7 +3,7 @@
   "title": "dify",
   "source_url": "https://github.com/langgenius/dify",
   "source_type": "github",
-  "summary": "Dify是一个生产级平台，专注于智能体工作流开发，支持AI、LLM和Agent相关技术，提供可视化编排和部署能力。",
+  "summary": "Dify是一个生产级平台，专注于智能体工作流开发，支持构建和部署AI代理，与LLM和Agent领域高度相关。",
   "tags": [
     "agent",
     "agentic-workflow",
@@ -12,10 +12,10 @@
     "platform"
   ],
   "status": "draft",
-  "created_at": "2026-06-14T13:49:27+08:00",
-  "updated_at": "2026-06-14T13:49:27+08:00",
+  "created_at": "2026-06-14T14:59:45+08:00",
+  "updated_at": "2026-06-14T14:59:45+08:00",
   "metadata": {
-    "stars": 145103,
+    "stars": 145117,
     "language": "TypeScript",
     "author": "langgenius"
   },
@@ -23,9 +23,9 @@
     "relevance_score": 0.95,
     "key_insights": [
       "提供生产级智能体工作流开发环境",
-      "支持可视化编排和部署",
-      "与AI和LLM技术高度相关"
+      "支持AI代理的构建与部署",
+      "与LLM和Agent技术栈紧密集成"
     ],
-    "category": "开发平台"
+    "category": "AI Agent平台"
   }
 }

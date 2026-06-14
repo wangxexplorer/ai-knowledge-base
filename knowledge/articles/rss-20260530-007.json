@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260530-007",
+  "title": "The Last Technical Interview",
+  "source_url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
+  "source_type": "rss",
+  "summary": "文章探讨技术面试的未来，提出AI和LLM可能改变传统面试方式，强调评估实际编程能力而非算法题，与AI领域相关。",
+  "tags": [
+    "AI",
+    "LLM",
+    "技术面试",
+    "编程评估"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-30T15:52:33+08:00",
+  "updated_at": "2026-05-30T15:52:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI可能重塑技术面试流程",
+      "LLM可用于评估编程能力",
+      "传统算法面试面临变革"
+    ],
+    "category": "技术趋势"
+  }
+}

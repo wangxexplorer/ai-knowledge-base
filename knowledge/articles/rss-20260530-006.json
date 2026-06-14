@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260530-006",
+  "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+  "source_url": "https://github.com/secluso/core",
+  "source_type": "rss",
+  "summary": "Secluso是一个开源的家庭安防摄像头系统，采用端到端加密（基于OpenMLS），可在树莓派上快速部署。项目提供GUI工具、定制Yocto OS、可复现构建、移动应用及UnifiedPush支持。",
+  "tags": [
+    "开源",
+    "端到端加密",
+    "家庭安防",
+    "树莓派",
+    "隐私保护"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-30T15:52:33+08:00",
+  "updated_at": "2026-05-30T15:52:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "端到端加密技术应用于家庭安防摄像头",
+      "通过GUI工具降低部署门槛",
+      "支持可复现构建和隐私保护推送通知"
+    ],
+    "category": "隐私安全"
+  }
+}

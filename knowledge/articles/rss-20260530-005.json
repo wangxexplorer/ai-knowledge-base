@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260530-005",
+  "title": "MCP is dead?",
+  "source_url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+  "source_type": "rss",
+  "summary": "文章探讨MCP（Model Context Protocol）是否已死，分析其在AI、LLM和Agent领域的现状与未来。MCP旨在标准化模型与外部工具的交互，但面临采用率低、替代方案涌现等挑战。文章可能讨论MCP的局限性、社区反应及对Agent开发的影响。",
+  "tags": [
+    "MCP",
+    "LLM",
+    "Agent",
+    "协议",
+    "工具集成"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-30T15:52:33+08:00",
+  "updated_at": "2026-05-30T15:52:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "MCP在Agent工具集成中面临采用挑战",
+      "标准化协议对LLM生态的重要性",
+      "MCP可能被更灵活的替代方案取代"
+    ],
+    "category": "技术讨论"
+  }
+}

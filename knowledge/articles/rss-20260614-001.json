@@ -1,27 +1,26 @@
 {
   "id": "rss-20260614-001",
-  "title": "Tribblix: the retro illumos distribution",
+  "title": "Tribblix: The retro Illumos distribution",
   "source_url": "http://tribblix.org/",
   "source_type": "rss",
-  "summary": "Tribblix是一个基于illumos的复古操作系统发行版，专注于提供稳定、轻量级的Solaris-like环境。该条目本身不涉及AI、LLM或Agent技术。",
+  "summary": "Tribblix是一个基于Illumos的复古操作系统发行版，专注于稳定性和兼容性，与AI、LLM或Agent技术无直接关联。",
   "tags": [
     "操作系统",
-    "illumos",
-    "Solaris",
+    "Illumos",
     "复古"
   ],
   "status": "draft",
-  "created_at": "2026-06-14T13:49:27+08:00",
-  "updated_at": "2026-06-14T13:49:27+08:00",
+  "created_at": "2026-06-14T14:59:45+08:00",
+  "updated_at": "2026-06-14T14:59:45+08:00",
   "metadata": {
     "feed_name": "Hacker News"
   },
   "ai_analysis": {
     "relevance_score": 0.0,
     "key_insights": [
-      "Tribblix是illumos的衍生版",
-      "面向复古和稳定性",
-      "与AI/LLM/Agent无直接关联"
+      "Tribblix是Illumos发行版",
+      "注重稳定性和兼容性",
+      "与AI技术无关"
     ],
     "category": "操作系统"
   }

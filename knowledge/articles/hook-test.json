@@ -1,0 +1,27 @@
+{
+  "id": "h4r53ss-7890-abcd-efgh-ijklmnopqrst",
+  "title": "Harness",
+  "source_url": "https://github.com/harness/harness",
+  "source_type": "github",
+  "summary": "Harness 是业界领先的软件交付平台，提供 CI/CD、云成本管理、特性开关、混沌工程等一体化解决方案。通过 AI 驱动的管道自动化和智能回滚机制，帮助企业实现安全、高效的持续交付。",
+  "tags": ["CI/CD", "DevOps", "云成本", "特性开关", "混沌工程", "软件交付", "AI"],
+  "status": "draft",
+  "created_at": "2026-05-24T00:00:00+08:00",
+  "updated_at": "2026-05-24T00:00:00+08:00",
+  "metadata": {
+    "stars": 17500,
+    "language": "Java",
+    "author": "harness",
+    "license": "PolyForm Shield"
+  },
+  "ai_analysis": {
+    "relevance_score": 6,
+    "key_insights": [
+      "1.7万 stars，企业级软件交付平台",
+      "AI 驱动的 CI/CD 管道自动化和智能回滚",
+      "覆盖 CI/CD、云成本、特性开关、混沌工程全链路"
+    ],
+    "category": "DevOps平台",
+    "rating_reason": "企业级 DevOps 一体化平台，AI 赋能交付流程，适合中大型团队"
+  }
+}

@@ -1,27 +1,26 @@
 {
   "id": "rss-20260614-003",
-  "title": "Software Architecture Guide",
-  "source_url": "https://martinfowler.com/architecture/",
+  "title": "Pac-Man, but you're the ghost",
+  "source_url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
   "source_type": "rss",
-  "summary": "该条目为Martin Fowler的软件架构指南，内容涵盖架构设计原则、模式与实践，与AI、LLM、Agent领域无直接关联，但可作为AI系统设计时的架构参考。",
+  "summary": "该条目描述了一篇关于Pac-Man游戏变体的文章，玩家扮演幽灵而非吃豆人。内容与AI、LLM或Agent领域无直接关联。",
   "tags": [
-    "软件架构",
-    "设计模式",
-    "系统设计"
+    "游戏",
+    "Pac-Man",
+    "变体"
   ],
   "status": "draft",
-  "created_at": "2026-06-14T13:49:27+08:00",
-  "updated_at": "2026-06-14T13:49:27+08:00",
+  "created_at": "2026-06-14T14:59:45+08:00",
+  "updated_at": "2026-06-14T14:59:45+08:00",
   "metadata": {
     "feed_name": "Hacker News"
   },
   "ai_analysis": {
-    "relevance_score": 0.2,
+    "relevance_score": 0.0,
     "key_insights": [
-      "软件架构原则对AI系统设计有间接参考价值",
-      "架构模式可应用于AI模块集成",
-      "非AI/LLM/Agent核心内容"
+      "文章探讨了Pac-Man游戏的角色反转玩法",
+      "与AI技术无关"
     ],
-    "category": "软件工程"
+    "category": "游戏"
   }
 }

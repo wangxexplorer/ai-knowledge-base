@@ -1,0 +1,36 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-06-14T14:57:24+08:00",
+  "query": "AI LLM Agent",
+  "items": [
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "hermes-agent",
+      "title": "hermes-agent",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 192940,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "NousResearch/hermes-agent",
+      "author": "NousResearch"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Tribblix: The retro Illumos distribution",
+      "source_url": "http://tribblix.org/",
+      "url": "http://tribblix.org/",
+      "description": "Article URL: http://tribblix.org/ Comments URL: https://news.ycombinator.com/item?id=48524434 Points: 17 # Comments: 6",
+      "feed_name": "Hacker News"
+    }
+  ]
+}

@@ -58,13 +58,13 @@ AI Knowledge Base Assistant 是一个自动化采集、分析和分发 AI/LLM/Ag
 
 ```json
 {
-  "id": "uuid-v4-string",
+  "id": "github-20260524-001",
   "title": "文章或仓库标题",
   "source_url": "https://github.com/owner/repo",
   "source_type": "github|hackernews",
   "summary": "AI 生成的摘要内容",
   "tags": ["LLM", "Agent", "Framework"],
-  "status": "pending|analyzed|published|archived",
+  "status": "archived|draft|published|review",
   "created_at": "2026-04-20T10:30:00+08:00",
   "updated_at": "2026-04-20T10:35:00+08:00",
   "metadata": {
@@ -85,13 +85,13 @@ AI Knowledge Base Assistant 是一个自动化采集、分析和分发 AI/LLM/Ag
 
 | 字段 | 类型 | 必填 | 说明 |
 |------|------|------|------|
-| `id` | str | ✓ | UUID v4，全局唯一标识 |
+| `id` | str | ✓ | 格式 `{source}-YYYYMMDD-NNN`，如 `github-20260524-001` |
 | `title` | str | ✓ | 原始标题，保留原语言 |
 | `source_url` | str | ✓ | 原始链接 |
 | `source_type` | str | ✓ | 来源类型：github/hackernews |
 | `summary` | str | ✗ | AI 生成中文摘要，200字内 |
 | `tags` | List[str] | ✓ | 自动提取的 AI 相关标签 |
-| `status` | str | ✓ | 生命周期状态 |
+| `status` | str | ✓ | 生命周期状态：archived/draft/published/review |
 | `created_at` | str | ✓ | ISO 8601 格式创建时间 |
 | `updated_at` | str | ✓ | 最后更新时间 |
 | `metadata` | dict | ✗ | 来源特定元数据 |

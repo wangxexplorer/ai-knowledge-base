@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260530-009",
+  "title": "Shift will clean homes for free to train future robots",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+  "source_type": "rss",
+  "summary": "一家名为Shift的初创公司提供免费家庭清洁服务，目的是收集真实环境数据，用于训练未来家用机器人。这体现了AI领域通过众包方式获取训练数据的新模式。",
+  "tags": [
+    "AI训练数据",
+    "机器人",
+    "数据收集",
+    "初创公司",
+    "家庭服务"
+  ],
+  "status": "draft",
+  "created_at": "2026-05-30T15:52:33+08:00",
+  "updated_at": "2026-05-30T15:52:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "Shift通过免费服务换取家庭清洁数据，用于机器人训练。",
+      "该模式展示了AI训练数据获取的创新途径。",
+      "反映了家用机器人领域对真实环境数据的需求。"
+    ],
+    "category": "AI应用与数据"
+  }
+}
