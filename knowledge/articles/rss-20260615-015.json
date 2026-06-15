@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260615-015",
+  "title": "Your ePub Is fine",
+  "source_url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+  "source_type": "rss",
+  "summary": "文章讨论Kobo电子书阅读器与Adobe DRM的兼容性问题，指出用户制作的ePub文件在Kobo上显示异常，但实际文件本身并无问题，问题源于Adobe的DRM实现。",
+  "tags": [
+    "ePub",
+    "Kobo",
+    "Adobe DRM",
+    "电子书"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-15T21:58:22+08:00",
+  "updated_at": "2026-06-15T21:58:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "ePub文件本身无问题",
+      "Kobo与Adobe DRM存在兼容性冲突",
+      "用户需注意DRM影响"
+    ],
+    "category": "技术兼容性"
+  }
+}

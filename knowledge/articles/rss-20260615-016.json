@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260615-016",
+  "title": "Chaosnet (1981)",
+  "source_url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
+  "source_type": "rss",
+  "summary": "Chaosnet是1981年由MIT AI实验室开发的早期网络协议，用于连接Lisp机器和AI研究环境。它支持动态路由、错误控制和多播，是AI领域网络基础设施的先驱。",
+  "tags": [
+    "网络协议",
+    "AI历史",
+    "Lisp机器"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-15T21:58:22+08:00",
+  "updated_at": "2026-06-15T21:58:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "Chaosnet是AI实验室为支持分布式AI计算而设计的网络协议",
+      "其设计影响了后来的网络技术，但与现代AI/LLM/Agent直接关联有限"
+    ],
+    "category": "技术历史"
+  }
+}

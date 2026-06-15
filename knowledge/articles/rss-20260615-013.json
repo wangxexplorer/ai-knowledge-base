@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260615-013",
+  "title": "Even more batteries included with Emacs",
+  "source_url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+  "source_type": "rss",
+  "summary": "本文介绍了Emacs编辑器新增的多种内置功能，包括改进的包管理、更好的默认配置和增强的文本编辑工具，旨在减少用户对第三方插件的依赖。",
+  "tags": [
+    "Emacs",
+    "编辑器",
+    "工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-15T21:58:22+08:00",
+  "updated_at": "2026-06-15T21:58:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Emacs持续增强内置功能以提升用户体验",
+      "减少对第三方插件的依赖是主要目标"
+    ],
+    "category": "工具与开发环境"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260615-012",
+  "title": "Apple Foundation Models",
+  "source_url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+  "source_type": "rss",
+  "summary": "Apple Foundation Models是苹果公司开发的基础模型，用于支持其AI功能。该条目来自Claude平台文档，介绍了如何集成这些模型。虽然与AI/LLM领域直接相关，但内容偏向技术集成而非前沿研究。",
+  "tags": [
+    "Apple",
+    "Foundation Models",
+    "AI",
+    "LLM",
+    "Integration"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-15T21:58:22+08:00",
+  "updated_at": "2026-06-15T21:58:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "Apple Foundation Models是苹果的AI基础模型",
+      "文档来自Claude平台，说明跨平台集成可能性",
+      "与LLM和Agent领域相关，但侧重应用层"
+    ],
+    "category": "技术文档"
+  }
+}

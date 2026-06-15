@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260615-019",
+  "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+  "source_url": "https://github.com/nex-agi/Nex-N2/issues/4",
+  "source_type": "rss",
+  "summary": "里约热内卢声称自主研发的LLM被发现实际是现有模型的合并，引发关于AI模型原创性和透明度的讨论。",
+  "tags": [
+    "LLM",
+    "模型合并",
+    "透明度",
+    "AI伦理"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-15T21:58:22+08:00",
+  "updated_at": "2026-06-15T21:58:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "本地化LLM开发可能依赖现有模型合并而非完全原创",
+      "模型来源透明度是AI社区关注的核心问题",
+      "该事件可能影响公众对AI自主创新的信任"
+    ],
+    "category": "模型开发与伦理"
+  }
+}

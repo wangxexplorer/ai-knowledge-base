@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260615-002",
+  "title": "Google Flight Simulator",
+  "source_url": "https://developers.google.com/maps/documentation/earth/flight-simulator",
+  "source_type": "rss",
+  "summary": "Google Flight Simulator是Google Earth API的一个示例应用，允许用户通过3D地图模拟飞行。该条目本身不涉及AI、LLM或Agent技术，但可能作为地理空间数据可视化工具与AI结合，例如用于训练无人机或自动驾驶的模拟环境。",
+  "tags": [
+    "模拟器",
+    "地理空间",
+    "可视化"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-15T21:58:22+08:00",
+  "updated_at": "2026-06-15T21:58:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "与AI/LLM/Agent无直接关联",
+      "可作为AI训练模拟环境"
+    ],
+    "category": "工具"
+  }
+}

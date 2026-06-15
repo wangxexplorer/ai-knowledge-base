@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260615-017",
+  "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+  "source_url": "https://github.com/tamnd/kage",
+  "source_type": "rss",
+  "summary": "Kage是一个将网站打包成单个二进制文件以供离线查看的工具。它通过抓取网站内容并打包成可执行文件，方便用户在没有网络的情况下访问。该工具主要关注网站离线浏览，与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "离线浏览",
+    "网站打包",
+    "二进制文件"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-15T21:58:22+08:00",
+  "updated_at": "2026-06-15T21:58:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Kage将网站内容打包成单个二进制文件",
+      "主要用于离线查看网站",
+      "与AI、LLM或Agent领域无关"
+    ],
+    "category": "工具"
+  }
+}

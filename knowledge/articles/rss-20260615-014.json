@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260615-014",
+  "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
+  "source_url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
+  "source_type": "rss",
+  "summary": "文章回顾了分布式计算的八大谬误，并探讨其在2025年的现实意义。这些谬误包括网络可靠、延迟为零、带宽无限、网络安全、拓扑不变、管理员一人、传输成本为零、网络同构。文章强调，尽管技术发展，这些谬误依然存在，对AI、LLM和Agent系统的分布式部署与通信有重要启示。",
+  "tags": [
+    "分布式计算",
+    "系统设计",
+    "AI基础设施",
+    "LLM部署",
+    "Agent通信"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-15T21:58:22+08:00",
+  "updated_at": "2026-06-15T21:58:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "分布式计算的八大谬误在AI系统中依然成立，影响LLM和Agent的分布式部署与通信可靠性。",
+      "网络延迟、带宽和安全性是AI系统分布式架构的关键挑战。",
+      "理解这些谬误有助于设计更健壮的AI基础设施和Agent协作机制。"
+    ],
+    "category": "技术原理与架构"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260615-005",
+  "title": "Anthropic's Safety Superpower",
+  "source_url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+  "source_type": "rss",
+  "summary": "Anthropic在AI安全领域的独特优势分析，探讨其安全策略如何成为核心竞争力，并可能影响LLM和Agent技术的发展方向。",
+  "tags": [
+    "AI安全",
+    "Anthropic",
+    "LLM",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-15T21:58:22+08:00",
+  "updated_at": "2026-06-15T21:58:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Anthropic的安全策略是其区别于其他AI公司的关键优势",
+      "安全研究可能推动LLM和Agent技术的负责任发展",
+      "该分析对理解AI行业竞争格局有重要参考价值"
+    ],
+    "category": "AI安全与伦理"
+  }
+}

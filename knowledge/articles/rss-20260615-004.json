@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260615-004",
+  "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
+  "source_url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
+  "source_type": "rss",
+  "summary": "Salesforce以36亿美元收购Fin（原Intercom），这是一家专注于AI客户服务和支持的初创公司。此次收购将增强Salesforce在AI驱动的客户关系管理（CRM）领域的能力，特别是通过AI Agent和LLM技术提升自动化客服、智能对话和客户支持效率。",
+  "tags": [
+    "AI Agent",
+    "LLM",
+    "CRM",
+    "收购",
+    "客户服务"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-15T21:58:22+08:00",
+  "updated_at": "2026-06-15T21:58:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "收购凸显AI Agent在客户服务中的商业价值",
+      "Salesforce通过整合Fin的AI技术强化CRM智能化",
+      "LLM驱动的对话系统成为企业级应用的关键方向"
+    ],
+    "category": "行业动态"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260615-020",
+  "title": "Formal methods and the future of programming",
+  "source_url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
+  "source_type": "rss",
+  "summary": "该条目讨论了形式化方法在编程中的应用与未来，强调通过数学证明提高软件可靠性。虽然不直接涉及AI、LLM或Agent，但形式化方法可增强AI系统的安全性与可解释性，尤其在关键任务中。",
+  "tags": [
+    "形式化方法",
+    "编程",
+    "软件可靠性"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-15T21:58:22+08:00",
+  "updated_at": "2026-06-15T21:58:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "形式化方法通过数学证明提升软件正确性",
+      "对AI系统安全性与可解释性有潜在价值",
+      "未来编程可能融合形式化验证与AI开发"
+    ],
+    "category": "编程方法论"
+  }
+}
