@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260616-003",
+  "title": "Correlated randomness in Slay the Spire 2",
+  "source_url": "https://tck.mn/blog/correlated-randomness-sts2/",
+  "source_type": "rss",
+  "summary": "文章探讨了《Slay the Spire 2》中关联随机性的设计，通过调整随机事件的相关性来增强游戏策略性和玩家体验。",
+  "tags": [
+    "游戏设计",
+    "随机性",
+    "策略"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-16T20:55:53+08:00",
+  "updated_at": "2026-06-16T20:55:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "关联随机性可提升游戏策略深度",
+      "随机事件相关性影响玩家决策"
+    ],
+    "category": "游戏技术"
+  }
+}

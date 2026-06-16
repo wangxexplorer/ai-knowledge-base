@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260616-015",
+  "title": "I Love the Computer",
+  "source_url": "https://michaelenger.com/blog/i-love-the-computer/",
+  "source_type": "rss",
+  "summary": "文章标题为“I Love the Computer”，来源为Hacker News，描述中未提供具体技术内容，仅包含文章链接和评论信息。该条目与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "计算机",
+    "个人博客"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-16T20:55:53+08:00",
+  "updated_at": "2026-06-16T20:55:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "条目内容未涉及AI、LLM或Agent技术",
+      "来源为Hacker News但无技术细节"
+    ],
+    "category": "非技术类"
+  }
+}

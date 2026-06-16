@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260616-012",
+  "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+  "source_url": "https://www.richardosgood.com/posts/banned-book-library/",
+  "source_type": "rss",
+  "summary": "该项目将禁书库存储在Wi-Fi智能灯泡中，利用其有限的存储空间和网络连接功能，实现去中心化的信息分发。它展示了在受限硬件上存储和访问文本数据的创新方法，但主要涉及嵌入式系统和网络技术，与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "嵌入式系统",
+    "智能灯泡",
+    "去中心化",
+    "数据存储"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-16T20:55:53+08:00",
+  "updated_at": "2026-06-16T20:55:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "利用智能灯泡存储禁书，实现去中心化信息分发",
+      "展示受限硬件上的数据存储与访问能力"
+    ],
+    "category": "硬件与网络"
+  }
+}

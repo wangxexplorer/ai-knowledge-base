@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260616-019",
+  "title": "Iroh 1.0",
+  "source_url": "https://www.iroh.computer/blog/v1",
+  "source_type": "rss",
+  "summary": "Iroh 1.0 是一个分布式计算框架的正式发布版本，专注于去中心化应用和点对点网络。它提供了工具和库来构建可扩展的、安全的分布式系统，可能支持AI/LLM/Agent领域的分布式推理或数据共享。",
+  "tags": [
+    "分布式计算",
+    "点对点网络",
+    "去中心化"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-16T20:55:53+08:00",
+  "updated_at": "2026-06-16T20:55:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "Iroh 1.0 提供分布式计算能力，可能用于AI模型的分布式训练或推理。",
+      "其点对点网络特性可支持Agent间的去中心化通信。",
+      "作为基础设施，对LLM部署的扩展性有潜在价值。"
+    ],
+    "category": "基础设施"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260616-011",
+  "title": "Humanity isn't ready for the coming intelligence explosion",
+  "source_url": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion",
+  "source_type": "rss",
+  "summary": "文章警告人类尚未准备好应对即将到来的智能爆炸，可能指AI能力快速超越人类控制的风险，强调社会、伦理和治理层面的准备不足。",
+  "tags": [
+    "智能爆炸",
+    "AI风险",
+    "治理",
+    "伦理",
+    "AGI"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-16T20:55:53+08:00",
+  "updated_at": "2026-06-16T20:55:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "智能爆炸可能带来不可控的AI能力跃升",
+      "人类在治理和伦理层面缺乏准备",
+      "需紧急建立全球性AI安全框架"
+    ],
+    "category": "AI安全与伦理"
+  }
+}

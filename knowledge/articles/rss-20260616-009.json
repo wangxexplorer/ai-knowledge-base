@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260616-009",
+  "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
+  "source_url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+  "source_type": "rss",
+  "summary": "微软x86模拟器团队在模拟过程中发现一段极其糟糕的代码，以至于他们直接在模拟层修复了它，而不是等待上游修复。这展示了模拟器在兼容性和性能优化中的特殊能力。",
+  "tags": [
+    "x86模拟",
+    "代码修复",
+    "兼容性"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-16T20:55:53+08:00",
+  "updated_at": "2026-06-16T20:55:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "模拟器可以动态修复有问题的代码",
+      "极端情况下模拟层修复比等待上游更高效"
+    ],
+    "category": "软件工程"
+  }
+}

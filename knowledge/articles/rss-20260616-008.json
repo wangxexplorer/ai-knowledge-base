@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260616-008",
+  "title": "John Carmack on Fabrice Bellard",
+  "source_url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+  "source_type": "rss",
+  "summary": "John Carmack在推特上对Fabrice Bellard的评论，引发Hacker News社区广泛讨论。Fabrice Bellard是知名程序员，以开发QEMU、FFmpeg等项目闻名。该条目本身不直接涉及AI、LLM或Agent技术，但Carmack和Bellard在技术领域的影响力可能间接关联AI相关讨论。",
+  "tags": [
+    "技术人物",
+    "程序员",
+    "开源"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-16T20:55:53+08:00",
+  "updated_at": "2026-06-16T20:55:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "John Carmack对Fabrice Bellard的评论引发社区关注",
+      "Fabrice Bellard是多个知名开源项目的作者",
+      "条目本身与AI、LLM、Agent无直接关联"
+    ],
+    "category": "技术人物评论"
+  }
+}

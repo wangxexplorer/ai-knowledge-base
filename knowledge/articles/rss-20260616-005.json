@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260616-005",
+  "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
+  "source_url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+  "source_type": "rss",
+  "summary": "该条目报道了Fable 5游戏因一个简单的“修复代码”提示引发联邦机构关注，而非越狱攻击。事件涉及AI模型对代码修复请求的响应，可能暴露了安全漏洞，引发监管担忧。",
+  "tags": [
+    "AI安全",
+    "代码修复",
+    "监管",
+    "LLM",
+    "漏洞"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-16T20:55:53+08:00",
+  "updated_at": "2026-06-16T20:55:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "简单提示可触发AI模型输出敏感内容，无需复杂越狱。",
+      "联邦机构对AI模型潜在安全风险的关注度提升。",
+      "事件凸显AI代码修复功能的双刃剑效应。"
+    ],
+    "category": "AI安全与监管"
+  }
+}

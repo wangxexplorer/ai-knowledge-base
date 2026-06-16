@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260616-016",
+  "title": "What job interviews taught me about Kubernetes",
+  "source_url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
+  "source_type": "rss",
+  "summary": "文章通过求职面试经历，分享了关于Kubernetes的实践经验和学习心得，包括集群管理、容器编排、服务发现等核心概念，以及面试中常见的技术问题与应对策略。",
+  "tags": [
+    "Kubernetes",
+    "面试",
+    "容器编排"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-16T20:55:53+08:00",
+  "updated_at": "2026-06-16T20:55:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Kubernetes面试注重实际集群管理经验",
+      "理解Pod、Service、Deployment等核心资源是关键",
+      "面试中常考察故障排查与性能优化能力"
+    ],
+    "category": "技术经验分享"
+  }
+}

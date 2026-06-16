@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260616-007",
+  "title": "Understanding the rationale behind a rule when trying to circumvent it",
+  "source_url": "https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415",
+  "source_type": "rss",
+  "summary": "文章探讨了在尝试规避规则时理解其背后原理的重要性，强调盲目绕过规则可能导致意外后果，而深入理解规则意图有助于更有效地解决问题或设计系统。",
+  "tags": [
+    "规则理解",
+    "系统设计",
+    "问题解决"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-16T20:55:53+08:00",
+  "updated_at": "2026-06-16T20:55:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "理解规则意图可避免规避时的副作用",
+      "规则背后常隐含设计约束或安全考量",
+      "该思维对AI系统规则设计有间接启发"
+    ],
+    "category": "通用技术思维"
+  }
+}

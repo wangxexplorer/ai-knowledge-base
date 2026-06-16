@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260616-006",
+  "title": "Commodore Releases Flip Phone",
+  "source_url": "https://commodore.net/why-a-flip-phone/",
+  "source_type": "rss",
+  "summary": "Commodore发布翻盖手机，该产品与AI、LLM、Agent领域无直接关联，属于传统移动设备硬件发布。",
+  "tags": [
+    "硬件",
+    "手机",
+    "翻盖手机",
+    "Commodore"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-16T20:55:53+08:00",
+  "updated_at": "2026-06-16T20:55:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "翻盖手机发布不涉及AI技术",
+      "与LLM和Agent领域无关"
+    ],
+    "category": "硬件发布"
+  }
+}

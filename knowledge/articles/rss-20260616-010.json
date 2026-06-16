@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260616-010",
+  "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
+  "source_url": "https://garden-of-flowers.heikkilotvonen.com/",
+  "source_type": "rss",
+  "summary": "该项目是一个收集了约2500张图片的档案库，展示了ASCII艺术之前使用金属活字、装饰和规则构建的印刷排版图像，历史可追溯至17世纪。它源于作者对ASCII艺术历史的研究，并发现活字印刷艺术常被忽视。网站提供浏览功能，图片主要来自公共数字馆藏，用于教育目的。",
+  "tags": [
+    "数字人文",
+    "印刷艺术",
+    "ASCII艺术",
+    "历史档案"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-16T20:55:53+08:00",
+  "updated_at": "2026-06-16T20:55:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "展示了ASCII艺术之前印刷排版图像的历史",
+      "收集了2500张来自公共馆藏的图片",
+      "强调活字印刷艺术在文本艺术历史中的重要性"
+    ],
+    "category": "数字人文与艺术"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260616-018",
+  "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+  "source_url": "https://tinywind.io",
+  "source_type": "rss",
+  "summary": "TinyWind是一款像素海盗航行游戏，特色是采用真实风力物理模拟，玩家已累计航行超过38万公里。该游戏与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "游戏",
+    "物理模拟",
+    "风力"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-16T20:55:53+08:00",
+  "updated_at": "2026-06-16T20:55:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "游戏利用真实风力物理机制",
+      "玩家航行距离超过38万公里",
+      "与AI技术无关"
+    ],
+    "category": "游戏"
+  }
+}
