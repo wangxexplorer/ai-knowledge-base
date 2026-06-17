@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260617-002",
+  "title": "U.S. Science Is in Chaos",
+  "source_url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
+  "source_type": "rss",
+  "summary": "文章讨论美国科学与政治之间的契约破裂，导致科学领域陷入混乱。这涉及政策环境对科研的影响，但未直接涉及AI、LLM或Agent技术。",
+  "tags": [
+    "科学政策",
+    "政治影响",
+    "科研环境"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-17T20:19:13+08:00",
+  "updated_at": "2026-06-17T20:19:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "科学与政治关系紧张",
+      "科研环境不确定性增加"
+    ],
+    "category": "科学政策"
+  }
+}

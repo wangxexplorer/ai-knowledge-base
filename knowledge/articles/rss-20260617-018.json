@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260617-018",
+  "title": "Stop Using JWTs",
+  "source_url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+  "source_type": "rss",
+  "summary": "文章批评JWT（JSON Web Token）在Web应用中的使用，指出其复杂性和安全风险，建议采用更简单的会话管理方案。",
+  "tags": [
+    "JWT",
+    "安全",
+    "Web开发"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-17T20:19:13+08:00",
+  "updated_at": "2026-06-17T20:19:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "JWT增加了系统复杂性",
+      "存在安全漏洞风险",
+      "推荐使用传统会话管理"
+    ],
+    "category": "技术实践"
+  }
+}

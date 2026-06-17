@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260617-008",
+  "title": "The founder's playbook: Building an AI-native startup",
+  "source_url": "https://claude.com/blog/the-founders-playbook",
+  "source_type": "rss",
+  "summary": "本文为AI原生初创企业创始人提供指南，涵盖从产品构思到市场策略的关键步骤，强调利用AI技术构建核心竞争力和快速迭代的重要性。",
+  "tags": [
+    "AI创业",
+    "LLM应用",
+    "初创企业",
+    "产品策略"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-17T20:19:13+08:00",
+  "updated_at": "2026-06-17T20:19:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "AI原生初创企业需将AI作为产品核心而非附加功能。",
+      "快速迭代和用户反馈循环是成功关键。",
+      "关注数据获取和模型优化以建立壁垒。"
+    ],
+    "category": "创业指南"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260617-005",
+  "title": "Most of the CVE-2026-4020 attackers are the same client",
+  "source_url": "https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020",
+  "source_type": "rss",
+  "summary": "该条目报告了CVE-2026-4020漏洞的攻击者大多来自同一客户端，并分析了攻击源。内容涉及网络安全漏洞和攻击模式，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "网络安全",
+    "CVE",
+    "漏洞",
+    "攻击分析"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-17T20:19:13+08:00",
+  "updated_at": "2026-06-17T20:19:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "CVE-2026-4020漏洞的攻击者具有同一客户端特征",
+      "攻击源分析揭示了云舰队模式"
+    ],
+    "category": "网络安全"
+  }
+}

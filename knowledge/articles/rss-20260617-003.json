@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260617-003",
+  "title": "Show HN: High-Res Neural Cellular Automata",
+  "source_url": "https://cells2pixels.github.io/",
+  "source_type": "rss",
+  "summary": "该项目展示了高分辨率神经细胞自动机（Neural CA），通过将每个CA单元转化为神经场，实现了实时生成高清自组织图案。提供三种演示：从种子生长图案（可损伤并自愈）、合成可再生的PBR纹理、以及创建3D纹理（如云）。",
+  "tags": [
+    "神经细胞自动机",
+    "神经场",
+    "自组织",
+    "实时生成",
+    "纹理合成"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-17T20:19:13+08:00",
+  "updated_at": "2026-06-17T20:19:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "神经细胞自动机通过神经场实现高清实时生成",
+      "模型支持自愈和再生，体现自组织特性",
+      "可应用于纹理合成和3D生成"
+    ],
+    "category": "生成式AI与模拟"
+  }
+}

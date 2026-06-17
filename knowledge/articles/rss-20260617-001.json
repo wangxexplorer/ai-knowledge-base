@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260617-001",
+  "title": "RFC 10008: The new HTTP Query Method",
+  "source_url": "https://www.rfc-editor.org/info/rfc10008/",
+  "source_type": "rss",
+  "summary": "RFC 10008 定义了新的HTTP查询方法，用于在HTTP协议中支持更灵活的查询操作。该方法允许客户端发送查询请求并获取结构化响应，可能对API设计和数据检索有影响。",
+  "tags": [
+    "HTTP",
+    "协议",
+    "API"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-17T20:19:13+08:00",
+  "updated_at": "2026-06-17T20:19:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "定义新的HTTP查询方法",
+      "增强HTTP查询能力",
+      "可能影响API设计"
+    ],
+    "category": "网络协议"
+  }
+}

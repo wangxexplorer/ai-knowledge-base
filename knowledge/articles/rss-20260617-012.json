@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260617-012",
+  "title": "Wolfram Language and Mathematica version 15",
+  "source_url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+  "source_type": "rss",
+  "summary": "Wolfram Language和Mathematica 15版本发布，重点集成了内置AI功能，并增加了大量核心功能。该版本旨在将AI直接嵌入计算环境，提升符号计算、数据处理和可视化能力，为技术计算和AI应用提供更强大的平台。",
+  "tags": [
+    "Wolfram Language",
+    "Mathematica",
+    "AI集成",
+    "技术计算",
+    "符号计算"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-17T20:19:13+08:00",
+  "updated_at": "2026-06-17T20:19:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "版本15将AI作为内置功能，而非外部插件，降低了AI应用门槛。",
+      "新版本强化了符号计算与AI的结合，可能推动科学计算和数据分析的自动化。",
+      "该发布表明主流技术计算平台正加速AI原生集成，对LLM和Agent的底层计算支持有潜在价值。"
+    ],
+    "category": "AI工具与平台"
+  }
+}

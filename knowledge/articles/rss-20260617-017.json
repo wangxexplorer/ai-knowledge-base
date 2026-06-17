@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260617-017",
+  "title": "Has AI already killed self-help nonfiction books?",
+  "source_url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+  "source_type": "rss",
+  "summary": "文章探讨AI对自助类非虚构书籍的冲击，认为AI生成内容可能取代传统自助书籍，引发对知识生产与消费模式的反思。",
+  "tags": [
+    "AI",
+    "内容生成",
+    "出版业",
+    "知识消费"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-17T20:19:13+08:00",
+  "updated_at": "2026-06-17T20:19:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI可能颠覆传统非虚构书籍创作模式",
+      "自助类内容易被AI替代",
+      "引发知识价值与原创性讨论"
+    ],
+    "category": "行业影响"
+  }
+}

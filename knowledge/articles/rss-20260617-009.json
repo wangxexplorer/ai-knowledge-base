@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260617-009",
+  "title": "From Chesterton's fence to Chesterton's gap",
+  "source_url": "https://stephantul.github.io/blog/unfence/",
+  "source_type": "rss",
+  "summary": "文章从切斯特顿的栅栏（Chesterton's fence）原则出发，探讨了在技术决策中，特别是AI和LLM领域，如何理解并处理未知的约束或“缺口”（Chesterton's gap）。它强调了在修改或优化系统前，先理解其设计初衷的重要性，以避免破坏隐含的、但关键的依赖关系。",
+  "tags": [
+    "AI决策",
+    "系统设计",
+    "LLM",
+    "技术哲学"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-17T20:19:13+08:00",
+  "updated_at": "2026-06-17T20:19:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "在AI系统优化中，需警惕忽略隐含约束的风险。",
+      "理解现有系统（如LLM）的原始设计意图是改进的前提。",
+      "切斯特顿原则可应用于评估Agent行为的边界与安全。"
+    ],
+    "category": "技术哲学与设计原则"
+  }
+}

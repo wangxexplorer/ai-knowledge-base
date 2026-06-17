@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260617-015",
+  "title": "GPT‑NL: a sovereign language model for the Netherlands",
+  "source_url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+  "source_type": "rss",
+  "summary": "GPT-NL是荷兰TNO机构开发的主权语言模型，旨在为荷兰提供自主可控的AI能力，减少对外部模型的依赖。该模型专注于荷兰语处理，并强调数据主权、隐私保护和本地化应用。",
+  "tags": [
+    "主权AI",
+    "语言模型",
+    "荷兰",
+    "本地化",
+    "数据主权"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-17T20:19:13+08:00",
+  "updated_at": "2026-06-17T20:19:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "荷兰开发主权语言模型以增强AI自主性",
+      "模型专注于荷兰语及本地化需求",
+      "强调数据主权与隐私保护"
+    ],
+    "category": "模型开发"
+  }
+}

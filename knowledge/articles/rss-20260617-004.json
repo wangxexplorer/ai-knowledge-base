@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260617-004",
+  "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+  "source_url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+  "source_type": "rss",
+  "summary": "GLM-5.2成为Artificial Analysis智能指数上领先的开放权重模型，标志着开源AI模型在性能上取得新突破。该模型在多项基准测试中表现优异，展示了开放权重模型在AI领域的竞争力。",
+  "tags": [
+    "GLM-5.2",
+    "开放权重模型",
+    "AI基准测试",
+    "开源AI",
+    "模型性能"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-17T20:19:13+08:00",
+  "updated_at": "2026-06-17T20:19:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "GLM-5.2在开放权重模型中排名第一",
+      "开源模型性能持续提升",
+      "Artificial Analysis智能指数提供客观评测"
+    ],
+    "category": "模型评测"
+  }
+}
