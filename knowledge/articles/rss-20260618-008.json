@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260618-008",
+  "title": "Nim Conf 2026 (Online, Sat June 20)",
+  "source_url": "https://conf.nim-lang.org/",
+  "source_type": "rss",
+  "summary": "Nim Conf 2026 是Nim编程语言的在线会议，定于2026年6月20日举行。该条目来自Hacker News，包含会议链接和讨论链接。",
+  "tags": [
+    "Nim",
+    "编程语言",
+    "会议"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-18T19:53:12+08:00",
+  "updated_at": "2026-06-18T19:53:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Nim语言社区活动",
+      "在线会议形式"
+    ],
+    "category": "技术会议"
+  }
+}

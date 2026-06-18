@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260618-019",
+  "title": "Volkswagen started blocking GrapheneOS users",
+  "source_url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+  "source_type": "rss",
+  "summary": "大众汽车开始阻止GrapheneOS用户使用其应用，引发隐私与安全讨论。GrapheneOS是一个注重隐私的Android系统，大众此举可能源于安全或兼容性考量。",
+  "tags": [
+    "大众汽车",
+    "GrapheneOS",
+    "隐私",
+    "安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-18T19:53:12+08:00",
+  "updated_at": "2026-06-18T19:53:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "大众汽车限制GrapheneOS用户",
+      "涉及隐私与安全争议"
+    ],
+    "category": "科技新闻"
+  }
+}

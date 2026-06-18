@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260618-007",
+  "title": "I hate compilers",
+  "source_url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+  "source_type": "rss",
+  "summary": "文章标题为“我讨厌编译器”，内容涉及对编译器的负面看法，可能讨论编译器设计或使用中的痛点。来源为Hacker News，但具体技术细节未提供。",
+  "tags": [
+    "编译器",
+    "编程工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-18T19:53:12+08:00",
+  "updated_at": "2026-06-18T19:53:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "作者表达对编译器的厌恶",
+      "可能涉及编译器复杂性或局限性"
+    ],
+    "category": "编程工具"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260618-018",
+  "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+  "source_url": "https://github.com/Adam-CAD/CADAM",
+  "source_type": "rss",
+  "summary": "Adam (YC W25) 是一个开源AI CAD平台，通过AI Agent将自然语言和图像转换为参数化3D模型。它生成OpenSCAD代码，支持交互式滑块调整参数，并输出多种3D格式。平台采用模型无关架构，支持Claude、Gemini等LLM，并在浏览器中运行。该项目展示了AI Agent在机械CAD领域的应用，通过代码生成实现设计自动化。",
+  "tags": [
+    "AI Agent",
+    "LLM",
+    "CAD",
+    "开源",
+    "3D生成"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-18T19:53:12+08:00",
+  "updated_at": "2026-06-18T19:53:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "AI Agent通过自然语言生成参数化3D模型，实现机械设计自动化",
+      "采用模型无关架构，支持多种LLM，Gemini 3.1 Pro表现最佳",
+      "开源平台，浏览器内运行，支持交互式参数调整"
+    ],
+    "category": "AI应用"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260618-009",
+  "title": "Local Qwen isn't a worse Opus, it's a different tool",
+  "source_url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+  "source_type": "rss",
+  "summary": "文章探讨本地运行Qwen模型与云端Opus模型的差异，强调本地AI作为不同工具的价值，而非性能对比。",
+  "tags": [
+    "本地AI",
+    "Qwen",
+    "模型对比",
+    "工具选择"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-18T19:53:12+08:00",
+  "updated_at": "2026-06-18T19:53:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "本地AI模型适合隐私和离线场景",
+      "Qwen与Opus定位不同，各有优劣",
+      "工具选择需根据实际需求"
+    ],
+    "category": "AI模型应用"
+  }
+}

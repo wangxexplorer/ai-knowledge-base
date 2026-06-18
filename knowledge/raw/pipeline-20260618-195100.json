@@ -1,0 +1,579 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-06-18T19:51:00+08:00",
+  "query": "AI LLM Agent",
+  "items": [
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "hermes-agent",
+      "title": "hermes-agent",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 196604,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "NousResearch/hermes-agent",
+      "author": "NousResearch"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "dify",
+      "title": "dify",
+      "source_url": "https://github.com/langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "stars": 145705,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "full_name": "langgenius/dify",
+      "author": "langgenius"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "langchain",
+      "title": "langchain",
+      "source_url": "https://github.com/langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform.",
+      "stars": 139622,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "langchain-ai/langchain",
+      "author": "langchain-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "awesome-llm-apps",
+      "title": "awesome-llm-apps",
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "stars": 114941,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "llms",
+        "python",
+        "rag"
+      ],
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "author": "Shubhamsaboo"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "browser-use",
+      "title": "browser-use",
+      "source_url": "https://github.com/browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 99416,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-use",
+        "llm"
+      ],
+      "full_name": "browser-use/browser-use",
+      "author": "browser-use"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ragflow",
+      "title": "ragflow",
+      "source_url": "https://github.com/infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 83106,
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "agentic-retrieval",
+        "agentic-search",
+        "ai",
+        "ai-agents"
+      ],
+      "full_name": "infiniflow/ragflow",
+      "author": "infiniflow"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "OpenHands",
+      "title": "OpenHands",
+      "source_url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "stars": 77630,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli"
+      ],
+      "full_name": "OpenHands/OpenHands",
+      "author": "OpenHands"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "LlamaFactory",
+      "title": "LlamaFactory",
+      "source_url": "https://github.com/hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars": 72275,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "deepseek",
+        "fine-tuning",
+        "gemma"
+      ],
+      "full_name": "hiyouga/LlamaFactory",
+      "author": "hiyouga"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "deer-flow",
+      "title": "deer-flow",
+      "source_url": "https://github.com/bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 71464,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "full_name": "bytedance/deer-flow",
+      "author": "bytedance"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "MetaGPT",
+      "title": "MetaGPT",
+      "source_url": "https://github.com/FoundationAgents/MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "stars": 68883,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "gpt",
+        "llm",
+        "metagpt",
+        "multi-agent"
+      ],
+      "full_name": "FoundationAgents/MetaGPT",
+      "author": "FoundationAgents"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "pi",
+      "title": "pi",
+      "source_url": "https://github.com/earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 63764,
+      "language": "TypeScript",
+      "topics": [],
+      "full_name": "earendil-works/pi",
+      "author": "earendil-works"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "mem0",
+      "title": "mem0",
+      "source_url": "https://github.com/mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "description": "Universal memory layer for AI Agents",
+      "stars": 58846,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "application",
+        "chatbots"
+      ],
+      "full_name": "mem0ai/mem0",
+      "author": "mem0ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "goose",
+      "title": "goose",
+      "source_url": "https://github.com/aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 49746,
+      "language": "Rust",
+      "topics": [
+        "acp",
+        "ai",
+        "ai-agents",
+        "mcp"
+      ],
+      "full_name": "aaif-goose/goose",
+      "author": "aaif-goose"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "cherry-studio",
+      "title": "cherry-studio",
+      "source_url": "https://github.com/CherryHQ/cherry-studio",
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 47502,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "awesome-skills",
+        "claude-code",
+        "codex"
+      ],
+      "full_name": "CherryHQ/cherry-studio",
+      "author": "CherryHQ"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "JeecgBoot",
+      "title": "JeecgBoot",
+      "source_url": "https://github.com/jeecgboot/JeecgBoot",
+      "url": "https://github.com/jeecgboot/JeecgBoot",
+      "description": "AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。",
+      "stars": 46777,
+      "language": "Java",
+      "topics": [
+        "activiti",
+        "agent",
+        "ai",
+        "antd",
+        "claude-code"
+      ],
+      "full_name": "jeecgboot/JeecgBoot",
+      "author": "jeecgboot"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "CowAgent",
+      "title": "CowAgent",
+      "source_url": "https://github.com/zhayujie/CowAgent",
+      "url": "https://github.com/zhayujie/CowAgent",
+      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+      "stars": 45398,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "chatgpt-on-wechat",
+        "claude"
+      ],
+      "full_name": "zhayujie/CowAgent",
+      "author": "zhayujie"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "nanobot",
+      "title": "nanobot",
+      "source_url": "https://github.com/HKUDS/nanobot",
+      "url": "https://github.com/HKUDS/nanobot",
+      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "stars": 44426,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "HKUDS/nanobot",
+      "author": "HKUDS"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "AgentGPT",
+      "title": "AgentGPT",
+      "source_url": "https://github.com/reworkd/AgentGPT",
+      "url": "https://github.com/reworkd/AgentGPT",
+      "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+      "stars": 36207,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agentgpt",
+        "agents",
+        "agi",
+        "ai"
+      ],
+      "full_name": "reworkd/AgentGPT",
+      "author": "reworkd"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ai-engineering-hub",
+      "title": "ai-engineering-hub",
+      "source_url": "https://github.com/patchy631/ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "stars": 35850,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "agents",
+        "ai",
+        "llms",
+        "machine-learning",
+        "mcp"
+      ],
+      "full_name": "patchy631/ai-engineering-hub",
+      "author": "patchy631"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "CopilotKit",
+      "title": "CopilotKit",
+      "source_url": "https://github.com/CopilotKit/CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+      "stars": 35283,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agent-native",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "full_name": "CopilotKit/CopilotKit",
+      "author": "CopilotKit"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Hospitals and universities repurposing drugs at 90% lower cost",
+      "source_url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+      "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+      "description": "Article URL: https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost Comments URL: https://news.ycombinator.com/item?id=48583386 Points: 27 # Comments: 6",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "I need your clothes, your boots, and your motorcycle",
+      "source_url": "https://rbelmont.mameworld.info/?p=1725",
+      "url": "https://rbelmont.mameworld.info/?p=1725",
+      "description": "Article URL: https://rbelmont.mameworld.info/?p=1725 Comments URL: https://news.ycombinator.com/item?id=48582464 Points: 55 # Comments: 42",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
+      "source_url": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
+      "description": "Article URL: https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change Comments URL: https://news.ycombinator.com/item?id=48582320 Points: 162 # Comments: 78",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "The Forge We Deserve",
+      "source_url": "https://btao.org/posts/2026-05-09-the-forge-we-deserve/",
+      "url": "https://btao.org/posts/2026-05-09-the-forge-we-deserve/",
+      "description": "Article URL: https://btao.org/posts/2026-05-09-the-forge-we-deserve/ Comments URL: https://news.ycombinator.com/item?id=48582147 Points: 34 # Comments: 36",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
+      "source_url": "https://www.acma.gov.au/sms-sender-id-register",
+      "url": "https://www.acma.gov.au/sms-sender-id-register",
+      "description": "Article URL: https://www.acma.gov.au/sms-sender-id-register Comments URL: https://news.ycombinator.com/item?id=48581489 Points: 111 # Comments: 63",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "DeepSeek Introduces Vision",
+      "source_url": "https://chat.deepseek.com/",
+      "url": "https://chat.deepseek.com/",
+      "description": "Article URL: https://chat.deepseek.com/ Comments URL: https://news.ycombinator.com/item?id=48581458 Points: 184 # Comments: 81",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "I hate compilers",
+      "source_url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+      "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+      "description": "Article URL: https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/ Comments URL: https://news.ycombinator.com/item?id=48581070 Points: 90 # Comments: 68",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Nim Conf 2026 (Online, Sat June 20)",
+      "source_url": "https://conf.nim-lang.org/",
+      "url": "https://conf.nim-lang.org/",
+      "description": "Article URL: https://conf.nim-lang.org/ Comments URL: https://news.ycombinator.com/item?id=48580504 Points: 55 # Comments: 9",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Local Qwen isn't a worse Opus, it's a different tool",
+      "source_url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+      "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+      "description": "Article URL: https://blog.alexellis.io/local-ai-is-not-opus/ Comments URL: https://news.ycombinator.com/item?id=48580209 Points: 250 # Comments: 122",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "AI Compute Extensions (ACE) Specification",
+      "source_url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+      "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+      "description": "Article URL: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/ Comments URL: https://news.ycombinator.com/item?id=48579913 Points: 41 # Comments: 18",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Midjourney Medical",
+      "source_url": "https://www.midjourney.com/medical/blogpost",
+      "url": "https://www.midjourney.com/medical/blogpost",
+      "description": "https://www.midjourney.com/medical Video: https://x.com/midjourney/status/2067422898407837797 Comments URL: https://news.ycombinator.com/item?id=48579650 Points: 856 # Comments: 590",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
+      "source_url": "https://www.horg.com/horg/?page_id=921",
+      "url": "https://www.horg.com/horg/?page_id=921",
+      "description": "Article URL: https://www.horg.com/horg/?page_id=921 Comments URL: https://news.ycombinator.com/item?id=48578388 Points: 155 # Comments: 39",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Clojure Hosted on Go",
+      "source_url": "https://github.com/glojurelang/glojure",
+      "url": "https://github.com/glojurelang/glojure",
+      "description": "Article URL: https://github.com/glojurelang/glojure Comments URL: https://news.ycombinator.com/item?id=48578326 Points: 153 # Comments: 17",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Storied Colors – A catalogue of named colors",
+      "source_url": "https://storiedcolors.com/",
+      "url": "https://storiedcolors.com/",
+      "description": "Article URL: https://storiedcolors.com/ Comments URL: https://news.ycombinator.com/item?id=48577374 Points: 181 # Comments: 41",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Loreline – Tools for writing interactive fiction",
+      "source_url": "https://loreline.app/en/",
+      "url": "https://loreline.app/en/",
+      "description": "Article URL: https://loreline.app/en/ Comments URL: https://news.ycombinator.com/item?id=48576395 Points: 181 # Comments: 27",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "How Madrid built its metro cheaply (2024)",
+      "source_url": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
+      "url": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
+      "description": "Article URL: https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/ Comments URL: https://news.ycombinator.com/item?id=48575997 Points: 159 # Comments: 104",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Trellis AI (YC W24) hiring a product lead to build agents for healthcare access",
+      "source_url": "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead",
+      "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead",
+      "description": "Article URL: https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead Comments URL: https://news.ycombinator.com/item?id=48573221 Points: 0 # Comments: 0",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "source_url": "https://github.com/Adam-CAD/CADAM",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "description": "Hey HN! I'm Zach from Adam ( https://adam.new/ ). We're building AI agents for mechanical CAD software. We’ve built the company on two fundamental beliefs: - AI will be the primary medium for creating mechanical designs just like it is in software today. - The best paradigm for CAD generation is to generate CAD as code (text -> code -> CAD). We’re building CADAM, an open source Text to CAD platform. It's a React app (TanStack Start) with a Supabase backend for auth, database, and file storage. Think of it like AI TinkerCAD. Demo: https://www.youtube.com/watch?v=iESOr7EGWqk Try it: https://adam.new/cadam/ What it does: - Generates parametric 3D models from natural language, with support for both text prompts and image references. - Outputs OpenSCAD code with automatically extracted parameters that surface as interactive sliders for instant dimension tweaking - Exports as .STL or .SCAD (plus OBJ, GLB/GLTF, FBX, and DXF) Under the hood: - One agentic endpoint with two modes that swap system prompts and tools: a parametric mode that writes/edits OpenSCAD via a build_parametric_model tool, and a mesh mode that generates 3D textured meshes. - Simple parameter tweaks bypass the model entirely; adjusting a slider does a deterministic regex update on the SCAD source, requiring no LLM call. - Model-agnostic via the Vercel AI SDK: Anthropic (Claude), Google (Gemini), and OpenAI/others through OpenRouter, with adaptive thinking auto-enabled on newer models. Surprisingly, in our evals Gemini 3.1 Pro is the top model. - Runs fully in-browser by compiling OpenSCAD to WebAssembly (in a Web Worker, so the UI never blocks) and rendering with Three.js via React Three Fiber - Supports BOSL, BOSL2, and MCAD libraries, plus custom font support (Geist) for text in models Future improvements: - Support both build123d and CadQuery. This will allow us to move beyond CSG primitives to constraint-driven modeling and provide direct comparisons to other code-as-CAD primitives. - Better spatial context: UI for face/edge selection and viewport image integration to give LLMs spatial understanding You can clone the repo and run it locally! Contributions are very welcome. Comments URL: https://news.ycombinator.com/item?id=48572553 Points: 187 # Comments: 87",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Volkswagen started blocking GrapheneOS users",
+      "source_url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+      "url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+      "description": "Article URL: https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3 Comments URL: https://news.ycombinator.com/item?id=48571526 Points: 710 # Comments: 422",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Lore – Open source version control system designed for scalability",
+      "source_url": "https://lore.org/",
+      "url": "https://lore.org/",
+      "description": "Article URL: https://lore.org/ Comments URL: https://news.ycombinator.com/item?id=48571081 Points: 1161 # Comments: 616",
+      "feed_name": "Hacker News"
+    }
+  ]
+}

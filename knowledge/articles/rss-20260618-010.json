@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260618-010",
+  "title": "AI Compute Extensions (ACE) Specification",
+  "source_url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+  "source_type": "rss",
+  "summary": "AI Compute Extensions (ACE) Specification 是一项针对x86生态系统的AI计算扩展规范，旨在提升AI工作负载的硬件加速能力。该规范定义了新的指令集和架构特性，以优化深度学习、机器学习等AI任务的性能。",
+  "tags": [
+    "AI硬件",
+    "指令集",
+    "x86",
+    "加速器",
+    "规范"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-18T19:53:12+08:00",
+  "updated_at": "2026-06-18T19:53:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "ACE规范为x86平台提供AI专用指令扩展，提升计算效率。",
+      "该规范聚焦于硬件层面的AI加速，与LLM和Agent的底层计算需求相关。",
+      "作为开放标准，ACE可能影响未来AI芯片和系统设计。"
+    ],
+    "category": "硬件与架构"
+  }
+}

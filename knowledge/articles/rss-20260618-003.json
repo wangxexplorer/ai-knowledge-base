@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260618-003",
+  "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
+  "source_url": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
+  "source_type": "rss",
+  "summary": "AMD在消费级Ryzen CPU中悄然移除了内存加密功能，用户可能未意识到安全漏洞。该变化随AGESA固件更新发生，AMD工程师对此保持沉默。",
+  "tags": [
+    "硬件安全",
+    "CPU",
+    "AMD",
+    "内存加密"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-18T19:53:12+08:00",
+  "updated_at": "2026-06-18T19:53:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "AMD在消费级CPU中移除内存加密功能",
+      "用户可能面临安全风险",
+      "AMD工程师未回应相关质询"
+    ],
+    "category": "硬件安全"
+  }
+}

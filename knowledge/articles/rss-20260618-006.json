@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260618-006",
+  "title": "DeepSeek Introduces Vision",
+  "source_url": "https://chat.deepseek.com/",
+  "source_type": "rss",
+  "summary": "DeepSeek推出视觉功能，扩展其AI模型能力，支持图像理解与多模态交互，提升LLM在视觉任务中的应用潜力。",
+  "tags": [
+    "DeepSeek",
+    "多模态",
+    "视觉",
+    "LLM",
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-18T19:53:12+08:00",
+  "updated_at": "2026-06-18T19:53:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "DeepSeek新增视觉功能，增强多模态能力",
+      "视觉理解扩展LLM应用场景",
+      "可能推动Agent在视觉交互中的发展"
+    ],
+    "category": "多模态AI"
+  }
+}

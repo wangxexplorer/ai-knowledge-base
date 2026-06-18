@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260618-001",
+  "title": "Hospitals and universities repurposing drugs at 90% lower cost",
+  "source_url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+  "source_type": "rss",
+  "summary": "医院和大学以90%更低成本重新利用药物，涉及药物再利用策略，与AI/LLM/Agent领域无直接关联。",
+  "tags": [
+    "药物再利用",
+    "医疗成本",
+    "医院",
+    "大学"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-18T19:53:12+08:00",
+  "updated_at": "2026-06-18T19:53:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "药物再利用可大幅降低成本",
+      "医院和大学主导该策略"
+    ],
+    "category": "医疗健康"
+  }
+}

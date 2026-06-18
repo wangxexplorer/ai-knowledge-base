@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260618-004",
+  "title": "The Forge We Deserve",
+  "source_url": "https://btao.org/posts/2026-05-09-the-forge-we-deserve/",
+  "source_type": "rss",
+  "summary": "文章探讨了当前AI技术发展路径，特别是大型语言模型和智能体系统的现状与未来。作者反思了技术社区对“锻造”工具和框架的期望，指出我们实际得到的可能并非最初设想，强调了开源协作与社区驱动在塑造AI生态中的关键作用。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Agent",
+    "开源",
+    "技术生态"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-18T19:53:12+08:00",
+  "updated_at": "2026-06-18T19:53:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI技术发展路径与社区期望存在差距",
+      "开源协作对AI生态塑造至关重要",
+      "智能体系统是未来重要方向"
+    ],
+    "category": "技术评论"
+  }
+}

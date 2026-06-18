@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260618-014",
+  "title": "Storied Colors – A catalogue of named colors",
+  "source_url": "https://storiedcolors.com/",
+  "source_type": "rss",
+  "summary": "Storied Colors是一个命名颜色目录，收录了各种有故事背景的颜色名称。该网站可能为AI、LLM或Agent领域提供颜色数据或视觉参考，但直接相关性较低。",
+  "tags": [
+    "颜色",
+    "目录",
+    "数据"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-18T19:53:12+08:00",
+  "updated_at": "2026-06-18T19:53:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "提供命名颜色集合",
+      "可能用于视觉AI训练数据",
+      "与AI核心领域关联较弱"
+    ],
+    "category": "数据资源"
+  }
+}

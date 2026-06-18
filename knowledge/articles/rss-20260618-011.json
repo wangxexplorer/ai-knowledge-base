@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260618-011",
+  "title": "Midjourney Medical",
+  "source_url": "https://www.midjourney.com/medical/blogpost",
+  "source_type": "rss",
+  "summary": "Midjourney Medical 是 Midjourney 在医疗领域的应用，利用 AI 图像生成技术辅助医学影像分析、诊断或医学教育。该条目来自 Hacker News，讨论热度高，但未明确涉及 LLM 或 Agent 技术。",
+  "tags": [
+    "AI",
+    "医疗影像",
+    "Midjourney",
+    "图像生成"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-18T19:53:12+08:00",
+  "updated_at": "2026-06-18T19:53:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.4,
+    "key_insights": [
+      "AI图像生成在医疗领域的探索",
+      "Midjourney拓展至专业垂直领域",
+      "社区讨论热度反映技术关注度"
+    ],
+    "category": "AI应用"
+  }
+}

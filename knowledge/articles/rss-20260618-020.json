@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260618-020",
+  "title": "Lore – Open source version control system designed for scalability",
+  "source_url": "https://lore.org/",
+  "source_type": "rss",
+  "summary": "Lore是一个开源版本控制系统，专注于可扩展性。虽然版本控制是AI开发的基础设施之一，但Lore本身并非直接针对AI、LLM或Agent领域设计。其相关性在于可能用于管理AI项目的代码和数据版本。",
+  "tags": [
+    "版本控制",
+    "开源",
+    "可扩展性"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-18T19:53:12+08:00",
+  "updated_at": "2026-06-18T19:53:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Lore是通用版本控制系统，非AI专用",
+      "可用于AI项目代码管理",
+      "可扩展性对大规模AI开发有潜在价值"
+    ],
+    "category": "基础设施"
+  }
+}
