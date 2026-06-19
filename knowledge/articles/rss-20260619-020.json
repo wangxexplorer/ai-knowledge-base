@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260619-020",
+  "title": ".gitignore Isn't the only way to ignore files in Git",
+  "source_url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+  "source_type": "rss",
+  "summary": "本文介绍了Git中除了.gitignore之外的其他忽略文件的方法，如.git/info/exclude和全局gitignore配置。这些方法适用于不同场景，提供了更灵活的版本控制管理。",
+  "tags": [
+    "Git",
+    "版本控制"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-19T20:08:59+08:00",
+  "updated_at": "2026-06-19T20:08:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Git提供多种忽略文件的方式",
+      "不同方法适用于不同场景"
+    ],
+    "category": "技术工具"
+  }
+}

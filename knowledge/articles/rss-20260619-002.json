@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260619-002",
+  "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+  "source_url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+  "source_type": "rss",
+  "summary": "Project Valhalla是JDK的一项长期特性，旨在通过值类型（value types）和原始类（primitive classes）提升Java性能与内存效率。该特性经过十年开发，预计在JDK 28中交付。它允许开发者定义不可变、无身份的数据类型，从而减少对象开销和垃圾回收压力。",
+  "tags": [
+    "Java",
+    "JVM",
+    "性能优化",
+    "值类型"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-19T20:08:59+08:00",
+  "updated_at": "2026-06-19T20:08:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Project Valhalla通过值类型减少对象开销，提升内存效率。",
+      "该特性历经十年开发，将在JDK 28中正式交付。",
+      "值类型支持不可变、无身份的数据模型，优化垃圾回收。"
+    ],
+    "category": "编程语言与运行时"
+  }
+}

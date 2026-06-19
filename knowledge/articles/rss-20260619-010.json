@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260619-010",
+  "title": "Building a robotics research setup that lives next to my desk",
+  "source_url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+  "source_type": "rss",
+  "summary": "作者分享其个人桌面机器人研究设置，对比2017-2020年在OpenAI的10倍成本团队研究，探讨单人进行机器人操作研究的可行性。涉及单臂vs双臂、相机标定、RGB vs RGB-D策略选择，以及自建软件栈而非ROS 2/LeRobot的决策。",
+  "tags": [
+    "机器人操作",
+    "桌面设置",
+    "AI研究",
+    "硬件搭建"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-19T20:08:59+08:00",
+  "updated_at": "2026-06-19T20:08:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "单人桌面机器人研究成本大幅降低，使个人研究成为可能",
+      "单臂设置限制某些任务（如折叠衣物），但节省成本与空间",
+      "自建软件栈而非ROS 2/LeRobot，体现对灵活性的追求"
+    ],
+    "category": "机器人学"
+  }
+}

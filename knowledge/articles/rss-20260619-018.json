@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260619-018",
+  "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+  "source_url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+  "source_type": "rss",
+  "summary": "该条目是关于康奈尔大学高级编译器课程（CS 6120）的自定进度在线版本，内容涵盖编译器优化、中间表示、数据流分析等传统编译技术。虽然与AI/LLM/Agent无直接关联，但编译器技术是AI系统底层基础设施的一部分。",
+  "tags": [
+    "编译器",
+    "课程",
+    "计算机科学"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-19T20:08:59+08:00",
+  "updated_at": "2026-06-19T20:08:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "编译器优化技术是AI系统性能提升的基础",
+      "自定进度课程适合远程学习"
+    ],
+    "category": "教育"
+  }
+}

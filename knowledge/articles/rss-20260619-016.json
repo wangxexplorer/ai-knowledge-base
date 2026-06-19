@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260619-016",
+  "title": "I found 10k GitHub repositories distributing Trojan malware",
+  "source_url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+  "source_type": "rss",
+  "summary": "该条目报告了在GitHub上发现约1万个分发特洛伊木马恶意软件的仓库，揭示了开源平台面临的安全风险。",
+  "tags": [
+    "安全",
+    "恶意软件",
+    "GitHub"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-19T20:08:59+08:00",
+  "updated_at": "2026-06-19T20:08:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "开源平台存在恶意软件分发风险",
+      "需加强代码仓库安全审查"
+    ],
+    "category": "网络安全"
+  }
+}

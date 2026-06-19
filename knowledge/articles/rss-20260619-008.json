@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260619-008",
+  "title": "Zero-Touch OAuth for MCP",
+  "source_url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+  "source_type": "rss",
+  "summary": "本文介绍MCP（Model Context Protocol）的零接触OAuth企业级托管认证方案，旨在简化AI代理与外部服务的安全集成，通过自动化认证流程降低开发与运维成本，提升企业环境中AI应用的可管理性与安全性。",
+  "tags": [
+    "MCP",
+    "OAuth",
+    "AI代理",
+    "企业认证",
+    "安全集成"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-19T20:08:59+08:00",
+  "updated_at": "2026-06-19T20:08:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "零接触OAuth实现AI代理与外部服务的无缝安全认证",
+      "企业级托管认证简化了AI应用的部署与管理",
+      "MCP协议扩展了AI代理的互操作性与安全性"
+    ],
+    "category": "AI基础设施与安全"
+  }
+}

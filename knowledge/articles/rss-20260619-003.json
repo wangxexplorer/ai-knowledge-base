@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260619-003",
+  "title": "So You Want to Define a Well-Known URI",
+  "source_url": "https://mnot.net/blog/2026/well_known_uris",
+  "source_type": "rss",
+  "summary": "本文讨论了定义Well-Known URI（如/.well-known/）的实践与挑战，包括注册流程、命名规范及与现有标准的兼容性。",
+  "tags": [
+    "URI",
+    "Web标准",
+    "协议设计"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-19T20:08:59+08:00",
+  "updated_at": "2026-06-19T20:08:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Well-Known URI用于标准化发现服务端点",
+      "注册需遵循RFC 8615规范",
+      "命名冲突是主要挑战"
+    ],
+    "category": "网络协议"
+  }
+}

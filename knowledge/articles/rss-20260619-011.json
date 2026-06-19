@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260619-011",
+  "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+  "source_url": "https://tester.army",
+  "source_type": "rss",
+  "summary": "TesterArmy是一个基于AI Agent的端到端测试平台，允许用户用自然语言定义测试，由Agent自动执行。它集成了CI/CD流程，可捕获关键流程（如注册、结账、AI聊天）中的bug，并已服务30多个团队。",
+  "tags": [
+    "AI Agent",
+    "测试自动化",
+    "LLM应用",
+    "自然语言测试",
+    "DevOps"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-19T20:08:59+08:00",
+  "updated_at": "2026-06-19T20:08:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "用自然语言定义测试，降低测试门槛",
+      "Agent可自主执行测试并集成CI/CD",
+      "已在实际场景中捕获复杂bug，如时区问题和AI聊天回归"
+    ],
+    "category": "AI Agent应用"
+  }
+}

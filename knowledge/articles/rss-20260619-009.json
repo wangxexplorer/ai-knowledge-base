@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260619-009",
+  "title": "Show HN: Are You in the Weights?",
+  "source_url": "https://www.intheweights.com/",
+  "source_type": "rss",
+  "summary": "该项目通过并行查询多个前沿和小型LLM，分析模型对用户身份的识别程度，并聚类响应结果，以探索用户在网络流量转向LLM后留下的“权重痕迹”。",
+  "tags": [
+    "LLM",
+    "模型识别",
+    "隐私",
+    "AI应用",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-19T20:08:59+08:00",
+  "updated_at": "2026-06-19T20:08:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "展示了LLM对用户身份的识别能力，引发隐私关注。",
+      "通过并行查询和聚类方法评估模型一致性。",
+      "反映了AI Agent在数据追踪中的潜在应用。"
+    ],
+    "category": "AI应用与隐私"
+  }
+}

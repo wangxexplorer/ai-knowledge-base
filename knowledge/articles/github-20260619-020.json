@@ -1,0 +1,31 @@
+{
+  "id": "github-20260619-020",
+  "title": "AgentGPT",
+  "source_url": "https://github.com/reworkd/AgentGPT",
+  "source_type": "github",
+  "summary": "AgentGPT是一个基于浏览器的自主AI Agent组装、配置和部署平台，使用TypeScript开发，在GitHub上获得超过36,000颗星。它允许用户创建和运行自主AI代理，实现任务自动化，是AI Agent领域的热门开源项目。",
+  "tags": [
+    "Agent",
+    "自主AI",
+    "开源",
+    "浏览器",
+    "自动化"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-19T20:08:59+08:00",
+  "updated_at": "2026-06-19T20:08:59+08:00",
+  "metadata": {
+    "stars": 36209,
+    "language": "TypeScript",
+    "author": "reworkd"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "AgentGPT提供浏览器内自主AI Agent的组装与部署",
+      "该项目在GitHub上拥有高关注度（36k+ stars）",
+      "属于AI Agent领域的基础设施工具"
+    ],
+    "category": "AI Agent平台"
+  }
+}
