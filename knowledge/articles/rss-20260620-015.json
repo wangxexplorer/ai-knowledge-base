@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260620-015",
+  "title": "How many of the 170k English words do you know?",
+  "source_url": "https://vocabowl-870366514258.us-west1.run.app/",
+  "source_type": "rss",
+  "summary": "该条目是一个英语词汇量测试应用，通过评估用户对17万英语单词的掌握程度来提供个人词汇量估计。与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "词汇测试",
+    "英语学习",
+    "语言评估"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-20T18:35:00+08:00",
+  "updated_at": "2026-06-20T18:35:00+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该应用旨在评估用户英语词汇量",
+      "与AI、LLM、Agent技术无关"
+    ],
+    "category": "语言学习工具"
+  }
+}

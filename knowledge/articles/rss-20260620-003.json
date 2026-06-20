@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260620-003",
+  "title": "Where to Find the Colors Your Screen Can't Show You",
+  "source_url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+  "source_type": "rss",
+  "summary": "文章探讨了屏幕无法显示的颜色范围，涉及色彩空间、人眼感知和显示技术限制。与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "色彩科学",
+    "显示技术",
+    "人眼感知"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-20T18:35:00+08:00",
+  "updated_at": "2026-06-20T18:35:00+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "屏幕色域有限",
+      "人眼可见色域更广",
+      "色彩再现技术挑战"
+    ],
+    "category": "视觉科学"
+  }
+}

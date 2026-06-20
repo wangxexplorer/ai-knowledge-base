@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260620-016",
+  "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+  "source_url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+  "source_type": "rss",
+  "summary": "Project Valhalla是JDK中引入值类型和原始类特性的长期项目，旨在提升Java性能与内存效率。该特性在JDK 28中实现，通过消除对象包装开销，优化数据布局，对高性能计算和内存敏感应用有重要影响。",
+  "tags": [
+    "Java",
+    "性能优化",
+    "值类型"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-20T18:35:00+08:00",
+  "updated_at": "2026-06-20T18:35:00+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Project Valhalla通过值类型减少对象开销",
+      "该特性在JDK 28中落地",
+      "主要影响Java性能与内存效率"
+    ],
+    "category": "编程语言与运行时"
+  }
+}

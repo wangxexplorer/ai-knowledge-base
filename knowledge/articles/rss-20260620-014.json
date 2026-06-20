@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260620-014",
+  "title": "There are no instances in ATProto",
+  "source_url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+  "source_type": "rss",
+  "summary": "本文讨论ATProto（AT协议）中不存在传统意义上的“实例”概念，强调其去中心化架构与数据联合机制。ATProto通过DID和PLC实现身份与数据分离，避免单一实例依赖，这与AI/LLM/Agent领域关注的去中心化数据管理、分布式智能体协作有间接关联。",
+  "tags": [
+    "去中心化",
+    "ATProto",
+    "数据架构"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-20T18:35:00+08:00",
+  "updated_at": "2026-06-20T18:35:00+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "ATProto无传统实例，采用DID和PLC实现去中心化身份与数据管理",
+      "该架构可能为分布式AI Agent提供数据协作参考",
+      "与LLM训练数据的去中心化存储有潜在关联"
+    ],
+    "category": "技术架构"
+  }
+}

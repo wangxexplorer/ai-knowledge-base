@@ -1,0 +1,31 @@
+{
+  "id": "github-20260620-017",
+  "title": "nanobot",
+  "source_url": "https://github.com/HKUDS/nanobot",
+  "source_type": "github",
+  "summary": "Nanobot是一个轻量级、开源的AI代理，旨在集成工具、聊天和工作流。它基于Python开发，支持Anthropic和ChatGPT等模型，拥有超过4.4万星标，表明其在AI Agent领域具有较高关注度和实用性。",
+  "tags": [
+    "AI Agent",
+    "开源",
+    "工作流",
+    "工具集成",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-20T18:35:00+08:00",
+  "updated_at": "2026-06-20T18:35:00+08:00",
+  "metadata": {
+    "stars": 44473,
+    "language": "Python",
+    "author": "HKUDS"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "轻量级开源AI代理，便于集成到现有工具和聊天中",
+      "支持主流LLM如Anthropic和ChatGPT",
+      "高星标数反映社区认可和实际应用价值"
+    ],
+    "category": "AI Agent框架"
+  }
+}

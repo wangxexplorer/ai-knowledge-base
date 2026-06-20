@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260620-011",
+  "title": "Hyundai buys Boston Dynamics",
+  "source_url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+  "source_type": "rss",
+  "summary": "现代汽车以3.25亿美元从软银手中收购波士顿动力公司，获得其全部控制权。波士顿动力以开发先进机器人（如Atlas、Spot）闻名，此次收购将推动现代在机器人技术和自动化领域的布局。",
+  "tags": [
+    "机器人",
+    "收购",
+    "波士顿动力",
+    "现代汽车",
+    "自动化"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-20T18:35:00+08:00",
+  "updated_at": "2026-06-20T18:35:00+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "现代汽车通过收购波士顿动力加速机器人技术商业化",
+      "波士顿动力的机器人技术可应用于AI和自动化领域",
+      "此次收购显示传统车企向智能机器人领域转型趋势"
+    ],
+    "category": "行业动态"
+  }
+}

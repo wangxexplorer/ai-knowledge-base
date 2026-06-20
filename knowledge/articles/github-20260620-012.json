@@ -1,0 +1,31 @@
+{
+  "id": "github-20260620-012",
+  "title": "mem0",
+  "source_url": "https://github.com/mem0ai/mem0",
+  "source_type": "github",
+  "summary": "mem0是一个为AI代理设计的通用记忆层，基于Python实现，支持聊天机器人等应用，旨在增强AI代理的长期记忆能力。",
+  "tags": [
+    "AI Agents",
+    "记忆层",
+    "LLM",
+    "应用",
+    "Python"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-20T18:35:00+08:00",
+  "updated_at": "2026-06-20T18:35:00+08:00",
+  "metadata": {
+    "stars": 58959,
+    "language": "Python",
+    "author": "mem0ai"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "为AI代理提供通用记忆层",
+      "支持长期记忆增强",
+      "适用于聊天机器人等应用"
+    ],
+    "category": "AI代理工具"
+  }
+}

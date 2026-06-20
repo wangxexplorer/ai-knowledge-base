@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260620-007",
+  "title": "Big Banana Car",
+  "source_url": "https://bigbananacar.com/",
+  "source_type": "rss",
+  "summary": "该条目描述了一个名为“Big Banana Car”的网站，内容涉及一辆巨大的香蕉车被拖拽的事件，来自Hacker News的讨论。与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "非技术",
+    "娱乐",
+    "新闻"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-20T18:35:00+08:00",
+  "updated_at": "2026-06-20T18:35:00+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "与AI/LLM/Agent领域无关",
+      "属于一般新闻或娱乐内容"
+    ],
+    "category": "无关"
+  }
+}

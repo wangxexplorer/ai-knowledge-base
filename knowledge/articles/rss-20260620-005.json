@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260620-005",
+  "title": "Surprising economics of load-balanced systems",
+  "source_url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+  "source_type": "rss",
+  "summary": "本文探讨了负载均衡系统的经济学，分析了在分布式系统中如何通过负载均衡优化资源利用和成本。文章可能涉及Erlang语言特性及其在构建高并发、高可用系统中的应用，对理解大规模AI系统的部署和扩展有参考价值。",
+  "tags": [
+    "负载均衡",
+    "分布式系统",
+    "Erlang",
+    "系统设计"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-20T18:35:00+08:00",
+  "updated_at": "2026-06-20T18:35:00+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "负载均衡策略对系统成本和性能有显著影响",
+      "Erlang的并发模型适合构建高可用分布式系统",
+      "经济学视角有助于优化系统资源分配"
+    ],
+    "category": "系统架构"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260620-018",
+  "title": "The AirPods Effect",
+  "source_url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+  "source_type": "rss",
+  "summary": "本文探讨了AirPods对用户行为和科技行业的影响，分析了其作为无线耳机如何改变人们与设备的交互方式，并可能为AI、LLM和Agent领域提供关于无缝集成和用户界面设计的启示。",
+  "tags": [
+    "人机交互",
+    "用户体验",
+    "无线技术"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-20T18:35:00+08:00",
+  "updated_at": "2026-06-20T18:35:00+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "AirPods推动了无线音频的普及",
+      "改变了用户与设备的交互模式",
+      "为AI Agent的界面设计提供参考"
+    ],
+    "category": "科技趋势"
+  }
+}
