@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260621-016",
+  "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
+  "source_url": "https://startupwiki.tech/",
+  "source_type": "rss",
+  "summary": "StartupWiki是一个免费的初创公司数据库，旨在简化公司发现和研究过程，无需账户或订阅，类似Wikipedia。项目仍早期，提供公司档案、搜索过滤、分类和公开API。",
+  "tags": [
+    "创业数据库",
+    "免费替代品",
+    "公开API"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-21T19:18:49+08:00",
+  "updated_at": "2026-06-21T19:18:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "提供免费、无账户的初创公司信息查询",
+      "项目早期，功能有限",
+      "公开API可能用于AI数据集成"
+    ],
+    "category": "创业工具"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260621-012",
+  "title": "Alice is impatient",
+  "source_url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+  "source_type": "rss",
+  "summary": "文章讨论了Alice在等待过程中的不耐烦情绪，可能涉及系统延迟、用户体验或异步处理等计算机科学概念。",
+  "tags": [
+    "等待",
+    "延迟",
+    "用户体验"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-21T19:18:49+08:00",
+  "updated_at": "2026-06-21T19:18:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "等待可能导致不耐烦",
+      "延迟影响用户体验"
+    ],
+    "category": "计算机科学"
+  }
+}

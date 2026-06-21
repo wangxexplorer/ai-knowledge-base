@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260621-019",
+  "title": "Show HN: TownSquare, a tiny presence layer for websites",
+  "source_url": "https://townsquare.cauenapier.com/",
+  "source_type": "rss",
+  "summary": "TownSquare是一个为网站设计的轻量级在线状态层，用于显示用户或团队成员的实时存在信息。它通过简单的API集成，增强网站的协作感知能力。该工具本身不直接涉及AI或LLM，但可作为Agent或协作系统的前端组件，提供实时状态反馈。",
+  "tags": [
+    "实时存在",
+    "协作工具",
+    "网站集成"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-21T19:18:49+08:00",
+  "updated_at": "2026-06-21T19:18:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "提供轻量级在线状态层",
+      "可增强协作感知",
+      "可作为Agent系统的辅助组件"
+    ],
+    "category": "工具与基础设施"
+  }
+}

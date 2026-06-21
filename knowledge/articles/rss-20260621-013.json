@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260621-013",
+  "title": "Unauthorized alert sent to cell phones across Brazil",
+  "source_url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
+  "source_type": "rss",
+  "summary": "巴西发生未经授权的手机警报事件，黑客利用技术手段向全国手机发送虚假警报，引发公众恐慌。该事件涉及网络安全、社会工程和移动通信基础设施的脆弱性。",
+  "tags": [
+    "网络安全",
+    "社会工程",
+    "移动通信"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-21T19:18:49+08:00",
+  "updated_at": "2026-06-21T19:18:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "黑客利用移动通信系统漏洞发送虚假警报",
+      "事件凸显社会工程攻击的潜在危害",
+      "需加强关键基础设施的防护"
+    ],
+    "category": "网络安全"
+  }
+}

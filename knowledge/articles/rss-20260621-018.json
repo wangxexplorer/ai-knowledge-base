@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260621-018",
+  "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+  "source_url": "https://github.com/mysk-research/loupe",
+  "source_type": "rss",
+  "summary": "Loupe是一款iOS应用，旨在提高用户对原生应用可访问数据的认识，展示应用能看到的设备信息。",
+  "tags": [
+    "隐私",
+    "iOS",
+    "数据安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-21T19:18:49+08:00",
+  "updated_at": "2026-06-21T19:18:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "提高用户对应用数据访问的透明度",
+      "关注移动设备隐私保护"
+    ],
+    "category": "隐私与安全"
+  }
+}

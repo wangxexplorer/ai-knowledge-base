@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260621-005",
+  "title": "Building reliable agentic AI systems",
+  "source_url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+  "source_type": "rss",
+  "summary": "本文探讨如何构建可靠的基于LLM的Agent系统，重点在于通过结构化设计、验证机制和错误处理来提升AI系统的稳定性与可信度。",
+  "tags": [
+    "Agent",
+    "LLM",
+    "可靠性",
+    "系统设计",
+    "AI工程"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-21T19:18:49+08:00",
+  "updated_at": "2026-06-21T19:18:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "构建可靠Agent系统需要结构化验证与错误处理机制",
+      "LLM作为核心组件时，需关注输出一致性与可审计性",
+      "系统设计应包含多级防护以应对模型不确定性"
+    ],
+    "category": "技术实践"
+  }
+}

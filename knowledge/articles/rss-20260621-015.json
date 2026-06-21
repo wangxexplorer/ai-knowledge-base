@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260621-015",
+  "title": "SMPTE Makes Its Standards Freely Accessible",
+  "source_url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+  "source_type": "rss",
+  "summary": "SMPTE（电影与电视工程师协会）宣布将其标准库免费开放给全球媒体技术社区，旨在促进媒体技术的互操作性和创新。此举降低了获取专业标准的门槛，对媒体制作、分发和播放领域有重要影响。",
+  "tags": [
+    "媒体技术",
+    "标准开放",
+    "互操作性"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-21T19:18:49+08:00",
+  "updated_at": "2026-06-21T19:18:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "SMPTE标准免费开放，降低行业门槛",
+      "促进媒体技术互操作性与创新",
+      "对AI/LLM/Agent领域间接相关，主要影响媒体技术生态"
+    ],
+    "category": "行业标准"
+  }
+}

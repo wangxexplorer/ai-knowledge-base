@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260621-008",
+  "title": "Epoll vs. io_uring in Linux",
+  "source_url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+  "source_type": "rss",
+  "summary": "本文对比了Linux中两种I/O多路复用机制：epoll和io_uring。epoll是传统的事件驱动模型，适用于大多数网络应用；io_uring是较新的异步I/O框架，通过共享环形缓冲区减少系统调用开销，在高并发场景下性能更优。文章分析了各自原理、优缺点及适用场景。",
+  "tags": [
+    "Linux",
+    "I/O",
+    "性能优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-21T19:18:49+08:00",
+  "updated_at": "2026-06-21T19:18:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "io_uring通过减少系统调用次数提升I/O性能",
+      "epoll适合传统网络应用，io_uring适合高并发场景",
+      "io_uring对AI/LLM/Agent领域影响有限，但可间接优化底层I/O"
+    ],
+    "category": "系统编程"
+  }
+}

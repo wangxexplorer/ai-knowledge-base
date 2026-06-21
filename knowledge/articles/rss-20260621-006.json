@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260621-006",
+  "title": "Developers don't understand CORS (2019)",
+  "source_url": "https://fosterelli.co/developers-dont-understand-cors",
+  "source_type": "rss",
+  "summary": "文章指出许多开发者对CORS（跨域资源共享）的理解存在误区，解释了CORS的工作原理、常见误解以及正确配置方法。",
+  "tags": [
+    "CORS",
+    "Web开发",
+    "安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-21T19:18:49+08:00",
+  "updated_at": "2026-06-21T19:18:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "CORS是浏览器机制，不是服务器安全措施",
+      "开发者常混淆CORS与CSRF",
+      "正确配置CORS需理解预检请求和响应头"
+    ],
+    "category": "Web开发"
+  }
+}

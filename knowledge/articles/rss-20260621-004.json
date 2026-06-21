@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260621-004",
+  "title": "Windows UI evolution: Clicking an unassociated file",
+  "source_url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
+  "source_type": "rss",
+  "summary": "该条目讨论了Windows用户界面中点击未关联文件时的交互演变，属于操作系统UI设计范畴，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "Windows",
+    "UI",
+    "文件关联"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-21T19:18:49+08:00",
+  "updated_at": "2026-06-21T19:18:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Windows UI交互历史",
+      "文件关联机制",
+      "用户体验设计"
+    ],
+    "category": "操作系统"
+  }
+}
