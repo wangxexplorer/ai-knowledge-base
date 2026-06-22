@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260622-016",
+  "title": "There is minimal downside to switching to open models",
+  "source_url": "https://www.marble.onl/posts/cancel_claude.html",
+  "source_type": "rss",
+  "summary": "文章探讨了从闭源模型转向开源模型（如AI、LLM）的潜在优势，认为这种转变几乎没有负面影响，可能带来成本、灵活性和控制力的提升。",
+  "tags": [
+    "开源模型",
+    "闭源模型",
+    "LLM",
+    "AI",
+    "模型切换"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-22T21:37:40+08:00",
+  "updated_at": "2026-06-22T21:37:40+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "转向开源模型风险低",
+      "开源模型可降低成本",
+      "开源模型提供更多控制权"
+    ],
+    "category": "AI模型与部署"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260622-017",
+  "title": "JSON-LD explained for personal websites",
+  "source_url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+  "source_type": "rss",
+  "summary": "JSON-LD是一种用于在个人网站上结构化数据的方法，便于搜索引擎和AI理解网页内容。文章解释了JSON-LD的基本概念、语法及其在个人网站中的应用，强调其提升SEO和机器可读性的价值。",
+  "tags": [
+    "JSON-LD",
+    "结构化数据",
+    "SEO",
+    "个人网站"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-22T21:37:40+08:00",
+  "updated_at": "2026-06-22T21:37:40+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "JSON-LD使网页内容对AI和搜索引擎更友好",
+      "适用于个人网站以增强机器可读性",
+      "与LLM和Agent的数据提取场景相关"
+    ],
+    "category": "数据表示与互操作性"
+  }
+}

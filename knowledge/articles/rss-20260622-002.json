@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260622-002",
+  "title": "Why Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers",
+  "source_url": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
+  "source_type": "rss",
+  "summary": "本文探讨绘图板品牌不愿合作开发Linux开源驱动的原因，涉及硬件厂商的商业策略、开源社区协作挑战等。与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "Linux",
+    "开源驱动",
+    "绘图板"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-22T21:37:40+08:00",
+  "updated_at": "2026-06-22T21:37:40+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "绘图板品牌缺乏Linux驱动合作动机",
+      "商业利益与开源理念冲突"
+    ],
+    "category": "硬件与开源软件"
+  }
+}

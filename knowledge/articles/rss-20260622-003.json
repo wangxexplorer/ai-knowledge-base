@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260622-003",
+  "title": "Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search",
+  "source_url": "https://manticoresearch.com/blog/manticore-search-27-1-5/",
+  "source_type": "rss",
+  "summary": "Manticore Search 27.1.5版本新增了认证、分片、对话式搜索和更快的向量搜索功能。这些改进增强了其作为AI应用后端的能力，特别是对话式搜索和向量搜索功能，使其更适用于LLM和Agent场景。",
+  "tags": [
+    "向量搜索",
+    "对话式搜索",
+    "数据库",
+    "AI基础设施",
+    "搜索优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-22T21:37:40+08:00",
+  "updated_at": "2026-06-22T21:37:40+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "新增对话式搜索功能，可直接支持LLM驱动的交互式查询。",
+      "更快的向量搜索能力，提升RAG等AI应用的检索效率。",
+      "分片和认证功能增强了系统的可扩展性和安全性，适合生产环境部署。"
+    ],
+    "category": "AI基础设施与工具"
+  }
+}

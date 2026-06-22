@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260622-001",
+  "title": "window.showDirectoryPicker opens up a whole new world",
+  "source_url": "https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/",
+  "source_type": "rss",
+  "summary": "本文介绍了window.showDirectoryPicker API，该API允许Web应用在用户授权下访问本地目录，实现文件读写操作。这为Web应用提供了更强大的本地文件系统交互能力，但需注意安全性和隐私限制。",
+  "tags": [
+    "Web API",
+    "文件系统",
+    "浏览器"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-22T21:37:40+08:00",
+  "updated_at": "2026-06-22T21:37:40+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Web应用可请求访问本地目录",
+      "需用户明确授权",
+      "支持读写操作"
+    ],
+    "category": "Web开发"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260622-019",
+  "title": "Show HN: Teach your kids perfect pitch",
+  "source_url": "https://github.com/paytonjjones/bsharp",
+  "source_type": "rss",
+  "summary": "该项目是一个名为bsharp的GitHub仓库，旨在通过技术手段帮助儿童学习绝对音感。虽然不直接涉及AI或LLM，但可能利用音频处理或机器学习辅助训练。",
+  "tags": [
+    "音乐教育",
+    "绝对音感",
+    "儿童学习"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-22T21:37:40+08:00",
+  "updated_at": "2026-06-22T21:37:40+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "利用技术辅助音乐技能训练",
+      "可能涉及音频分析或机器学习",
+      "面向儿童教育领域"
+    ],
+    "category": "教育技术"
+  }
+}

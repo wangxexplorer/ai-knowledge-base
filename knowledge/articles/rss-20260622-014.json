@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260622-014",
+  "title": "PowerFox Browser",
+  "source_url": "https://powerfox.jazzzny.me/",
+  "source_type": "rss",
+  "summary": "PowerFox Browser是一个浏览器项目，在Hacker News上获得152分和42条评论。其与AI、LLM、Agent领域的直接相关性较低，可能涉及浏览器自动化或AI集成，但描述未明确提及。",
+  "tags": [
+    "浏览器",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-22T21:37:40+08:00",
+  "updated_at": "2026-06-22T21:37:40+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "项目在Hacker News上获得关注",
+      "可能涉及浏览器技术",
+      "与AI领域间接相关"
+    ],
+    "category": "工具"
+  }
+}

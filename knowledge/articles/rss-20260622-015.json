@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260622-015",
+  "title": "Everything is logarithms",
+  "source_url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+  "source_type": "rss",
+  "summary": "文章探讨了对数在数学、科学和工程中的普遍存在性，强调其简化复杂关系、处理指数增长和尺度变换的核心作用。",
+  "tags": [
+    "数学",
+    "对数",
+    "科学"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-22T21:37:40+08:00",
+  "updated_at": "2026-06-22T21:37:40+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "对数是理解指数增长和尺度变换的关键工具",
+      "对数在多个学科中简化复杂关系",
+      "对数思维有助于处理大规模数据"
+    ],
+    "category": "数学与科学"
+  }
+}

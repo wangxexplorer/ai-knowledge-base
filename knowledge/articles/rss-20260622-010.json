@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260622-010",
+  "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+  "source_url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+  "source_type": "rss",
+  "summary": "本文介绍了如何微调本地LLM（如Qwen 3:0.6B）来对问题进行自动分类。通过使用小型模型进行微调，可以在资源受限的环境中实现高效、准确的分类任务，展示了本地化AI应用的实用方法。",
+  "tags": [
+    "微调",
+    "本地LLM",
+    "问题分类",
+    "Qwen",
+    "资源优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-22T21:37:40+08:00",
+  "updated_at": "2026-06-22T21:37:40+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "微调小型本地LLM（如0.6B参数）可有效完成问题分类任务",
+      "本地部署微调模型能降低对云端资源的依赖，提升隐私和效率",
+      "该方法适用于资源受限场景，扩展了LLM的实际应用范围"
+    ],
+    "category": "模型微调与应用"
+  }
+}

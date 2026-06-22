@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260622-008",
+  "title": "Danish privacy activist Lars Andersen raided by police",
+  "source_url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
+  "source_type": "rss",
+  "summary": "丹麦隐私活动家Lars Andersen遭警方突击搜查，事件与AI、LLM、Agent领域无直接关联，但可能涉及数据隐私与监管议题。",
+  "tags": [
+    "隐私",
+    "监管",
+    "数据保护"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-22T21:37:40+08:00",
+  "updated_at": "2026-06-22T21:37:40+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "隐私活动家遭警方行动",
+      "可能涉及数据保护争议",
+      "与AI技术无直接关联"
+    ],
+    "category": "社会事件"
+  }
+}
