@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260623-007",
+  "title": "Will It Mythos?",
+  "source_url": "https://swelljoe.com/post/will-it-mythos/",
+  "source_type": "rss",
+  "summary": "本文探讨了AI神话化现象，分析人们是否会将AI技术视为神话或超自然力量，并讨论其社会影响。",
+  "tags": [
+    "AI",
+    "神话",
+    "社会影响",
+    "技术文化"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-23T19:19:15+08:00",
+  "updated_at": "2026-06-23T19:19:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI技术可能被公众神话化",
+      "神话化影响技术接受度",
+      "需理性看待AI能力"
+    ],
+    "category": "技术文化"
+  }
+}

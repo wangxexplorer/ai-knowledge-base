@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260623-008",
+  "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+  "source_url": "https://arxiv.org/abs/2606.03748",
+  "source_type": "rss",
+  "summary": "Ultralytics YOLO26 提出统一实时端到端视觉模型，在目标检测、分割等任务上实现高效性能。该工作主要聚焦计算机视觉领域，与AI、LLM、Agent的直接相关性较低，但可作为多模态AI系统的视觉组件。",
+  "tags": [
+    "计算机视觉",
+    "目标检测",
+    "YOLO",
+    "实时模型"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-23T19:19:15+08:00",
+  "updated_at": "2026-06-23T19:19:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "YOLO26 实现端到端实时视觉处理",
+      "统一模型支持多视觉任务",
+      "可作为多模态AI的视觉模块"
+    ],
+    "category": "计算机视觉"
+  }
+}

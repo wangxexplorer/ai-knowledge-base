@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260623-016",
+  "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+  "source_url": "https://ipvm.com/reports/police-chiefs-track",
+  "source_type": "rss",
+  "summary": "文章报道了警方利用Flock车牌识别系统追踪女性的事件，强调了对执法部门使用此类技术需要授权令的必要性。该案例涉及AI在监控中的应用，但核心是隐私和伦理问题。",
+  "tags": [
+    "AI伦理",
+    "隐私",
+    "监控",
+    "执法"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-23T19:19:15+08:00",
+  "updated_at": "2026-06-23T19:19:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "AI监控技术可能被滥用",
+      "需要法律授权令保护隐私",
+      "案例凸显AI伦理挑战"
+    ],
+    "category": "AI伦理与法律"
+  }
+}

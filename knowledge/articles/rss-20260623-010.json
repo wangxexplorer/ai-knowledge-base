@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260623-010",
+  "title": "An Introduction to YOLO26",
+  "source_url": "https://blog.roboflow.com/yolo26/",
+  "source_type": "rss",
+  "summary": "YOLO26是目标检测领域的最新版本，专注于实时物体识别。该文章介绍其架构改进、性能提升及在计算机视觉中的应用。",
+  "tags": [
+    "计算机视觉",
+    "目标检测",
+    "YOLO"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-23T19:19:15+08:00",
+  "updated_at": "2026-06-23T19:19:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "YOLO26提升了检测精度与速度",
+      "适用于实时应用场景"
+    ],
+    "category": "计算机视觉"
+  }
+}

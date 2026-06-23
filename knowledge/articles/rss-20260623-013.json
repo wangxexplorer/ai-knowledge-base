@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260623-013",
+  "title": "GLM-5.2 – How to Run Locally",
+  "source_url": "https://unsloth.ai/docs/models/glm-5.2",
+  "source_type": "rss",
+  "summary": "GLM-5.2模型本地运行指南，由Unsloth提供，旨在优化大模型在本地环境的高效部署与推理。",
+  "tags": [
+    "GLM",
+    "本地部署",
+    "模型推理",
+    "Unsloth",
+    "大模型"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-23T19:19:15+08:00",
+  "updated_at": "2026-06-23T19:19:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "提供GLM-5.2本地运行的具体方法",
+      "Unsloth工具可加速模型推理",
+      "适用于AI开发者与研究者"
+    ],
+    "category": "模型部署与优化"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260623-004",
+  "title": "The new HTTP QUERY method explained",
+  "source_url": "https://kreya.app/blog/new-http-query-method-explained/",
+  "source_type": "rss",
+  "summary": "本文介绍了新的HTTP QUERY方法，旨在优化API查询操作，减少复杂查询对GET和POST方法的依赖。该方法允许在请求体中发送查询参数，同时保持幂等性和缓存友好性，适用于RESTful API和GraphQL场景。",
+  "tags": [
+    "HTTP协议",
+    "API设计",
+    "RESTful"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-23T19:19:15+08:00",
+  "updated_at": "2026-06-23T19:19:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "HTTP QUERY方法简化了复杂查询的API设计",
+      "保持幂等性和缓存特性",
+      "适用于REST和GraphQL场景"
+    ],
+    "category": "技术协议"
+  }
+}

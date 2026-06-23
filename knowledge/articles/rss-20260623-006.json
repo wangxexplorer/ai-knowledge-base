@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260623-006",
+  "title": "Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason",
+  "source_url": "https://github.com/imtomt/ymawky/tree/linux",
+  "source_type": "rss",
+  "summary": "该项目是一个纯ARM64汇编编写的动态Web服务器，支持CGI脚本、查询字符串和多种HTTP方法，并已移植到Linux。虽然不直接涉及AI/LLM/Agent，但展示了底层系统编程技术。",
+  "tags": [
+    "ARM64",
+    "Assembly",
+    "Web Server",
+    "CGI"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-23T19:19:15+08:00",
+  "updated_at": "2026-06-23T19:19:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "纯汇编实现Web服务器，性能优化潜力大",
+      "CGI支持使动态内容生成成为可能",
+      "从macOS移植到Linux，跨平台能力增强"
+    ],
+    "category": "系统编程"
+  }
+}

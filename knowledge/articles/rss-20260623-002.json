@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260623-002",
+  "title": "The Traditional Vi",
+  "source_url": "https://ex-vi.sourceforge.net/",
+  "source_type": "rss",
+  "summary": "该条目介绍了传统Vi编辑器（ex-vi）的源代码和文档，源自Hacker News的讨论。内容聚焦于经典文本编辑工具，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "Vi编辑器",
+    "文本编辑",
+    "开源软件"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-23T19:19:15+08:00",
+  "updated_at": "2026-06-23T19:19:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "传统Vi编辑器是Unix系统的基础工具",
+      "该条目不涉及AI或LLM技术"
+    ],
+    "category": "软件开发工具"
+  }
+}

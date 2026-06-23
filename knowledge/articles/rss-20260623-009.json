@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260623-009",
+  "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+  "source_url": "https://arxiv.org/abs/2606.16140",
+  "source_type": "rss",
+  "summary": "VibeThinker是一个仅3B参数的模型，通过结合SFT和GRPO的新型训练方法，在推理任务上超越了Opus 4.5。该研究展示了小模型通过创新训练策略达到甚至超越大模型性能的可能性，对AI推理能力提升和模型效率优化具有重要意义。",
+  "tags": [
+    "小模型",
+    "推理",
+    "SFT",
+    "GRPO",
+    "模型优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-23T19:19:15+08:00",
+  "updated_at": "2026-06-23T19:19:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "3B参数模型通过SFT+GRPO训练在推理上超越大模型",
+      "创新训练方法可显著提升小模型推理能力",
+      "展示了模型效率与性能平衡的新方向"
+    ],
+    "category": "模型训练与推理"
+  }
+}

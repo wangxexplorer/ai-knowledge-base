@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260623-012",
+  "title": "In praise of memcached",
+  "source_url": "https://jchri.st/blog/in-praise-of-memcached/",
+  "source_type": "rss",
+  "summary": "本文赞扬了memcached作为分布式缓存系统的简洁性和高效性，强调其在提升Web应用性能中的关键作用。文章讨论了memcached的设计哲学、使用场景及与Redis等替代方案的对比，突出了其轻量级和易用性。",
+  "tags": [
+    "缓存",
+    "分布式系统",
+    "性能优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-23T19:19:15+08:00",
+  "updated_at": "2026-06-23T19:19:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "memcached的简洁设计使其在高并发场景下表现优异",
+      "与Redis相比，memcached更专注于缓存功能，减少复杂性",
+      "memcached仍是许多大型网站性能优化的核心组件"
+    ],
+    "category": "基础设施"
+  }
+}

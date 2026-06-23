@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260623-020",
+  "title": "Show HN: Oak – Git alternative designed for agents",
+  "source_url": "https://oak.space/oak/oak",
+  "source_type": "rss",
+  "summary": "Oak是一个专为AI代理设计的版本控制系统，通过虚拟挂载技术，使代理无需完整仓库副本即可工作，支持并行任务处理，提升速度和上下文效率。目前处于早期开发阶段，缺少Windows支持及CI、问题追踪等功能。",
+  "tags": [
+    "版本控制",
+    "AI代理",
+    "虚拟挂载",
+    "并行任务",
+    "开发工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-23T19:19:15+08:00",
+  "updated_at": "2026-06-23T19:19:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "Oak通过虚拟挂载技术减少代理对完整仓库的依赖，提升效率",
+      "支持并行任务处理，避免下载完整仓库或管理工作树",
+      "专为AI代理设计，优化版本控制的速度和上下文管理"
+    ],
+    "category": "开发工具"
+  }
+}

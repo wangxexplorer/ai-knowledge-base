@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260623-003",
+  "title": "Show HN: Neural Particle Automata",
+  "source_url": "https://selforg-npa.github.io/",
+  "source_type": "rss",
+  "summary": "Neural Particle Automata 是一种新型粒子系统，每个粒子作为智能体，遵循简单共享规则，可在空间中自由移动并改变状态，整体展现出自组织、形态生成、损伤自愈等涌现行为。该系统去除了传统网格约束，为研究复杂形态和模式形成提供了新方法，与AI、LLM、Agent领域中的多智能体系统、涌现智能和自组织计算高度相关。",
+  "tags": [
+    "多智能体系统",
+    "涌现行为",
+    "自组织",
+    "粒子系统",
+    "神经细胞自动机"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-23T19:19:15+08:00",
+  "updated_at": "2026-06-23T19:19:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "每个粒子作为独立智能体，通过简单局部规则实现全局复杂形态与自愈能力",
+      "去除网格约束后，粒子系统展现出更丰富的涌现行为，与多智能体系统研究高度契合",
+      "该方法为AI中的自组织计算、群体智能和形态生成提供了新的实验范式"
+    ],
+    "category": "多智能体与涌现计算"
+  }
+}

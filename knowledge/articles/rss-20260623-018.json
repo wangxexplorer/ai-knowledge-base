@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260623-018",
+  "title": "Steam Machine launches today",
+  "source_url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+  "source_type": "rss",
+  "summary": "Steam Machine今日发布，相关链接包括Steam商店页面、LTT评测文章及YouTube视频，Hacker News上讨论热烈。",
+  "tags": [
+    "游戏硬件",
+    "Steam",
+    "发布"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-23T19:19:15+08:00",
+  "updated_at": "2026-06-23T19:19:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Steam Machine正式发布",
+      "相关评测和讨论已上线"
+    ],
+    "category": "游戏硬件"
+  }
+}

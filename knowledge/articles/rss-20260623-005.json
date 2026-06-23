@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260623-005",
+  "title": "Who Does What? Team Topologies for the Agentic Platform",
+  "source_url": "https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html",
+  "source_type": "rss",
+  "summary": "文章探讨了在构建Agentic平台时，如何通过团队拓扑（Team Topologies）来明确不同团队的角色与职责。它分析了AI代理、LLM等组件在平台中的协作方式，并提出了优化团队结构与交互模式的建议，以提升开发效率和系统可靠性。",
+  "tags": [
+    "Agentic Platform",
+    "Team Topologies",
+    "AI代理",
+    "LLM",
+    "团队协作"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-23T19:19:15+08:00",
+  "updated_at": "2026-06-23T19:19:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "Agentic平台需要明确的团队拓扑来协调AI代理与LLM的职责。",
+      "合理的团队结构能提升AI系统的开发与运维效率。",
+      "跨团队协作模式对Agentic平台的成功至关重要。"
+    ],
+    "category": "AI工程实践"
+  }
+}
