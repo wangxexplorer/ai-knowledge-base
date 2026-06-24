@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260624-014",
+  "title": "Swift Package Index joins Apple",
+  "source_url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+  "source_type": "rss",
+  "summary": "Swift Package Index（SPI）宣布加入苹果公司。SPI是一个用于发现Swift包的开源索引平台，此次加入苹果意味着其将获得更多资源支持，并可能整合进苹果的开发者生态。该事件主要涉及Swift语言和苹果开发者工具，与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "Swift",
+    "Apple",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-24T18:52:39+08:00",
+  "updated_at": "2026-06-24T18:52:39+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "SPI加入苹果将增强Swift包生态",
+      "对AI/LLM/Agent领域无直接影响"
+    ],
+    "category": "技术生态"
+  }
+}

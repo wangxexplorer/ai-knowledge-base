@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260624-004",
+  "title": "Grok Build 0.1: Intelligence, Performance and Price Analysis",
+  "source_url": "https://artificialanalysis.ai/models/grok-build-0-1-06-16",
+  "source_type": "rss",
+  "summary": "Grok Build 0.1是xAI开发的大语言模型，本文对其智能水平、性能和价格进行了分析。该模型在推理、编码等任务上表现突出，价格具有竞争力，是AI领域的重要进展。",
+  "tags": [
+    "大语言模型",
+    "性能分析",
+    "价格分析",
+    "xAI",
+    "Grok"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-24T18:52:39+08:00",
+  "updated_at": "2026-06-24T18:52:39+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Grok Build 0.1在智能和性能上表现优异",
+      "该模型定价具有市场竞争力",
+      "xAI在LLM领域持续创新"
+    ],
+    "category": "模型评测"
+  }
+}

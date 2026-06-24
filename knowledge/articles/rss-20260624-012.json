@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260624-012",
+  "title": "Jerry's Map",
+  "source_url": "http://www.jerrysmap.com/the-map",
+  "source_type": "rss",
+  "summary": "Jerry's Map是一个持续多年、由个人手工绘制的虚构地图项目，展现了非数字化的创意与耐心。与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "手工地图",
+    "艺术项目",
+    "非AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-24T18:52:39+08:00",
+  "updated_at": "2026-06-24T18:52:39+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该项目为纯手工创作，不涉及AI技术",
+      "与LLM或Agent无任何技术关联",
+      "属于艺术或趣味性内容"
+    ],
+    "category": "非相关"
+  }
+}

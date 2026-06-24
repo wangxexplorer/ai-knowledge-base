@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260624-017",
+  "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+  "source_url": "https://tikz.dev/editor/",
+  "source_type": "rss",
+  "summary": "TikZ Editor是一个所见即所得的TikZ图形编辑器，支持拖拽编辑和源码同步。其实现依赖代码解析和坐标覆盖，作者指出这类繁琐任务正因编码智能体（如Codex）而变得可行。该工具本身并非AI/LLM/Agent核心应用，但展示了AI辅助开发复杂软件的潜力。",
+  "tags": [
+    "AI辅助开发",
+    "代码生成",
+    "可视化编辑"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-24T18:52:39+08:00",
+  "updated_at": "2026-06-24T18:52:39+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "编码智能体使构建传统上过于繁琐的软件成为可能",
+      "TikZ Editor通过源码解析实现双向同步编辑",
+      "该工具是AI辅助开发的实际案例"
+    ],
+    "category": "AI应用案例"
+  }
+}

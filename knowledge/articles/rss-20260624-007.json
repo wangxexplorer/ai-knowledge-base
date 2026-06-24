@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260624-007",
+  "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+  "source_url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
+  "source_type": "rss",
+  "summary": "该条目描述了一种解决MacBook Neo光标延迟的“修复”方法：每10秒记录屏幕的1个像素。内容与AI、LLM或Agent领域无直接关联，属于硬件或系统层面的技术技巧。",
+  "tags": [
+    "MacBook",
+    "光标延迟",
+    "系统修复"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-24T18:52:39+08:00",
+  "updated_at": "2026-06-24T18:52:39+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该修复方法通过极低频率的屏幕像素记录来缓解光标延迟",
+      "与AI、LLM或Agent技术无关"
+    ],
+    "category": "硬件/系统技巧"
+  }
+}

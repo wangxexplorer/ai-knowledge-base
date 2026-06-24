@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260624-009",
+  "title": "Qwen-AgentWorld: Language World Models for General Agents",
+  "source_url": "https://arxiv.org/abs/2606.24597",
+  "source_type": "rss",
+  "summary": "Qwen-AgentWorld提出语言世界模型，旨在为通用智能体提供环境建模能力，使其能基于语言理解进行规划与决策。该研究结合大语言模型与智能体技术，探索如何构建可泛化的世界模型以增强Agent的自主性。",
+  "tags": [
+    "语言世界模型",
+    "通用智能体",
+    "大语言模型",
+    "自主决策",
+    "环境建模"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-24T18:52:39+08:00",
+  "updated_at": "2026-06-24T18:52:39+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "语言世界模型可提升Agent对环境的理解与规划能力",
+      "结合LLM与Agent技术是构建通用智能体的关键路径",
+      "该研究为Agent在复杂任务中的自主决策提供了新范式"
+    ],
+    "category": "AI Agent"
+  }
+}

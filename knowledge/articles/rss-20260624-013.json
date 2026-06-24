@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260624-013",
+  "title": "In memory of the man who put red and green squiggles under words",
+  "source_url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+  "source_type": "rss",
+  "summary": "该条目是一篇纪念文章，悼念为文字处理软件添加红色和绿色波浪下划线（拼写和语法检查功能）的开发者。内容聚焦于技术历史和个人贡献，未涉及AI、LLM或Agent领域。",
+  "tags": [
+    "技术历史",
+    "纪念",
+    "文字处理",
+    "拼写检查"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-24T18:52:39+08:00",
+  "updated_at": "2026-06-24T18:52:39+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "纪念一位对文字处理软件有重要贡献的开发者",
+      "红色和绿色波浪下划线是拼写和语法检查的标志性功能",
+      "文章属于技术历史范畴，与AI无关"
+    ],
+    "category": "技术历史"
+  }
+}

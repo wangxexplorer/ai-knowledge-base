@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260624-011",
+  "title": "Vulnerability reports are not special anymore",
+  "source_url": "https://words.filippo.io/vuln-reports/",
+  "source_type": "rss",
+  "summary": "文章讨论漏洞报告不再具有特殊性，可能涉及自动化工具和AI在漏洞发现与报告中的应用，但未明确聚焦AI、LLM或Agent技术。",
+  "tags": [
+    "漏洞报告",
+    "安全",
+    "自动化"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-24T18:52:39+08:00",
+  "updated_at": "2026-06-24T18:52:39+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "漏洞报告流程可能被自动化工具改变",
+      "AI在安全领域的应用趋势"
+    ],
+    "category": "网络安全"
+  }
+}
