@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260625-005",
+  "title": "Medical students are using popular research tool to pump out misleading studies",
+  "source_url": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
+  "source_type": "rss",
+  "summary": "医学学生使用流行研究工具生成大量误导性研究，引发对学术诚信和研究质量的担忧。该工具可能基于AI或LLM技术，用于快速生成论文内容，但缺乏严格验证，导致虚假或低质量研究泛滥。",
+  "tags": [
+    "AI",
+    "学术诚信",
+    "研究工具",
+    "误导性研究",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-25T18:44:30+08:00",
+  "updated_at": "2026-06-25T18:44:30+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI工具被滥用于生成误导性学术研究，威胁学术诚信。",
+      "LLM技术可能被用于快速产出低质量论文，缺乏事实核查。",
+      "需加强AI工具在学术领域的监管和伦理规范。"
+    ],
+    "category": "AI伦理与风险"
+  }
+}

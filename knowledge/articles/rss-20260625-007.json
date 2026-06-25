@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260625-007",
+  "title": "Zombie unicorns are haunting Silicon Valley",
+  "source_url": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
+  "source_type": "rss",
+  "summary": "文章探讨硅谷“僵尸独角兽”现象，指估值超10亿美元但盈利困难、依赖融资存活的初创公司。虽未直接涉及AI，但此类公司常集中于AI领域，反映行业泡沫与资本效率问题。",
+  "tags": [
+    "独角兽",
+    "硅谷",
+    "创业",
+    "资本效率"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-25T18:44:30+08:00",
+  "updated_at": "2026-06-25T18:44:30+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "僵尸独角兽指高估值但盈利困难的初创公司",
+      "现象反映资本效率低下和泡沫风险",
+      "AI领域是此类公司常见集中地"
+    ],
+    "category": "商业与创业"
+  }
+}

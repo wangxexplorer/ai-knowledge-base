@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260625-008",
+  "title": "Mixing Visual and Textual Code",
+  "source_url": "https://arxiv.org/abs/2603.15855",
+  "source_type": "rss",
+  "summary": "该条目标题为“Mixing Visual and Textual Code”，来自arXiv，讨论视觉与文本代码的混合。可能涉及多模态编程或代码生成，与AI、LLM、Agent领域相关，但摘要未提供具体细节。",
+  "tags": [
+    "多模态",
+    "代码生成",
+    "LLM",
+    "视觉编程"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-25T18:44:30+08:00",
+  "updated_at": "2026-06-25T18:44:30+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "探索视觉与文本代码的融合方法",
+      "可能提升代码理解与生成能力",
+      "与多模态AI和LLM应用相关"
+    ],
+    "category": "多模态学习"
+  }
+}

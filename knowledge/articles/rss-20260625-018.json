@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260625-018",
+  "title": "45°C cooling design cuts data center water use to near zero",
+  "source_url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+  "source_type": "rss",
+  "summary": "NVIDIA博客介绍了一种45°C冷却设计，通过液体冷却技术将AI数据中心的水消耗降至接近零，显著提升能效并减少环境影响。",
+  "tags": [
+    "AI基础设施",
+    "数据中心",
+    "冷却技术",
+    "能效",
+    "NVIDIA"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-25T18:44:30+08:00",
+  "updated_at": "2026-06-25T18:44:30+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "45°C冷却设计可大幅降低AI数据中心的水资源消耗。",
+      "液体冷却技术是提升AI计算能效的关键。",
+      "该设计有助于减少AI工厂的环境足迹。"
+    ],
+    "category": "AI基础设施与硬件"
+  }
+}

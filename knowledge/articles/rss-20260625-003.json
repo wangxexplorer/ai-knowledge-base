@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260625-003",
+  "title": "Half-Life 2 in a Browser",
+  "source_url": "https://hl2.slqnt.dev/",
+  "source_type": "rss",
+  "summary": "该项目展示了在浏览器中运行《半条命2》的技术，主要涉及WebAssembly和图形渲染优化，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "WebAssembly",
+    "浏览器",
+    "游戏",
+    "图形渲染"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-25T18:44:30+08:00",
+  "updated_at": "2026-06-25T18:44:30+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "浏览器运行3A游戏的技术可行性",
+      "WebAssembly在性能敏感应用中的潜力"
+    ],
+    "category": "Web技术"
+  }
+}

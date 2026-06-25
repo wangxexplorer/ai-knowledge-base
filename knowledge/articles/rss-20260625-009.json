@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260625-009",
+  "title": "LuaJIT 3.0 proposed syntax extensions",
+  "source_url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+  "source_type": "rss",
+  "summary": "LuaJIT 3.0提出语法扩展提案，旨在增强LuaJIT的功能和性能。该提案涉及新的语法特性，可能影响LuaJIT的编译和执行效率。",
+  "tags": [
+    "LuaJIT",
+    "语法扩展",
+    "编程语言"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-25T18:44:30+08:00",
+  "updated_at": "2026-06-25T18:44:30+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "LuaJIT 3.0提案引入语法扩展",
+      "可能提升LuaJIT性能",
+      "与AI/LLM/Agent领域间接相关"
+    ],
+    "category": "编程语言"
+  }
+}

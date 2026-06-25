@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260625-004",
+  "title": "The Unbearable Cheapness of Open Weight Models",
+  "source_url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+  "source_type": "rss",
+  "summary": "文章探讨了开放权重模型成本急剧下降的现象，指出其价格已低至几乎可以忽略不计，对AI行业格局产生深远影响。作者分析了这种趋势如何降低AI应用门槛，促进创新，并可能改变大模型市场的竞争态势。",
+  "tags": [
+    "开放权重模型",
+    "成本下降",
+    "AI经济",
+    "开源AI",
+    "大模型"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-25T18:44:30+08:00",
+  "updated_at": "2026-06-25T18:44:30+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "开放权重模型成本大幅降低，接近零成本，将推动AI普及。",
+      "低成本模型可能颠覆现有AI商业模式，促进更多创新应用。",
+      "市场格局可能因开放权重模型的廉价化而重塑，开源与闭源竞争加剧。"
+    ],
+    "category": "AI经济与市场分析"
+  }
+}

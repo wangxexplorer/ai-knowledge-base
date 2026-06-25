@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260625-013",
+  "title": "Computer use in Gemini 3.5 Flash",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+  "source_type": "rss",
+  "summary": "Google在Gemini 3.5 Flash模型中引入“Computer use”功能，使AI能直接操作计算机界面，执行点击、输入等任务。该功能基于视觉理解和指令执行，扩展了LLM在自动化、代理场景的应用，引发社区广泛讨论。",
+  "tags": [
+    "Gemini",
+    "Computer Use",
+    "LLM",
+    "Agent",
+    "自动化"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-25T18:44:30+08:00",
+  "updated_at": "2026-06-25T18:44:30+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Gemini 3.5 Flash新增直接操作计算机界面的能力，是LLM向Agent演进的重要一步。",
+      "该功能依赖视觉理解和指令执行，可应用于自动化测试、流程编排等场景。",
+      "Hacker News上221分、140条评论，表明社区高度关注其潜在影响与风险。"
+    ],
+    "category": "模型能力"
+  }
+}

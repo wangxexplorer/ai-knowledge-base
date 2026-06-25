@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260625-016",
+  "title": "PR spam today looks like email spam in the early 2000s",
+  "source_url": "https://www.greptile.com/blog/prs-on-openclaw",
+  "source_type": "rss",
+  "summary": "文章将当前的PR垃圾信息比作21世纪初的电子邮件垃圾信息，指出随着AI和自动化工具的普及，PR垃圾信息变得更加泛滥和难以处理。",
+  "tags": [
+    "PR垃圾",
+    "垃圾信息",
+    "自动化"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-25T18:44:30+08:00",
+  "updated_at": "2026-06-25T18:44:30+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "PR垃圾信息问题日益严重",
+      "与早期电子邮件垃圾信息有相似之处"
+    ],
+    "category": "技术趋势"
+  }
+}

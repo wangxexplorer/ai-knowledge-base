@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260625-017",
+  "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+  "source_url": "https://github.com/nubjs/nub",
+  "source_type": "rss",
+  "summary": "Nub是一个面向Node.js的全能工具包，通过--require预加载钩子集成oxc转译器、模块解析钩子和Worker、Temporal等API的polyfill，增强Node.js功能，但代码仍运行在原生Node引擎上。",
+  "tags": [
+    "Node.js",
+    "工具包",
+    "转译器"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-25T18:44:30+08:00",
+  "updated_at": "2026-06-25T18:44:30+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Nub通过预加载钩子增强Node.js，不改变底层引擎",
+      "集成oxc转译器和polyfill，提供类似Bun的体验",
+      "与AI/LLM/Agent领域无直接关联"
+    ],
+    "category": "开发工具"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260625-019",
+  "title": "Qualcomm to Acquire Modular",
+  "source_url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+  "source_type": "rss",
+  "summary": "高通宣布收购AI初创公司Modular，后者专注于AI基础设施和编译器技术，旨在提升AI模型部署效率。此次收购将增强高通在AI领域的竞争力，特别是在边缘计算和移动设备上的AI应用。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Agent",
+    "收购",
+    "边缘计算"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-25T18:44:30+08:00",
+  "updated_at": "2026-06-25T18:44:30+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "高通通过收购Modular加强AI基础设施能力",
+      "Modular的编译器技术可优化AI模型在边缘设备的部署",
+      "此举反映AI芯片厂商对软件生态的重视"
+    ],
+    "category": "行业动态"
+  }
+}
