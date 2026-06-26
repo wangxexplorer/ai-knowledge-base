@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260626-007",
+  "title": "Un-0: Generating Images with Coupled Oscillators",
+  "source_url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+  "source_type": "rss",
+  "summary": "该条目介绍了一种名为Un-0的新型图像生成方法，它利用耦合振荡器而非传统神经网络来生成图像。这种方法在AI和LLM领域之外，探索了基于物理系统的生成模型，与当前主流的深度学习范式不同。",
+  "tags": [
+    "图像生成",
+    "耦合振荡器",
+    "非神经网络"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-26T18:53:47+08:00",
+  "updated_at": "2026-06-26T18:53:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "提出了一种基于物理振荡器的图像生成方法",
+      "与主流AI生成模型（如GAN、扩散模型）不同",
+      "可能为生成模型提供新的研究思路"
+    ],
+    "category": "替代生成模型"
+  }
+}

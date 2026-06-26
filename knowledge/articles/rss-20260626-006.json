@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260626-006",
+  "title": "The 'papers, please' era of the internet will decimate your privacy",
+  "source_url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+  "source_type": "rss",
+  "summary": "文章讨论互联网进入“请出示证件”时代，用户隐私面临严重威胁。随着身份验证和监控技术普及，个人数据被广泛收集和滥用，隐私保护日益困难。",
+  "tags": [
+    "隐私",
+    "监控",
+    "身份验证"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-26T18:53:47+08:00",
+  "updated_at": "2026-06-26T18:53:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "互联网身份验证普及加剧隐私风险",
+      "个人数据被广泛收集和滥用",
+      "隐私保护面临严峻挑战"
+    ],
+    "category": "隐私与安全"
+  }
+}

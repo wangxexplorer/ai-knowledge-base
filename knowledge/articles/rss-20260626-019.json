@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260626-019",
+  "title": "Apple raises prices of MacBooks, iPads",
+  "source_url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+  "source_type": "rss",
+  "summary": "苹果因内存成本飙升，上调了MacBook和iPad的价格。该事件主要涉及硬件成本与定价策略，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "苹果",
+    "价格调整",
+    "硬件成本"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-26T18:53:47+08:00",
+  "updated_at": "2026-06-26T18:53:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "内存成本上涨是提价主因",
+      "影响MacBook和iPad产品线"
+    ],
+    "category": "硬件与商业"
+  }
+}

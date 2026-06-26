@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260626-003",
+  "title": "What happened after 2k people tried to hack my AI assistant",
+  "source_url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+  "source_type": "rss",
+  "summary": "作者部署了一个AI助手并公开邀请2000人尝试破解，记录了攻击类型和防御经验，展示了AI系统面临的安全挑战。",
+  "tags": [
+    "AI安全",
+    "红队测试",
+    "提示注入",
+    "LLM",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-26T18:53:47+08:00",
+  "updated_at": "2026-06-26T18:53:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "AI助手易受提示注入和越狱攻击",
+      "公开测试可暴露系统漏洞",
+      "防御需结合输入过滤和权限控制"
+    ],
+    "category": "安全实践"
+  }
+}

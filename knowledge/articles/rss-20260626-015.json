@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260626-015",
+  "title": "An entire Herculaneum scroll has been read for the first time",
+  "source_url": "https://scrollprize.org/firstscroll",
+  "source_type": "rss",
+  "summary": "首次完整阅读赫库兰尼姆卷轴，利用AI和计算机视觉技术从碳化纸莎草中提取文本，展示了AI在考古学中的应用。",
+  "tags": [
+    "AI",
+    "计算机视觉",
+    "考古学",
+    "文本提取"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-26T18:53:47+08:00",
+  "updated_at": "2026-06-26T18:53:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI技术成功应用于古代文本恢复",
+      "计算机视觉在非传统领域取得突破",
+      "展示了AI跨学科应用的潜力"
+    ],
+    "category": "AI应用"
+  }
+}

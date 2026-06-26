@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260626-001",
+  "title": "We All Depend on Open Source. We Will Defend It Together",
+  "source_url": "https://akrites.org/letter/",
+  "source_type": "rss",
+  "summary": "该条目是一封公开信，强调开源软件对全球技术生态的依赖性和重要性，并呼吁社区共同捍卫开源精神。内容涉及开源协作、数字主权和集体行动，与AI、LLM、Agent领域间接相关，因为开源是这些技术发展的基础。",
+  "tags": [
+    "开源",
+    "社区协作",
+    "数字主权"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-26T18:53:47+08:00",
+  "updated_at": "2026-06-26T18:53:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "开源是技术创新的基石",
+      "社区合作是维护开源的关键",
+      "数字主权依赖开源生态"
+    ],
+    "category": "开源与社区"
+  }
+}

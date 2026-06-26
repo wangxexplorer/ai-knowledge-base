@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260626-004",
+  "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+  "source_url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+  "source_type": "rss",
+  "summary": "文章探讨了Framework笔记本电脑的10G以太网模块，揭示了USB-C接口在实现高速数据传输时的复杂性和挑战。",
+  "tags": [
+    "硬件",
+    "USB-C",
+    "以太网"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-26T18:53:47+08:00",
+  "updated_at": "2026-06-26T18:53:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "USB-C接口在高速数据传输中面临复杂性",
+      "10G以太网模块展示了硬件设计的挑战"
+    ],
+    "category": "硬件技术"
+  }
+}

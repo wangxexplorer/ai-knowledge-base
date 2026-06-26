@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260626-002",
+  "title": "Libre Barcode Project",
+  "source_url": "https://graphicore.github.io/librebarcode/",
+  "source_type": "rss",
+  "summary": "Libre Barcode Project是一个开源条形码字体项目，提供多种条形码标准的字体实现。该项目与AI、LLM、Agent领域无直接关联，主要聚焦于字体设计和条形码生成技术。",
+  "tags": [
+    "开源",
+    "字体",
+    "条形码"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-26T18:53:47+08:00",
+  "updated_at": "2026-06-26T18:53:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "开源条形码字体实现",
+      "与AI/LLM/Agent无关"
+    ],
+    "category": "字体与设计"
+  }
+}

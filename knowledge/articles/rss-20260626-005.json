@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260626-005",
+  "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
+  "source_url": "https://gchandbook.org/",
+  "source_type": "rss",
+  "summary": "《垃圾回收手册》第二版（2023）全面介绍了自动内存管理的艺术，涵盖现代垃圾回收算法、实现技术和性能优化。该书是系统编程和运行时环境领域的权威参考。",
+  "tags": [
+    "内存管理",
+    "垃圾回收",
+    "系统编程"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-26T18:53:47+08:00",
+  "updated_at": "2026-06-26T18:53:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "垃圾回收是自动内存管理的核心技术",
+      "现代GC算法对性能有重要影响",
+      "该书是系统编程和运行时环境的权威参考"
+    ],
+    "category": "计算机科学基础"
+  }
+}

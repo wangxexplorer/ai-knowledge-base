@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260626-011",
+  "title": "The Doorman's Fallacy in action",
+  "source_url": "https://rozumem.xyz/posts/17",
+  "source_type": "rss",
+  "summary": "文章讨论了“门卫谬误”（Doorman's Fallacy）在实际中的应用，即人们错误地将复杂系统的成功归因于某个单一因素或个体，而忽视了系统整体的作用。该概念与AI、LLM和Agent领域相关，因为在这些技术中，人们常将模型性能归功于某个组件（如注意力机制），而忽略了数据、训练、架构等整体贡献。",
+  "tags": [
+    "认知偏差",
+    "系统思维",
+    "AI解释性"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-26T18:53:47+08:00",
+  "updated_at": "2026-06-26T18:53:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "门卫谬误提醒AI研究者避免过度归因于单一技术组件。",
+      "理解系统整体贡献对评估LLM和Agent性能至关重要。",
+      "该谬误在AI安全与可解释性研究中具有警示意义。"
+    ],
+    "category": "认知科学与AI交叉"
+  }
+}

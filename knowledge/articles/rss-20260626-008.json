@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260626-008",
+  "title": "Om Malik has died",
+  "source_url": "https://om.co/2026/06/24/1966-2026/",
+  "source_type": "rss",
+  "summary": "该条目报道了科技界知名人士Om Malik去世的消息，内容主要涉及个人讣告，与AI、LLM或Agent技术领域无直接关联。",
+  "tags": [
+    "讣告",
+    "科技人物"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-26T18:53:47+08:00",
+  "updated_at": "2026-06-26T18:53:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Om Malik是科技行业知名人物",
+      "该条目为个人去世消息"
+    ],
+    "category": "人物新闻"
+  }
+}

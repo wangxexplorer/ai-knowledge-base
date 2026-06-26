@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260626-016",
+  "title": "IBM debuts sub-1 nanometer chip technology",
+  "source_url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+  "source_type": "rss",
+  "summary": "IBM发布了全球首个亚1纳米芯片技术，标志着半导体制造工艺的重大突破。该技术有望提升芯片性能与能效，对AI、LLM和Agent领域的硬件基础产生深远影响。",
+  "tags": [
+    "芯片技术",
+    "硬件",
+    "半导体",
+    "AI硬件",
+    "性能提升"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-26T18:53:47+08:00",
+  "updated_at": "2026-06-26T18:53:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "亚1纳米芯片技术将显著提升计算性能，支持更复杂的AI模型训练与推理。",
+      "更高的能效比有助于降低AI系统的能耗，推动边缘计算和Agent部署。",
+      "该技术突破为未来LLM和Agent的实时响应与大规模应用提供硬件基础。"
+    ],
+    "category": "硬件技术"
+  }
+}
