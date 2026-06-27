@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260627-015",
+  "title": "Hightouch (YC S19) Is Hiring",
+  "source_url": "https://hightouch.com/careers#open-positions",
+  "source_type": "rss",
+  "summary": "Hightouch (YC S19) 正在招聘，但条目内容仅为招聘信息，未涉及AI、LLM或Agent技术细节。",
+  "tags": [
+    "招聘"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-27T18:11:03+08:00",
+  "updated_at": "2026-06-27T18:11:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该条目为招聘广告，无技术内容"
+    ],
+    "category": "招聘信息"
+  }
+}

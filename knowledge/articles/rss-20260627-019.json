@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260627-019",
+  "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+  "source_url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+  "source_type": "rss",
+  "summary": "OpenAI发布了GPT-5.6 Sol的预览，这是一个下一代模型。该条目提供了系统卡链接和Hacker News上的讨论链接，表明该模型在AI社区中引起了广泛关注。",
+  "tags": [
+    "GPT-5.6",
+    "OpenAI",
+    "大语言模型",
+    "AI模型",
+    "下一代模型"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-27T18:11:03+08:00",
+  "updated_at": "2026-06-27T18:11:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 1.0,
+    "key_insights": [
+      "OpenAI正在预览其下一代模型GPT-5.6 Sol。",
+      "该模型引发了大量讨论，在Hacker News上有超过1000个讨论点。",
+      "提供了系统卡链接，可能包含模型的安全性和性能细节。"
+    ],
+    "category": "模型发布"
+  }
+}

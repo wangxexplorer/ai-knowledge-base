@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260627-016",
+  "title": "U.S. government will decide who gets to use GPT-5.6",
+  "source_url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+  "source_type": "rss",
+  "summary": "美国政府将决定谁可以使用GPT-5.6，OpenAI同意让政府审查其最新AI模型的用户。这涉及AI治理、安全与访问控制，与AI、LLM和Agent领域高度相关。",
+  "tags": [
+    "AI治理",
+    "LLM",
+    "GPT-5",
+    "政府监管",
+    "访问控制"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-27T18:11:03+08:00",
+  "updated_at": "2026-06-27T18:11:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "政府介入AI模型用户审查，体现AI安全与监管趋势",
+      "GPT-5.6作为先进LLM，其访问控制影响Agent应用部署",
+      "此决策可能成为AI模型分发的先例"
+    ],
+    "category": "AI政策与治理"
+  }
+}

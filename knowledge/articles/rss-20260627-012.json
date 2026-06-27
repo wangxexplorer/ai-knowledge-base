@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260627-012",
+  "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+  "source_url": "https://github.com/Tessil/hopscotch-map",
+  "source_type": "rss",
+  "summary": "该项目提供了使用hopscotch哈希实现的快速哈希映射和哈希集合的C++库。虽然与AI/LLM/Agent无直接关联，但高效的哈希表是许多AI系统底层数据处理的基础组件。",
+  "tags": [
+    "C++",
+    "哈希表",
+    "数据结构"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-27T18:11:03+08:00",
+  "updated_at": "2026-06-27T18:11:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "高效的哈希表实现可提升AI系统中数据检索性能",
+      "hopscotch哈希是一种解决哈希冲突的现代方法"
+    ],
+    "category": "基础工具"
+  }
+}

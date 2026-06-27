@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260627-011",
+  "title": "AI in mathematics is forcing big questions",
+  "source_url": "https://spectrum.ieee.org/ai-in-mathematics",
+  "source_type": "rss",
+  "summary": "文章探讨了AI在数学领域的应用，特别是大语言模型和智能体如何推动数学研究的新范式，引发关于数学本质、证明验证和人类角色的深刻问题。",
+  "tags": [
+    "AI",
+    "数学",
+    "LLM",
+    "Agent",
+    "科学范式"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-27T18:11:03+08:00",
+  "updated_at": "2026-06-27T18:11:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "AI正改变数学研究方式，LLM和Agent可辅助猜想、证明和验证",
+      "引发对数学本质和人类数学家角色的哲学反思",
+      "AI在数学中的成功可能重塑其他科学领域的研究方法"
+    ],
+    "category": "AI应用与影响"
+  }
+}

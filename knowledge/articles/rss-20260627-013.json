@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260627-013",
+  "title": "The gap between open weights LLMs and closed source LLMs",
+  "source_url": "https://blog.doubleword.ai/frontier-os-llm",
+  "source_type": "rss",
+  "summary": "文章探讨了开源权重大语言模型与闭源大语言模型之间的差距，分析了性能、可访问性、社区支持等方面的差异，并讨论了开源模型在追赶闭源模型过程中面临的挑战与机遇。",
+  "tags": [
+    "开源权重",
+    "闭源",
+    "LLM",
+    "性能差距",
+    "AI对比"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-27T18:11:03+08:00",
+  "updated_at": "2026-06-27T18:11:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "开源权重LLM在性能上仍落后于闭源模型，但差距正在缩小",
+      "开源模型在可定制性和社区创新方面具有优势",
+      "闭源模型在资源投入和商业支持上更占优势"
+    ],
+    "category": "AI模型对比"
+  }
+}

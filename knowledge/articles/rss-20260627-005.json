@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260627-005",
+  "title": "Anatomy of a Failed (Nation-State?) Attack",
+  "source_url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+  "source_type": "rss",
+  "summary": "该条目描述了一篇关于分析一次疑似国家级网络攻击失败案例的技术文章，内容涉及攻击手法、防御策略和归因分析。",
+  "tags": [
+    "网络安全",
+    "攻击分析"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-27T18:11:03+08:00",
+  "updated_at": "2026-06-27T18:11:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "攻击失败案例的解剖",
+      "国家级攻击的归因与防御"
+    ],
+    "category": "网络安全"
+  }
+}

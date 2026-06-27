@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260627-010",
+  "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+  "source_url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+  "source_type": "rss",
+  "summary": "该条目讨论了动能与速度的二次方关系，属于基础物理学问题，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "物理学",
+    "动能",
+    "速度"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-27T18:11:03+08:00",
+  "updated_at": "2026-06-27T18:11:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "动能与速度平方成正比",
+      "该问题源于经典力学"
+    ],
+    "category": "基础科学"
+  }
+}

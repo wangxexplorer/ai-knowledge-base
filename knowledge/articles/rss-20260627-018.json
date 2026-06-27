@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260627-018",
+  "title": "What Is a Nomogram and Why Would It Interest Me?",
+  "source_url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
+  "source_type": "rss",
+  "summary": "Nomogram是一种图形计算工具，用于快速近似求解数学公式，无需电子设备。本文介绍其定义、历史及在现代的潜在应用，强调其直观性和教育价值。",
+  "tags": [
+    "nomogram",
+    "可视化",
+    "计算工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-27T18:11:03+08:00",
+  "updated_at": "2026-06-27T18:11:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Nomogram是传统计算工具，与AI/LLM无直接关联",
+      "其可视化思想可启发AI模型解释性设计",
+      "在特定领域（如医学）仍有应用价值"
+    ],
+    "category": "技术工具"
+  }
+}

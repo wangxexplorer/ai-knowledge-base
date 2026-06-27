@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260627-006",
+  "title": "Show HN: Hacker News on a train station-style flip board",
+  "source_url": "https://popflame.quickish.space/hn-flipboard/",
+  "source_type": "rss",
+  "summary": "该项目是一个基于火车站翻牌风格的Hacker News展示页面，主要目的是验证作者开发的vibe host服务。它利用Firebase API实现实时更新，并允许用户自由修改和发布自己的版本。虽然与AI/LLM/Agent无直接关联，但展示了实时数据展示和可复用组件的技术思路。",
+  "tags": [
+    "实时数据",
+    "前端展示",
+    "开源项目"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-27T18:11:03+08:00",
+  "updated_at": "2026-06-27T18:11:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "利用翻牌风格展示Hacker News内容",
+      "通过Firebase API实现实时更新",
+      "支持用户自由修改和发布自己的版本"
+    ],
+    "category": "前端开发"
+  }
+}

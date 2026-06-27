@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260627-001",
+  "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+  "source_url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+  "source_type": "rss",
+  "summary": "DeepSeek开源了推理优化技术，可将生成速度提升60-85%。该技术通过算法和系统级优化，显著加速大语言模型的推理过程，对AI和LLM领域具有重要价值。",
+  "tags": [
+    "推理优化",
+    "开源",
+    "LLM",
+    "性能提升",
+    "DeepSeek"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-27T18:11:03+08:00",
+  "updated_at": "2026-06-27T18:11:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "生成速度提升60-85%，显著降低推理延迟",
+      "开源方式促进社区协作与创新",
+      "对LLM部署和Agent应用有直接推动作用"
+    ],
+    "category": "技术优化"
+  }
+}
