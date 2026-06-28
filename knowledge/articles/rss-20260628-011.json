@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260628-011",
+  "title": "Enhancing x11 Application Security with LXC (2025)",
+  "source_url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+  "source_type": "rss",
+  "summary": "本文探讨了使用LXC容器增强X11应用安全性的方法，通过隔离X11应用来减少潜在攻击面。",
+  "tags": [
+    "LXC",
+    "X11",
+    "安全",
+    "容器"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-28T18:30:23+08:00",
+  "updated_at": "2026-06-28T18:30:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "LXC可隔离X11应用以提升安全性",
+      "容器化是减少攻击面的有效手段"
+    ],
+    "category": "系统安全"
+  }
+}

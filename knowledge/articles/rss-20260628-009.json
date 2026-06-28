@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260628-009",
+  "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+  "source_url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
+  "source_type": "rss",
+  "summary": "WAL-RUS是WAL-G的Rust重写版本，专注于PostgreSQL备份。该工具利用Rust的性能和安全性优势，提供更高效的备份解决方案。文章介绍了其设计、实现和性能对比。",
+  "tags": [
+    "PostgreSQL",
+    "备份",
+    "Rust",
+    "数据库"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-28T18:30:23+08:00",
+  "updated_at": "2026-06-28T18:30:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "WAL-RUS是WAL-G的Rust重写",
+      "提升备份性能与安全性",
+      "专注于PostgreSQL备份场景"
+    ],
+    "category": "数据库工具"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260628-014",
+  "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+  "source_url": "https://github.com/bikini/exploitarium",
+  "source_type": "rss",
+  "summary": "该条目报道了匿名GitHub账户批量发布未公开的零日漏洞，涉及网络安全威胁和漏洞披露行为。",
+  "tags": [
+    "网络安全",
+    "零日漏洞",
+    "GitHub"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-28T18:30:23+08:00",
+  "updated_at": "2026-06-28T18:30:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "匿名账户批量发布零日漏洞",
+      "涉及未公开漏洞的披露行为"
+    ],
+    "category": "网络安全"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260628-008",
+  "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+  "source_url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+  "source_type": "rss",
+  "summary": "该条目是AMD Strix Halo平台上的RDMA集群搭建指南，属于vLLM工具集的一部分，用于支持大语言模型的高效分布式推理。内容涉及硬件配置、网络设置和软件部署，直接服务于AI/LLM推理场景。",
+  "tags": [
+    "AMD",
+    "RDMA",
+    "vLLM",
+    "分布式推理",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-28T18:30:23+08:00",
+  "updated_at": "2026-06-28T18:30:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "提供AMD Strix Halo上RDMA集群的具体搭建步骤",
+      "与vLLM工具集集成，优化LLM推理性能",
+      "面向分布式AI推理场景，提升通信效率"
+    ],
+    "category": "技术指南"
+  }
+}

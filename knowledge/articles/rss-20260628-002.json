@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260628-002",
+  "title": "Bashblog – a single bash script to create blogs",
+  "source_url": "https://github.com/cfenollosa/bashblog",
+  "source_type": "rss",
+  "summary": "Bashblog是一个用单个bash脚本创建博客的工具，专注于简化博客生成流程。它与AI、LLM或Agent领域无直接关联，属于传统静态博客生成技术。",
+  "tags": [
+    "博客",
+    "bash",
+    "静态网站"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-28T18:30:23+08:00",
+  "updated_at": "2026-06-28T18:30:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "无AI相关技术",
+      "传统脚本工具"
+    ],
+    "category": "工具"
+  }
+}

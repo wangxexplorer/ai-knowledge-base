@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260628-017",
+  "title": "Asian AI startups launch Mythos-like models",
+  "source_url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+  "source_type": "rss",
+  "summary": "亚洲AI初创公司推出类似Mythos的模型，以应对Anthropic出口禁令的持续影响。这表明在出口限制下，亚洲地区正加速自主研发AI模型，推动本地化创新。",
+  "tags": [
+    "AI模型",
+    "出口禁令",
+    "亚洲AI",
+    "Mythos",
+    "Anthropic"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-28T18:30:23+08:00",
+  "updated_at": "2026-06-28T18:30:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "亚洲AI初创公司推出类似Mythos的模型，应对出口限制。",
+      "出口禁令促使亚洲地区加速自主研发AI技术。",
+      "该事件反映了全球AI供应链的区域化趋势。"
+    ],
+    "category": "行业动态"
+  }
+}

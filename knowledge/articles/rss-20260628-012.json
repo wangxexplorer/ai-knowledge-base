@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260628-012",
+  "title": "Turn your site into a place people can bump into each other",
+  "source_url": "https://cauenapier.com/blog/townsquare_release/",
+  "source_type": "rss",
+  "summary": "该项目将网站转化为人们可以偶遇的社交空间，通过添加“存在层”让用户感知彼此在线状态，增强社区互动。",
+  "tags": [
+    "社交",
+    "网站",
+    "存在层"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-28T18:30:23+08:00",
+  "updated_at": "2026-06-28T18:30:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "通过存在层增强网站社交性",
+      "促进用户偶遇和互动"
+    ],
+    "category": "社交互动"
+  }
+}

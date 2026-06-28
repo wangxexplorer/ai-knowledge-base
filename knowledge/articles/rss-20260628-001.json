@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260628-001",
+  "title": "Armadillo – A DNS Server in Gleam for Homelab Use",
+  "source_url": "https://github.com/vshakitskiy/armadillo",
+  "source_type": "rss",
+  "summary": "Armadillo是一个用Gleam语言编写的DNS服务器，专为家庭实验室环境设计。该项目在Hacker News上获得少量关注，主要面向网络基础设施领域。",
+  "tags": [
+    "DNS",
+    "Gleam",
+    "Homelab"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-28T18:30:23+08:00",
+  "updated_at": "2026-06-28T18:30:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "用Gleam语言实现DNS服务器",
+      "面向家庭实验室场景",
+      "低关注度项目"
+    ],
+    "category": "网络基础设施"
+  }
+}

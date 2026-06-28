@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260628-016",
+  "title": "Suspicious Discontinuities (2020)",
+  "source_url": "https://danluu.com/discontinuities/",
+  "source_type": "rss",
+  "summary": "文章探讨了技术领域中可疑的不连续性现象，即数据或性能指标出现异常跳跃，可能源于测量错误、人为操纵或系统变化。作者通过多个案例说明如何识别和质疑这些不连续性，强调在数据分析和决策中保持批判性思维。",
+  "tags": [
+    "数据质量",
+    "批判性思维",
+    "技术分析"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-28T18:30:23+08:00",
+  "updated_at": "2026-06-28T18:30:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "不连续性可能掩盖真实问题",
+      "需结合上下文验证数据异常",
+      "批判性思维是技术分析的核心"
+    ],
+    "category": "技术方法论"
+  }
+}
