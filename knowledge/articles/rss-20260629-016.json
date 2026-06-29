@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260629-016",
+  "title": "Tokenmaxxing is dead, long live tokenmaxxing",
+  "source_url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
+  "source_type": "rss",
+  "summary": "文章探讨了AI Agent系统中token使用策略的演变，指出过度优化token使用（tokenmaxxing）可能已过时，但新的token优化方法正在兴起。强调在LLM应用中平衡token效率与模型性能的重要性。",
+  "tags": [
+    "token优化",
+    "AI Agent",
+    "LLM",
+    "性能平衡"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-29T20:37:55+08:00",
+  "updated_at": "2026-06-29T20:37:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "Tokenmaxxing策略需要重新评估，过度优化可能损害模型表现",
+      "新的token优化方法更注重效率与效果的平衡",
+      "Agent系统设计中token管理是关键挑战"
+    ],
+    "category": "AI Agent技术"
+  }
+}

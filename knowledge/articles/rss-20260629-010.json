@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260629-010",
+  "title": "Historical memory prices 1960-2026",
+  "source_url": "https://dam.stanford.edu/memory-prices.html",
+  "source_type": "rss",
+  "summary": "该条目提供了1960年至2026年内存价格的历史数据，展示了内存成本随时间下降的趋势。虽然不直接涉及AI、LLM或Agent技术，但内存价格变化对计算成本有影响，间接关联AI硬件发展。",
+  "tags": [
+    "内存价格",
+    "硬件成本",
+    "历史数据"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-29T20:37:55+08:00",
+  "updated_at": "2026-06-29T20:37:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "内存价格长期下降趋势",
+      "对计算成本的影响"
+    ],
+    "category": "硬件与基础设施"
+  }
+}

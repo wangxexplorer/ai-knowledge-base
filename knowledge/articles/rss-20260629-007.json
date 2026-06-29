@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260629-007",
+  "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+  "source_url": "https://arxiv.org/abs/2401.07013",
+  "source_type": "rss",
+  "summary": "该条目介绍了一篇2024年的论文，研究黑盒大语言模型的知识蒸馏技术。知识蒸馏旨在将大型教师模型的知识迁移到更小的学生模型，以降低计算成本并保持性能。该论文聚焦于黑盒场景，即教师模型的内部参数不可知，仅通过其输出进行蒸馏。",
+  "tags": [
+    "知识蒸馏",
+    "大语言模型",
+    "模型压缩",
+    "黑盒",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-29T20:37:55+08:00",
+  "updated_at": "2026-06-29T20:37:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "黑盒蒸馏方法无需访问教师模型内部参数",
+      "可有效降低LLM部署成本",
+      "保持模型性能的同时实现模型小型化"
+    ],
+    "category": "AI模型优化"
+  }
+}

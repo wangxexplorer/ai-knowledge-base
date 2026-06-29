@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260629-018",
+  "title": "Show HN: Zanagrams",
+  "source_url": "https://zanagrams.com/",
+  "source_type": "rss",
+  "summary": "Zanagrams是一个在Hacker News上展示的项目，提供在线文字游戏或工具，允许用户创建和分享字母重排（anagrams）。该项目与AI、LLM、Agent领域无直接关联，属于娱乐或教育类应用。",
+  "tags": [
+    "文字游戏",
+    "在线工具",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-29T20:37:55+08:00",
+  "updated_at": "2026-06-29T20:37:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Zanagrams是一个基于字母重排的在线游戏或工具",
+      "在Hacker News上获得关注，但无AI技术背景",
+      "与LLM或Agent技术无关"
+    ],
+    "category": "娱乐/教育"
+  }
+}

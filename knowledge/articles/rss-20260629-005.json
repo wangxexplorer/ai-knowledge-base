@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260629-005",
+  "title": "Age verification is just a precursor to automated attribution of speech",
+  "source_url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+  "source_type": "rss",
+  "summary": "文章探讨年龄验证作为自动归因言论的前兆，涉及身份验证与言论自由平衡，与AI在身份识别、内容审核及伦理治理相关。",
+  "tags": [
+    "年龄验证",
+    "言论自由",
+    "身份识别",
+    "AI伦理",
+    "内容审核"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-29T20:37:55+08:00",
+  "updated_at": "2026-06-29T20:37:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "年龄验证技术可能演变为自动言论归因系统",
+      "AI在身份验证中需平衡隐私与安全",
+      "该议题影响AI内容审核与用户画像"
+    ],
+    "category": "AI伦理与治理"
+  }
+}

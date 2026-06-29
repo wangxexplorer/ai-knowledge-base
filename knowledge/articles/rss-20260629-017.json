@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260629-017",
+  "title": "Dissecting Apple's Sparse Image Format (ASIF)",
+  "source_url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
+  "source_type": "rss",
+  "summary": "该条目详细分析了苹果的稀疏图像格式（ASIF），涉及文件结构、压缩算法和元数据。与AI、LLM、Agent领域无直接关联，属于底层图像格式技术。",
+  "tags": [
+    "图像格式",
+    "苹果",
+    "文件结构"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-29T20:37:55+08:00",
+  "updated_at": "2026-06-29T20:37:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "ASIF是苹果专有的稀疏图像格式",
+      "文章深入解析了其内部结构",
+      "与AI/LLM/Agent无直接关联"
+    ],
+    "category": "图像处理"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260629-009",
+  "title": "Librepods: AirPods liberated",
+  "source_url": "https://github.com/librepods-org/librepods",
+  "source_type": "rss",
+  "summary": "Librepods是一个开源项目，旨在通过逆向工程和自定义固件，让AirPods摆脱对苹果生态系统的依赖，实现更广泛设备的兼容和功能定制。该项目涉及蓝牙协议分析、固件修改等技术，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "开源",
+    "蓝牙",
+    "固件",
+    "硬件逆向"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-29T20:37:55+08:00",
+  "updated_at": "2026-06-29T20:37:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "通过逆向工程解放AirPods",
+      "增强设备兼容性",
+      "开源硬件项目"
+    ],
+    "category": "硬件与嵌入式系统"
+  }
+}

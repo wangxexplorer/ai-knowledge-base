@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260629-008",
+  "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+  "source_url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+  "source_type": "rss",
+  "summary": "ISC'26 TOP500榜单公布，新超算系统登顶。该条目主要关注高性能计算（HPC）领域的硬件性能排名，未直接涉及AI、LLM或Agent技术。",
+  "tags": [
+    "HPC",
+    "超算",
+    "TOP500"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-29T20:37:55+08:00",
+  "updated_at": "2026-06-29T20:37:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "新超算系统成为TOP500榜首",
+      "HPC硬件性能持续提升"
+    ],
+    "category": "高性能计算"
+  }
+}

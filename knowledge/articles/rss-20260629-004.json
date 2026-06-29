@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260629-004",
+  "title": "Herdr: Agent multiplexer that lives in your terminal",
+  "source_url": "https://github.com/ogulcancelik/herdr",
+  "source_type": "rss",
+  "summary": "Herdr是一个终端内的Agent多路复用器，允许用户同时与多个AI代理交互，管理对话和任务。它通过终端界面提供高效的代理协调功能，适用于开发者和AI爱好者。",
+  "tags": [
+    "Agent",
+    "多路复用",
+    "终端",
+    "AI",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-29T20:37:55+08:00",
+  "updated_at": "2026-06-29T20:37:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "Herdr作为终端内的Agent多路复用器，简化了多代理管理。",
+      "它专注于提升AI代理交互的效率和用户体验。",
+      "该工具与AI、LLM和Agent领域高度相关，支持多代理协作。"
+    ],
+    "category": "工具与框架"
+  }
+}

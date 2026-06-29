@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260629-015",
+  "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+  "source_url": "https://www.openculture.com/2020/10/daisugi.html",
+  "source_type": "rss",
+  "summary": "Daisugi是一种日本林业技术，通过在一棵树上培育多棵树苗，实现高效木材生产。该技术虽非直接与AI相关，但其高效、可持续的“复用”理念可类比于AI模型中的参数共享、知识蒸馏或Agent系统中的资源复用策略。",
+  "tags": [
+    "林业技术",
+    "可持续",
+    "复用",
+    "类比",
+    "知识蒸馏"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-29T20:37:55+08:00",
+  "updated_at": "2026-06-29T20:37:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Daisugi的复用理念可启发AI模型参数共享设计",
+      "可持续性思维可应用于Agent资源管理",
+      "自然系统效率与AI系统效率的类比思考"
+    ],
+    "category": "类比与启发"
+  }
+}

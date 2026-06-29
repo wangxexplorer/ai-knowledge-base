@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260629-019",
+  "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+  "source_url": "https://pudding.cool/2026/06/menu-story/",
+  "source_type": "rss",
+  "summary": "该条目介绍了纽约公共图书馆Buttolph收藏中的5000份历史菜单（1880-1920年），可用于文化历史研究。与AI、LLM、Agent领域无直接关联，但可作为数字化文本分析或OCR训练的数据集。",
+  "tags": [
+    "历史菜单",
+    "数字化",
+    "文化研究",
+    "数据集"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-29T20:37:55+08:00",
+  "updated_at": "2026-06-29T20:37:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "历史菜单数据集可用于OCR和文本分析",
+      "提供19世纪末至20世纪初的饮食文化记录",
+      "可作为AI训练的非结构化数据源"
+    ],
+    "category": "文化历史"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260629-011",
+  "title": "GLM 5.2 beats Claude in our benchmarks",
+  "source_url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+  "source_type": "rss",
+  "summary": "GLM 5.2在网络安全基准测试中超越Claude，展示了其在特定领域的性能优势。该模型由智谱AI开发，在Semgrep的测试中表现优异，引发社区广泛讨论。",
+  "tags": [
+    "GLM",
+    "基准测试",
+    "网络安全",
+    "模型对比",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-29T20:37:55+08:00",
+  "updated_at": "2026-06-29T20:37:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "GLM 5.2在网络安全基准测试中超越Claude",
+      "该测试由Semgrep进行，专注于网络安全领域",
+      "模型性能对比是LLM领域的重要研究方向"
+    ],
+    "category": "模型评测"
+  }
+}

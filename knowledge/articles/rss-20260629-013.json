@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260629-013",
+  "title": "Professor denounces mass AI fraud on an exam at Brown",
+  "source_url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+  "source_type": "rss",
+  "summary": "布朗大学教授谴责大规模AI作弊事件，指出学术诚信面临风险。该事件反映了AI技术在教育领域被滥用的现象，引发对LLM等工具监管的讨论。",
+  "tags": [
+    "AI作弊",
+    "学术诚信",
+    "教育",
+    "LLM滥用"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-29T20:37:55+08:00",
+  "updated_at": "2026-06-29T20:37:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI工具（如LLM）被学生用于考试作弊，挑战传统学术规范。",
+      "事件凸显AI监管在教育领域的紧迫性。",
+      "学术机构需制定新政策应对AI带来的诚信危机。"
+    ],
+    "category": "AI伦理与社会影响"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260629-014",
+  "title": "I used Claude Code to get a second opinion on my MRI",
+  "source_url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+  "source_type": "rss",
+  "summary": "作者使用Claude Code分析自己的MRI影像，获取第二诊疗意见。文章展示了AI在医疗影像解读中的应用，体现了LLM作为辅助诊断工具的潜力。",
+  "tags": [
+    "AI医疗",
+    "LLM应用",
+    "Claude Code",
+    "影像分析",
+    "辅助诊断"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-29T20:37:55+08:00",
+  "updated_at": "2026-06-29T20:37:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "LLM可用于医疗影像的初步解读",
+      "AI作为第二意见辅助临床决策",
+      "非专业用户也能借助AI理解复杂医学数据"
+    ],
+    "category": "AI应用案例"
+  }
+}

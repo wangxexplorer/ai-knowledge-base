@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260629-001",
+  "title": "Sandia National Labs SA3000 8085 CPU",
+  "source_url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
+  "source_type": "rss",
+  "summary": "该条目介绍Sandia国家实验室的SA3000 8085 CPU，属于经典微处理器技术，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "CPU",
+    "微处理器",
+    "硬件"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-29T20:37:55+08:00",
+  "updated_at": "2026-06-29T20:37:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "经典CPU技术",
+      "与AI/LLM/Agent无关"
+    ],
+    "category": "硬件技术"
+  }
+}

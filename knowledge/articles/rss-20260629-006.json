@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260629-006",
+  "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+  "source_url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+  "source_type": "rss",
+  "summary": "HackerRank开源了其申请人跟踪系统（ATS），作者测试简历得分在74到90之间波动，反映了ATS评分的不稳定性。文章讨论了ATS在简历筛选中的局限性，以及AI可能带来的改进。",
+  "tags": [
+    "ATS",
+    "简历筛选",
+    "开源",
+    "AI应用"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-29T20:37:55+08:00",
+  "updated_at": "2026-06-29T20:37:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "ATS评分存在不一致性",
+      "开源ATS可能促进透明度",
+      "AI可优化简历匹配过程"
+    ],
+    "category": "AI应用与工具"
+  }
+}
