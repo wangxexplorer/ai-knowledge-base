@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260630-004",
+  "title": "The end of the AArch64 desktop experiment",
+  "source_url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+  "source_type": "rss",
+  "summary": "该条目讨论AArch64桌面实验的终止，主要涉及ARM架构在桌面领域的应用挑战，与AI、LLM、Agent技术无直接关联。",
+  "tags": [
+    "AArch64",
+    "桌面",
+    "ARM"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-30T18:59:21+08:00",
+  "updated_at": "2026-06-30T18:59:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "AArch64桌面实验终止",
+      "ARM桌面生态面临挑战"
+    ],
+    "category": "硬件与架构"
+  }
+}

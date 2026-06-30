@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260630-008",
+  "title": ".self: A new top-level domain designed to support self-hosting",
+  "source_url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+  "source_type": "rss",
+  "summary": "本文介绍了一个名为.self的新顶级域名，旨在支持个人自托管服务，强调去中心化和用户对数字身份的控制。这与AI、LLM和Agent领域相关，因为自托管基础设施可为AI代理提供更自主、隐私保护的数据和计算环境。",
+  "tags": [
+    "自托管",
+    "去中心化",
+    "数字身份",
+    "隐私",
+    "基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-30T18:59:21+08:00",
+  "updated_at": "2026-06-30T18:59:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      ".self域名旨在促进个人自托管，减少对中心化平台的依赖。",
+      "自托管基础设施可为AI代理提供更安全、私密的数据处理环境。",
+      "该域名可能推动去中心化AI应用的开发，增强用户对AI系统的控制。"
+    ],
+    "category": "基础设施与去中心化"
+  }
+}

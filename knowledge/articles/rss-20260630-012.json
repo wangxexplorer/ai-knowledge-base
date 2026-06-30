@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260630-012",
+  "title": "A native graphical shell for SSH",
+  "source_url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+  "source_type": "rss",
+  "summary": "该条目介绍了一个为SSH设计的原生图形化Shell工具，旨在提升远程服务器管理的用户体验。虽然不直接涉及AI或LLM，但可作为Agent执行远程任务时的底层基础设施。",
+  "tags": [
+    "SSH",
+    "图形化Shell",
+    "远程管理"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-30T18:59:21+08:00",
+  "updated_at": "2026-06-30T18:59:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "提供更直观的SSH操作界面",
+      "可能被Agent用于远程服务器交互"
+    ],
+    "category": "工具与基础设施"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260630-010",
+  "title": "Qwen 3.6 27B is the sweet spot for local development",
+  "source_url": "https://quesma.com/blog/qwen-36-is-awesome/",
+  "source_type": "rss",
+  "summary": "文章认为Qwen 3.6 27B模型是本地开发的最佳选择，因其在性能、资源消耗和易用性之间取得了平衡，适合开发者本地部署和实验。",
+  "tags": [
+    "Qwen",
+    "本地开发",
+    "LLM",
+    "模型部署"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-30T18:59:21+08:00",
+  "updated_at": "2026-06-30T18:59:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Qwen 3.6 27B在本地开发场景下性能与资源消耗平衡良好",
+      "适合开发者进行本地实验和部署",
+      "该模型可能成为本地LLM开发的新基准"
+    ],
+    "category": "模型评测"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260630-005",
+  "title": "Exploring PDP-1 Lisp (1960)",
+  "source_url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+  "source_type": "rss",
+  "summary": "该条目介绍了1960年PDP-1计算机上的Lisp实现，属于早期人工智能编程语言的历史探索。Lisp是AI领域的重要基础语言，对后来的符号处理和函数式编程有深远影响。",
+  "tags": [
+    "Lisp",
+    "历史",
+    "AI基础"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-30T18:59:21+08:00",
+  "updated_at": "2026-06-30T18:59:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "Lisp是早期AI研究的关键语言",
+      "PDP-1 Lisp展示了符号计算的早期实践",
+      "对现代AI编程范式有历史影响"
+    ],
+    "category": "历史回顾"
+  }
+}

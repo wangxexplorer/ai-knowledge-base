@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260630-001",
+  "title": "I spent 6 days building my VDOM library as I hated how React handles memo",
+  "source_url": "https://vflash.github.io/Tyaff/",
+  "source_type": "rss",
+  "summary": "作者因不满React的memo机制，花费6天时间构建了自己的虚拟DOM库Tyaff。该项目旨在提供更高效、更易用的状态管理和渲染优化方案，反映了前端开发者对现有框架性能瓶颈的探索与改进。",
+  "tags": [
+    "虚拟DOM",
+    "React",
+    "前端框架",
+    "性能优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-30T18:59:21+08:00",
+  "updated_at": "2026-06-30T18:59:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "作者对React memo机制不满，自研VDOM库",
+      "项目Tyaff旨在优化渲染性能",
+      "反映了前端社区对框架底层机制的持续改进需求"
+    ],
+    "category": "前端开发"
+  }
+}

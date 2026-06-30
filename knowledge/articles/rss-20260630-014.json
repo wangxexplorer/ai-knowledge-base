@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260630-014",
+  "title": "Linux for the Sega MegaDrive",
+  "source_url": "https://github.com/LinuxMD/linuxmd",
+  "source_type": "rss",
+  "summary": "该项目将Linux移植到Sega MegaDrive（世嘉MD）游戏主机上，属于嵌入式系统与复古硬件的交叉领域。虽然涉及操作系统底层技术，但与AI、LLM或Agent无直接关联。",
+  "tags": [
+    "嵌入式Linux",
+    "复古硬件",
+    "操作系统移植"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-30T18:59:21+08:00",
+  "updated_at": "2026-06-30T18:59:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Linux被移植到16位游戏主机上",
+      "属于硬件逆向工程与系统移植项目",
+      "与AI/LLM/Agent技术无关"
+    ],
+    "category": "嵌入式系统"
+  }
+}

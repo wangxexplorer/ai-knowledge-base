@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260630-003",
+  "title": "Popping the GPU Bubble",
+  "source_url": "https://moondream.ai/blog/popping-the-gpu-bubble",
+  "source_type": "rss",
+  "summary": "文章探讨了GPU市场泡沫现象，分析其成因、影响及潜在破裂风险，并讨论对AI和LLM领域算力成本与发展的可能冲击。",
+  "tags": [
+    "GPU",
+    "算力",
+    "市场泡沫",
+    "AI基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-30T18:59:21+08:00",
+  "updated_at": "2026-06-30T18:59:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "GPU供应紧张可能引发市场泡沫，影响AI模型训练成本",
+      "泡沫破裂或导致算力价格下降，利好LLM和Agent开发",
+      "需关注GPU市场波动对AI产业长期发展的影响"
+    ],
+    "category": "行业分析"
+  }
+}

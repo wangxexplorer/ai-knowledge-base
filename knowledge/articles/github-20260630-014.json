@@ -1,0 +1,31 @@
+{
+  "id": "github-20260630-014",
+  "title": "headroom",
+  "source_url": "https://github.com/headroomlabs-ai/headroom",
+  "source_type": "github",
+  "summary": "Headroom是一个用于压缩工具输出、日志、文件和RAG块的工具，在数据到达LLM之前进行压缩，可减少60-95%的token使用量，同时保持答案质量。提供库、代理和MCP服务器形式，支持Python，与Agent和AI领域高度相关。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "压缩",
+    "RAG",
+    "效率优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-30T18:59:21+08:00",
+  "updated_at": "2026-06-30T18:59:21+08:00",
+  "metadata": {
+    "stars": 54292,
+    "language": "Python",
+    "author": "headroomlabs-ai"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "显著减少LLM调用成本",
+      "保持输出质量的同时压缩token",
+      "支持多种集成方式（库、代理、MCP服务器）"
+    ],
+    "category": "工具/库"
+  }
+}

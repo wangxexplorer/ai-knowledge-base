@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260630-016",
+  "title": "What happens when you run a CUDA kernel?",
+  "source_url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+  "source_type": "rss",
+  "summary": "本文详细解释了在GPU上运行CUDA内核时，从CPU调用到GPU执行的全过程，包括内存分配、内核启动、线程调度和同步等底层机制。",
+  "tags": [
+    "CUDA",
+    "GPU编程",
+    "并行计算",
+    "AI基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-30T18:59:21+08:00",
+  "updated_at": "2026-06-30T18:59:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "CUDA内核执行涉及CPU与GPU的协同工作，包括数据传输和任务调度。",
+      "理解GPU底层执行机制对优化AI模型训练和推理性能至关重要。",
+      "线程块和网格的配置直接影响并行计算效率。"
+    ],
+    "category": "技术原理"
+  }
+}

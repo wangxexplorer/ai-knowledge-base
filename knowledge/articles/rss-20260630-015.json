@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260630-015",
+  "title": "Rocketlab acquires Iridium",
+  "source_url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+  "source_type": "rss",
+  "summary": "Rocketlab收购Iridium，这是一项历史性交易，旨在创建一家完全整合的太空通信公司。该交易涉及卫星通信基础设施，与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "航天",
+    "卫星通信",
+    "并购"
+  ],
+  "status": "draft",
+  "created_at": "2026-06-30T18:59:21+08:00",
+  "updated_at": "2026-06-30T18:59:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Rocketlab通过收购Iridium扩展卫星通信业务",
+      "交易旨在整合太空基础设施"
+    ],
+    "category": "商业与航天"
+  }
+}
