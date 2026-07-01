@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260701-016",
+  "title": "Leanstral 1.5",
+  "source_url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+  "source_type": "rss",
+  "summary": "Leanstral 1.5是Mistral AI发布的一个模型版本，其模型卡片提供了技术细节。该条目与AI、LLM领域直接相关，属于大型语言模型的最新进展。",
+  "tags": [
+    "Mistral",
+    "LLM",
+    "模型发布",
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-01T19:26:00+08:00",
+  "updated_at": "2026-07-01T19:26:00+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Mistral AI发布了新模型Leanstral 1.5",
+      "该模型属于大型语言模型（LLM）领域",
+      "模型卡片提供了技术细节和性能信息"
+    ],
+    "category": "模型发布"
+  }
+}

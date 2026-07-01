@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260701-009",
+  "title": "ArXiv's Next Chapter",
+  "source_url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+  "source_type": "rss",
+  "summary": "ArXiv宣布其下一阶段的发展计划，可能涉及平台改进、运营模式或社区支持。作为AI、LLM和Agent领域研究者广泛使用的预印本平台，其变化将直接影响学术交流与知识传播效率。",
+  "tags": [
+    "学术交流",
+    "预印本",
+    "平台发展"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-01T19:26:00+08:00",
+  "updated_at": "2026-07-01T19:26:00+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "ArXiv是AI领域核心论文发布平台",
+      "平台更新可能影响研究传播速度",
+      "需关注具体改进内容对LLM/Agent社区的影响"
+    ],
+    "category": "学术基础设施"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260701-002",
+  "title": "Pine64 launch $50 smart speaker for Home Assistant tinkerers",
+  "source_url": "https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch",
+  "source_type": "rss",
+  "summary": "Pine64推出售价50美元的智能音箱PineVoice，专为Home Assistant爱好者设计，采用RISC-V架构，支持开源智能家居控制。",
+  "tags": [
+    "智能音箱",
+    "Home Assistant",
+    "RISC-V",
+    "开源硬件"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-01T19:26:00+08:00",
+  "updated_at": "2026-07-01T19:26:00+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "低成本智能音箱面向Home Assistant用户",
+      "采用RISC-V架构，推动开源硬件生态",
+      "可能集成语音助手功能，但未明确提及AI/LLM"
+    ],
+    "category": "硬件与嵌入式系统"
+  }
+}

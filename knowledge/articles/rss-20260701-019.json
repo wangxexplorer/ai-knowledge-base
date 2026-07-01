@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260701-019",
+  "title": "I built a mmWave material classification radar (2025)",
+  "source_url": "https://gauthier-lechevalier.com/radar",
+  "source_type": "rss",
+  "summary": "该项目构建了一个毫米波材料分类雷达，利用毫米波技术对材料进行识别和分类。虽然涉及信号处理和机器学习，但与AI、LLM、Agent领域的直接相关性较低。",
+  "tags": [
+    "毫米波",
+    "雷达",
+    "材料分类",
+    "信号处理"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-01T19:26:00+08:00",
+  "updated_at": "2026-07-01T19:26:00+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "毫米波雷达可用于材料分类",
+      "项目可能涉及机器学习分类算法",
+      "与LLM和Agent无直接关联"
+    ],
+    "category": "硬件与传感器"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260701-013",
+  "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
+  "source_url": "https://hatari.frama.io/hatari/online/hatari.html",
+  "source_type": "rss",
+  "summary": "Hatari是一个在线Atari ST/STE/TT/Falcon模拟器，允许用户在浏览器中运行经典Atari计算机系统。该条目与AI、LLM、Agent领域无直接关联，属于复古计算和模拟技术范畴。",
+  "tags": [
+    "模拟器",
+    "Atari",
+    "复古计算",
+    "浏览器"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-01T19:26:00+08:00",
+  "updated_at": "2026-07-01T19:26:00+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Hatari提供在线模拟Atari经典计算机的功能",
+      "与AI、LLM、Agent领域无直接相关性"
+    ],
+    "category": "复古计算"
+  }
+}

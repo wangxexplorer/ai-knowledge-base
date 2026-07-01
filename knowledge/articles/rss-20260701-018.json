@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260701-018",
+  "title": "Claude Sonnet 5",
+  "source_url": "https://www.anthropic.com/news/claude-sonnet-5",
+  "source_type": "rss",
+  "summary": "Anthropic发布了Claude Sonnet 5，这是其AI模型系列的新版本，在性能、推理能力和安全性方面有显著提升。该模型在多项基准测试中表现优异，并引入了新的交互功能。",
+  "tags": [
+    "Claude",
+    "Anthropic",
+    "大语言模型",
+    "AI模型",
+    "模型发布"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-01T19:26:00+08:00",
+  "updated_at": "2026-07-01T19:26:00+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Claude Sonnet 5是Anthropic最新发布的AI模型，性能大幅提升",
+      "该模型在推理、编码和多模态任务上表现突出",
+      "发布引发了Hacker News社区的热烈讨论"
+    ],
+    "category": "AI模型发布"
+  }
+}

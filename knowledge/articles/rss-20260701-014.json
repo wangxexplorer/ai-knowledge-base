@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260701-014",
+  "title": "From brain waves to words: a new path to communication without surgery",
+  "source_url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+  "source_type": "rss",
+  "summary": "Meta AI 发布 Brain2Qwerty 研究，通过非侵入性脑电图（EEG）和 MEG 信号，利用 AI 模型将大脑活动解码为文本，实现无需手术的脑机接口通信。该系统结合深度学习与语言模型，在打字任务中取得显著进展，为瘫痪患者等提供新的交流途径。",
+  "tags": [
+    "脑机接口",
+    "AI解码",
+    "非侵入式",
+    "语言模型",
+    "Meta"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-01T19:26:00+08:00",
+  "updated_at": "2026-07-01T19:26:00+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "非侵入式脑机接口结合AI实现文本解码",
+      "深度学习与语言模型提升解码准确率",
+      "为失语患者提供新的通信可能"
+    ],
+    "category": "AI应用"
+  }
+}

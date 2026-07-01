@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260701-012",
+  "title": "Google copybara: moving code between repositories",
+  "source_url": "https://github.com/google/copybara",
+  "source_type": "rss",
+  "summary": "Copybara是Google开发的代码仓库迁移工具，用于在不同版本控制系统间移动代码。它支持自定义转换和提交历史保留，主要面向开发运维场景。",
+  "tags": [
+    "代码迁移",
+    "DevOps",
+    "版本控制"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-01T19:26:00+08:00",
+  "updated_at": "2026-07-01T19:26:00+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "专注于代码仓库间迁移",
+      "支持自定义转换规则",
+      "与AI/LLM/Agent无直接关联"
+    ],
+    "category": "开发工具"
+  }
+}
