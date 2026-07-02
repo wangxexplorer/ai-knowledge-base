@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260702-009",
+  "title": "The Underhanded C Contest",
+  "source_url": "https://underhanded-c.org/",
+  "source_type": "rss",
+  "summary": "The Underhanded C Contest是一个编程竞赛，旨在编写看似正确但包含恶意隐藏代码的C程序。该竞赛与AI、LLM、Agent领域无直接关联，但可能间接涉及代码安全与对抗性样本。",
+  "tags": [
+    "编程竞赛",
+    "C语言",
+    "代码安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-02T18:42:33+08:00",
+  "updated_at": "2026-07-02T18:42:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "竞赛关注代码隐蔽性与安全性",
+      "与AI领域无直接关联"
+    ],
+    "category": "编程竞赛"
+  }
+}

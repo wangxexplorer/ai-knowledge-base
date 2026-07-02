@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260702-019",
+  "title": "Ask HN: Who is hiring? (July 2026)",
+  "source_url": "https://news.ycombinator.com/item?id=48747976",
+  "source_type": "rss",
+  "summary": "Hacker News 2026年7月招聘帖，要求注明地点和远程/现场工作方式，禁止猎头和招聘平台，每公司限一帖。提供多个第三方搜索工具链接，并附有求职者自荐帖链接。",
+  "tags": [
+    "招聘",
+    "远程工作",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-02T18:42:33+08:00",
+  "updated_at": "2026-07-02T18:42:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "招聘帖规则严格，强调公司直招和回复承诺",
+      "提供多个第三方搜索工具辅助求职",
+      "与AI/LLM/Agent领域无直接技术关联"
+    ],
+    "category": "招聘信息"
+  }
+}

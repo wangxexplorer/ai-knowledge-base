@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260702-002",
+  "title": "The Fall of the Theorem Economy",
+  "source_url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+  "source_type": "rss",
+  "summary": "文章探讨了数学定理经济的衰落，指出传统数学证明的价值体系正受到AI和计算方法的冲击。作者认为，随着机器学习等技术的兴起，依赖人类直觉和严谨证明的定理经济模式正在被数据驱动和计算验证的新范式取代。",
+  "tags": [
+    "AI",
+    "数学",
+    "定理证明",
+    "计算范式",
+    "机器学习"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-02T18:42:33+08:00",
+  "updated_at": "2026-07-02T18:42:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI和计算方法正在改变数学研究的价值体系",
+      "传统定理证明的经济模式面临挑战",
+      "数据驱动方法可能取代部分严谨证明"
+    ],
+    "category": "技术趋势"
+  }
+}

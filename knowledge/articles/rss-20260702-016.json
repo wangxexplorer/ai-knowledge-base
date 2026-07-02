@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260702-016",
+  "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
+  "source_url": "https://www.weaverobotics.com/isaac-1",
+  "source_type": "rss",
+  "summary": "Weave Robotics 发布了售价 7999 美元的 Isaac 1 家用机器人，预计 2026 年秋季交付。该机器人集成了 AI 和 LLM 技术，用于自主导航、任务执行和自然语言交互，代表了 AI 在消费级机器人领域的最新应用。",
+  "tags": [
+    "家用机器人",
+    "AI",
+    "LLM",
+    "自主导航",
+    "消费级机器人"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-02T18:42:33+08:00",
+  "updated_at": "2026-07-02T18:42:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "Isaac 1 将 AI 和 LLM 集成到家用机器人中，实现自主任务执行和自然交互。",
+      "7999 美元的价格和 2026 年交付计划表明该产品面向高端市场且处于研发阶段。",
+      "该产品展示了 AI 从软件向实体硬件延伸的趋势，可能推动家庭自动化发展。"
+    ],
+    "category": "AI应用与机器人"
+  }
+}

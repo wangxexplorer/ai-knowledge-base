@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260702-010",
+  "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
+  "source_url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+  "source_type": "rss",
+  "summary": "谷歌开源零知识证明（ZKP）技术，用于年龄验证场景，旨在保护用户隐私的同时确认年龄。该技术允许在不透露具体年龄或身份信息的情况下证明用户符合年龄要求，对AI、LLM和Agent领域的数据隐私保护具有参考价值。",
+  "tags": [
+    "零知识证明",
+    "隐私保护",
+    "年龄验证",
+    "数据安全",
+    "开源"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-02T18:42:33+08:00",
+  "updated_at": "2026-07-02T18:42:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "ZKP可在不泄露具体信息的情况下验证年龄，适用于AI系统的隐私合规。",
+      "开源ZKP技术有助于推动AI和Agent中隐私保护方案的标准化。",
+      "该技术可应用于LLM的访问控制或用户身份验证场景。"
+    ],
+    "category": "隐私增强技术"
+  }
+}

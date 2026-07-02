@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260702-006",
+  "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+  "source_url": "https://senior-swe-bench.snorkel.ai/",
+  "source_type": "rss",
+  "summary": "Senior SWE-Bench是一个开源基准测试，用于评估AI代理作为高级软件工程师的能力。它通过模拟高级工程师的复杂任务，测试代理在代码理解、调试和优化等方面的表现。该基准旨在推动AI在软件工程领域的发展，特别是针对高级职位的自动化评估。",
+  "tags": [
+    "AI Agent",
+    "基准测试",
+    "软件工程",
+    "LLM评估",
+    "自动化"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-02T18:42:33+08:00",
+  "updated_at": "2026-07-02T18:42:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "专注于评估AI代理在高级软件工程任务中的表现",
+      "开源基准测试，促进社区参与和模型改进",
+      "模拟真实世界高级工程师的复杂工作场景"
+    ],
+    "category": "AI评估与基准"
+  }
+}

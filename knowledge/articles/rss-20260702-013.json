@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260702-013",
+  "title": "Qualcomm Linux 2.0",
+  "source_url": "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available",
+  "source_type": "rss",
+  "summary": "高通发布Linux 2.0版本，为开发者提供新的操作系统支持。该版本可能包含对AI和机器学习工作负载的优化，但具体细节未明确。",
+  "tags": [
+    "Linux",
+    "Qualcomm",
+    "操作系统"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-02T18:42:33+08:00",
+  "updated_at": "2026-07-02T18:42:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "高通发布Linux 2.0",
+      "可能支持AI工作负载",
+      "面向开发者"
+    ],
+    "category": "系统软件"
+  }
+}

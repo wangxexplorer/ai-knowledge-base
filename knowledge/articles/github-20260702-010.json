@@ -1,0 +1,31 @@
+{
+  "id": "github-20260702-010",
+  "title": "ponytail",
+  "source_url": "https://github.com/DietrichGebert/ponytail",
+  "source_type": "github",
+  "summary": "Ponytail是一个让AI代理像最懒的高级开发者一样思考的工具，强调不写代码才是最好的代码。它基于JavaScript开发，专注于AI代理技能、Claude及其插件，旨在优化AI代理的代码生成行为，减少不必要的代码输出。",
+  "tags": [
+    "AI代理",
+    "Claude",
+    "代码生成",
+    "代理技能",
+    "开发效率"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-02T18:42:33+08:00",
+  "updated_at": "2026-07-02T18:42:33+08:00",
+  "metadata": {
+    "stars": 71119,
+    "language": "JavaScript",
+    "author": "DietrichGebert"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "通过模拟懒惰高级开发者的思维模式，减少AI代理生成冗余代码",
+      "与Claude深度集成，作为插件优化AI代理行为",
+      "强调代码质量而非数量，提升开发效率"
+    ],
+    "category": "AI代理工具"
+  }
+}

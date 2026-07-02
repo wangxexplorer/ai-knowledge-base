@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260702-003",
+  "title": "CursorBench 3.1",
+  "source_url": "https://cursor.com/evals",
+  "source_type": "rss",
+  "summary": "CursorBench 3.1是Cursor平台发布的评估基准，用于测试AI编码助手的性能。该条目来自Hacker News，讨论其评估方法和结果，与AI、LLM和Agent领域高度相关。",
+  "tags": [
+    "AI编码助手",
+    "评估基准",
+    "LLM",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-02T18:42:33+08:00",
+  "updated_at": "2026-07-02T18:42:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "CursorBench 3.1专注于AI编码助手的性能评估",
+      "涉及LLM和Agent在编程任务中的应用",
+      "来自Hacker News的社区讨论反映了行业关注"
+    ],
+    "category": "AI工具与评估"
+  }
+}

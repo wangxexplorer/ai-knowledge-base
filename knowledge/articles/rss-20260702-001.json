@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260702-001",
+  "title": "Google loses fight over record $4.7B EU antitrust fine",
+  "source_url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+  "source_type": "rss",
+  "summary": "谷歌在与欧盟的长期反垄断诉讼中败诉，被处以创纪录的47.4亿美元罚款。该案涉及谷歌利用其Android操作系统的主导地位，强制手机制造商预装谷歌搜索和Chrome浏览器，以巩固其搜索广告市场地位。",
+  "tags": [
+    "反垄断",
+    "谷歌",
+    "欧盟",
+    "Android"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-02T18:42:33+08:00",
+  "updated_at": "2026-07-02T18:42:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "谷歌因Android反垄断行为被欧盟罚款47.4亿美元",
+      "该案涉及利用操作系统主导地位捆绑自家服务",
+      "判决可能影响科技巨头在AI和LLM领域的市场策略"
+    ],
+    "category": "科技法律"
+  }
+}
