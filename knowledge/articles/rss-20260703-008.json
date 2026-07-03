@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260703-008",
+  "title": "Right to Local Intelligence",
+  "source_url": "https://righttointelligence.org/",
+  "source_type": "rss",
+  "summary": "该条目标题为“Right to Local Intelligence”，来源为Hacker News，讨论本地智能权利的概念，可能与AI、LLM、Agent领域相关，强调本地化数据处理和智能决策的自主权。",
+  "tags": [
+    "本地智能",
+    "数据主权",
+    "AI伦理",
+    "去中心化"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-03T18:38:11+08:00",
+  "updated_at": "2026-07-03T18:38:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "强调本地智能权利，可能涉及AI系统的本地化部署",
+      "与数据主权和隐私保护相关",
+      "可能影响Agent的自主决策边界"
+    ],
+    "category": "AI伦理与治理"
+  }
+}

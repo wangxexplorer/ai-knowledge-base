@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260703-019",
+  "title": "Show HN: zkGolf – Competitive optimization of formally verified circuits",
+  "source_url": "https://zk.golf/",
+  "source_type": "rss",
+  "summary": "该项目展示了利用LLM自动生成并优化零知识证明（ZKP）电路的方法。通过形式化规范（Lean语言）和LLM迭代优化，成功生成了比人工优化更优的SHA-256电路。项目还推出了zk.golf竞赛，鼓励社区参与优化。",
+  "tags": [
+    "LLM",
+    "零知识证明",
+    "形式化验证",
+    "电路优化",
+    "AI辅助设计"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-03T18:38:11+08:00",
+  "updated_at": "2026-07-03T18:38:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "LLM可自动生成并优化ZKP电路，超越人工优化结果",
+      "形式化验证确保LLM生成电路的正确性，自动回溯错误优化",
+      "zk.golf竞赛降低ZKP应用门槛，推动AI辅助电路设计"
+    ],
+    "category": "AI应用"
+  }
+}

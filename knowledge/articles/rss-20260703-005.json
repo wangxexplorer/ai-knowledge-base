@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260703-005",
+  "title": "The Safari MCP server for web developers",
+  "source_url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+  "source_type": "rss",
+  "summary": "Safari MCP服务器为Web开发者提供了一种新的工具，允许通过模型上下文协议（MCP）与Safari浏览器进行交互，实现自动化测试、调试和性能分析。该服务器支持WebSocket连接，可集成到开发工作流中，提升开发效率。",
+  "tags": [
+    "MCP",
+    "Safari",
+    "Web开发",
+    "自动化",
+    "调试"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-03T18:38:11+08:00",
+  "updated_at": "2026-07-03T18:38:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "MCP服务器使Safari浏览器支持自动化交互，适用于AI驱动的测试和调试。",
+      "该工具可集成到LLM或Agent工作流中，用于Web内容提取和操作。",
+      "为Web开发者提供了与AI系统协作的新接口，扩展了AI在开发中的应用。"
+    ],
+    "category": "开发工具"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260703-015",
+  "title": "Claude-real-video － any LLM can watch a video",
+  "source_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+  "source_type": "rss",
+  "summary": "该项目展示如何让任何LLM（如Claude）具备视频理解能力，通过将视频帧转换为文本描述，使模型能“观看”视频内容。它扩展了LLM的应用范围，从纯文本处理到多模态理解，为Agent提供视觉感知能力。",
+  "tags": [
+    "多模态",
+    "视频理解",
+    "LLM",
+    "Agent",
+    "Claude"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-03T18:38:11+08:00",
+  "updated_at": "2026-07-03T18:38:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "将视频帧转换为文本描述，使LLM能处理视频信息",
+      "扩展LLM能力至多模态领域，增强Agent感知",
+      "开源实现，降低多模态AI应用门槛"
+    ],
+    "category": "多模态AI"
+  }
+}

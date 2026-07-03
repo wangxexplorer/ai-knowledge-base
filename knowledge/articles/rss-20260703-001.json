@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260703-001",
+  "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
+  "source_url": "https://wordgard.net/",
+  "source_type": "rss",
+  "summary": "Wordgard是一款由ProseMirror创建者开发的新型浏览器内富文本编辑器，专注于提供更优的编辑体验。",
+  "tags": [
+    "富文本编辑器",
+    "前端技术"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-03T18:38:11+08:00",
+  "updated_at": "2026-07-03T18:38:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Wordgard是ProseMirror的继任者",
+      "专注于浏览器内编辑体验"
+    ],
+    "category": "前端开发"
+  }
+}

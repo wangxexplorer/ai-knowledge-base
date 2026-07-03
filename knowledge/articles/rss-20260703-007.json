@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260703-007",
+  "title": "An American Privacy Emergency",
+  "source_url": "https://scottaaronson.blog/?p=9902",
+  "source_type": "rss",
+  "summary": "文章讨论美国人口普查局禁止在统计产品中使用噪声注入技术，引发隐私与数据准确性争议，与AI数据隐私保护相关。",
+  "tags": [
+    "隐私",
+    "数据保护",
+    "统计",
+    "政策"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-03T18:38:11+08:00",
+  "updated_at": "2026-07-03T18:38:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "噪声注入技术被禁影响数据隐私保护",
+      "统计产品准确性面临挑战",
+      "隐私与数据可用性平衡问题"
+    ],
+    "category": "数据隐私与政策"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260703-004",
+  "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
+  "source_url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
+  "source_type": "rss",
+  "summary": "Manticore Search通过重构ONNX路径，实现了14倍更快的嵌入向量生成速度。该优化显著提升了AI应用中向量搜索和相似性计算的性能，对LLM和Agent系统的嵌入层效率有直接帮助。",
+  "tags": [
+    "ONNX",
+    "嵌入向量",
+    "性能优化",
+    "向量搜索",
+    "Manticore"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-03T18:38:11+08:00",
+  "updated_at": "2026-07-03T18:38:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "ONNX路径重构带来14倍嵌入速度提升",
+      "优化直接加速AI应用的向量检索与相似度计算",
+      "对LLM和Agent系统的嵌入层效率有重要影响"
+    ],
+    "category": "AI基础设施与性能优化"
+  }
+}

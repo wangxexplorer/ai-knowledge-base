@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260703-003",
+  "title": "Half-Baked Product",
+  "source_url": "https://weli.dev/blog/half-baked-product/",
+  "source_type": "rss",
+  "summary": "文章讨论了“半成品”产品概念，即发布功能不完整但核心价值明确的产品，以快速获取用户反馈并迭代。这与AI产品开发中的MVP（最小可行产品）策略相关，强调快速验证和迭代优化。",
+  "tags": [
+    "产品开发",
+    "MVP",
+    "迭代"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-03T18:38:11+08:00",
+  "updated_at": "2026-07-03T18:38:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "半成品产品策略可加速AI产品市场验证",
+      "核心价值明确比功能完整更重要"
+    ],
+    "category": "产品策略"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260703-020",
+  "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+  "source_url": "https://mathstodon.xyz/@iblech/116769502749142438",
+  "source_type": "rss",
+  "summary": "Linux 6.9版本后，LUKS挂起操作不再从内存中清除磁盘加密密钥，可能增加安全风险。该变化影响系统休眠时的密钥保护机制。",
+  "tags": [
+    "Linux",
+    "安全",
+    "加密",
+    "内存"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-03T18:38:11+08:00",
+  "updated_at": "2026-07-03T18:38:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "LUKS挂起不再清除内存密钥",
+      "影响系统休眠安全",
+      "需关注密钥泄露风险"
+    ],
+    "category": "系统安全"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260703-017",
+  "title": "Postgres transactions are a distributed systems superpower",
+  "source_url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
+  "source_type": "rss",
+  "summary": "本文探讨Postgres事务在分布式系统中的优势，强调将工作流状态与数据共置可提升一致性和性能。",
+  "tags": [
+    "Postgres",
+    "分布式系统",
+    "事务",
+    "工作流"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-03T18:38:11+08:00",
+  "updated_at": "2026-07-03T18:38:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "Postgres事务可简化分布式工作流状态管理",
+      "共置状态与数据减少网络开销",
+      "事务保证强一致性"
+    ],
+    "category": "数据库与系统设计"
+  }
+}

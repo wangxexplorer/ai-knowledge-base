@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260703-011",
+  "title": "Virginia bans sale of geolocation data",
+  "source_url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+  "source_type": "rss",
+  "summary": "弗吉尼亚州禁止出售地理位置数据，该法规涉及数据隐私保护，与AI、LLM、Agent领域间接相关，因为AI系统常依赖位置数据进行训练或服务。",
+  "tags": [
+    "数据隐私",
+    "地理位置",
+    "法规"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-03T18:38:11+08:00",
+  "updated_at": "2026-07-03T18:38:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "地理位置数据销售被禁止，影响依赖此类数据的AI应用",
+      "法规可能限制AI模型训练数据来源",
+      "提示AI领域需关注数据合规性"
+    ],
+    "category": "数据隐私与法规"
+  }
+}

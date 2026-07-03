@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260703-014",
+  "title": "The short leash AI coding method for beating Fable",
+  "source_url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+  "source_type": "rss",
+  "summary": "本文介绍了一种名为“短绳AI编码方法”的技术，用于在游戏《Fable》中击败对手。该方法通过限制AI的自主性，采用更紧密的人类监督和逐步指导，以提高编码效率和准确性。文章可能探讨了如何利用LLM或Agent辅助编程，但核心聚焦于游戏策略。",
+  "tags": [
+    "AI编码",
+    "游戏策略",
+    "LLM应用"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-03T18:38:11+08:00",
+  "updated_at": "2026-07-03T18:38:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "短绳方法强调人类监督下的AI编码",
+      "适用于特定游戏场景的AI策略",
+      "可能涉及LLM的代码生成能力"
+    ],
+    "category": "技术应用"
+  }
+}

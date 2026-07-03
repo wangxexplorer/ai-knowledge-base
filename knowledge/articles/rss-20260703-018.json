@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260703-018",
+  "title": "This is my attempt to get Vulkan going on NetBSD",
+  "source_url": "https://github.com/segaboy/vulkan-netbsd",
+  "source_type": "rss",
+  "summary": "该项目尝试在NetBSD操作系统上实现Vulkan图形API支持，属于操作系统底层图形驱动开发，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "Vulkan",
+    "NetBSD",
+    "图形驱动"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-03T18:38:11+08:00",
+  "updated_at": "2026-07-03T18:38:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "NetBSD上Vulkan支持的技术挑战",
+      "开源驱动开发实践"
+    ],
+    "category": "操作系统/图形"
+  }
+}

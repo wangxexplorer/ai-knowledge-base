@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260703-016",
+  "title": "Exapunks (2018)",
+  "source_url": "https://www.zachtronics.com/exapunks/",
+  "source_type": "rss",
+  "summary": "Exapunks是Zachtronics于2018年发布的一款编程游戏，玩家通过编写代码控制名为EXA的微型机器人，在虚拟网络中解决谜题。游戏强调逻辑思维和算法设计，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "编程游戏",
+    "Zachtronics",
+    "解谜",
+    "算法"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-03T18:38:11+08:00",
+  "updated_at": "2026-07-03T18:38:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "游戏核心是编程解谜",
+      "不涉及AI或LLM技术",
+      "属于娱乐软件"
+    ],
+    "category": "游戏"
+  }
+}
