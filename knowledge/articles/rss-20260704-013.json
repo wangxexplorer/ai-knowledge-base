@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260704-013",
+  "title": "Leanstral 1.5: Proof abundance for all",
+  "source_url": "https://mistral.ai/news/leanstral-1-5/",
+  "source_type": "rss",
+  "summary": "Mistral AI发布了Leanstral 1.5，这是一个专注于数学证明和形式化验证的AI模型。它旨在通过AI辅助证明助手（如Lean）来提升数学定理证明的效率和可访问性，推动AI在数学和逻辑推理领域的应用。",
+  "tags": [
+    "AI",
+    "LLM",
+    "数学推理",
+    "形式化验证",
+    "Mistral"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-04T18:11:54+08:00",
+  "updated_at": "2026-07-04T18:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "Leanstral 1.5专注于数学证明，展示了LLM在形式化推理领域的进展。",
+      "该模型可能通过增强Agent能力，辅助数学家或研究人员进行复杂证明。",
+      "体现了AI在科学发现和逻辑验证中的潜在应用。"
+    ],
+    "category": "AI模型发布"
+  }
+}

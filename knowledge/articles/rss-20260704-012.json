@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260704-012",
+  "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
+  "source_url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+  "source_type": "rss",
+  "summary": "该项目利用计算机视觉（CV）技术实现Steam手柄的自动充电，通过磁性充电底座进行定位。虽然涉及CV，但与AI、LLM或Agent领域关联度较低。",
+  "tags": [
+    "计算机视觉",
+    "硬件",
+    "充电"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-04T18:11:54+08:00",
+  "updated_at": "2026-07-04T18:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "使用CV进行定位",
+      "磁性充电底座",
+      "自动充电"
+    ],
+    "category": "硬件项目"
+  }
+}

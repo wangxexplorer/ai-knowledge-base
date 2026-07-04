@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260704-018",
+  "title": "Espionage Against the European Parliament",
+  "source_url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+  "source_type": "rss",
+  "summary": "该条目报道了欧洲议会调查间谍软件的委员会成员遭飞马间谍软件攻击的事件，涉及网络安全、间谍软件滥用及政治监控。",
+  "tags": [
+    "网络安全",
+    "间谍软件",
+    "飞马",
+    "政治监控"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-04T18:11:54+08:00",
+  "updated_at": "2026-07-04T18:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "间谍软件被用于针对政治调查人员",
+      "飞马软件攻击涉及高级别政治机构",
+      "事件凸显监控技术滥用的风险"
+    ],
+    "category": "网络安全"
+  }
+}

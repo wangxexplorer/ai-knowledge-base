@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260704-003",
+  "title": "David Beazley – Programming Courses",
+  "source_url": "https://www.dabeaz.com/courses.html",
+  "source_type": "rss",
+  "summary": "David Beazley的编程课程页面，提供Python、并发、解析等主题的培训资源。与AI/LLM/Agent领域无直接关联，但Python是AI开发常用语言。",
+  "tags": [
+    "Python",
+    "编程课程",
+    "教育"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-04T18:11:54+08:00",
+  "updated_at": "2026-07-04T18:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "David Beazley是知名Python讲师",
+      "课程涵盖并发、解析等主题",
+      "与AI开发有间接语言关联"
+    ],
+    "category": "教育"
+  }
+}

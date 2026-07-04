@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260704-004",
+  "title": "Agentic coding notes from Galapagos Island",
+  "source_url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+  "source_type": "rss",
+  "summary": "本文探讨了在加拉帕戈斯群岛背景下，使用AI进行代理式编码的实践笔记，重点分析了代理循环（agentic loops）在编写代码中的应用与挑战。",
+  "tags": [
+    "Agentic Coding",
+    "AI编程",
+    "代理循环",
+    "LLM应用",
+    "代码生成"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-04T18:11:54+08:00",
+  "updated_at": "2026-07-04T18:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "代理循环在AI编码中可提升代码生成效率，但需注意循环控制与错误处理。",
+      "实际应用中，AI代理需结合人类反馈以优化编码结果。",
+      "该实践展示了LLM在复杂编程任务中的潜力与局限性。"
+    ],
+    "category": "AI编程实践"
+  }
+}

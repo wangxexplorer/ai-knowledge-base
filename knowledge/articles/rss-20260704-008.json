@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260704-008",
+  "title": "Soatok's Informal Guide to Threat Models",
+  "source_url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
+  "source_type": "rss",
+  "summary": "该文章是一份关于威胁模型的非正式指南，旨在帮助读者理解如何识别和评估系统安全风险。虽然不直接涉及AI或LLM，但威胁建模是构建安全AI系统的基础，对Agent安全设计有参考价值。",
+  "tags": [
+    "威胁模型",
+    "安全",
+    "系统设计"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-04T18:11:54+08:00",
+  "updated_at": "2026-07-04T18:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "威胁模型是安全设计的第一步",
+      "适用于评估AI系统的潜在风险",
+      "对Agent安全架构有间接指导意义"
+    ],
+    "category": "安全基础"
+  }
+}

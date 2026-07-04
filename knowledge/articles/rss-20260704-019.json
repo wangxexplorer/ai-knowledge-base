@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260704-019",
+  "title": "SearXNG: A free internet metasearch engine",
+  "source_url": "https://github.com/searxng/searxng",
+  "source_type": "rss",
+  "summary": "SearXNG是一个免费的互联网元搜索引擎，聚合多个搜索引擎结果，保护用户隐私。",
+  "tags": [
+    "搜索引擎",
+    "隐私",
+    "元搜索"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-04T18:11:54+08:00",
+  "updated_at": "2026-07-04T18:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "元搜索引擎聚合结果",
+      "注重隐私保护",
+      "开源免费"
+    ],
+    "category": "工具"
+  }
+}

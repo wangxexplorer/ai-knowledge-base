@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260704-017",
+  "title": "Applied Category Theory Course (2018)",
+  "source_url": "https://math.ucr.edu/home/baez/act_course/index.html",
+  "source_type": "rss",
+  "summary": "该条目介绍2018年应用范畴论课程，范畴论为AI、LLM和Agent领域提供数学基础，尤其在知识表示、组合性和抽象推理方面有潜在应用。",
+  "tags": [
+    "范畴论",
+    "数学基础",
+    "知识表示"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-04T18:11:54+08:00",
+  "updated_at": "2026-07-04T18:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "范畴论可形式化AI中的组合结构",
+      "为LLM的推理提供抽象框架",
+      "在Agent系统中支持模块化设计"
+    ],
+    "category": "数学基础"
+  }
+}

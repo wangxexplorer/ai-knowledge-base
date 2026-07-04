@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260704-020",
+  "title": "FreeBSD ate my RAM",
+  "source_url": "https://crocidb.com/post/freebsd-ate-my-ram/",
+  "source_type": "rss",
+  "summary": "文章讨论了FreeBSD操作系统内存使用问题，指出其内存管理机制可能导致用户感知的RAM占用过高，但实际是用于缓存和文件系统元数据，属于正常行为。",
+  "tags": [
+    "FreeBSD",
+    "内存管理",
+    "操作系统"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-04T18:11:54+08:00",
+  "updated_at": "2026-07-04T18:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "FreeBSD内存占用高通常是由于缓存机制",
+      "用户需区分实际使用与缓存占用"
+    ],
+    "category": "操作系统"
+  }
+}

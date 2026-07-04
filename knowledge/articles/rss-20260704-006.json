@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260704-006",
+  "title": "Synthesis is harder than analysis",
+  "source_url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
+  "source_type": "rss",
+  "summary": "文章探讨了综合（synthesis）比分析（analysis）更困难的观点，强调在AI和LLM领域，模型在分析任务上表现出色，但在综合信息、创造新知识或解决方案方面仍面临挑战。这涉及Agent的自主决策和创新能力。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Agent",
+    "综合",
+    "分析"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-04T18:11:54+08:00",
+  "updated_at": "2026-07-04T18:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "综合能力是AI发展的瓶颈",
+      "LLM在分析任务上优于综合",
+      "Agent需要更强的综合能力"
+    ],
+    "category": "AI理论"
+  }
+}

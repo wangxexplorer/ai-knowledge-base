@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260704-015",
+  "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+  "source_url": "https://epoch.ai/data-insights/cve-severity-spike",
+  "source_type": "rss",
+  "summary": "文章指出在Claude Mythos Preview发布前后，出现了新的严重漏洞（CVE）激增现象。这暗示AI模型发布可能引发安全风险集中暴露，需关注AI系统的安全漏洞管理。",
+  "tags": [
+    "AI安全",
+    "漏洞",
+    "Claude",
+    "CVE",
+    "安全风险"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-04T18:11:54+08:00",
+  "updated_at": "2026-07-04T18:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI模型发布可能伴随安全漏洞激增",
+      "需加强AI系统的安全测试与漏洞管理",
+      "Claude Mythos Preview版本存在潜在安全风险"
+    ],
+    "category": "AI安全"
+  }
+}
