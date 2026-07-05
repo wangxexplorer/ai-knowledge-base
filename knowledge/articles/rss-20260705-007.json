@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260705-007",
+  "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+  "source_url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+  "source_type": "rss",
+  "summary": "sqlite-utils 4.0rc2版本主要由AI助手Claude Fable编写，成本约149.25美元。展示了AI在代码生成中的实际应用，降低了开发成本。",
+  "tags": [
+    "AI辅助编程",
+    "LLM",
+    "代码生成",
+    "成本效益",
+    "开源工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-05T18:15:16+08:00",
+  "updated_at": "2026-07-05T18:15:16+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "AI可高效完成实际软件项目开发",
+      "LLM辅助编程显著降低人力成本",
+      "AI生成代码质量可达到发布候选版本标准"
+    ],
+    "category": "AI应用实践"
+  }
+}

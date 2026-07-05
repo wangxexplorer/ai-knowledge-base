@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260705-014",
+  "title": "If you're a button, you have one job",
+  "source_url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+  "source_type": "rss",
+  "summary": "文章讨论UI设计中按钮的单一职责原则，强调按钮应只执行一个明确操作，避免混淆用户。这与AI/LLM/Agent领域无直接关联。",
+  "tags": [
+    "UI设计",
+    "用户体验",
+    "按钮设计"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-05T18:15:16+08:00",
+  "updated_at": "2026-07-05T18:15:16+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "按钮应只执行一个操作",
+      "避免用户混淆",
+      "提升界面可用性"
+    ],
+    "category": "用户界面设计"
+  }
+}

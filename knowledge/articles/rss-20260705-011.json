@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260705-011",
+  "title": "My ASN Journey series (2024)",
+  "source_url": "https://www.animmouse.com/p/my-asn-journey/",
+  "source_type": "rss",
+  "summary": "该条目为个人关于ASN（自治系统号）旅程的系列文章，主要涉及网络基础设施和BGP路由技术，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "ASN",
+    "网络基础设施",
+    "BGP"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-05T18:15:16+08:00",
+  "updated_at": "2026-07-05T18:15:16+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "ASN是互联网路由的核心概念",
+      "该系列可能涉及网络架构和运维经验"
+    ],
+    "category": "网络技术"
+  }
+}

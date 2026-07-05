@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260705-019",
+  "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+  "source_url": "https://github.com/openai/codex/issues/30364",
+  "source_type": "rss",
+  "summary": "该条目讨论GPT-5.5 Codex中推理令牌聚类可能导致性能下降的问题，涉及AI模型优化与退化现象。",
+  "tags": [
+    "GPT-5.5",
+    "Codex",
+    "推理令牌",
+    "性能退化",
+    "AI优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-05T18:15:16+08:00",
+  "updated_at": "2026-07-05T18:15:16+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "推理令牌聚类可能引发模型性能退化",
+      "该问题与AI模型内部机制相关",
+      "需进一步研究聚类对推理质量的影响"
+    ],
+    "category": "模型性能"
+  }
+}

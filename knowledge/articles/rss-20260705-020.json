@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260705-020",
+  "title": "Better Models: Worse Tools",
+  "source_url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+  "source_type": "rss",
+  "summary": "文章探讨了随着AI模型能力的提升，开发者工具反而变得更难使用的问题。作者认为，模型越强大，其行为越不可预测，导致调试和工具构建更加困难。文章呼吁重新思考工具设计，以适应更智能但更不透明的模型。",
+  "tags": [
+    "AI模型",
+    "开发者工具",
+    "调试",
+    "可解释性",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-05T18:15:16+08:00",
+  "updated_at": "2026-07-05T18:15:16+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "模型能力增强导致工具复杂度上升",
+      "不可预测性成为工具设计的主要挑战",
+      "需要新的调试和验证方法"
+    ],
+    "category": "技术评论"
+  }
+}

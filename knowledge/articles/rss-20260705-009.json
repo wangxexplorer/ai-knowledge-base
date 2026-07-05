@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260705-009",
+  "title": "Shadcn/UI now defaults to Base UI instead of Radix",
+  "source_url": "https://ui.shadcn.com/docs/changelog",
+  "source_type": "rss",
+  "summary": "Shadcn/UI 默认组件库从 Radix 切换为 Base UI，这是前端 UI 框架的重要更新。虽然不直接涉及 AI/LLM/Agent，但可能影响 AI 应用的前端界面开发。",
+  "tags": [
+    "前端开发",
+    "UI框架",
+    "Shadcn/UI"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-05T18:15:16+08:00",
+  "updated_at": "2026-07-05T18:15:16+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Shadcn/UI 默认组件库变更",
+      "可能影响基于该框架的 AI 应用界面"
+    ],
+    "category": "前端技术"
+  }
+}

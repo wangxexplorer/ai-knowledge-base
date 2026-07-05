@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260705-002",
+  "title": "Web-based cryptography is always snake oil",
+  "source_url": "https://www.devever.net/~hl/webcrypto",
+  "source_type": "rss",
+  "summary": "文章指出基于Web的密码学（如浏览器端加密）本质上不可靠，因为无法保证代码完整性和执行环境安全，易受攻击。",
+  "tags": [
+    "密码学",
+    "Web安全",
+    "安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-05T18:15:16+08:00",
+  "updated_at": "2026-07-05T18:15:16+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Web密码学存在根本性安全缺陷",
+      "浏览器环境无法保证加密代码的完整性",
+      "建议避免依赖Web端加密"
+    ],
+    "category": "安全"
+  }
+}

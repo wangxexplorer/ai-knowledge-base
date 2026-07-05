@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260705-017",
+  "title": "Drone Autonomy Crash Course",
+  "source_url": "https://www.cggonzalez.com/blog/index.html",
+  "source_type": "rss",
+  "summary": "该条目为Hacker News上关于无人机自主性的速成课程，涉及无人机自主导航与控制技术，与AI、LLM、Agent领域有一定关联，但并非核心内容。",
+  "tags": [
+    "无人机",
+    "自主性",
+    "控制",
+    "导航"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-05T18:15:16+08:00",
+  "updated_at": "2026-07-05T18:15:16+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.4,
+    "key_insights": [
+      "无人机自主性依赖于AI算法",
+      "与Agent领域有间接关联",
+      "非LLM核心应用"
+    ],
+    "category": "技术教程"
+  }
+}

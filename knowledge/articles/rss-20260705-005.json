@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260705-005",
+  "title": "Reducing Assumptions, Exploding Your Code",
+  "source_url": "https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/",
+  "source_type": "rss",
+  "summary": "文章讨论了通过减少代码中的假设来提升灵活性和可扩展性，可能涉及编程范式或语言设计，与AI/LLM/Agent领域无直接关联。",
+  "tags": [
+    "编程",
+    "代码设计",
+    "软件工程"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-05T18:15:16+08:00",
+  "updated_at": "2026-07-05T18:15:16+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "减少假设可提高代码适应性",
+      "可能涉及Rye语言特性"
+    ],
+    "category": "软件开发"
+  }
+}

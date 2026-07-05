@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260705-004",
+  "title": "Fast Software, the Best Software",
+  "source_url": "https://craigmod.com/essays/fast_software/",
+  "source_type": "rss",
+  "summary": "文章强调快速软件是优秀软件的核心，探讨了速度对用户体验和效率的影响，但未涉及AI、LLM或Agent技术。",
+  "tags": [
+    "软件性能",
+    "用户体验"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-05T18:15:16+08:00",
+  "updated_at": "2026-07-05T18:15:16+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "速度是软件质量的关键因素",
+      "快速软件提升用户满意度"
+    ],
+    "category": "软件工程"
+  }
+}

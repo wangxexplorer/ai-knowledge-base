@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260705-008",
+  "title": "Megawatts by Microwave",
+  "source_url": "https://computer.rip/2026-07-04-microwave-and-power.html",
+  "source_type": "rss",
+  "summary": "文章探讨了通过微波技术传输电力的可能性，涉及微波功率传输的原理、效率及潜在应用。该技术虽非直接关联AI，但可为偏远地区的AI基础设施提供无线供电方案。",
+  "tags": [
+    "微波输电",
+    "无线供电",
+    "能源技术"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-05T18:15:16+08:00",
+  "updated_at": "2026-07-05T18:15:16+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "微波输电可实现远距离无线电力传输",
+      "效率受限于波束发散和接收转换",
+      "可为AI数据中心提供备用能源方案"
+    ],
+    "category": "能源技术"
+  }
+}
