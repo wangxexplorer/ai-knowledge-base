@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260706-004",
+  "title": "X402, a static blog monetization excercise",
+  "source_url": "https://shtein.me/posts/x402-poc/",
+  "source_type": "rss",
+  "summary": "X402是一个静态博客变现实验，通过HTTP 402 Payment Required状态码和闪电网络实现按文章付费访问。文章介绍了技术实现、用户体验和潜在问题，属于Web monetization和微支付领域。",
+  "tags": [
+    "Web Monetization",
+    "微支付",
+    "闪电网络"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-06T20:07:11+08:00",
+  "updated_at": "2026-07-06T20:07:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "利用HTTP 402状态码实现按需付费",
+      "集成闪电网络进行微支付",
+      "探索静态博客变现新方式"
+    ],
+    "category": "Web Monetization"
+  }
+}

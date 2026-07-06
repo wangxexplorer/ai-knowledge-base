@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260706-019",
+  "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+  "source_url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+  "source_type": "rss",
+  "summary": "该PDF论文介绍了一款新型AI导师在达特茅斯学院课程中实现了0.71至1.30个标准差的效果量，表明其对学生学习成果有显著提升。研究聚焦于AI在教育领域的应用，展示了LLM和Agent技术如何作为个性化教学工具，改善学习效率与效果。",
+  "tags": [
+    "AI教育",
+    "LLM应用",
+    "智能导师",
+    "学习效果",
+    "个性化教学"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-06T20:07:11+08:00",
+  "updated_at": "2026-07-06T20:07:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "AI导师在真实课程中产生显著正向效果量（0.71-1.30 SD）",
+      "LLM驱动的Agent可有效支持个性化学习",
+      "研究为AI在教育中的实证效果提供了有力证据"
+    ],
+    "category": "AI教育应用"
+  }
+}

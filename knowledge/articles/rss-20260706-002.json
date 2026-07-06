@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260706-002",
+  "title": "\"Software Engineering\" Is Not Engineering",
+  "source_url": "https://web.archive.org/web/20050615235108/http://www.geocities.com/tablizer/science.htm",
+  "source_type": "rss",
+  "summary": "该条目讨论软件工程是否应被视为真正的工程学科，质疑其科学基础和方法论严谨性，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "软件工程",
+    "工程学科",
+    "方法论"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-06T20:07:11+08:00",
+  "updated_at": "2026-07-06T20:07:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "软件工程缺乏传统工程学科的严格科学基础",
+      "文章质疑软件工程作为工程学科的合法性"
+    ],
+    "category": "软件工程哲学"
+  }
+}

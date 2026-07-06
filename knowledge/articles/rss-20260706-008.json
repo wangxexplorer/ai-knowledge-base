@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260706-008",
+  "title": "Generate parametric, manufacturable 3D models in seconds",
+  "source_url": "https://kyrall.com/",
+  "source_type": "rss",
+  "summary": "Kyrall是一个AI驱动的3D建模工具，能在数秒内生成参数化、可制造的3D模型，显著提升设计效率。",
+  "tags": [
+    "AI",
+    "3D建模",
+    "参数化设计",
+    "制造"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-06T20:07:11+08:00",
+  "updated_at": "2026-07-06T20:07:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "利用AI技术实现快速3D模型生成",
+      "强调参数化和可制造性，面向工程应用",
+      "可能集成LLM或Agent以优化设计流程"
+    ],
+    "category": "AI应用"
+  }
+}

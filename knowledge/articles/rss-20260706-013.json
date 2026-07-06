@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260706-013",
+  "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
+  "source_url": "https://arxiv.org/abs/2605.20049",
+  "source_type": "rss",
+  "summary": "该研究通过受控的最小配对实验，探讨代码整洁度对编码代理性能的影响。结果表明，代码整洁度显著影响代理的代码生成质量和效率，整洁代码能提升代理的准确性和减少错误。",
+  "tags": [
+    "编码代理",
+    "代码质量",
+    "AI性能",
+    "软件工程"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-06T20:07:11+08:00",
+  "updated_at": "2026-07-06T20:07:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "代码整洁度直接影响编码代理的生成质量",
+      "整洁代码可减少代理的错误率",
+      "研究为优化代理训练数据提供依据"
+    ],
+    "category": "AI代理与软件工程"
+  }
+}

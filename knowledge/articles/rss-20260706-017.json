@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260706-017",
+  "title": "OpenPrinter",
+  "source_url": "https://www.opentools.studio/",
+  "source_type": "rss",
+  "summary": "OpenPrinter是一个开源工具，旨在通过AI技术简化3D打印流程。它利用LLM和Agent技术，提供智能化的打印设置、故障排除和优化建议，降低用户使用门槛。该项目在Hacker News上获得高关注，表明其创新性。",
+  "tags": [
+    "AI",
+    "3D打印",
+    "开源",
+    "LLM",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-06T20:07:11+08:00",
+  "updated_at": "2026-07-06T20:07:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "利用AI和LLM技术优化3D打印流程",
+      "Agent技术提供智能化故障排除",
+      "开源项目，社区驱动创新"
+    ],
+    "category": "AI应用工具"
+  }
+}

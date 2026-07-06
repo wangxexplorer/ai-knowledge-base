@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260706-015",
+  "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+  "source_url": "https://homegames.io",
+  "source_type": "rss",
+  "summary": "这是一个开源游戏平台，允许用户创建、分享和游玩简单的JavaScript游戏，提供浏览器内编辑器。项目持续开发8年，所有代码开源。",
+  "tags": [
+    "开源游戏",
+    "JavaScript",
+    "游戏平台"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-06T20:07:11+08:00",
+  "updated_at": "2026-07-06T20:07:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "平台专注于简单、可读源码的游戏",
+      "提供浏览器内编辑器便于创作",
+      "所有代码开源"
+    ],
+    "category": "游戏开发"
+  }
+}

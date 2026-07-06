@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260706-006",
+  "title": "Vacuum at the Page Level",
+  "source_url": "https://boringsql.com/posts/vacuum-at-the-page-level/",
+  "source_type": "rss",
+  "summary": "文章讨论了数据库管理中的页面级真空操作，属于数据库维护技术，与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "数据库",
+    "真空操作",
+    "页面管理"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-06T20:07:11+08:00",
+  "updated_at": "2026-07-06T20:07:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "页面级真空是数据库维护的一部分",
+      "与AI、LLM或Agent无关"
+    ],
+    "category": "数据库技术"
+  }
+}

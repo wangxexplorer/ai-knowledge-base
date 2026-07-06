@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260706-014",
+  "title": "Composite Video on the NES: Why's it so wobbly?",
+  "source_url": "https://nicole.express/2026/phase-altering-by-line.html",
+  "source_type": "rss",
+  "summary": "文章探讨了NES（任天堂娱乐系统）复合视频信号不稳定的技术原因，主要涉及相位交替线（PAL）和NTSC制式的差异，以及硬件设计对视频质量的影响。",
+  "tags": [
+    "NES",
+    "复合视频",
+    "视频信号",
+    "硬件"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-06T20:07:11+08:00",
+  "updated_at": "2026-07-06T20:07:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "NES复合视频抖动源于相位交替线设计",
+      "NTSC与PAL制式差异影响视频稳定性",
+      "硬件限制导致视频信号质量不佳"
+    ],
+    "category": "硬件与视频技术"
+  }
+}

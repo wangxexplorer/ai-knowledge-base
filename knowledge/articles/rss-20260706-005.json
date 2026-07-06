@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260706-005",
+  "title": "Show HN: Paint the Earth on a live, interactive globe (collaborative art.)",
+  "source_url": "https://earth.tattoo",
+  "source_type": "rss",
+  "summary": "该项目是一个交互式地球涂鸦平台，用户可拥有并绘制地球表面的像素块。与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "交互式地图",
+    "协作艺术",
+    "像素涂鸦"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-06T20:07:11+08:00",
+  "updated_at": "2026-07-06T20:07:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该项目是协作艺术平台，不涉及AI技术",
+      "与LLM或Agent领域无关"
+    ],
+    "category": "非AI相关"
+  }
+}
