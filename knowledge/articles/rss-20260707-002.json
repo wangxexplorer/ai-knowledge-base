@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260707-002",
+  "title": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",
+  "source_url": "https://whimfiles.com",
+  "source_type": "rss",
+  "summary": "WhimFiles是一款基于Claude Code开发的Mac原生文件管理器，采用.NET/C#和AppKit技术栈，编译为Native AOT，体积仅9MB。它提供模糊搜索、双面板视图、批量重命名、图片转换等功能，注重隐私和文件操作安全。",
+  "tags": [
+    "Claude Code",
+    "AI辅助开发",
+    "文件管理器",
+    "macOS",
+    "隐私优先"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-07T18:58:27+08:00",
+  "updated_at": "2026-07-07T18:58:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "使用Claude Code辅助开发，体现AI在应用开发中的实际应用",
+      "注重文件操作安全性和隐私保护，符合当前用户需求",
+      "原生应用性能优于Electron，体积小，适合macOS用户"
+    ],
+    "category": "AI辅助开发工具"
+  }
+}

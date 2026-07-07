@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260707-009",
+  "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+  "source_url": "https://github.com/MaximeRivest/Riddle",
+  "source_type": "rss",
+  "summary": "该项目将reMarkable平板电脑改造成《哈利·波特》中汤姆·里德尔的日记，实现手写输入与AI对话功能，展示了AI与硬件结合的创意应用。",
+  "tags": [
+    "AI应用",
+    "硬件改造",
+    "创意项目",
+    "交互设计"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-07T18:58:27+08:00",
+  "updated_at": "2026-07-07T18:58:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "利用AI实现手写输入与对话交互",
+      "将经典科幻元素转化为现实技术原型",
+      "展示AI在个性化硬件改造中的潜力"
+    ],
+    "category": "AI应用与创意项目"
+  }
+}

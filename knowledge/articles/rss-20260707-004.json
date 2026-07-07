@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260707-004",
+  "title": "The Art of Computer Programming by Donald E. Knuth",
+  "source_url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
+  "source_type": "rss",
+  "summary": "Donald E. Knuth的《计算机程序设计艺术》是计算机科学的经典著作，涵盖算法分析与数据结构等基础内容。虽非直接针对AI或LLM，但其对算法效率与数学基础的深入探讨为AI领域提供了理论支撑。",
+  "tags": [
+    "算法",
+    "计算机科学",
+    "基础理论"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-07T18:58:27+08:00",
+  "updated_at": "2026-07-07T18:58:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "算法分析是AI模型优化的基础",
+      "数据结构知识对LLM实现至关重要",
+      "Knuth的著作提供了计算理论的核心原理"
+    ],
+    "category": "计算机科学基础"
+  }
+}

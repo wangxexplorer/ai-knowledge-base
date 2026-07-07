@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260707-010",
+  "title": "OpenSSH 10.4/10.4p1 Released",
+  "source_url": "https://www.openssh.org/txt/release-10.4",
+  "source_type": "rss",
+  "summary": "OpenSSH 10.4/10.4p1版本发布，主要更新包括安全修复和功能改进，如新增量子计算机抗性密钥交换机制，以增强SSH协议的安全性。",
+  "tags": [
+    "网络安全",
+    "加密",
+    "SSH"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-07T18:58:27+08:00",
+  "updated_at": "2026-07-07T18:58:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "新增量子抗性密钥交换",
+      "安全修复与功能改进"
+    ],
+    "category": "安全"
+  }
+}

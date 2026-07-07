@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260707-007",
+  "title": "NSA and IETF: Fairness",
+  "source_url": "https://blog.cr.yp.to/20260706-fairness.html",
+  "source_type": "rss",
+  "summary": "文章探讨了NSA与IETF在公平性方面的议题，可能涉及网络协议、安全标准或技术治理中的公平原则。",
+  "tags": [
+    "网络安全",
+    "标准制定",
+    "公平性"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-07T18:58:27+08:00",
+  "updated_at": "2026-07-07T18:58:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "公平性在技术标准中的重要性",
+      "NSA与IETF的互动影响"
+    ],
+    "category": "技术政策"
+  }
+}

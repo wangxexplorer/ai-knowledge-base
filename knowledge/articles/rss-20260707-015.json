@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260707-015",
+  "title": "CoMaps – FOSS Offline Maps",
+  "source_url": "https://www.comaps.app/",
+  "source_type": "rss",
+  "summary": "CoMaps是一款免费开源的离线地图应用，提供离线地图下载和导航功能，不涉及AI、LLM或Agent技术。",
+  "tags": [
+    "离线地图",
+    "开源",
+    "FOSS"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-07T18:58:27+08:00",
+  "updated_at": "2026-07-07T18:58:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "CoMaps是离线地图应用",
+      "完全开源免费",
+      "与AI/LLM/Agent无关"
+    ],
+    "category": "工具"
+  }
+}

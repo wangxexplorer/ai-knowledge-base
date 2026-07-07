@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260707-014",
+  "title": "Pruning RAG context down to what the answer actually needs",
+  "source_url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+  "source_type": "rss",
+  "summary": "本文介绍了Kapa.ai在RAG系统中如何通过剪枝上下文来提升回答质量。核心方法是识别并移除与问题无关的文档片段，仅保留最相关的信息，从而减少噪声、降低LLM推理成本并提高准确性。",
+  "tags": [
+    "RAG",
+    "上下文剪枝",
+    "LLM",
+    "信息检索"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-07T18:58:27+08:00",
+  "updated_at": "2026-07-07T18:58:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "RAG上下文剪枝可显著提升LLM回答的准确性和效率",
+      "通过移除无关片段减少噪声，降低推理成本",
+      "该方法适用于需要高精度检索增强生成的场景"
+    ],
+    "category": "AI应用优化"
+  }
+}

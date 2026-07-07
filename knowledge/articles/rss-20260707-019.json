@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260707-019",
+  "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
+  "source_url": "https://github.com/V4bel/Januscape",
+  "source_type": "rss",
+  "summary": "Januscape是一个针对KVM/x86虚拟化环境的漏洞利用工具，实现了从客户机到宿主机的逃逸。该漏洞编号为CVE-2026-53359，属于虚拟化安全领域。",
+  "tags": [
+    "虚拟化安全",
+    "漏洞利用",
+    "KVM"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-07T18:58:27+08:00",
+  "updated_at": "2026-07-07T18:58:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "KVM/x86虚拟化环境存在客户机逃逸漏洞",
+      "该漏洞编号为CVE-2026-53359",
+      "属于虚拟化安全领域，与AI/LLM/Agent无直接关联"
+    ],
+    "category": "安全漏洞"
+  }
+}

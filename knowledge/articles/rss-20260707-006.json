@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260707-006",
+  "title": "Small AI Models Gain Traction In places with unreliable networks",
+  "source_url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+  "source_type": "rss",
+  "summary": "本文讨论了小型AI模型在网络不稳定地区的应用趋势，指出其相比大型模型在离线或低带宽环境下更具优势，尤其在制药等领域的实际部署中展现出高效性和可靠性。",
+  "tags": [
+    "小型语言模型",
+    "离线AI",
+    "网络不稳定",
+    "制药",
+    "边缘计算"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-07T18:58:27+08:00",
+  "updated_at": "2026-07-07T18:58:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "小型AI模型在网络不稳定地区更具实用性和可部署性",
+      "制药行业是小型模型应用的重要领域之一",
+      "小型模型在资源受限环境下能保持高效性能"
+    ],
+    "category": "AI应用趋势"
+  }
+}

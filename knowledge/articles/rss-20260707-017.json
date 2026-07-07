@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260707-017",
+  "title": "OpenWrt One – Open Hardware Router",
+  "source_url": "https://openwrt.org/toh/openwrt/one",
+  "source_type": "rss",
+  "summary": "OpenWrt One是一款开源硬件路由器，基于OpenWrt系统，提供高度可定制的网络功能。该设备支持多种网络协议和扩展，适合开发者和高级用户。",
+  "tags": [
+    "开源硬件",
+    "路由器",
+    "网络"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-07T18:58:27+08:00",
+  "updated_at": "2026-07-07T18:58:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "开源硬件路由器",
+      "支持OpenWrt系统",
+      "高度可定制"
+    ],
+    "category": "硬件"
+  }
+}
