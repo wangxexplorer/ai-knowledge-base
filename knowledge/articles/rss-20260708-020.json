@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260708-020",
+  "title": "Why we built yet another Postgres connection pooler",
+  "source_url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+  "source_type": "rss",
+  "summary": "本文介绍了构建一个新的PostgreSQL连接池器（pgdog）的原因，旨在解决现有连接池在高并发场景下的性能瓶颈和配置复杂性，通过优化连接管理和资源分配提升数据库访问效率。",
+  "tags": [
+    "PostgreSQL",
+    "连接池",
+    "数据库优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-08T18:20:43+08:00",
+  "updated_at": "2026-07-08T18:20:43+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "新连接池器针对高并发场景优化",
+      "简化配置以降低运维复杂度",
+      "提升数据库连接管理效率"
+    ],
+    "category": "数据库技术"
+  }
+}

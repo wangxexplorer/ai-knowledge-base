@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260708-003",
+  "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+  "source_url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+  "source_type": "rss",
+  "summary": "该文章揭示了如何通过提示注入攻击，诱使GitHub的AI代理泄露私有仓库内容。研究展示了AI代理在处理用户指令时存在的安全漏洞，强调了在AI系统中实施严格访问控制和输入验证的重要性。",
+  "tags": [
+    "AI安全",
+    "提示注入",
+    "LLM漏洞",
+    "GitHub",
+    "Agent攻击"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-08T18:20:43+08:00",
+  "updated_at": "2026-07-08T18:20:43+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "GitHub的AI代理存在提示注入漏洞，可被利用泄露私有数据",
+      "AI代理在处理用户输入时缺乏足够的权限隔离",
+      "需要加强AI系统的安全设计，防止敏感信息泄露"
+    ],
+    "category": "AI安全与漏洞"
+  }
+}

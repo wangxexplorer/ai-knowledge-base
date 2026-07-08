@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260708-006",
+  "title": "LineageOS Statistics",
+  "source_url": "https://stats.lineageos.org",
+  "source_type": "rss",
+  "summary": "LineageOS Statistics页面展示了LineageOS自定义ROM的安装统计数据，包括设备型号、版本分布等。该数据对Android生态和开源社区有参考价值，但与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "Android",
+    "开源",
+    "统计"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-08T18:20:43+08:00",
+  "updated_at": "2026-07-08T18:20:43+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LineageOS是流行的Android自定义ROM",
+      "统计数据反映设备使用情况",
+      "与AI技术无关"
+    ],
+    "category": "技术生态"
+  }
+}

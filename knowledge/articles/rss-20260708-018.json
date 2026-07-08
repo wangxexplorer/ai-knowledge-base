@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260708-018",
+  "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+  "source_url": "https://github.com/rowboatlabs/rowboat",
+  "source_type": "rss",
+  "summary": "Rowboat是一个开源、本地优先的AI工作平台，旨在替代Claude Desktop。它集成了邮件、会议笔记、浏览器、并行编码和笔记等“工作表面”，让AI助手直接融入工作流程。支持本地知识图谱、任意LLM（包括本地模型），并允许用户构建自定义应用。",
+  "tags": [
+    "AI Agent",
+    "LLM",
+    "本地优先",
+    "工作流自动化",
+    "开源"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-08T18:20:43+08:00",
+  "updated_at": "2026-07-08T18:20:43+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Rowboat通过多种工作表面将AI嵌入具体工作场景，而非仅限聊天界面。",
+      "支持本地数据存储和任意LLM，强调隐私和灵活性。",
+      "允许用户构建自定义应用，扩展AI助手的能力边界。"
+    ],
+    "category": "AI应用与工具"
+  }
+}

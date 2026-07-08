@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260708-019",
+  "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+  "source_url": "https://30papers.com/",
+  "source_type": "rss",
+  "summary": "30papers.com 是一个以初学者友好格式呈现 Ilya 推荐的30篇机器学习必读论文的网站。该资源对理解现代AI和LLM的基础理论具有重要参考价值。",
+  "tags": [
+    "机器学习",
+    "论文",
+    "入门",
+    "Ilya",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-08T18:20:43+08:00",
+  "updated_at": "2026-07-08T18:20:43+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "精选了Ilya Sutskever认为重要的30篇ML论文",
+      "采用初学者友好的格式呈现，降低学习门槛",
+      "涵盖AI和LLM领域的核心理论基础"
+    ],
+    "category": "学习资源"
+  }
+}

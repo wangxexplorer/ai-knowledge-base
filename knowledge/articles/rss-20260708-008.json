@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260708-008",
+  "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+  "source_url": "https://kb.cert.org/vuls/id/213560",
+  "source_type": "rss",
+  "summary": "Tenda固件多个版本存在隐藏认证后门，允许攻击者绕过身份验证获取设备控制权。该漏洞影响广泛，需及时更新固件。",
+  "tags": [
+    "网络安全",
+    "固件漏洞",
+    "后门"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-08T18:20:43+08:00",
+  "updated_at": "2026-07-08T18:20:43+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Tenda固件存在隐藏认证后门",
+      "攻击者可绕过身份验证",
+      "需更新固件修复"
+    ],
+    "category": "安全漏洞"
+  }
+}

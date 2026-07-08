@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260708-010",
+  "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+  "source_url": "https://www.gao.gov/products/gao-26-108193",
+  "source_type": "rss",
+  "summary": "美国政府问责局报告指出，能源部在核废料清理项目中过早排除了成本较低的方案，可能导致不必要的开支。该报告主要涉及政府项目管理和成本效益分析，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "政府报告",
+    "核废料清理",
+    "成本分析"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-08T18:20:43+08:00",
+  "updated_at": "2026-07-08T18:20:43+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "能源部可能因过早排除低成本方案而增加核废料清理成本",
+      "报告强调项目决策需基于充分成本效益分析"
+    ],
+    "category": "政府与政策"
+  }
+}

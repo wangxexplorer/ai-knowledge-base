@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260708-012",
+  "title": "Show HN: Davit, a Apple Containers UI",
+  "source_url": "https://davit.app",
+  "source_type": "rss",
+  "summary": "Davit是一个Apple Containers前端界面，主要采用vibe-coding方式开发，作者分享源码供他人使用。该项目与AI、LLM、Agent领域无直接关联，属于前端开发工具类项目。",
+  "tags": [
+    "前端开发",
+    "Apple Containers",
+    "UI",
+    "开源"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-08T18:20:43+08:00",
+  "updated_at": "2026-07-08T18:20:43+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该项目是Apple Containers的前端界面",
+      "采用vibe-coding方式开发",
+      "作者公开了源代码"
+    ],
+    "category": "前端开发"
+  }
+}

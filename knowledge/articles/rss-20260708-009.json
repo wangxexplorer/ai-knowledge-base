@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260708-009",
+  "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+  "source_url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+  "source_type": "rss",
+  "summary": "MIT 6.001课程视频，1986年录制，讲授计算机程序的结构与解释，是计算机科学经典教材的配套讲座，涵盖编程基础、抽象、递归、元语言抽象等核心概念。",
+  "tags": [
+    "计算机科学教育",
+    "编程基础",
+    "SICP"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-08T18:20:43+08:00",
+  "updated_at": "2026-07-08T18:20:43+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "SICP是计算机科学经典教材，对理解编程范式有深远影响",
+      "视频讲座展示了早期计算机科学教学方式",
+      "内容与AI/LLM/Agent无直接关联，但为编程思维打下基础"
+    ],
+    "category": "教育"
+  }
+}

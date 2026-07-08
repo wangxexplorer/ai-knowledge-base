@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260708-011",
+  "title": "Every new car sold in the European Union must include a driver monitoring camera",
+  "source_url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+  "source_type": "rss",
+  "summary": "欧盟强制新车安装驾驶员监控摄像头，旨在通过检测分心、疲劳等行为提升道路安全。该技术涉及计算机视觉和实时数据处理，与AI在自动驾驶辅助系统中的应用相关，但非直接针对LLM或Agent领域。",
+  "tags": [
+    "驾驶员监控",
+    "计算机视觉",
+    "欧盟法规",
+    "道路安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-08T18:20:43+08:00",
+  "updated_at": "2026-07-08T18:20:43+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "欧盟强制要求新车配备驾驶员监控摄像头",
+      "技术基于计算机视觉和实时行为分析",
+      "与AI在汽车安全领域的应用相关"
+    ],
+    "category": "AI应用"
+  }
+}

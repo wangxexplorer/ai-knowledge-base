@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260708-013",
+  "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+  "source_url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+  "source_type": "rss",
+  "summary": "Kokoro是一个本地、CPU友好、高质量的文本转语音（TTS）系统，能够在无需GPU的情况下运行，适合资源受限环境。它利用AI技术生成自然语音，强调隐私和离线能力，与AI、LLM和Agent领域相关，可作为语音交互模块。",
+  "tags": [
+    "TTS",
+    "AI",
+    "语音合成",
+    "本地部署",
+    "CPU友好"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-08T18:20:43+08:00",
+  "updated_at": "2026-07-08T18:20:43+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "Kokoro实现高质量TTS，无需GPU，降低硬件门槛",
+      "本地运行保障隐私，适合边缘设备或离线场景",
+      "可作为AI Agent的语音输出组件，增强人机交互"
+    ],
+    "category": "AI应用"
+  }
+}

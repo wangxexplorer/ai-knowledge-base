@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260708-004",
+  "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+  "source_url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+  "source_type": "rss",
+  "summary": "本文介绍如何在不使用Synology、QNAP或TrueNAS等商业或开源NAS系统的情况下，构建一个最小化的ZFS NAS。内容涵盖硬件选择、ZFS文件系统配置、网络共享设置等步骤，适合技术爱好者或需要轻量级存储解决方案的用户。",
+  "tags": [
+    "NAS",
+    "ZFS",
+    "存储"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-08T18:20:43+08:00",
+  "updated_at": "2026-07-08T18:20:43+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "使用ZFS构建轻量级NAS",
+      "避免商业NAS系统的依赖",
+      "适合技术爱好者"
+    ],
+    "category": "技术教程"
+  }
+}
