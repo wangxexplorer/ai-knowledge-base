@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260709-002",
+  "title": "My Thoughts on the Bun Rust Rewrite",
+  "source_url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+  "source_type": "rss",
+  "summary": "作者Andrew Kelley（Zig语言创始人）对Bun项目用Rust重写提出批评，认为其放弃了Zig语言的优势，并讨论了技术选择、性能与生态的权衡。",
+  "tags": [
+    "Bun",
+    "Rust",
+    "Zig",
+    "技术选型"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-09T18:56:50+08:00",
+  "updated_at": "2026-07-09T18:56:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Bun从Zig转向Rust重写引发争议",
+      "技术选型需权衡性能、生态与团队偏好",
+      "Andrew Kelley从Zig视角批评此决策"
+    ],
+    "category": "编程语言与工具"
+  }
+}

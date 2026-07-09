@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260709-003",
+  "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+  "source_url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+  "source_type": "rss",
+  "summary": "文章探讨开发者从GitHub迁移至Codeberg或自托管平台的原因，包括对微软收购后数据隐私、平台控制权及开源社区自治的担忧。",
+  "tags": [
+    "开发者迁移",
+    "代码托管",
+    "开源",
+    "自托管"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-09T18:56:50+08:00",
+  "updated_at": "2026-07-09T18:56:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "开发者因隐私和控制权问题寻求替代方案",
+      "自托管和Codeberg成为GitHub的替代选择",
+      "反映开源社区对平台依赖的反思"
+    ],
+    "category": "技术趋势"
+  }
+}

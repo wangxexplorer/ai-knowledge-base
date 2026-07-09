@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260709-007",
+  "title": "Remote Attestation",
+  "source_url": "https://www.liamcvw.com/p/remote-attestation",
+  "source_type": "rss",
+  "summary": "远程证明是一种安全技术，用于验证远程设备或系统的完整性，确保其未被篡改。在AI和LLM领域，它可用于保护模型部署环境，防止模型被恶意修改或替换，增强Agent系统的可信度。",
+  "tags": [
+    "安全",
+    "可信计算",
+    "模型完整性",
+    "Agent安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-09T18:56:50+08:00",
+  "updated_at": "2026-07-09T18:56:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "远程证明可验证AI模型运行环境的完整性",
+      "有助于防止LLM和Agent被篡改或劫持",
+      "提升分布式AI系统的信任基础"
+    ],
+    "category": "安全与可信"
+  }
+}

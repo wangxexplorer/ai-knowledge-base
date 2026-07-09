@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260709-016",
+  "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+  "source_url": "https://microsoft.github.io/flint-chart/#/",
+  "source_type": "rss",
+  "summary": "微软发布Flint，一种专为AI智能体设计的可视化中间语言。它解决了现有可视化语言对AI智能体过于底层的问题，通过语义类型规范和布局优化引擎，使AI智能体能够从高层规范生成高质量图表，并支持MCP服务器集成。",
+  "tags": [
+    "AI Agent",
+    "可视化",
+    "中间语言",
+    "微软",
+    "开源"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-09T18:56:50+08:00",
+  "updated_at": "2026-07-09T18:56:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Flint是一种可视化中间语言，旨在解决AI智能体生成可靠可视化图表时的语言层面限制。",
+      "它通过语义类型规范和布局优化引擎，使AI智能体能够从简单高层规范生成高质量图表。",
+      "Flint已开源并支持MCP服务器，可直接集成到智能体应用中。"
+    ],
+    "category": "AI Agent工具"
+  }
+}

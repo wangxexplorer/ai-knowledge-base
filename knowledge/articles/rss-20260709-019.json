@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260709-019",
+  "title": "Chatto is now open source",
+  "source_url": "https://www.hmans.dev/blog/chatto-is-open-source",
+  "source_type": "rss",
+  "summary": "Chatto项目宣布开源，该项目与AI、LLM、Agent领域相关，可能是一个聊天机器人或对话系统，开源将促进社区协作与创新。",
+  "tags": [
+    "Chatto",
+    "开源",
+    "聊天机器人",
+    "对话系统"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-09T18:56:50+08:00",
+  "updated_at": "2026-07-09T18:56:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "Chatto开源将推动AI对话技术发展",
+      "开源社区可贡献改进",
+      "可能涉及LLM或Agent应用"
+    ],
+    "category": "开源项目"
+  }
+}

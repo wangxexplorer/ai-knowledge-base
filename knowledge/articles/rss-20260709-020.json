@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260709-020",
+  "title": "Unicode's transliteration rules are Turing-complete",
+  "source_url": "https://seriot.ch/computation/uts35/",
+  "source_type": "rss",
+  "summary": "该条目指出Unicode的转写规则（UTS #35）具有图灵完备性，意味着其规则系统可以模拟任何计算过程。这揭示了字符转写规则在理论上具备复杂计算能力，与AI、LLM和Agent领域中的符号处理、规则引擎及计算理论相关。",
+  "tags": [
+    "图灵完备",
+    "Unicode",
+    "计算理论",
+    "符号处理"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-09T18:56:50+08:00",
+  "updated_at": "2026-07-09T18:56:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "Unicode转写规则具有图灵完备性，表明其可模拟任意计算。",
+      "该发现对理解字符处理系统的计算能力有理论意义。",
+      "与AI中的符号推理和规则系统设计有潜在关联。"
+    ],
+    "category": "计算理论"
+  }
+}

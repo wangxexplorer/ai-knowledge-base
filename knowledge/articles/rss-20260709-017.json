@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260709-017",
+  "title": "GPT‑Live",
+  "source_url": "https://openai.com/index/introducing-gpt-live/",
+  "source_type": "rss",
+  "summary": "GPT-Live是OpenAI发布的新产品，可能涉及实时交互或流式处理能力，与AI、LLM领域直接相关。",
+  "tags": [
+    "GPT",
+    "OpenAI",
+    "实时交互",
+    "LLM",
+    "AI产品"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-09T18:56:50+08:00",
+  "updated_at": "2026-07-09T18:56:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "OpenAI推出GPT-Live，可能增强实时对话能力",
+      "该产品可能支持流式输出或低延迟交互",
+      "与现有GPT系列模型形成互补"
+    ],
+    "category": "AI产品发布"
+  }
+}

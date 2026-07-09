@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260709-015",
+  "title": "Grok 4.5",
+  "source_url": "https://x.ai/news/grok-4-5",
+  "source_type": "rss",
+  "summary": "Grok 4.5是xAI发布的新一代AI模型，在推理、编程和指令遵循方面有显著提升。该模型在Hacker News上引发热议，获得651分和995条评论，表明社区对其高度关注。",
+  "tags": [
+    "Grok",
+    "xAI",
+    "大语言模型",
+    "AI模型",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-09T18:56:50+08:00",
+  "updated_at": "2026-07-09T18:56:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Grok 4.5是xAI的最新模型，性能有重大提升",
+      "在Hacker News上获得高关注度，社区反响热烈",
+      "该模型在推理和编程能力上表现突出"
+    ],
+    "category": "AI模型发布"
+  }
+}

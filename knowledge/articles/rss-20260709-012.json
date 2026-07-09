@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260709-012",
+  "title": "Turning a pile of documents into a searchable useable knowledge base",
+  "source_url": "https://github.com/linuxrebel/DocuBrowser",
+  "source_type": "rss",
+  "summary": "DocuBrowser是一个开源工具，旨在将文档集合转化为可搜索、可用的知识库。该项目通过索引和检索技术，帮助用户高效管理和查询文档内容。",
+  "tags": [
+    "知识库",
+    "文档检索",
+    "开源工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-09T18:56:50+08:00",
+  "updated_at": "2026-07-09T18:56:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "将静态文档转化为动态可搜索知识库",
+      "适用于个人或团队的知识管理场景",
+      "可能集成AI或LLM增强检索与理解能力"
+    ],
+    "category": "工具与应用"
+  }
+}
