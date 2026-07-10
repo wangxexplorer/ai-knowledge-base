@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260710-009",
+  "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+  "source_url": "https://www.context.dev",
+  "source_type": "rss",
+  "summary": "Context.dev 是一个API服务，可从任意网站提取结构化数据（如Markdown、JSON、截图等），专为AI应用和Agent设计。它支持URL输入返回干净数据，或通过JSON Schema自定义提取。创始人此前在Amazon和Sunrun工作，并创立过被收购的初创公司。该服务强调对网站的友好访问，提供缓存和限流机制，并允许网站选择退出。主要用例包括为聊天机器人更新客户网站上下文、构建品牌",
+  "tags": [
+    "Web Scraping",
+    "Data Extraction",
+    "API",
+    "Agent",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-10T18:55:50+08:00",
+  "updated_at": "2026-07-10T18:55:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "Context.dev 提供从网站提取结构化数据（如Markdown、JSON）的API，直接服务于LLM和Agent的数据需求。",
+      "该服务支持自定义JSON Schema提取，可灵活获取定价、产品类别等特定信息，增强Agent的上下文理解。",
+      "通过缓存和限流机制，Context.dev 在满足合法用例的同时，尊重网站资源，避免过度抓取。"
+    ],
+    "category": "AI基础设施"
+  }
+}

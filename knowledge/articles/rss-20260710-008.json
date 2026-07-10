@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260710-008",
+  "title": "Wildcard (YC W25) Is Hiring a Founding Engineer",
+  "source_url": "https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer",
+  "source_type": "rss",
+  "summary": "Wildcard (YC W25) 正在招聘创始工程师，职位信息发布于Y Combinator和Hacker News。该条目为招聘广告，未提及AI、LLM或Agent相关技术内容。",
+  "tags": [
+    "招聘",
+    "YC",
+    "创始工程师"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-10T18:55:50+08:00",
+  "updated_at": "2026-07-10T18:55:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该条目为招聘广告，与AI、LLM、Agent领域无直接关联。"
+    ],
+    "category": "招聘信息"
+  }
+}

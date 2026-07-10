@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260710-016",
+  "title": "A road to Lisp: Why Lisp",
+  "source_url": "https://scotto.me/blog/2026-07-09-why-lisp/",
+  "source_type": "rss",
+  "summary": "文章探讨了Lisp语言的核心优势，如代码即数据、宏系统、交互式开发等，并强调其对编程思维的影响。虽然未直接涉及AI或LLM，但Lisp在AI历史中具有重要地位，其元编程特性与Agent系统的灵活性有潜在关联。",
+  "tags": [
+    "Lisp",
+    "编程语言",
+    "元编程",
+    "AI历史"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-10T18:55:50+08:00",
+  "updated_at": "2026-07-10T18:55:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "Lisp的代码即数据特性为元编程提供基础，与AI中的符号处理相关。",
+      "宏系统允许领域特定语言构建，可应用于Agent行为定义。",
+      "交互式开发环境对AI实验性编程有启发意义。"
+    ],
+    "category": "编程语言与范式"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260710-001",
+  "title": "In Emacs, Everything Looks Like a Service",
+  "source_url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+  "source_type": "rss",
+  "summary": "本文探讨了Emacs编辑器中服务化架构的理念，即通过将各种功能抽象为服务，实现模块化和可扩展性。这与AI、LLM和Agent领域中的服务化、模块化设计思想有相似之处，但内容本身不直接涉及AI技术。",
+  "tags": [
+    "Emacs",
+    "服务化",
+    "架构"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-10T18:55:50+08:00",
+  "updated_at": "2026-07-10T18:55:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Emacs的服务化设计思想",
+      "模块化与可扩展性",
+      "与AI系统架构的类比"
+    ],
+    "category": "软件工程"
+  }
+}

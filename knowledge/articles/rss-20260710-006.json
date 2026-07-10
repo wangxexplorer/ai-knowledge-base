@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260710-006",
+  "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+  "source_url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+  "source_type": "rss",
+  "summary": "Mitchell Hashimoto访谈，讨论其开发的终端模拟器Ghostty及编程语言Zig。内容涉及终端技术、系统编程和开发者工具，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "终端模拟器",
+    "Zig",
+    "系统编程",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-10T18:55:50+08:00",
+  "updated_at": "2026-07-10T18:55:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Ghostty是Hashimoto开发的终端模拟器",
+      "Zig语言在系统编程中的应用",
+      "访谈聚焦于终端技术而非AI"
+    ],
+    "category": "技术访谈"
+  }
+}

@@ -1,0 +1,579 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-07-10T18:53:39+08:00",
+  "query": "AI LLM Agent",
+  "items": [
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "hermes-agent",
+      "title": "hermes-agent",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 212517,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "NousResearch/hermes-agent",
+      "author": "NousResearch"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "dify",
+      "title": "dify",
+      "source_url": "https://github.com/langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "stars": 148392,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "full_name": "langgenius/dify",
+      "author": "langgenius"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "langchain",
+      "title": "langchain",
+      "source_url": "https://github.com/langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform.",
+      "stars": 141458,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "langchain-ai/langchain",
+      "author": "langchain-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "awesome-llm-apps",
+      "title": "awesome-llm-apps",
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "stars": 117281,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "llms",
+        "python",
+        "rag"
+      ],
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "author": "Shubhamsaboo"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "browser-use",
+      "title": "browser-use",
+      "source_url": "https://github.com/browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 104062,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-use",
+        "llm"
+      ],
+      "full_name": "browser-use/browser-use",
+      "author": "browser-use"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ragflow",
+      "title": "ragflow",
+      "source_url": "https://github.com/infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 84750,
+      "language": "Go",
+      "topics": [
+        "agentic-ai",
+        "agentic-retrieval",
+        "agentic-search",
+        "ai",
+        "ai-agents"
+      ],
+      "full_name": "infiniflow/ragflow",
+      "author": "infiniflow"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "OpenHands",
+      "title": "OpenHands",
+      "source_url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "stars": 80314,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli"
+      ],
+      "full_name": "OpenHands/OpenHands",
+      "author": "OpenHands"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ponytail",
+      "title": "ponytail",
+      "source_url": "https://github.com/DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 79708,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin"
+      ],
+      "full_name": "DietrichGebert/ponytail",
+      "author": "DietrichGebert"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "deer-flow",
+      "title": "deer-flow",
+      "source_url": "https://github.com/bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 76704,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "full_name": "bytedance/deer-flow",
+      "author": "bytedance"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "LlamaFactory",
+      "title": "LlamaFactory",
+      "source_url": "https://github.com/hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars": 73131,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "deepseek",
+        "fine-tuning",
+        "gemma"
+      ],
+      "full_name": "hiyouga/LlamaFactory",
+      "author": "hiyouga"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "pi",
+      "title": "pi",
+      "source_url": "https://github.com/earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 69367,
+      "language": "TypeScript",
+      "topics": [],
+      "full_name": "earendil-works/pi",
+      "author": "earendil-works"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "MetaGPT",
+      "title": "MetaGPT",
+      "source_url": "https://github.com/FoundationAgents/MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "stars": 69289,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "gpt",
+        "llm",
+        "metagpt",
+        "multi-agent"
+      ],
+      "full_name": "FoundationAgents/MetaGPT",
+      "author": "FoundationAgents"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "mem0",
+      "title": "mem0",
+      "source_url": "https://github.com/mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "description": "Universal memory layer for AI Agents",
+      "stars": 60540,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "application",
+        "chatbots"
+      ],
+      "full_name": "mem0ai/mem0",
+      "author": "mem0ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "headroom",
+      "title": "headroom",
+      "source_url": "https://github.com/headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "stars": 58285,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "anthropic",
+        "claude-code",
+        "compression"
+      ],
+      "full_name": "headroomlabs-ai/headroom",
+      "author": "headroomlabs-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "goose",
+      "title": "goose",
+      "source_url": "https://github.com/aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 51019,
+      "language": "Rust",
+      "topics": [
+        "acp",
+        "ai",
+        "ai-agents",
+        "mcp"
+      ],
+      "full_name": "aaif-goose/goose",
+      "author": "aaif-goose"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "cherry-studio",
+      "title": "cherry-studio",
+      "source_url": "https://github.com/CherryHQ/cherry-studio",
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 48402,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "awesome-skills",
+        "claude-code",
+        "codex"
+      ],
+      "full_name": "CherryHQ/cherry-studio",
+      "author": "CherryHQ"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "JeecgBoot",
+      "title": "JeecgBoot",
+      "source_url": "https://github.com/jeecgboot/JeecgBoot",
+      "url": "https://github.com/jeecgboot/JeecgBoot",
+      "description": "【低代码迈入 v2.0】AI低代码平台，AI Skills 一句话生成整个系统；一键生成前后端代码甚至整个模块。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+      "stars": 46999,
+      "language": "Java",
+      "topics": [
+        "activiti",
+        "agent",
+        "ai",
+        "antd",
+        "claude-code"
+      ],
+      "full_name": "jeecgboot/JeecgBoot",
+      "author": "jeecgboot"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "CowAgent",
+      "title": "CowAgent",
+      "source_url": "https://github.com/zhayujie/CowAgent",
+      "url": "https://github.com/zhayujie/CowAgent",
+      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+      "stars": 45904,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "chatgpt-on-wechat",
+        "claude"
+      ],
+      "full_name": "zhayujie/CowAgent",
+      "author": "zhayujie"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "nanobot",
+      "title": "nanobot",
+      "source_url": "https://github.com/HKUDS/nanobot",
+      "url": "https://github.com/HKUDS/nanobot",
+      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "stars": 45209,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "HKUDS/nanobot",
+      "author": "HKUDS"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "langgraph",
+      "title": "langgraph",
+      "source_url": "https://github.com/langchain-ai/langgraph",
+      "url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient agents.",
+      "stars": 36958,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "deepagents"
+      ],
+      "full_name": "langchain-ai/langgraph",
+      "author": "langchain-ai"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "In Emacs, Everything Looks Like a Service",
+      "source_url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+      "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+      "description": "Article URL: http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html Comments URL: https://news.ycombinator.com/item?id=48857230 Points: 26 # Comments: 1",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "AI-generated videos to maximally drive a target brain region",
+      "source_url": "https://nevo-project.epfl.ch/",
+      "url": "https://nevo-project.epfl.ch/",
+      "description": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 67 # Comments: 63",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Parental device use and the adolescent-caregiver attachment bond",
+      "source_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
+      "description": "Article URL: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full Comments URL: https://news.ycombinator.com/item?id=48854247 Points: 130 # Comments: 110",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Why American ambulance rides are so expensive",
+      "source_url": "https://davidoks.blog/p/why-american-ambulance-rides-are",
+      "url": "https://davidoks.blog/p/why-american-ambulance-rides-are",
+      "description": "Article URL: https://davidoks.blog/p/why-american-ambulance-rides-are Comments URL: https://news.ycombinator.com/item?id=48853091 Points: 225 # Comments: 296",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Building a real-time AI tutor for 5-year-olds",
+      "source_url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "description": "Hey HN! We've spent the good part of this past year building an AI tutor that teaches kids ages 4-9 reading, math, ESL and more. Getting an AI tutor to effectively teach a child turns out to be a really hard technical challenge, this took getting the underlying architecture right. Our tutor steers the UX in real-time and makes complex decisions on the fly. Doing both at conversation speed required us to replace the standard tool-use loop. We built our own tutor harness that utilizes a streaming interpreter that executes actions, while an asynchronous planner model reasons ahead of the conversation and makes calls that drive the child's learning. On top of it all, we developed a safety system that checks every turn without it causing an interruption to the activity and conversation flow. Effective teaching isn't just about answering a child's question quickly, rather making the right move at the right moment. AI is also going to be an integral part shaping how this generation of kids learn to read and think, tackling this responsibly means getting the design right. Happy to answer questions and curious what you all think, critical feedback included, we've been working on this problem for a long time and love to hear from the HN community. Comments URL: https://news.ycombinator.com/item?id=48852199 Points: 90 # Comments: 163",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+      "source_url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+      "description": "Article URL: https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/ Comments URL: https://news.ycombinator.com/item?id=48849292 Points: 265 # Comments: 125",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "GPT-5.6",
+      "source_url": "https://openai.com/index/gpt-5-6/",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "description": "https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdf https://developers.openai.com/api/docs/guides/latest-model https://x.com/levie/status/2075287443411222628 , https://xcancel.com/levie/status/2075287443411222628 Comments URL: https://news.ycombinator.com/item?id=48849066 Points: 1307 # Comments: 920",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Wildcard (YC W25) Is Hiring a Founding Engineer",
+      "source_url": "https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer",
+      "url": "https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer",
+      "description": "Article URL: https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer Comments URL: https://news.ycombinator.com/item?id=48849011 Points: 0 # Comments: 0",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+      "source_url": "https://www.context.dev",
+      "url": "https://www.context.dev",
+      "description": "Hi Hacker News, I’m Yahia. I built Context.dev ( https://www.context.dev/ ) to make it really easy to integrate web data into your products and agents. Here’s a demo video: https://www.tella.tv/video/build-faster-with-context-dev-api... Since it’s an API, here are the docs: https://docs.context.dev/quickstart . You can send us a URL and get back clean Markdown, rendered HTML, screenshots, extracted images, etc.. You can also send us a domain and get company or brand context: name, description, logos, colors, fonts, social links, screenshots, style information, and related metadata. For more custom use cases, you can send a URL plus a JSON Schema and ask us to extract structured data from the site into that shape. For example, you might ask for pricing plans, product categories, office locations, support links, integration partners, or anything else that is visible on the public site. The goal is to give developers the output they actually want. Raw HTML is rarely the useful thing; the useful thing is usually Markdown for a model, JSON for an application, a logo for a UI, or a structured company profile for an agent. Before, I worked at Amazon and Sunrun, and co-founded StockAlarm.io & essense.io, both of which were acquired. Also, I built knifegeek.io, which scraped pocket knives from across the internet and listed them easily. The project is outdated now (coming back soon) but back then it hit the frontpage of hacker news and people seemed to like it: https://news.ycombinator.com/item?id=34604281 . Just before Context.dev, I built Brand.dev. The idea was that your software product should automatically know about your customer if they sign up with a corporate email. The API pulled brand data such as logos, backdrops, name, description, industry, and more from the public web and surfaced it to your product to integrate as part of their onboarding experience. That’s worth doing because conversion rates on onboarding improve dramatically when you go from “enter all this info” to “confirm all this info” (and there was never any privacy concern all the information is public). That was a nifty niche, but the more customers used it, it became obvious that “brand data” was only one slice of a larger need. People started asking for things like screenshots, structured extraction, and LLM ready data. So I expanded to Context.dev, and applied to YC (got rejected after an interview), then kept going and re-applied at which point I got in as a solo founder. People use Context.dev in more ways than I can list, but here are some: keeping context up to date on customer websites for chatbots - building beautiful brand assets/ads for customers - enrichment flows using agent harnesses like eve.dev - crawling customer websites into chatbot knowledge bases - turning GitHub repos into branded docs sites - academic journal and PDF crawling. There are a ton more examples at https://www.context.dev/customers . We know that many crawlers are not behaving like good citizens on the web, and the entire space has a bad reputation as a result. At the same time, customers are not usually trying to buy “scraping”. They are trying to make a support bot work, personalize onboarding, enrich CRM records, generate docs, monitor leads, or let an agent research a company. There are lots of legit use cases. We want to satisfy those while being respectful of everyone involved. We maintain a caching layer and avoid hammering websites. Customers can configure the cache, but if we find we’re sending too many requests to a url in a certain amount of time, we step in and tone it down. Websites can opt out of our service, and we respect these requests and add them to our block list. We focus on customers who want to build cool things for their users. Enriching onboarding is a popular use case. So is integrating context about their own websites (things like support bots), and building agents that can automatically reason about complex tasks involving the internet. We only allow customers to use brand data to identify a specific customer on their software, you cannot use it in your own materials or to imply endorsement. I'd love to hear your feedback about the product in the comments, thanks! Comments URL: https://news.ycombinator.com/item?id=48847562 Points: 98 # Comments: 68",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Hy3",
+      "source_url": "https://hy.tencent.com/research/hy3",
+      "url": "https://hy.tencent.com/research/hy3",
+      "description": "Article URL: https://hy.tencent.com/research/hy3 Comments URL: https://news.ycombinator.com/item?id=48847552 Points: 483 # Comments: 101",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "A possible future for Damn Interesting",
+      "source_url": "https://www.damninteresting.com/a-possible-future/",
+      "url": "https://www.damninteresting.com/a-possible-future/",
+      "description": "Article URL: https://www.damninteresting.com/a-possible-future/ Comments URL: https://news.ycombinator.com/item?id=48847511 Points: 286 # Comments: 39",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "TLS certificates for internal services done right",
+      "source_url": "https://tuxnet.dev/posts/tls-for-internal-services/",
+      "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
+      "description": "Article URL: https://tuxnet.dev/posts/tls-for-internal-services/ Comments URL: https://news.ycombinator.com/item?id=48846995 Points: 156 # Comments: 112",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "No leap second will be introduced at the end of December 2026",
+      "source_url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+      "description": "Article URL: https://datacenter.iers.org/data/latestVersion/bulletinC.txt Comments URL: https://news.ycombinator.com/item?id=48846281 Points: 287 # Comments: 222",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Muse Spark 1.1",
+      "source_url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "description": "https://ai.meta.com/static-resource/muse-spark-1-1-evaluatio... [pdf] https://developer.meta.com/ai/resources/blog/build-with-muse... https://www.bloomberg.com/news/articles/2026-07-09/meta-star... , https://archive.is/3ccKa Comments URL: https://news.ycombinator.com/item?id=48846184 Points: 377 # Comments: 189",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "The glass backbone: Why the Army's logistics will break in the next war",
+      "source_url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
+      "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
+      "description": "Article URL: https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/ Comments URL: https://news.ycombinator.com/item?id=48845442 Points: 381 # Comments: 485",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "A road to Lisp: Why Lisp",
+      "source_url": "https://scotto.me/blog/2026-07-09-why-lisp/",
+      "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
+      "description": "Article URL: https://scotto.me/blog/2026-07-09-why-lisp/ Comments URL: https://news.ycombinator.com/item?id=48845209 Points: 242 # Comments: 186",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Show HN: 18 Words",
+      "source_url": "https://18words.com/",
+      "url": "https://18words.com/",
+      "description": "Article URL: https://18words.com/ Comments URL: https://news.ycombinator.com/item?id=48845049 Points: 1007 # Comments: 323",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "TrueBiz (YC S22) – Senior Software Engineer – Remote (US) – Full-Time",
+      "source_url": "https://news.ycombinator.com/item?id=48844517",
+      "url": "https://news.ycombinator.com/item?id=48844517",
+      "description": "Comments URL: https://news.ycombinator.com/item?id=48844517 Points: 0 # Comments: 0",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "source_url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "description": "Article URL: https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/ Comments URL: https://news.ycombinator.com/item?id=48843923 Points: 1416 # Comments: 672",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "source_url": "https://github.com/JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "A few days ago I found myself trying out GLM 5.2 and was really positively impressed. The capabilities and security I was getting from this LLM are similar to those I've gotten from models like Claude or GPT, and this really surprised me. But then I thought, \"I wonder how it would work on a normal computer like mine,\" and above all, \"I wonder if it would work without going into OOM on a computer like mine.\" So I started working with the help of agents to test this possibility. I started converting the model to int4, understanding MTP usage, and if possible implementing DSA for long context. How it responds in int4 and whether the quality is maintained or not. Until I got to the point, on my computer with 32GB of RAM, I was able to communicate with GLM 5.2 with times that, of course, aren't high in cold start, but even then, we're talking about 0.1 tok/s, but that wasn't important to me. The important thing was the journey to reach this goal. I just wanted it to work at all costs, even slowly. So I created Colibrì, which was born from a very simple idea, to be honest, but tested in every way, where a 744B Mixture-of-Experts model activates only ~40B parameters per token—and only ~11 GB of those change from token to token (the routed experts). So: The dense part (attention, shared experts, embeddings—~17B params) stays resident in RAM at int4 (~9.9 GB); The 21,504 routed experts (75 MoE layers × 256 experts + the MTP head, ~19 MB each at int4) live on disk (~370 GB) and are streamed on demand, with a per-layer LRU cache, an optional pinned hot-store, and the OS page cache as a free L2. The engine is a single C file (c/glm.c, ~1,300 lines) plus small headers. No BLAS, no Python at runtime, no GPU.No GPU or serious hardware because I don't have that hardware so I can't test it on hardware that is more powerful than my computer.Colibrì is a one-person project, written and tested entirely on a 12-core laptop with 25 GB of RAM — the numbers above are the ceiling of what I can measure at home. Any feedback is welcome! (and if anyone wanted to participate in the project I would be delighted) Repo: https://github.com/JustVugg/colibri Comments URL: https://news.ycombinator.com/item?id=48842459 Points: 701 # Comments: 169",
+      "feed_name": "Hacker News"
+    }
+  ]
+}

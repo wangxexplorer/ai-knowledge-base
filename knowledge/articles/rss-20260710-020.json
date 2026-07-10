@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260710-020",
+  "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+  "source_url": "https://github.com/JustVugg/colibri",
+  "source_type": "rss",
+  "summary": "作者在普通电脑上成功运行了GLM 5.2（744B MoE模型），通过将模型转换为int4、将路由专家存储在磁盘并按需流式传输、使用LRU缓存等技术，实现了在32GB RAM、无GPU的笔记本上以0.1 tok/s的速度运行。项目Colibrì是一个纯C实现的推理引擎，无需BLAS或Python。",
+  "tags": [
+    "模型推理优化",
+    "MoE",
+    "边缘计算",
+    "LLM部署",
+    "开源项目"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-10T18:55:50+08:00",
+  "updated_at": "2026-07-10T18:55:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "通过int4量化和磁盘流式传输，在普通硬件上运行744B MoE模型成为可能",
+      "MoE模型的路由专家可以按需加载，大幅降低内存需求",
+      "纯C实现的无依赖推理引擎展示了极简部署的可行性"
+    ],
+    "category": "LLM推理与部署"
+  }
+}

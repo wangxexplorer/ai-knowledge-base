@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260710-013",
+  "title": "No leap second will be introduced at the end of December 2026",
+  "source_url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+  "source_type": "rss",
+  "summary": "国际地球自转服务局（IERS）宣布，2026年12月底不会引入闰秒。该公告对依赖精确时间同步的系统（如分布式计算、金融交易和通信网络）有影响，但直接与AI、LLM或Agent领域的技术核心关联较弱。",
+  "tags": [
+    "时间同步",
+    "闰秒",
+    "系统可靠性"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-10T18:55:50+08:00",
+  "updated_at": "2026-07-10T18:55:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "闰秒调整影响时间敏感系统",
+      "与AI/LLM/Agent无直接技术关联"
+    ],
+    "category": "基础设施"
+  }
+}

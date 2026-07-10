@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260710-014",
+  "title": "Muse Spark 1.1",
+  "source_url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+  "source_type": "rss",
+  "summary": "Muse Spark 1.1是Meta推出的AI模型API，旨在提升生成式AI的性能和可访问性。该版本可能包含模型优化、新功能或评估结果，与AI、LLM和Agent领域高度相关。",
+  "tags": [
+    "Meta",
+    "Muse Spark",
+    "AI模型",
+    "API",
+    "生成式AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-10T18:55:50+08:00",
+  "updated_at": "2026-07-10T18:55:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Meta发布Muse Spark 1.1版本，增强AI模型能力",
+      "提供API接口，促进AI应用开发",
+      "与LLM和Agent技术栈紧密相关"
+    ],
+    "category": "AI模型与工具"
+  }
+}

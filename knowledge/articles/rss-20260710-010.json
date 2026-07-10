@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260710-010",
+  "title": "Hy3",
+  "source_url": "https://hy.tencent.com/research/hy3",
+  "source_type": "rss",
+  "summary": "Hy3是腾讯发布的一个技术条目，可能涉及AI或LLM领域，但描述信息不足，无法确定具体内容。",
+  "tags": [
+    "腾讯",
+    "AI",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-10T18:55:50+08:00",
+  "updated_at": "2026-07-10T18:55:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "条目来自腾讯研究",
+      "与AI/LLM潜在相关",
+      "信息不完整"
+    ],
+    "category": "未分类"
+  }
+}

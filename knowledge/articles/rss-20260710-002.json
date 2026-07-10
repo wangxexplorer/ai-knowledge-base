@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260710-002",
+  "title": "AI-generated videos to maximally drive a target brain region",
+  "source_url": "https://nevo-project.epfl.ch/",
+  "source_type": "rss",
+  "summary": "该项目利用AI生成视频，旨在最大化驱动特定脑区活动，结合神经科学和AI技术，探索视觉刺激对大脑的调控作用。",
+  "tags": [
+    "AI",
+    "神经科学",
+    "视觉刺激",
+    "脑机接口"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-10T18:55:50+08:00",
+  "updated_at": "2026-07-10T18:55:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "AI生成视频可精准调控脑区活动",
+      "结合神经科学和AI技术",
+      "为脑机接口提供新方法"
+    ],
+    "category": "AI应用"
+  }
+}

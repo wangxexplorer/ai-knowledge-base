@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260710-005",
+  "title": "Building a real-time AI tutor for 5-year-olds",
+  "source_url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+  "source_type": "rss",
+  "summary": "本文介绍了为4-9岁儿童构建的实时AI辅导系统，该系统在1000毫秒内完成教学决策。技术核心包括流式解释器执行动作、异步规划模型预判对话、以及无中断的安全检查系统，旨在实现实时、有效的个性化教学。",
+  "tags": [
+    "AI教育",
+    "实时系统",
+    "儿童学习",
+    "LLM应用",
+    "安全机制"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-10T18:55:50+08:00",
+  "updated_at": "2026-07-10T18:55:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "实时AI辅导需要替换标准工具调用循环，采用流式解释器和异步规划模型。",
+      "教学有效性在于在正确时机做出正确决策，而非单纯快速回答。",
+      "安全系统需在不中断活动与对话流的前提下进行每轮检查。"
+    ],
+    "category": "AI应用"
+  }
+}
