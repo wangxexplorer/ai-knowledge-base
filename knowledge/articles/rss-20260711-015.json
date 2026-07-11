@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260711-015",
+  "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
+  "source_url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+  "source_type": "rss",
+  "summary": "Scarf团队在Haskell上投入7年后，因生态成熟度、人才招聘和库支持等问题，决定迁移到其他语言。文章反思了函数式语言在工业界的挑战。",
+  "tags": [
+    "Haskell",
+    "编程语言",
+    "技术迁移"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-11T17:39:48+08:00",
+  "updated_at": "2026-07-11T17:39:48+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "Haskell在工业界面临生态和人才瓶颈",
+      "语言选择需平衡理论优势与实际工程需求"
+    ],
+    "category": "技术实践"
+  }
+}

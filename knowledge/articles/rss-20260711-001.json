@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260711-001",
+  "title": "Companies are scrambling to curtail soaring AI costs",
+  "source_url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
+  "source_type": "rss",
+  "summary": "文章报道了企业正积极应对AI成本飙升的挑战，探讨了成本控制策略与行业影响。",
+  "tags": [
+    "AI成本",
+    "企业策略",
+    "经济影响"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-11T17:39:48+08:00",
+  "updated_at": "2026-07-11T17:39:48+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "AI部署成本快速增长",
+      "企业寻求优化方案",
+      "成本压力推动技术变革"
+    ],
+    "category": "行业趋势"
+  }
+}

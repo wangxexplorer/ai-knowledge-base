@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260711-018",
+  "title": "Good Tools Are Invisible",
+  "source_url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+  "source_type": "rss",
+  "summary": "文章探讨了优秀工具的设计哲学，强调工具应无缝融入用户工作流，不引人注目。这与AI、LLM和Agent领域追求的自然交互、低认知负荷目标高度契合，暗示AI工具应作为隐形助手，而非显眼障碍。",
+  "tags": [
+    "工具设计",
+    "用户体验",
+    "AI交互",
+    "隐形技术"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-11T17:39:48+08:00",
+  "updated_at": "2026-07-11T17:39:48+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "优秀工具应减少用户注意力占用",
+      "AI工具需实现无缝集成",
+      "隐形设计提升用户效率"
+    ],
+    "category": "设计哲学"
+  }
+}

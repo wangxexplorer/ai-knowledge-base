@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260711-014",
+  "title": "Computation as a universal and fundamental concept",
+  "source_url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
+  "source_type": "rss",
+  "summary": "该条目探讨计算作为普遍且基础的概念，可能涉及计算理论、通用计算模型及其在AI、LLM和Agent领域的应用基础。",
+  "tags": [
+    "计算理论",
+    "通用计算",
+    "AI基础"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-11T17:39:48+08:00",
+  "updated_at": "2026-07-11T17:39:48+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "计算是AI和LLM的核心基础",
+      "通用计算概念支撑Agent系统设计",
+      "理论探讨可能影响未来AI架构"
+    ],
+    "category": "理论概念"
+  }
+}

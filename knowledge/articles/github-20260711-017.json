@@ -1,0 +1,31 @@
+{
+  "id": "github-20260711-017",
+  "title": "JeecgBoot",
+  "source_url": "https://github.com/jeecgboot/JeecgBoot",
+  "source_type": "github",
+  "summary": "JeecgBoot是一个AI低代码平台，支持通过AI Skills一句话生成前后端代码、流程、表单、报表和大屏。内置AI应用平台，涵盖AI聊天、知识库、流程编排、MCP插件，兼容主流大模型，旨在解决Java项目90%重复工作，提高开发效率。",
+  "tags": [
+    "AI低代码",
+    "AI Skills",
+    "知识库",
+    "流程编排",
+    "MCP插件"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-11T17:39:48+08:00",
+  "updated_at": "2026-07-11T17:39:48+08:00",
+  "metadata": {
+    "stars": 47011,
+    "language": "Java",
+    "author": "jeecgboot"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "AI Skills实现一句话生成整个系统，降低开发门槛",
+      "内置AI应用平台支持知识库、流程编排和MCP插件，增强智能化能力",
+      "兼容主流大模型，结合低代码与AI，显著提升Java开发效率"
+    ],
+    "category": "AI低代码开发平台"
+  }
+}

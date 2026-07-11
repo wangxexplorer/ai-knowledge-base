@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260711-006",
+  "title": "An update on residential proxies and the scraper situation",
+  "source_url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+  "source_type": "rss",
+  "summary": "文章讨论了住宅代理和网络爬虫的现状，涉及反爬虫技术、代理服务更新以及数据抓取的法律与道德问题。",
+  "tags": [
+    "网络爬虫",
+    "代理",
+    "数据抓取"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-11T17:39:48+08:00",
+  "updated_at": "2026-07-11T17:39:48+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "住宅代理用于绕过反爬虫机制",
+      "爬虫与反爬虫技术持续对抗",
+      "数据抓取需考虑法律合规性"
+    ],
+    "category": "网络技术"
+  }
+}

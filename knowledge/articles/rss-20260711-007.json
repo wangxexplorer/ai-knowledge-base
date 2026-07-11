@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260711-007",
+  "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+  "source_url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+  "source_type": "rss",
+  "summary": "该条目声称GPT-5.6 Sol Ultra模型生成了图论中Cycle Double Cover猜想的证明，展示了AI在数学定理证明领域的突破性应用。",
+  "tags": [
+    "GPT-5.6",
+    "数学证明",
+    "LLM",
+    "AI推理"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-11T17:39:48+08:00",
+  "updated_at": "2026-07-11T17:39:48+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "AI模型能够生成复杂数学猜想的证明，体现LLM在推理能力上的进展。",
+      "该成果可能推动AI在科学发现和形式化验证中的应用。",
+      "需验证证明的正确性，但已展示AI在高级数学问题上的潜力。"
+    ],
+    "category": "AI研究与应用"
+  }
+}
