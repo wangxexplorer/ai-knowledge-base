@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260712-011",
+  "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+  "source_url": "https://antjs.org",
+  "source_type": "rss",
+  "summary": "Ant是一个JavaScript运行时和生态系统，包含自己的JavaScript引擎、包管理器、包注册表、应用部署平台和桌面应用构建工具，旨在提供与现有JavaScript栈端到端替代方案，并保持与更广泛生态的兼容性。",
+  "tags": [
+    "JavaScript",
+    "运行时",
+    "生态系统"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-12T17:52:58+08:00",
+  "updated_at": "2026-07-12T17:52:58+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Ant是一个集成了运行时、包管理、部署和桌面应用构建的JavaScript生态系统",
+      "它旨在提供与现有JavaScript栈的端到端替代方案",
+      "目前仍处于早期阶段，与AI、LLM、Agent领域相关性较低"
+    ],
+    "category": "开发工具"
+  }
+}

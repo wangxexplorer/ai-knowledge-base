@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260712-002",
+  "title": "Why Write Code in 2026",
+  "source_url": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
+  "source_type": "rss",
+  "summary": "文章探讨在2026年AI辅助编程普及的背景下，人类为何仍需编写代码。强调代码作为精确沟通工具、问题解决能力培养以及理解AI生成内容的重要性。",
+  "tags": [
+    "AI编程",
+    "LLM",
+    "软件工程",
+    "人机协作"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-12T17:52:58+08:00",
+  "updated_at": "2026-07-12T17:52:58+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "代码是精确表达意图的媒介，AI无法完全替代人类编写代码的思考过程。",
+      "编写代码有助于培养问题分解和逻辑推理能力，这是与AI有效协作的基础。",
+      "理解代码是评估和信任AI生成内容的关键前提。"
+    ],
+    "category": "技术趋势与思考"
+  }
+}

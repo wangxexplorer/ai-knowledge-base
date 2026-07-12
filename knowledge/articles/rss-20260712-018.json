@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260712-018",
+  "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+  "source_url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+  "source_type": "rss",
+  "summary": "该条目是一篇1993年关于奇异值分解（SVD）早期历史的PDF论文。SVD是线性代数中的核心矩阵分解技术，广泛应用于数据降维、特征提取和推荐系统，是机器学习和AI领域的重要数学基础。",
+  "tags": [
+    "奇异值分解",
+    "线性代数",
+    "机器学习",
+    "数据降维"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-12T17:52:58+08:00",
+  "updated_at": "2026-07-12T17:52:58+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "SVD是AI和机器学习中降维与特征提取的关键工具",
+      "该论文提供了SVD的历史背景，有助于理解其数学原理",
+      "SVD在推荐系统和自然语言处理中有广泛应用"
+    ],
+    "category": "数学基础"
+  }
+}

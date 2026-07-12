@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260712-005",
+  "title": "The Energetic Costs of Cellular Computation (2012)",
+  "source_url": "https://arxiv.org/abs/1203.5426",
+  "source_type": "rss",
+  "summary": "该论文探讨了细胞计算的能量成本，从生物物理角度分析了信息处理过程中的能量消耗。虽然不直接涉及AI或LLM，但其关于计算能耗的基本原理对理解AI系统的能效有启发意义。",
+  "tags": [
+    "计算能耗",
+    "生物计算",
+    "能效"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-12T17:52:58+08:00",
+  "updated_at": "2026-07-12T17:52:58+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "细胞计算的能量成本为理解计算能耗提供基础视角",
+      "生物计算原理可能启发低功耗AI设计"
+    ],
+    "category": "交叉学科"
+  }
+}

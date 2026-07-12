@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260712-019",
+  "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+  "source_url": "https://shipthatcode.com",
+  "source_type": "rss",
+  "summary": "该项目通过从零重建Redis、Git和数据库等经典系统，帮助开发者深入理解底层原理。虽然不直接涉及AI或LLM，但通过实践提升编程与系统设计能力，对构建AI基础设施有间接帮助。",
+  "tags": [
+    "系统设计",
+    "编程实践",
+    "开源项目"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-12T17:52:58+08:00",
+  "updated_at": "2026-07-12T17:52:58+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "从零重建经典系统可加深对底层机制的理解",
+      "实践项目有助于提升工程能力",
+      "对AI基础设施的构建有间接参考价值"
+    ],
+    "category": "技术教育"
+  }
+}

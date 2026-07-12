@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260712-010",
+  "title": "RISCBoy is an open-source portable games console, designed from scratch",
+  "source_url": "https://github.com/Wren6991/RISCBoy",
+  "source_type": "rss",
+  "summary": "RISCBoy是一个从零设计的开源便携游戏机项目，基于RISC-V架构，专注于硬件设计和嵌入式系统。与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "开源硬件",
+    "游戏机",
+    "RISC-V",
+    "嵌入式系统"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-12T17:52:58+08:00",
+  "updated_at": "2026-07-12T17:52:58+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该项目是纯硬件和嵌入式开发，不涉及AI技术",
+      "与LLM或Agent无任何交集"
+    ],
+    "category": "硬件设计"
+  }
+}
