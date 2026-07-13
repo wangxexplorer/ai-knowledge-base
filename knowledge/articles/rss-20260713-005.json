@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260713-005",
+  "title": "Backtrack-Free Cursive",
+  "source_url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+  "source_type": "rss",
+  "summary": "本文探讨了无回溯草书（Backtrack-Free Cursive）的概念，可能涉及手写识别或文本生成中的算法优化，通过避免回溯提高效率。与AI、LLM、Agent领域相关性较低。",
+  "tags": [
+    "手写识别",
+    "算法优化",
+    "草书"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-13T19:13:17+08:00",
+  "updated_at": "2026-07-13T19:13:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "无回溯草书可能提升手写识别速度",
+      "避免回溯是算法设计中的常见优化策略"
+    ],
+    "category": "算法与优化"
+  }
+}

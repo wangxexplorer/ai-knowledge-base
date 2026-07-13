@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260713-004",
+  "title": "Quadrupling code performance with a \"useless\" if",
+  "source_url": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
+  "source_type": "rss",
+  "summary": "文章探讨了通过添加看似无用的if语句来大幅提升代码性能的技巧，涉及底层优化和编译器行为。",
+  "tags": [
+    "代码优化",
+    "编译器",
+    "性能"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-13T19:13:17+08:00",
+  "updated_at": "2026-07-13T19:13:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "看似无用的条件判断可能触发编译器优化",
+      "底层优化技巧可显著提升性能"
+    ],
+    "category": "编程技术"
+  }
+}

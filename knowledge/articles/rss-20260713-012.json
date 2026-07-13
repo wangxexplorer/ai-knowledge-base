@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260713-012",
+  "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+  "source_url": "https://kode.diy",
+  "source_type": "rss",
+  "summary": "Kode Dot是一款面向创客、渗透测试者和极客的可编程口袋设备，提供便携式硬件平台，支持自定义编程和多种应用场景。",
+  "tags": [
+    "硬件",
+    "创客",
+    "渗透测试"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-13T19:13:17+08:00",
+  "updated_at": "2026-07-13T19:13:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "便携可编程设备",
+      "面向特定用户群体",
+      "支持自定义开发"
+    ],
+    "category": "硬件工具"
+  }
+}

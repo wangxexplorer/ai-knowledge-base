@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260713-014",
+  "title": "Tiny Emulators",
+  "source_url": "https://floooh.github.io/tiny8bit-preview/index.html",
+  "source_type": "rss",
+  "summary": "Tiny Emulators是一个关于小型模拟器的项目，专注于在浏览器中模拟8位计算机系统。该项目展示了如何通过Web技术实现复古硬件模拟，与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "模拟器",
+    "Web技术",
+    "复古计算"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-13T19:13:17+08:00",
+  "updated_at": "2026-07-13T19:13:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该项目与AI、LLM或Agent领域无关",
+      "专注于小型模拟器的实现",
+      "利用Web技术进行硬件模拟"
+    ],
+    "category": "技术项目"
+  }
+}

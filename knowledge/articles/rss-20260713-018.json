@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260713-018",
+  "title": "LARP – Revenue infrastructure for serious founders",
+  "source_url": "https://www.larp.website/",
+  "source_type": "rss",
+  "summary": "LARP是一个为严肃创业者提供的收入基础设施平台，旨在帮助创始人管理收入相关流程。该条目来自Hacker News，讨论其功能与价值。",
+  "tags": [
+    "收入基础设施",
+    "创业者",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-13T19:13:17+08:00",
+  "updated_at": "2026-07-13T19:13:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "LARP专注于收入管理",
+      "面向严肃创业者",
+      "来自Hacker News讨论"
+    ],
+    "category": "创业工具"
+  }
+}

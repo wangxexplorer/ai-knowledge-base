@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260713-010",
+  "title": "Designing and assembling my first PCB",
+  "source_url": "https://vilkeliskis.com/b/2026/0711.html",
+  "source_type": "rss",
+  "summary": "该条目描述了作者设计并组装其第一块PCB（印刷电路板）的过程，属于硬件电子工程领域，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "PCB设计",
+    "硬件",
+    "电子工程"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-13T19:13:17+08:00",
+  "updated_at": "2026-07-13T19:13:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "PCB设计是硬件开发的基础技能",
+      "组装PCB涉及焊接和测试流程"
+    ],
+    "category": "硬件开发"
+  }
+}
