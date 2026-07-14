@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260714-013",
+  "title": "Building Food Metadata with LLM Juries",
+  "source_url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+  "source_type": "rss",
+  "summary": "DoorDash使用LLM Jury系统构建食品元数据，通过多模态AI和上下文优化技术，结合多个LLM评审来提升元数据质量和一致性。",
+  "tags": [
+    "LLM",
+    "多模态AI",
+    "元数据",
+    "上下文优化",
+    "AI应用"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-14T18:00:18+08:00",
+  "updated_at": "2026-07-14T18:00:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "LLM Jury系统通过多个LLM协同评审提升元数据质量",
+      "多模态AI结合文本和图像信息优化食品元数据",
+      "上下文优化技术用于提高LLM输出的准确性和相关性"
+    ],
+    "category": "AI应用"
+  }
+}

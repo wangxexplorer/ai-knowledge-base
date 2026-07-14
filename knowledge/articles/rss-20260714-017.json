@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260714-017",
+  "title": "The git history command",
+  "source_url": "https://lalitm.com/post/git-history/",
+  "source_type": "rss",
+  "summary": "本文介绍了git history命令的使用方法，包括查看提交历史、过滤日志、格式化输出等技巧，帮助开发者更高效地管理代码版本。",
+  "tags": [
+    "Git",
+    "版本控制",
+    "开发工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-14T18:00:18+08:00",
+  "updated_at": "2026-07-14T18:00:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "git history是查看提交历史的核心命令",
+      "支持多种过滤和格式化选项",
+      "有助于代码审查和调试"
+    ],
+    "category": "开发工具"
+  }
+}

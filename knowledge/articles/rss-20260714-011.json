@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260714-011",
+  "title": "Fundamentals of Wireless Communication (2005)",
+  "source_url": "https://web.stanford.edu/~dntse/wireless_book.html",
+  "source_type": "rss",
+  "summary": "该书是无线通信领域的经典教材，由斯坦福大学教授David Tse和Pramod Viswanath合著，系统介绍了无线信道、调制、编码、MIMO等核心技术原理。",
+  "tags": [
+    "无线通信",
+    "通信原理",
+    "MIMO"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-14T18:00:18+08:00",
+  "updated_at": "2026-07-14T18:00:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "无线通信基础与AI/LLM/Agent无直接关联",
+      "可作为AI在通信领域应用的技术背景"
+    ],
+    "category": "通信工程"
+  }
+}

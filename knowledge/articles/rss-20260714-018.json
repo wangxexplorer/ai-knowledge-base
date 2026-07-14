@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260714-018",
+  "title": "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
+  "source_url": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+  "source_type": "rss",
+  "summary": "本文探讨了Forward Deployed Engineers（FDE）的角色及其高需求原因。FDE是连接产品开发与客户部署的工程师，负责定制化解决方案、解决复杂问题并确保客户成功。在AI和LLM领域，FDE对于将模型集成到实际应用、处理数据管道和优化性能至关重要，因此需求旺盛。",
+  "tags": [
+    "Forward Deployed Engineer",
+    "AI工程化",
+    "LLM部署",
+    "客户成功",
+    "技术需求"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-14T18:00:18+08:00",
+  "updated_at": "2026-07-14T18:00:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "FDE在AI/LLM领域负责模型集成与定制化部署，是技术落地的关键角色。",
+      "高需求源于AI产品需要快速迭代和客户现场支持，FDE能弥合开发与部署的鸿沟。",
+      "FDE需具备全栈能力、客户沟通技巧和问题解决能力，尤其在处理LLM的复杂性和数据管道时。"
+    ],
+    "category": "技术角色与趋势"
+  }
+}

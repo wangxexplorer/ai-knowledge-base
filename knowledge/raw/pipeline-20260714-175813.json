@@ -1,0 +1,579 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-07-14T17:58:13+08:00",
+  "query": "AI LLM Agent",
+  "items": [
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "hermes-agent",
+      "title": "hermes-agent",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 214560,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "NousResearch/hermes-agent",
+      "author": "NousResearch"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "dify",
+      "title": "dify",
+      "source_url": "https://github.com/langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "stars": 148787,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "full_name": "langgenius/dify",
+      "author": "langgenius"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "langchain",
+      "title": "langchain",
+      "source_url": "https://github.com/langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform.",
+      "stars": 141739,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "langchain-ai/langchain",
+      "author": "langchain-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "awesome-llm-apps",
+      "title": "awesome-llm-apps",
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "stars": 120179,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "llms",
+        "python",
+        "rag"
+      ],
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "author": "Shubhamsaboo"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "browser-use",
+      "title": "browser-use",
+      "source_url": "https://github.com/browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 104667,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-use",
+        "llm"
+      ],
+      "full_name": "browser-use/browser-use",
+      "author": "browser-use"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ragflow",
+      "title": "ragflow",
+      "source_url": "https://github.com/infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 85021,
+      "language": "Go",
+      "topics": [
+        "agentic-ai",
+        "agentic-retrieval",
+        "agentic-search",
+        "ai",
+        "ai-agents"
+      ],
+      "full_name": "infiniflow/ragflow",
+      "author": "infiniflow"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ponytail",
+      "title": "ponytail",
+      "source_url": "https://github.com/DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 82705,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin"
+      ],
+      "full_name": "DietrichGebert/ponytail",
+      "author": "DietrichGebert"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "OpenHands",
+      "title": "OpenHands",
+      "source_url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "stars": 80739,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli"
+      ],
+      "full_name": "OpenHands/OpenHands",
+      "author": "OpenHands"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "deer-flow",
+      "title": "deer-flow",
+      "source_url": "https://github.com/bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 77005,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "full_name": "bytedance/deer-flow",
+      "author": "bytedance"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "LlamaFactory",
+      "title": "LlamaFactory",
+      "source_url": "https://github.com/hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars": 73262,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "deepseek",
+        "fine-tuning",
+        "gemma"
+      ],
+      "full_name": "hiyouga/LlamaFactory",
+      "author": "hiyouga"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "pi",
+      "title": "pi",
+      "source_url": "https://github.com/earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 70822,
+      "language": "TypeScript",
+      "topics": [],
+      "full_name": "earendil-works/pi",
+      "author": "earendil-works"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "MetaGPT",
+      "title": "MetaGPT",
+      "source_url": "https://github.com/FoundationAgents/MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "stars": 69359,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "gpt",
+        "llm",
+        "metagpt",
+        "multi-agent"
+      ],
+      "full_name": "FoundationAgents/MetaGPT",
+      "author": "FoundationAgents"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "mem0",
+      "title": "mem0",
+      "source_url": "https://github.com/mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "description": "Universal memory layer for AI Agents",
+      "stars": 60792,
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "application",
+        "chatbots"
+      ],
+      "full_name": "mem0ai/mem0",
+      "author": "mem0ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "headroom",
+      "title": "headroom",
+      "source_url": "https://github.com/headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "stars": 59052,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "anthropic",
+        "claude-code",
+        "compression"
+      ],
+      "full_name": "headroomlabs-ai/headroom",
+      "author": "headroomlabs-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "goose",
+      "title": "goose",
+      "source_url": "https://github.com/aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 51190,
+      "language": "Rust",
+      "topics": [
+        "acp",
+        "ai",
+        "ai-agents",
+        "mcp"
+      ],
+      "full_name": "aaif-goose/goose",
+      "author": "aaif-goose"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "cherry-studio",
+      "title": "cherry-studio",
+      "source_url": "https://github.com/CherryHQ/cherry-studio",
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 48555,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "awesome-skills",
+        "claude-code",
+        "codex"
+      ],
+      "full_name": "CherryHQ/cherry-studio",
+      "author": "CherryHQ"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "JeecgBoot",
+      "title": "JeecgBoot",
+      "source_url": "https://github.com/jeecgboot/JeecgBoot",
+      "url": "https://github.com/jeecgboot/JeecgBoot",
+      "description": "【低代码迈入 v2.0】AI低代码平台，AI Skills 一句话生成整个系统；一键生成前后端代码甚至整个模块。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+      "stars": 47067,
+      "language": "Java",
+      "topics": [
+        "activiti",
+        "agent",
+        "ai",
+        "antd",
+        "claude-code"
+      ],
+      "full_name": "jeecgboot/JeecgBoot",
+      "author": "jeecgboot"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "CowAgent",
+      "title": "CowAgent",
+      "source_url": "https://github.com/zhayujie/CowAgent",
+      "url": "https://github.com/zhayujie/CowAgent",
+      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+      "stars": 45973,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "chatgpt-on-wechat",
+        "claude"
+      ],
+      "full_name": "zhayujie/CowAgent",
+      "author": "zhayujie"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "nanobot",
+      "title": "nanobot",
+      "source_url": "https://github.com/HKUDS/nanobot",
+      "url": "https://github.com/HKUDS/nanobot",
+      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "stars": 45512,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "HKUDS/nanobot",
+      "author": "HKUDS"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "langgraph",
+      "title": "langgraph",
+      "source_url": "https://github.com/langchain-ai/langgraph",
+      "url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient agents.",
+      "stars": 37266,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "deepagents"
+      ],
+      "full_name": "langchain-ai/langgraph",
+      "author": "langchain-ai"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+      "source_url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
+      "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
+      "description": "Article URL: https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19 Comments URL: https://news.ycombinator.com/item?id=48903777 Points: 107 # Comments: 57",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
+      "source_url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
+      "url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
+      "description": "Article URL: https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/ Comments URL: https://news.ycombinator.com/item?id=48903715 Points: 33 # Comments: 12",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Two Case Studies of NaN",
+      "source_url": "https://sebsite.pw/w/20260709-nan.html",
+      "url": "https://sebsite.pw/w/20260709-nan.html",
+      "description": "Article URL: https://sebsite.pw/w/20260709-nan.html Comments URL: https://news.ycombinator.com/item?id=48903701 Points: 5 # Comments: 2",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "The Anatomy of an Instruction Pipeline Hazard",
+      "source_url": "https://hiraditya.github.io/posts/hardware-hazards-b200/",
+      "url": "https://hiraditya.github.io/posts/hardware-hazards-b200/",
+      "description": "Article URL: https://hiraditya.github.io/posts/hardware-hazards-b200/ Comments URL: https://news.ycombinator.com/item?id=48903190 Points: 5 # Comments: 0",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+      "source_url": "https://www.bbc.com/news/articles/cg53l737v1qo",
+      "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
+      "description": "Article URL: https://www.bbc.com/news/articles/cg53l737v1qo Comments URL: https://news.ycombinator.com/item?id=48903082 Points: 40 # Comments: 2",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Just Let Me Write Digits",
+      "source_url": "https://gendx.dev/blog/2026/07/13/input-digits.html",
+      "url": "https://gendx.dev/blog/2026/07/13/input-digits.html",
+      "description": "Article URL: https://gendx.dev/blog/2026/07/13/input-digits.html Comments URL: https://news.ycombinator.com/item?id=48902791 Points: 23 # Comments: 2",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Australian energy retailers must provide three hours of free daytime electricity",
+      "source_url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+      "description": "Article URL: https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/ Comments URL: https://news.ycombinator.com/item?id=48902320 Points: 92 # Comments: 119",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "YouTrackDB is a general-use object-oriented graph database",
+      "source_url": "https://github.com/JetBrains/youtrackdb",
+      "url": "https://github.com/JetBrains/youtrackdb",
+      "description": "Article URL: https://github.com/JetBrains/youtrackdb Comments URL: https://news.ycombinator.com/item?id=48902026 Points: 122 # Comments: 37",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Our Amish Language",
+      "source_url": "https://www.thedial.world/articles/news/amish-pennsylvania-dutch",
+      "url": "https://www.thedial.world/articles/news/amish-pennsylvania-dutch",
+      "description": "Article URL: https://www.thedial.world/articles/news/amish-pennsylvania-dutch Comments URL: https://news.ycombinator.com/item?id=48901645 Points: 49 # Comments: 28",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+      "source_url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+      "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+      "description": "Article URL: https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/ Comments URL: https://news.ycombinator.com/item?id=48901569 Points: 479 # Comments: 114",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Fundamentals of Wireless Communication (2005)",
+      "source_url": "https://web.stanford.edu/~dntse/wireless_book.html",
+      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
+      "description": "Article URL: https://web.stanford.edu/~dntse/wireless_book.html Comments URL: https://news.ycombinator.com/item?id=48901454 Points: 135 # Comments: 5",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
+      "source_url": "https://satellitemap.space/",
+      "url": "https://satellitemap.space/",
+      "description": "Article URL: https://satellitemap.space/ Comments URL: https://news.ycombinator.com/item?id=48901356 Points: 89 # Comments: 39",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Building Food Metadata with LLM Juries",
+      "source_url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+      "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+      "description": "Article URL: https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/ Comments URL: https://news.ycombinator.com/item?id=48901275 Points: 39 # Comments: 9",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Is x86 ready to ACE it?",
+      "source_url": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
+      "url": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
+      "description": "Article URL: https://chipsandcheese.com/p/is-x86-ready-to-ace-it Comments URL: https://news.ycombinator.com/item?id=48901235 Points: 77 # Comments: 12",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "The Economics of Recursive Self-Improvement [pdf]",
+      "source_url": "https://elasticity.institute/rsi-paper.pdf",
+      "url": "https://elasticity.institute/rsi-paper.pdf",
+      "description": "Article URL: https://elasticity.institute/rsi-paper.pdf Comments URL: https://news.ycombinator.com/item?id=48901224 Points: 97 # Comments: 35",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "MorphoHDL: A minimalistic language for growing circuits",
+      "source_url": "https://paradigms-of-intelligence.github.io/morpho/",
+      "url": "https://paradigms-of-intelligence.github.io/morpho/",
+      "description": "Article URL: https://paradigms-of-intelligence.github.io/morpho/ Comments URL: https://news.ycombinator.com/item?id=48901126 Points: 70 # Comments: 8",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "The git history command",
+      "source_url": "https://lalitm.com/post/git-history/",
+      "url": "https://lalitm.com/post/git-history/",
+      "description": "Article URL: https://lalitm.com/post/git-history/ Comments URL: https://news.ycombinator.com/item?id=48901010 Points: 298 # Comments: 170",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
+      "source_url": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+      "url": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+      "description": "Article URL: https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers Comments URL: https://news.ycombinator.com/item?id=48900432 Points: 62 # Comments: 69",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "An Englishwoman who sketched India before photography took hold",
+      "source_url": "https://www.bbc.com/news/articles/cm2drrv6q54o",
+      "url": "https://www.bbc.com/news/articles/cm2drrv6q54o",
+      "description": "Article URL: https://www.bbc.com/news/articles/cm2drrv6q54o Comments URL: https://news.ycombinator.com/item?id=48900191 Points: 153 # Comments: 46",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
+      "source_url": "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7",
+      "url": "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7",
+      "description": "Article URL: https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7 Comments URL: https://news.ycombinator.com/item?id=48898814 Points: 0 # Comments: 0",
+      "feed_name": "Hacker News"
+    }
+  ]
+}

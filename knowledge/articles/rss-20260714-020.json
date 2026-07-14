@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260714-020",
+  "title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
+  "source_url": "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7",
+  "source_type": "rss",
+  "summary": "SalesPatriot (YC W25) 正在招聘全栈工程师，工作地点在旧金山。该招聘信息发布于 Hacker News，但未提供具体技术细节。",
+  "tags": [
+    "招聘",
+    "全栈工程师",
+    "YC"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-14T18:00:18+08:00",
+  "updated_at": "2026-07-14T18:00:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "SalesPatriot 正在招聘全栈工程师",
+      "公司为 YC W25 批次",
+      "工作地点在旧金山"
+    ],
+    "category": "招聘信息"
+  }
+}

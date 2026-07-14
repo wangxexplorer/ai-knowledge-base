@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260714-008",
+  "title": "YouTrackDB is a general-use object-oriented graph database",
+  "source_url": "https://github.com/JetBrains/youtrackdb",
+  "source_type": "rss",
+  "summary": "YouTrackDB是JetBrains开发的一款通用面向对象图数据库，支持复杂数据关系的存储与查询。在AI和LLM领域，图数据库可用于知识图谱构建、推理和上下文管理，为Agent提供结构化记忆与关系推理能力。",
+  "tags": [
+    "图数据库",
+    "知识图谱",
+    "数据存储"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-14T18:00:18+08:00",
+  "updated_at": "2026-07-14T18:00:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "图数据库可支撑AI知识图谱与关系推理",
+      "面向对象设计便于复杂数据建模",
+      "可能用于Agent的长期记忆与上下文管理"
+    ],
+    "category": "基础设施与工具"
+  }
+}

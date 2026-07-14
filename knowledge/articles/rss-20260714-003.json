@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260714-003",
+  "title": "Two Case Studies of NaN",
+  "source_url": "https://sebsite.pw/w/20260709-nan.html",
+  "source_type": "rss",
+  "summary": "该条目标题为“Two Case Studies of NaN”，来源为Hacker News，但描述中未提供具体技术内容。NaN通常指“非数值”，在编程中常见，但与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "NaN",
+    "编程",
+    "技术案例"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-14T18:00:18+08:00",
+  "updated_at": "2026-07-14T18:00:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "NaN是编程中的常见概念",
+      "条目缺乏与AI、LLM、Agent的直接联系",
+      "可能涉及数值计算或错误处理"
+    ],
+    "category": "编程技术"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260714-016",
+  "title": "MorphoHDL: A minimalistic language for growing circuits",
+  "source_url": "https://paradigms-of-intelligence.github.io/morpho/",
+  "source_type": "rss",
+  "summary": "MorphoHDL是一种用于电路生长的极简语言，专注于硬件描述和电路设计。它与AI、LLM、Agent领域无直接关联，但可能通过硬件加速间接影响AI计算。",
+  "tags": [
+    "硬件描述语言",
+    "电路设计",
+    "极简语言"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-14T18:00:18+08:00",
+  "updated_at": "2026-07-14T18:00:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "MorphoHDL是一种极简的硬件描述语言",
+      "用于电路生长和设计",
+      "与AI领域间接相关"
+    ],
+    "category": "硬件设计"
+  }
+}

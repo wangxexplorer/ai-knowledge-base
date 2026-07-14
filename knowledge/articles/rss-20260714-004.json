@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260714-004",
+  "title": "The Anatomy of an Instruction Pipeline Hazard",
+  "source_url": "https://hiraditya.github.io/posts/hardware-hazards-b200/",
+  "source_type": "rss",
+  "summary": "文章详细解析了指令流水线中的三种硬件冒险：结构冒险、数据冒险和控制冒险，并介绍了通过硬件设计（如转发、分支预测）和编译器优化（如指令调度）来缓解这些冒险的技术。",
+  "tags": [
+    "计算机体系结构",
+    "流水线",
+    "硬件设计"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-14T18:00:18+08:00",
+  "updated_at": "2026-07-14T18:00:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "指令流水线冒险是影响CPU性能的关键因素",
+      "结构、数据和控制冒险各有不同的缓解策略",
+      "硬件和编译器协同优化可有效减少冒险"
+    ],
+    "category": "计算机体系结构"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260714-015",
+  "title": "The Economics of Recursive Self-Improvement [pdf]",
+  "source_url": "https://elasticity.institute/rsi-paper.pdf",
+  "source_type": "rss",
+  "summary": "该PDF论文探讨递归自我改进的经济学，分析AI系统通过自我迭代提升性能的成本效益与激励机制，涉及AI、LLM和Agent领域的核心议题。",
+  "tags": [
+    "递归自我改进",
+    "AI经济学",
+    "LLM",
+    "Agent",
+    "自我迭代"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-14T18:00:18+08:00",
+  "updated_at": "2026-07-14T18:00:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "递归自我改进是AI系统实现超人类性能的关键路径",
+      "经济激励机制影响AI自我改进的速度与方向",
+      "该研究对理解LLM和Agent的长期发展有重要启示"
+    ],
+    "category": "AI理论"
+  }
+}
