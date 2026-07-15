@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260715-007",
+  "title": "LP Mining with LP2Graph: A Use Case for Railway Rescheduling",
+  "source_url": "https://arxiv.org/abs/2607.11980",
+  "source_type": "rss",
+  "summary": "本文提出LP Mining with LP2Graph方法，用于从铁路调度等领域的混合整数线性规划（MILP）文献中自动提取和分类模型结构。通过将公式表示为类型化变量-方程图，进行聚类和验证，生成可重复的客观分类体系，为自动化模型开发奠定基础。",
+  "tags": [
+    "MILP",
+    "铁路调度",
+    "自动化建模",
+    "知识图谱"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-15T18:05:54+08:00",
+  "updated_at": "2026-07-15T18:05:54+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "提出LP2Graph方法，将MILP公式转化为结构化图表示，实现模型自动分类。",
+      "通过聚类和验证生成客观、可重复的模型分类体系。",
+      "为铁路调度等领域的自动化模型开发提供基础工具。"
+    ],
+    "category": "优化与建模"
+  }
+}

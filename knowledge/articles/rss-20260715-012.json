@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260715-012",
+  "title": "Connected by Construction: Learning Tractable Near-Tour Marginals for Traveling Salesman Problems",
+  "source_url": "https://arxiv.org/abs/2607.12127",
+  "source_type": "rss",
+  "summary": "该论文提出C2TSP，一种基于连通性约束的1-树吉布斯家族的无监督学习管道，用于旅行商问题。它通过隐式微分学习残差边缘扰动，并利用平滑的Held-Karp层和证书引导锐化来改善结构，从而在解码前直接学习有意义的哈密顿结构，而非仅依赖代理空间。实验表明该方法在保持可解释结构信息的同时实现了强解码性能。",
+  "tags": [
+    "TSP",
+    "无监督学习",
+    "组合优化",
+    "结构学习",
+    "隐式微分"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-15T18:05:54+08:00",
+  "updated_at": "2026-07-15T18:05:54+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "提出了一种端到端无监督学习管道，直接学习TSP的哈密顿结构，而非仅依赖解码后的代理空间。",
+      "通过隐式微分和结构校正层（如平滑Held-Karp层）实现结构保持的优化。",
+      "证书引导锐化进一步推动分布向更接近旅行商路径的结构演化。"
+    ],
+    "category": "机器学习与优化"
+  }
+}

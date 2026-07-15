@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260715-001",
+  "title": "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets",
+  "source_url": "https://arxiv.org/abs/2607.11888",
+  "source_type": "rss",
+  "summary": "该论文为永续期货市场中的最优做市商建立了严格的理论框架，使用随机最优控制方法，推导了PnL分解、HJB方程、高APY定理等。虽然主要聚焦于金融做市，但其控制优化、贝叶斯自适应估计、Kelly最优杠杆等方法与AI和LLM中的强化学习、决策优化、风险管理有交叉，可视为AI在金融领域的应用。",
+  "tags": [
+    "随机最优控制",
+    "做市策略",
+    "金融AI",
+    "风险管理"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-15T18:05:54+08:00",
+  "updated_at": "2026-07-15T18:05:54+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "将做市问题建模为随机最优控制问题，与强化学习框架相通",
+      "推导了高APY定理和主APY公式，可用于AI驱动的策略优化",
+      "包含贝叶斯自适应估计和Kelly最优杠杆，与AI中的在线学习和风险敏感决策相关"
+    ],
+    "category": "金融工程与AI交叉"
+  }
+}

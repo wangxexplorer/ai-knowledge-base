@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260715-020",
+  "title": "PM-Bench: Evaluating Prospective Memory in LLM Agents",
+  "source_url": "https://arxiv.org/abs/2607.12385",
+  "source_type": "rss",
+  "summary": "PM-Bench是一个基于文本的基准测试，用于评估LLM代理的前瞻记忆能力，即代理在持续其他活动时，在特定未来线索或状态下执行意图的能力。该基准受认知科学中的虚拟周范式启发，评估代理维护用户意图、执行延迟意图和监控潜在环境变化的能力。在模拟的七天周期中，代理必须继续当前活动并判断是否有延迟任务到期。实验表明，即使是最佳方法GPT-5.4代理也仅达到65.1%的F1分数，且没有单一策略能跨模型主导前",
+  "tags": [
+    "LLM Agents",
+    "Prospective Memory",
+    "Benchmark",
+    "AI Evaluation",
+    "Cognitive Science"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-15T18:05:54+08:00",
+  "updated_at": "2026-07-15T18:05:54+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "前瞻记忆是代理AI的关键挑战，PM-Bench提供了系统评估方法",
+      "当前最佳LLM代理在前瞻记忆任务上表现有限，最高F1仅65.1%",
+      "没有通用策略能有效提升所有模型的前瞻记忆能力"
+    ],
+    "category": "AI Agent评估与基准"
+  }
+}

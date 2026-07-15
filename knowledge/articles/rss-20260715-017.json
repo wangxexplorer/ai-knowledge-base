@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260715-017",
+  "title": "Rethinking the Evaluation of Harness Evolution for Agents",
+  "source_url": "https://arxiv.org/abs/2607.12227",
+  "source_type": "rss",
+  "summary": "该论文重新审视了LLM Agent自动框架演化的评估方法。现有方法使用单元测试搜索框架配置，并在同一基准上报告性能，存在两个问题：一是框架演化作为迭代搜索过程，应与简单任务级搜索基线在匹配反馈和推理预算下比较；二是搜索与最终评估共享同一基准，可能导致过拟合。实验表明，自动框架演化并不始终优于简单测试时缩放方法，且泛化能力有限。",
+  "tags": [
+    "LLM Agent",
+    "评估方法",
+    "框架演化",
+    "测试时缩放",
+    "泛化"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-15T18:05:54+08:00",
+  "updated_at": "2026-07-15T18:05:54+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "自动框架演化在匹配推理预算下并不优于简单测试时缩放方法",
+      "现有评估协议存在过拟合风险，需使用留出任务验证泛化性",
+      "框架演化与测试时缩放应基于公平比较，而非仅报告最终性能"
+    ],
+    "category": "AI Agent评估"
+  }
+}

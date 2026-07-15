@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260715-013",
+  "title": "The Emerging Paradigm of Geospatial Foundation Models: From Pre-Training to Agentic Reasoning",
+  "source_url": "https://arxiv.org/abs/2607.12177",
+  "source_type": "rss",
+  "summary": "本文提出地理空间基础模型（GeoFMs）概念，通过大规模预训练实现AI/ML能力民主化，支持领域专家快速微调或提示模型。区分了自监督视觉模型与对比学习视觉语言模型，讨论了MLOps实践，并展望了基于大语言模型（LLM）的智能体地理空间推理，将领域从感知推向认知。",
+  "tags": [
+    "地理空间基础模型",
+    "大语言模型",
+    "智能体推理",
+    "预训练",
+    "视觉语言模型"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-15T18:05:54+08:00",
+  "updated_at": "2026-07-15T18:05:54+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "GeoFMs通过预训练分离计算密集型任务，降低领域专家使用门槛",
+      "LLM作为智能体协调器，可结合GeoFMs实现自然语言驱动的复杂分析工作流",
+      "从感知到认知的转变，标志着地理空间AI进入新阶段"
+    ],
+    "category": "AI前沿研究"
+  }
+}

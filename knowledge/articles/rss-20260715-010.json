@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260715-010",
+  "title": "Operationalising Multi-Dimensional Evaluation for Conversational Agents: A Scalable, Governed Pipeline with Selective Re-evaluation and Model Benchmarking",
+  "source_url": "https://arxiv.org/abs/2607.12085",
+  "source_type": "rss",
+  "summary": "本文提出GenAI Evaluation，一种可扩展、受治理的对话系统评估流水线，用于零售场景。它通过标准化、分片、异步执行和模式约束的LLM评分，评估意图对齐、事实性、帮助性、清晰度、语气等维度。支持选择性重评、版本控制和审计追踪，每天处理约5万条记录，已评估超200万次交互，在14个意图、156个子意图等分类上达到0.93的宏F1分数和89%的人类可接受准确率。",
+  "tags": [
+    "对话系统评估",
+    "LLM-as-a-judge",
+    "可扩展流水线",
+    "零售对话AI",
+    "质量维度"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-15T18:05:54+08:00",
+  "updated_at": "2026-07-15T18:05:54+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "提出了一种基于LLM的多维度评估流水线，覆盖意图对齐、事实性、帮助性、清晰度、语气等关键质量维度。",
+      "通过选择性重评、模式锁定和版本控制，解决了生产环境中评估的可治理性、可重复性和审计需求。",
+      "在零售对话系统上验证了高准确率（宏F1=0.93）和人类可接受性（89%），展示了大规模自动化评估的可行性。"
+    ],
+    "category": "AI评估与基准测试"
+  }
+}

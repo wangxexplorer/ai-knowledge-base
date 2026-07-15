@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260715-004",
+  "title": "GRID: Grammar-Railed Decoding for Enterprise SQL Generation",
+  "source_url": "https://arxiv.org/abs/2607.11951",
+  "source_type": "rss",
+  "summary": "GRID是一种语法约束解码引擎，用于企业级SQL生成。它通过LALR(1)解析器状态生成精确的下一token掩码，确保输出语法有效、符合角色和模式策略，并提供可证明的保证。其Rust内核实现了微秒级延迟，在Spider基准测试中提升了执行准确率。",
+  "tags": [
+    "语法约束解码",
+    "SQL生成",
+    "LLM",
+    "企业级应用",
+    "可证明保证"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-15T18:05:54+08:00",
+  "updated_at": "2026-07-15T18:05:54+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "GRID利用LALR(1)解析器状态而非token序列生成掩码，实现高效且可证明的语法约束。",
+      "角色访问控制被编译到语法中，禁止的动词和标识符在掩码级别不可达。",
+      "在Spider上，约束解码为0.5B模型带来+13的执行准确率提升，7B模型达到94.5%可执行率。"
+    ],
+    "category": "AI应用技术"
+  }
+}

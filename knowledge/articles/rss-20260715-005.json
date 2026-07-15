@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260715-005",
+  "title": "Calibration-First Reward-Component Auditing for Reinforcement Learning Control in Smart Greenhouses",
+  "source_url": "https://arxiv.org/abs/2607.11959",
+  "source_type": "rss",
+  "summary": "该论文提出了一种校准优先的奖励组件审计框架，用于智能温室强化学习控制。该框架将标量奖励分解为温度、CO2、湿度等条件项，确保不同模拟器训练和实际部署中奖励组件的可比性，有助于理解策略行为。",
+  "tags": [
+    "强化学习",
+    "奖励审计",
+    "智能温室",
+    "AI控制"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-15T18:05:54+08:00",
+  "updated_at": "2026-07-15T18:05:54+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "提出校准优先的奖励审计框架",
+      "分解奖励组件以增强可解释性",
+      "应用于智能温室控制场景"
+    ],
+    "category": "AI应用"
+  }
+}

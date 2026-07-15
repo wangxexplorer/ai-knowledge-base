@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260715-018",
+  "title": "On-Device Deep Research at 4B: Exposure Bounds Faithfulness, Retrieval Bounds Coverage",
+  "source_url": "https://arxiv.org/abs/2607.12257",
+  "source_type": "rss",
+  "summary": "该研究在24GB笔记本上部署4B参数模型，分析设备端研究代理的引用忠实性与可信覆盖率。发现曝光度决定引用忠实性，检索决定可信覆盖率，为小型模型部署提供实用指南。",
+  "tags": [
+    "设备端AI",
+    "小型语言模型",
+    "引用忠实性",
+    "检索增强",
+    "研究代理"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-15T18:05:54+08:00",
+  "updated_at": "2026-07-15T18:05:54+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "曝光度是影响引用忠实性的关键因素，而非源文档的正确性",
+      "检索召回率是提升可信覆盖率的唯一杠杆",
+      "增加曝光度仅需约235个额外输出token，成本低廉"
+    ],
+    "category": "AI应用与部署"
+  }
+}

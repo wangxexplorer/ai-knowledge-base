@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260715-011",
+  "title": "Representing and Generating Levels Over Time through Playtrace Reconstructive Partitioning",
+  "source_url": "https://arxiv.org/abs/2607.12097",
+  "source_type": "rss",
+  "summary": "本文提出了一种名为“蛋糕”表示的领域无关游戏关卡生成方法，通过游戏轨迹重建划分（PRP）隐式编码动态信息。在推箱子游戏中，该方法能生成有效关卡且不牺牲解多样性，相比现有方法更简洁地编码了游戏的动态本质。",
+  "tags": [
+    "PCG",
+    "游戏关卡生成",
+    "动态表示"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-15T18:05:54+08:00",
+  "updated_at": "2026-07-15T18:05:54+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "提出领域无关的“蛋糕”表示法隐式编码游戏动态信息",
+      "PRP方法可生成有效关卡并保持解多样性",
+      "相比现有PCG方法更简洁地编码动态本质"
+    ],
+    "category": "游戏AI"
+  }
+}

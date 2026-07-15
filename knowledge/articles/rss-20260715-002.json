@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260715-002",
+  "title": "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
+  "source_url": "https://arxiv.org/abs/2607.11906",
+  "source_type": "rss",
+  "summary": "本文综述了非平稳环境下的上下文强化学习（ICRL），即预训练或微调后的决策模型如何仅通过交互上下文推断潜在任务规则并改进未来行为，而无需测试时参数更新。文章重点探讨了在环境变化时，累积上下文可能变得过时或误导，模型需同时推断当前决策规则和哪些证据仍有效。论文将非平稳ICRL与元强化学习、决策序列建模、检索增强强化学习等关联，并围绕变化内容、变化方式和变化可观测性三个问题组织文献。",
+  "tags": [
+    "In-Context Reinforcement Learning",
+    "Non-Stationarity",
+    "Meta-RL",
+    "Decision Pretrained Transformers",
+    "Retrieval-Augmented Agents"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-15T18:05:54+08:00",
+  "updated_at": "2026-07-15T18:05:54+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "非平稳ICRL要求模型在固定参数下通过上下文适应环境变化，推断当前规则和有效证据。",
+      "现有ICRL综述主要关注预训练目标、架构等，非平稳设置研究不足。",
+      "论文提出三个核心问题：变化内容、变化方式、变化可观测性，为后续研究提供框架。"
+    ],
+    "category": "强化学习与AI前沿"
+  }
+}

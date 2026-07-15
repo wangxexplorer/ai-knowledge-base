@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260715-019",
+  "title": "How Many Tasks Are Enough for Agent Benchmark Decisions? A Replay Analysis of Public LLM Agent Benchmarks",
+  "source_url": "https://arxiv.org/abs/2607.12338",
+  "source_type": "rss",
+  "summary": "本文通过重放SWE-bench、AppWorld和tau-bench的完整任务记录，研究部分预算是否足以支持与完整基准相同的成对结论。发现所需任务比例差异很大：AppWorld在15%时满足所有目标，tau-bench在25%，SWE-bench Verified在90%，而SWE-bench Lite在95%时仍未满足。建议部分评估报告应说明性能差距、任务选择、覆盖规则、决策规则及未解决比较的数",
+  "tags": [
+    "Agent基准",
+    "评估方法",
+    "LLM",
+    "任务预算"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-15T18:05:54+08:00",
+  "updated_at": "2026-07-15T18:05:54+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "部分预算是否支持完整基准结论取决于任务比例，不同基准差异显著",
+      "AppWorld在15%任务时即可满足严格阈值，而SWE-bench Lite需超过95%",
+      "部分评估报告需明确性能差距、任务选择、覆盖规则等关键参数"
+    ],
+    "category": "AI评估与基准"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260715-015",
+  "title": "A Threshold Exceedance Framework for CBRN Uplift Evaluation in Frontier Language Models",
+  "source_url": "https://arxiv.org/abs/2607.12200",
+  "source_type": "rss",
+  "summary": "本文提出一个阈值超越标准（TEC）框架，用于评估前沿语言模型是否显著提升非专家用户规划CBRN攻击的能力。通过大规模实证研究，区分生成性和修正性提升，发现模型辅助在放射领域存在实质性提升，其他领域有限。该框架为模型部署前的风险评估和治理决策提供方法论支持。",
+  "tags": [
+    "AI安全",
+    "CBRN风险评估",
+    "前沿语言模型",
+    "阈值超越框架",
+    "模型治理"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-15T18:05:54+08:00",
+  "updated_at": "2026-07-15T18:05:54+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "提出TEC框架，将CBRN提升评估分解为独立可执行组件，提高跨研究可比性。",
+      "实证发现模型辅助在放射领域存在实质性提升，其他领域有限，支持差异化治理。",
+      "强调区分生成性与修正性提升，以及初步筛选信号与确认风险的区别。"
+    ],
+    "category": "AI安全与伦理"
+  }
+}

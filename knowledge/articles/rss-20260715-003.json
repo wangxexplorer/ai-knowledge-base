@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260715-003",
+  "title": "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study",
+  "source_url": "https://arxiv.org/abs/2607.11948",
+  "source_type": "rss",
+  "summary": "该研究针对受数据居住规则约束的金融机构，提出了一种结合本体增强蒸馏与上下文审计的方法。通过Qwen3.6-27B学生模型在Foundation AgenticOS本体上进行监督微调和DPO训练，在40项越南金融任务中达到0.90的接地率，与GPT-5基线持平。但统计功效不足，未能证明学生模型超越前沿模型。另一项上下文审计实验显示，企业代理路由中直接影响和结构耦合比残余上下文性更有用。研究为构建本体",
+  "tags": [
+    "本体蒸馏",
+    "企业语言模型",
+    "上下文审计",
+    "金融合规",
+    "代理路由"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-15T18:05:54+08:00",
+  "updated_at": "2026-07-15T18:05:54+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "本体增强蒸馏可让小型模型在特定领域达到前沿模型性能，但需更大样本验证统计显著性",
+      "上下文审计方法可区分代理路由中的直接影响与残余上下文性，为治理决策提供依据",
+      "研究为受数据居住规则约束的金融机构提供了可内部部署的模型构建与审计框架"
+    ],
+    "category": "模型训练与治理"
+  }
+}

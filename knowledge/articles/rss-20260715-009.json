@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260715-009",
+  "title": "Graph Feedback Controls Consensus and Clique Formation in Open-Weight Language-Model Populations",
+  "source_url": "https://arxiv.org/abs/2607.12077",
+  "source_type": "rss",
+  "summary": "该研究探讨了开放权重语言模型群体中的共识形成与派系分化问题，通过命名游戏协议分析交互图结构对群体行为的影响。研究发现，基于相似性的路由策略会加剧碎片化，而桥接路由结合记忆机制可恢复共识。",
+  "tags": [
+    "多智能体系统",
+    "共识形成",
+    "语言模型",
+    "图反馈",
+    "群体行为"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-15T18:05:54+08:00",
+  "updated_at": "2026-07-15T18:05:54+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "交互图结构对语言模型群体的共识形成有决定性影响",
+      "同质性阈值路由会加剧群体碎片化，桥接路由可恢复共识",
+      "记忆机制是桥接路由恢复共识的必要条件"
+    ],
+    "category": "多智能体与群体智能"
+  }
+}

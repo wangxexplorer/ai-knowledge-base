@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260715-008",
+  "title": "Designing Agent-Ready Websites for AI Web Agents: A Framework for Machine Readability, Actionability, and Decision Reliability",
+  "source_url": "https://arxiv.org/abs/2607.12056",
+  "source_type": "rss",
+  "summary": "本文提出“Agent-Ready Website”框架，旨在优化电商网站设计以支持AI代理的自主交互。框架围绕机器可读性、语义清晰性、可执行性和决策可靠性展开，通过对比实验验证其有效性。实验使用GPT-4.1等三种浏览器代理模型，在300次运行中，Agent-Ready网站的成功率从49.3%提升至89.3%，步骤数从9.31降至6.49，显著提升了AI代理的效率和可靠性。",
+  "tags": [
+    "AI Agent",
+    "Web Design",
+    "E-commerce",
+    "LLM",
+    "Human-AI Interaction"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-15T18:05:54+08:00",
+  "updated_at": "2026-07-15T18:05:54+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Agent-Ready网站通过增强结构清晰度和行动提示，显著提升AI代理的任务成功率。",
+      "现有SEO和GEO指标不足以评估网站对AI代理的友好性，需引入新框架。",
+      "实验表明，优化后的网站可减少AI代理的步骤数和错误率，提高决策可靠性。"
+    ],
+    "category": "AI Agent与Web交互设计"
+  }
+}
