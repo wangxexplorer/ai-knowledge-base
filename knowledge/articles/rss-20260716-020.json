@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260716-020",
+  "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+  "source_url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+  "source_type": "rss",
+  "summary": "本文介绍如何在无GPU的13年老Xeon服务器上运行Gemma 4 26B模型，达到5 tokens/sec的推理速度。通过优化CPU推理和内存管理，展示了在老旧硬件上运行大型语言模型的可行性，对AI部署的硬件要求提出了新视角。",
+  "tags": [
+    "LLM推理",
+    "CPU推理",
+    "模型优化",
+    "Gemma",
+    "硬件限制"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-16T18:10:32+08:00",
+  "updated_at": "2026-07-16T18:10:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "在无GPU的旧CPU上运行26B参数LLM是可行的，但速度受限。",
+      "通过优化技术可显著提升CPU推理效率。",
+      "该实验挑战了LLM对高端GPU的依赖，拓展了部署场景。"
+    ],
+    "category": "AI模型部署与优化"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260716-012",
+  "title": "LLM Networking with MikroTik",
+  "source_url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+  "source_type": "rss",
+  "summary": "该条目探讨了将大型语言模型（LLM）与MikroTik网络设备结合的可能性，可能涉及利用LLM进行网络配置、故障排查或自动化管理。内容来自Hacker News，具有一定技术讨论热度。",
+  "tags": [
+    "LLM",
+    "网络",
+    "MikroTik",
+    "自动化"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-16T18:10:32+08:00",
+  "updated_at": "2026-07-16T18:10:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "LLM可应用于网络设备管理领域",
+      "MikroTik作为具体实践平台",
+      "技术社区对此方向有讨论兴趣"
+    ],
+    "category": "技术应用"
+  }
+}

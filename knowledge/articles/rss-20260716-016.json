@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260716-016",
+  "title": "Inkling: Our Open-Weights Model",
+  "source_url": "https://thinkingmachines.ai/news/introducing-inkling/",
+  "source_type": "rss",
+  "summary": "Inkling是一个开放权重模型，由Thinking Machines发布，旨在推动AI技术的开放性和可访问性。该模型在Hacker News上获得广泛关注，讨论其性能、应用及对开源AI生态的影响。",
+  "tags": [
+    "开放权重模型",
+    "AI",
+    "LLM",
+    "开源"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-16T18:10:32+08:00",
+  "updated_at": "2026-07-16T18:10:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Inkling是开放权重模型，促进AI透明度",
+      "在Hacker News上引发热议，社区关注度高",
+      "可能影响开源AI生态发展"
+    ],
+    "category": "模型发布"
+  }
+}

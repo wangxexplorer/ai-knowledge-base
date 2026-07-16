@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260716-007",
+  "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+  "source_url": "https://arxiv.org/abs/2607.11859",
+  "source_type": "rss",
+  "summary": "该论文探讨了大型语言模型（LLMs）对计算机体系结构论文进行深度技术理解的能力，评估其在专业领域的表现与局限性。",
+  "tags": [
+    "LLM",
+    "技术理解",
+    "计算机体系结构",
+    "评估",
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-16T18:10:32+08:00",
+  "updated_at": "2026-07-16T18:10:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "LLMs在专业领域深度理解上存在挑战",
+      "评估了LLMs对计算机体系结构论文的技术理解能力",
+      "揭示了当前LLMs在专业文献理解上的局限性"
+    ],
+    "category": "AI研究"
+  }
+}

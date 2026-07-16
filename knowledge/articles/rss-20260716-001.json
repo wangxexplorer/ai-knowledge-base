@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260716-001",
+  "title": "Netstrings (1997)",
+  "source_url": "https://cr.yp.to/proto/netstrings.txt",
+  "source_type": "rss",
+  "summary": "Netstrings是一种简单、自描述的字符串编码协议，由Daniel J. Bernstein于1997年提出。它通过将字符串长度与字符串内容拼接，并用逗号分隔，实现了数据的自定界。这种编码方式在数据传输和存储中具有高效、可靠的特点，尤其适用于需要明确字符串边界的场景。虽然Netstrings本身并非AI或LLM领域的核心技术，但其在数据序列化、网络通信和协议设计中的思想，对构建高效、可靠的数据",
+  "tags": [
+    "数据编码",
+    "协议设计",
+    "序列化"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-16T18:10:32+08:00",
+  "updated_at": "2026-07-16T18:10:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Netstrings提供了一种轻量级、自定界的字符串编码方案，适用于需要明确数据边界的场景。",
+      "其设计思想对现代数据序列化协议（如Protocol Buffers、MessagePack）有启发意义。",
+      "在AI系统中，高效的数据编码有助于提升数据传输和存储的性能，但Netstrings本身并非AI专用技术。"
+    ],
+    "category": "数据基础设施"
+  }
+}

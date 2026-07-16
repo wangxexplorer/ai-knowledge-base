@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260716-014",
+  "title": "Grok Build is open source",
+  "source_url": "https://github.com/xai-org/grok-build",
+  "source_type": "rss",
+  "summary": "xAI开源了Grok Build，这是一个与AI模型构建相关的工具或框架。开源行为有助于社区参与和透明度，可能涉及LLM或Agent的开发。",
+  "tags": [
+    "开源",
+    "Grok",
+    "xAI",
+    "AI工具",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-16T18:10:32+08:00",
+  "updated_at": "2026-07-16T18:10:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "xAI开源了Grok Build，促进AI技术共享",
+      "可能用于构建或优化LLM/Agent",
+      "开源社区可参与改进"
+    ],
+    "category": "开源项目"
+  }
+}

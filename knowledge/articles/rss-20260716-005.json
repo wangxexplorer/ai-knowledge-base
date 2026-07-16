@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260716-005",
+  "title": "Making 768 servers look like 1",
+  "source_url": "https://planetscale.com/blog/making-768-servers-look-like-1",
+  "source_type": "rss",
+  "summary": "该文章探讨了如何通过技术手段将768台服务器整合为单一逻辑单元，实现高效资源管理与调度。这与AI、LLM、Agent领域的大规模分布式训练和推理部署高度相关，涉及集群管理、负载均衡和容错机制。",
+  "tags": [
+    "分布式系统",
+    "集群管理",
+    "资源调度",
+    "大规模训练",
+    "基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-16T18:10:32+08:00",
+  "updated_at": "2026-07-16T18:10:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "大规模服务器整合是AI训练和推理的关键基础设施挑战",
+      "高效资源管理可提升LLM和Agent系统的可扩展性",
+      "该技术思路对分布式AI系统的容错和性能优化有借鉴意义"
+    ],
+    "category": "基础设施与系统架构"
+  }
+}

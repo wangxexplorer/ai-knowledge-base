@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260716-009",
+  "title": "Bluesky Trademarks ATProto",
+  "source_url": "https://atproto.com/blog/at-protocol-trademark",
+  "source_type": "rss",
+  "summary": "Bluesky为其AT Protocol（ATProto）注册了商标。ATProto是一个去中心化社交网络协议，与AI/LLM/Agent领域无直接关联，但去中心化数据架构可能对AI数据获取和Agent互操作有潜在影响。",
+  "tags": [
+    "去中心化",
+    "社交协议",
+    "ATProto"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-16T18:10:32+08:00",
+  "updated_at": "2026-07-16T18:10:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "ATProto商标注册是Bluesky保护其协议生态的举措",
+      "去中心化协议可能影响AI数据访问模式",
+      "与AI/LLM/Agent核心领域关联度低"
+    ],
+    "category": "技术新闻"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260716-019",
+  "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
+  "source_url": "https://coasty.ai/docs",
+  "source_type": "rss",
+  "summary": "Coasty 提供用于计算机使用代理的 API，可自动化无 API 的旧版桌面和 Web 应用。代理通过截图、鼠标和键盘操作界面，支持自然语言任务、人工审批、状态验证和审计追踪。适用于医疗、会计等领域的复杂工作流自动化。",
+  "tags": [
+    "计算机使用代理",
+    "API",
+    "工作流自动化",
+    "RPA替代",
+    "AI Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-16T18:10:32+08:00",
+  "updated_at": "2026-07-16T18:10:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "通过视觉和鼠标键盘操作实现无API应用的自动化，突破传统RPA的局限性。",
+      "内置状态追踪、异常恢复和人工审批机制，提升生产环境可靠性。",
+      "面向医疗等高风险场景，提供审计追踪和验证策略配置。"
+    ],
+    "category": "AI Agent基础设施"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260716-004",
+  "title": "If you want to create a button from scratch, you must first create the universe",
+  "source_url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+  "source_type": "rss",
+  "summary": "文章标题引用名言，强调从零开始创建按钮的复杂性，实际内容聚焦于Web无障碍性（Accessibility）的深度实践，探讨如何构建真正可访问的UI组件。",
+  "tags": [
+    "无障碍性",
+    "Web开发",
+    "UI组件"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-16T18:10:32+08:00",
+  "updated_at": "2026-07-16T18:10:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "从零构建可访问按钮涉及底层设计原则",
+      "无障碍性需贯穿开发全流程"
+    ],
+    "category": "Web开发"
+  }
+}
