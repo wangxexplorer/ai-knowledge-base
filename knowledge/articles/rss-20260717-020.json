@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260717-020",
+  "title": "Microsoft Comic Chat is now open source",
+  "source_url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+  "source_type": "rss",
+  "summary": "微软将Comic Chat聊天软件开源，该软件使用漫画风格头像进行对话，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "开源",
+    "微软",
+    "聊天软件"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-17T17:59:11+08:00",
+  "updated_at": "2026-07-17T17:59:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "微软开源了Comic Chat聊天软件",
+      "该软件使用漫画风格头像进行对话",
+      "与AI、LLM、Agent领域无直接关联"
+    ],
+    "category": "开源软件"
+  }
+}

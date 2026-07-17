@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260717-001",
+  "title": "Trump Media to sell instant access to 'market-moving' social posts",
+  "source_url": "https://www.bbc.com/news/articles/c79gw4lj89eo",
+  "source_type": "rss",
+  "summary": "特朗普媒体公司计划推出即时访问“影响市场”的社交媒体帖子服务。该服务可能利用AI技术分析社交内容对市场的影响，但核心是媒体与金融的结合，与AI、LLM、Agent领域直接相关性较低。",
+  "tags": [
+    "社交媒体",
+    "市场影响",
+    "媒体"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-17T17:59:11+08:00",
+  "updated_at": "2026-07-17T17:59:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "特朗普媒体公司推出即时访问市场影响帖子的服务",
+      "该服务可能涉及AI分析社交内容",
+      "与AI、LLM、Agent领域直接相关性较低"
+    ],
+    "category": "媒体与金融"
+  }
+}

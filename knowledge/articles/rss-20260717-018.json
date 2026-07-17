@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260717-018",
+  "title": "Decoy Font",
+  "source_url": "https://www.mixfont.com/experiments/decoy-font",
+  "source_type": "rss",
+  "summary": "Decoy Font是一种字体技术，旨在通过视觉混淆来防止AI和LLM对文本内容的自动识别和提取。它通过修改字符形状，使人类可读但机器难以解析，从而保护文本隐私。该技术对AI数据抓取和内容分析构成挑战。",
+  "tags": [
+    "AI安全",
+    "隐私保护",
+    "字体技术",
+    "对抗性样本"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-17T17:59:11+08:00",
+  "updated_at": "2026-07-17T17:59:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "Decoy Font通过视觉混淆干扰AI文本识别",
+      "对LLM数据抓取和内容分析有潜在影响",
+      "体现了AI安全领域的对抗性设计思路"
+    ],
+    "category": "AI安全与隐私"
+  }
+}

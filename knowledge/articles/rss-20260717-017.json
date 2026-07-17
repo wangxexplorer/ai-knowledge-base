@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260717-017",
+  "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+  "source_url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+  "source_type": "rss",
+  "summary": "本文探讨使用传统机器学习方法（如逻辑回归、支持向量机等）来检测由大型语言模型（LLM）生成的文本。文章可能比较了不同特征工程和分类器在区分人类与AI生成文本上的效果，并讨论了该方法的优势与局限。",
+  "tags": [
+    "LLM检测",
+    "机器学习",
+    "文本分类",
+    "AI生成文本",
+    "传统ML"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-17T17:59:11+08:00",
+  "updated_at": "2026-07-17T17:59:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "传统机器学习方法可用于检测LLM生成文本，提供了一种轻量级替代方案。",
+      "特征工程（如n-gram、句法特征）对分类性能至关重要。",
+      "该方法可能面临对抗性攻击和泛化能力挑战。"
+    ],
+    "category": "AI安全与检测"
+  }
+}

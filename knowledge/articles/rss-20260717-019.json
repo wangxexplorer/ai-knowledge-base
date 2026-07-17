@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260717-019",
+  "title": "NotebookLM is now Gemini Notebook",
+  "source_url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+  "source_type": "rss",
+  "summary": "Google将NotebookLM更名为Gemini Notebook，标志着其AI笔记产品与Gemini品牌及技术的进一步整合。该产品利用大语言模型帮助用户整理、分析和生成基于个人文档的见解，是AI在知识管理和生产力领域的典型应用。",
+  "tags": [
+    "AI笔记",
+    "Gemini",
+    "知识管理",
+    "LLM应用",
+    "生产力工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-17T17:59:11+08:00",
+  "updated_at": "2026-07-17T17:59:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "品牌整合强化了Gemini生态",
+      "AI笔记工具是LLM在知识管理中的典型应用",
+      "产品更名可能预示功能升级"
+    ],
+    "category": "产品更新"
+  }
+}

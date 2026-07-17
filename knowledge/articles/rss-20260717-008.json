@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260717-008",
+  "title": "The human-in-the-loop is tired",
+  "source_url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+  "source_type": "rss",
+  "summary": "文章探讨了在AI系统中，人类参与循环（human-in-the-loop）模式的局限性，指出这种模式可能导致人类疲劳和效率低下，并可能提出更自动化或智能化的替代方案。",
+  "tags": [
+    "Human-in-the-loop",
+    "AI系统",
+    "自动化",
+    "LLM应用",
+    "Agent设计"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-17T17:59:11+08:00",
+  "updated_at": "2026-07-17T17:59:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "人类参与循环模式在AI系统中可能导致疲劳和效率问题",
+      "需要探索更智能的自动化替代方案",
+      "对LLM和Agent系统的设计有重要启示"
+    ],
+    "category": "AI系统设计"
+  }
+}

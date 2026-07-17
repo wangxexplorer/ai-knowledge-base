@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260717-002",
+  "title": "EEG shows brain can simultaneous encode two speech streams",
+  "source_url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+  "source_type": "rss",
+  "summary": "一项EEG研究发现，大脑能够同时编码两个语音流，这为理解多任务听觉处理提供了神经科学证据。该发现可能启发AI模型在语音分离、多源注意力机制等方面的设计，尤其对提升LLM在嘈杂环境下的理解能力有潜在价值。",
+  "tags": [
+    "EEG",
+    "语音处理",
+    "注意力机制",
+    "多任务学习",
+    "神经科学"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-17T17:59:11+08:00",
+  "updated_at": "2026-07-17T17:59:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "大脑可同时编码两个语音流，挑战了传统单通道处理假设",
+      "该机制可启发AI模型设计更高效的多源注意力模块",
+      "对提升LLM在复杂听觉场景下的鲁棒性有参考意义"
+    ],
+    "category": "神经科学与AI交叉"
+  }
+}

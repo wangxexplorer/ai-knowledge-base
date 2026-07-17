@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260717-005",
+  "title": "UIUC AI Teaching Assistant",
+  "source_url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
+  "source_type": "rss",
+  "summary": "UIUC AI教学助手项目，利用AI技术辅助教学，提升教育效率与个性化学习体验。",
+  "tags": [
+    "AI",
+    "教育",
+    "教学助手",
+    "LLM",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-17T17:59:11+08:00",
+  "updated_at": "2026-07-17T17:59:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "AI在教学场景中的实际应用",
+      "提升教育效率与个性化",
+      "开源项目促进AI教育创新"
+    ],
+    "category": "AI应用"
+  }
+}
