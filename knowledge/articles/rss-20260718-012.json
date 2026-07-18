@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260718-012",
+  "title": "Static search trees: 40x faster than binary search (2024)",
+  "source_url": "https://curiouscoding.nl/posts/static-search-tree/",
+  "source_type": "rss",
+  "summary": "该条目介绍了一种静态搜索树数据结构，在2024年实现比二分查找快40倍的性能提升。它通过优化内存布局和分支预测，显著加速了静态数据集上的搜索操作。",
+  "tags": [
+    "数据结构",
+    "搜索算法",
+    "性能优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-18T17:27:15+08:00",
+  "updated_at": "2026-07-18T17:27:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "静态搜索树通过内存布局优化大幅提升搜索速度",
+      "该技术对静态数据集搜索有显著加速效果",
+      "与AI/LLM/Agent领域间接相关，可作为底层优化参考"
+    ],
+    "category": "计算机科学基础"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260718-009",
+  "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+  "source_url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+  "source_type": "rss",
+  "summary": "TP-Link Kasa摄像头存在长达6年的未认证UDP漏洞，导致家庭GPS位置泄露。该漏洞影响用户隐私安全，属于物联网设备安全问题。",
+  "tags": [
+    "IoT安全",
+    "隐私泄露",
+    "漏洞"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-18T17:27:15+08:00",
+  "updated_at": "2026-07-18T17:27:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "未认证UDP协议导致GPS泄露",
+      "漏洞存在6年未修复",
+      "影响用户家庭隐私安全"
+    ],
+    "category": "网络安全"
+  }
+}

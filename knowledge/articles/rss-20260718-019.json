@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260718-019",
+  "title": "The state of open source AI",
+  "source_url": "https://stateofopensource.ai/",
+  "source_type": "rss",
+  "summary": "该条目报告了开源AI的当前状态，包括社区动态、项目进展和行业趋势，反映了开源在AI领域的重要性和影响力。",
+  "tags": [
+    "开源AI",
+    "AI趋势",
+    "社区动态"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-18T17:27:15+08:00",
+  "updated_at": "2026-07-18T17:27:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "开源AI项目持续增长，推动技术民主化",
+      "社区贡献和协作是开源AI发展的关键",
+      "开源AI在LLM和Agent领域具有广泛应用前景"
+    ],
+    "category": "行业报告"
+  }
+}

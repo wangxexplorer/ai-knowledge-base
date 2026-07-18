@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260718-002",
+  "title": "Show HN: IKEA Complexity Index",
+  "source_url": "https://ikea.greg.technology/",
+  "source_type": "rss",
+  "summary": "该项目通过技术手段分析IKEA产品的组装复杂度，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "IKEA",
+    "产品复杂度",
+    "数据分析"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-18T17:27:15+08:00",
+  "updated_at": "2026-07-18T17:27:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该项目专注于IKEA产品组装复杂度的量化分析",
+      "与AI、LLM、Agent技术无直接关联"
+    ],
+    "category": "非AI相关"
+  }
+}

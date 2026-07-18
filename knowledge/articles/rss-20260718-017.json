@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260718-017",
+  "title": "Learning a few things about running SQLite",
+  "source_url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+  "source_type": "rss",
+  "summary": "文章介绍了运行SQLite时的一些实用技巧和注意事项，包括性能优化、并发处理、备份策略等，旨在帮助开发者更高效地使用SQLite数据库。",
+  "tags": [
+    "SQLite",
+    "数据库",
+    "性能优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-18T17:27:15+08:00",
+  "updated_at": "2026-07-18T17:27:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "SQLite在轻量级应用中性能表现优异",
+      "合理使用WAL模式可提升并发读写效率",
+      "定期备份和VACUUM操作有助于维护数据库健康"
+    ],
+    "category": "数据库技术"
+  }
+}

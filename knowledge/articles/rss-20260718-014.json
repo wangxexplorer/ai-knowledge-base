@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260718-014",
+  "title": "The Zilog Z80 has turned 50",
+  "source_url": "https://goliath32.com/blog/z80.html",
+  "source_type": "rss",
+  "summary": "Zilog Z80微处理器迎来50周年纪念，该芯片曾广泛应用于早期个人计算机和嵌入式系统，对计算历史有重要影响。",
+  "tags": [
+    "硬件",
+    "历史",
+    "微处理器"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-18T17:27:15+08:00",
+  "updated_at": "2026-07-18T17:27:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Z80是早期微处理器代表",
+      "对个人计算机发展有贡献",
+      "50周年纪念标志其历史地位"
+    ],
+    "category": "技术历史"
+  }
+}

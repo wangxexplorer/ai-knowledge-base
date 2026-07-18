@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260718-020",
+  "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+  "source_url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+  "source_type": "rss",
+  "summary": "文章讨论了Kimi K3模型及其在Pelican基准测试中的表现，分析了从该基准测试中能学到的经验，涉及AI模型评估与改进。",
+  "tags": [
+    "Kimi K3",
+    "Pelican基准",
+    "AI评估",
+    "LLM",
+    "模型改进"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-18T17:27:15+08:00",
+  "updated_at": "2026-07-18T17:27:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Kimi K3在Pelican基准测试中的表现提供了模型能力的新视角",
+      "Pelican基准测试揭示了当前LLM的局限性",
+      "从基准测试中可提取模型优化的方向"
+    ],
+    "category": "AI模型评估"
+  }
+}

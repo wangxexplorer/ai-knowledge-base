@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260718-004",
+  "title": "I started a “dirt notebook”",
+  "source_url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+  "source_type": "rss",
+  "summary": "作者分享了一种名为“dirt notebook”的笔记方法，强调通过手写记录来捕捉日常中的零散想法和灵感，与数字笔记工具形成对比。这种方法注重低摩擦、高自由度的记录方式，帮助提升创造力和思维清晰度。",
+  "tags": [
+    "笔记方法",
+    "创造力",
+    "思维工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-18T17:27:15+08:00",
+  "updated_at": "2026-07-18T17:27:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "手写笔记能降低记录门槛，促进灵感捕捉",
+      "数字工具可能增加认知负担，而模拟方法更自由",
+      "定期回顾手写笔记有助于思维整理"
+    ],
+    "category": "个人生产力"
+  }
+}

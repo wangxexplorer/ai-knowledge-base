@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260718-010",
+  "title": "Open Book Touch: open-source e-reader",
+  "source_url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
+  "source_type": "rss",
+  "summary": "Open Book Touch 是一款开源电子阅读器，旨在提供可定制的阅读体验。该项目在 Crowd Supply 上众筹，强调硬件和软件的开放性。",
+  "tags": [
+    "开源硬件",
+    "电子阅读器"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-18T17:27:15+08:00",
+  "updated_at": "2026-07-18T17:27:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "开源电子阅读器项目",
+      "注重硬件和软件定制"
+    ],
+    "category": "硬件"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260718-003",
+  "title": "Regressive JPEGs",
+  "source_url": "https://maurycyz.com/projects/bad_jpeg/",
+  "source_type": "rss",
+  "summary": "Regressive JPEGs是一个项目，通过故意降低JPEG图像质量来探索压缩算法对图像的影响，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "图像压缩",
+    "JPEG",
+    "算法"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-18T17:27:15+08:00",
+  "updated_at": "2026-07-18T17:27:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该项目专注于JPEG压缩的退化效果",
+      "与AI、LLM、Agent技术无关"
+    ],
+    "category": "图像处理"
+  }
+}
