@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260719-014",
+  "title": "The Kimi K3 Moment",
+  "source_url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+  "source_type": "rss",
+  "summary": "文章探讨了Kimi K3模型发布带来的技术突破与行业影响，分析了其在AI、LLM领域的创新点，并讨论了Agent应用的可能性。",
+  "tags": [
+    "Kimi K3",
+    "LLM",
+    "Agent",
+    "AI突破",
+    "行业影响"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-19T17:53:42+08:00",
+  "updated_at": "2026-07-19T17:53:42+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Kimi K3模型在性能上实现显著提升",
+      "该模型推动了LLM在Agent场景中的应用",
+      "发布引发行业对AI发展方向的讨论"
+    ],
+    "category": "技术分析"
+  }
+}

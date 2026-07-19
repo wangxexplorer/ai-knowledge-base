@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260719-019",
+  "title": "Elixir-lang.org has a new design",
+  "source_url": "https://elixir-lang.org/",
+  "source_type": "rss",
+  "summary": "Elixir编程语言官网进行了重新设计，该事件在Hacker News上获得229个点赞和129条评论，主要关注网站外观和用户体验的更新。",
+  "tags": [
+    "Elixir",
+    "网站设计",
+    "编程语言"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-19T17:53:42+08:00",
+  "updated_at": "2026-07-19T17:53:42+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Elixir官网改版引发社区关注",
+      "该事件与AI、LLM、Agent领域无直接关联"
+    ],
+    "category": "技术新闻"
+  }
+}

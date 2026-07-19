@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260719-006",
+  "title": "Deepsec",
+  "source_url": "https://github.com/vercel-labs/deepsec",
+  "source_type": "rss",
+  "summary": "Deepsec是一个由Vercel Labs开发的开源项目，旨在提供深度安全分析功能。该项目与AI、LLM和Agent领域相关性较低，主要聚焦于安全工具和代码分析。",
+  "tags": [
+    "安全",
+    "开源",
+    "代码分析"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-19T17:53:42+08:00",
+  "updated_at": "2026-07-19T17:53:42+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Deepsec是Vercel Labs的安全项目",
+      "主要功能为深度安全分析",
+      "与AI/LLM/Agent无直接关联"
+    ],
+    "category": "安全工具"
+  }
+}

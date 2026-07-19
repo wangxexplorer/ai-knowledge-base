@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260719-013",
+  "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+  "source_url": "https://www.neatnik.net/hardcore-indieweb",
+  "source_type": "rss",
+  "summary": "本文介绍如何以极低成本（每天0.01美元）独立运行个人网站，强调自主控制、去中心化和反依赖大型平台，属于IndieWeb运动实践。",
+  "tags": [
+    "独立网站",
+    "去中心化",
+    "低成本"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-19T17:53:42+08:00",
+  "updated_at": "2026-07-19T17:53:42+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "极低成本实现网站独立运行",
+      "强调自主控制与去中心化",
+      "属于IndieWeb运动"
+    ],
+    "category": "技术实践"
+  }
+}

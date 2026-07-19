@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260719-018",
+  "title": "If You Build It, They Will Come",
+  "source_url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+  "source_type": "rss",
+  "summary": "文章探讨了在AI和LLM领域，构建高质量技术产品的重要性，强调只要产品足够优秀，用户自然会来。可能涉及Agent技术的应用案例或开发经验。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Agent",
+    "产品开发",
+    "技术趋势"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-19T17:53:42+08:00",
+  "updated_at": "2026-07-19T17:53:42+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "高质量产品是吸引用户的关键",
+      "AI/LLM领域需要注重实际应用价值",
+      "Agent技术可能成为未来发展方向"
+    ],
+    "category": "技术评论"
+  }
+}

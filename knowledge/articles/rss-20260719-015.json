@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260719-015",
+  "title": "Goodbye, and Thanks for All the Bikesheds",
+  "source_url": "https://queue.acm.org/detail.cfm?id=3818307",
+  "source_type": "rss",
+  "summary": "本文探讨了开源社区中常见的“自行车棚效应”，即过度关注琐碎细节而忽视重要问题。通过幽默的叙述，作者反思了技术社区中的沟通与决策效率问题，并提出了改进建议。",
+  "tags": [
+    "开源社区",
+    "沟通效率",
+    "决策偏差"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-19T17:53:42+08:00",
+  "updated_at": "2026-07-19T17:53:42+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "社区讨论易陷入琐碎细节",
+      "需平衡重要问题与次要问题",
+      "改进沟通机制可提升效率"
+    ],
+    "category": "技术管理"
+  }
+}

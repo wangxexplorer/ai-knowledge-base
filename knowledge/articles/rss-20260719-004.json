@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260719-004",
+  "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
+  "source_url": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
+  "source_type": "rss",
+  "summary": "文章通过分析AMD GFX1250在LLVM中的代码提交，推测其下一代GPU架构特性，包括指令集、缓存和计算单元变化。对AI/LLM领域，GPU架构直接影响模型训练和推理效率，但本文更侧重硬件底层，非直接应用层。",
+  "tags": [
+    "AMD GPU",
+    "LLVM",
+    "硬件架构",
+    "AI芯片"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-19T17:53:42+08:00",
+  "updated_at": "2026-07-19T17:53:42+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.4,
+    "key_insights": [
+      "GFX1250可能代表AMD下一代GPU架构",
+      "LLVM提交揭示了指令集和缓存设计",
+      "对AI训练/推理性能有潜在影响"
+    ],
+    "category": "硬件架构"
+  }
+}

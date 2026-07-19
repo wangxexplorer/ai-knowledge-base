@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260719-016",
+  "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+  "source_url": "https://ykdojo.github.io/claude-controls-mac/",
+  "source_type": "rss",
+  "summary": "本文提供了一份详细的步骤指南，指导用户如何将闲置的Mac电脑设置为由Claude Code控制，实现远程或自动化操作。内容涉及环境配置、权限设置及与Claude Code的集成方法，旨在扩展AI Agent的物理控制能力。",
+  "tags": [
+    "Claude Code",
+    "AI Agent",
+    "Mac自动化",
+    "环境配置"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-19T17:53:42+08:00",
+  "updated_at": "2026-07-19T17:53:42+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "展示了如何利用Claude Code控制物理设备，扩展AI Agent的交互边界。",
+      "提供了从零开始的配置流程，降低了开发者部署AI控制系统的门槛。",
+      "体现了AI Agent在本地自动化任务中的实际应用潜力。"
+    ],
+    "category": "AI Agent实践"
+  }
+}

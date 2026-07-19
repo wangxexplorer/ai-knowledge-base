@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260719-008",
+  "title": "Better and Cheaper Than IPTV",
+  "source_url": "https://github.com/stupside/castor",
+  "source_type": "rss",
+  "summary": "该项目名为Castor，是一个声称比IPTV更好更便宜的解决方案，但具体技术细节未在条目中提供。它可能涉及流媒体或内容分发，但与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "IPTV",
+    "流媒体",
+    "开源"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-19T17:53:42+08:00",
+  "updated_at": "2026-07-19T17:53:42+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "与AI、LLM、Agent领域无关",
+      "可能是一个流媒体或内容分发项目"
+    ],
+    "category": "非AI相关"
+  }
+}

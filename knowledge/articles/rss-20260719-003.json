@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260719-003",
+  "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
+  "source_url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+  "source_type": "rss",
+  "summary": "Perforce以500美元出售AI旁白的培训视频，引发对AI生成内容商业价值和定价合理性的讨论。",
+  "tags": [
+    "AI旁白",
+    "培训视频",
+    "定价"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-19T17:53:42+08:00",
+  "updated_at": "2026-07-19T17:53:42+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "AI旁白技术被用于商业培训视频",
+      "高定价引发对AI内容价值的质疑",
+      "案例反映AI在内容生成领域的商业化尝试"
+    ],
+    "category": "AI应用与商业"
+  }
+}

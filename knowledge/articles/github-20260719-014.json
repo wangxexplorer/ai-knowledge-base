@@ -1,0 +1,31 @@
+{
+  "id": "github-20260719-014",
+  "title": "headroom",
+  "source_url": "https://github.com/headroomlabs-ai/headroom",
+  "source_type": "github",
+  "summary": "Headroom是一个开源工具，用于在数据到达LLM之前压缩工具输出、日志、文件和RAG块。它声称对编码代理可减少20%的令牌，对JSON可减少60-95%的令牌，同时保持答案不变。提供库、代理和MCP服务器形式，支持Python，与Anthropic Claude Code等集成。",
+  "tags": [
+    "压缩",
+    "令牌优化",
+    "RAG",
+    "代理",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-19T17:53:42+08:00",
+  "updated_at": "2026-07-19T17:53:42+08:00",
+  "metadata": {
+    "stars": 59886,
+    "language": "Python",
+    "author": "headroomlabs-ai"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "显著减少LLM调用成本，尤其适用于JSON和编码场景",
+      "保持输出质量的同时降低令牌消耗",
+      "支持多种集成方式（库、代理、MCP服务器）"
+    ],
+    "category": "LLM工具与优化"
+  }
+}
