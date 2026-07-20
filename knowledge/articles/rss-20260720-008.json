@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260720-008",
+  "title": "Grok-iOS – remote Grok Build from your iPhone over ACP",
+  "source_url": "https://github.com/Pedroshakoor/grok-build-ios",
+  "source_type": "rss",
+  "summary": "Grok-iOS是一个开源项目，允许用户通过iPhone远程构建Grok（xAI的AI模型），利用ACP协议。该项目展示了AI模型在移动设备上的部署与交互，与AI、LLM领域相关。",
+  "tags": [
+    "Grok",
+    "iOS",
+    "远程构建",
+    "ACP",
+    "移动AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-20T18:54:06+08:00",
+  "updated_at": "2026-07-20T18:54:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "实现iPhone远程构建Grok模型",
+      "基于ACP协议进行通信",
+      "推动AI模型在移动端的应用"
+    ],
+    "category": "工具与部署"
+  }
+}

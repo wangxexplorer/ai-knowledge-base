@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260720-014",
+  "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+  "source_url": "https://news.ycombinator.com/item?id=48968606",
+  "source_type": "rss",
+  "summary": "作者用ESP32微控制器和开源软件，以1600美元成本替代了价值12万美元的保龄球中心计分系统。系统采用ESPNow星形拓扑网格，结合RS485有线备用，通过Redis和React实现事件流和UI。该项目强调开放硬件和软件、数据所有权、低成本维护，并计划开源。",
+  "tags": [
+    "开源硬件",
+    "嵌入式系统",
+    "实时系统",
+    "事件驱动",
+    "成本优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-20T18:54:06+08:00",
+  "updated_at": "2026-07-20T18:54:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "用低成本ESP32替代昂贵专有系统，展示了开放硬件的潜力",
+      "系统设计结合无线网格和有线备用，确保可靠性",
+      "通过开源和模块化设计，实现快速维修和定制化"
+    ],
+    "category": "嵌入式系统与开源硬件"
+  }
+}

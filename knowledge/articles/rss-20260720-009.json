@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260720-009",
+  "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+  "source_url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+  "source_type": "rss",
+  "summary": "文章介绍了一台大型概率计算机，利用噪声作为计算资源来产生答案，而非传统确定性计算。这种计算范式在解决某些优化和采样问题上具有潜力，与AI、LLM和Agent领域中的不确定性处理、概率推理和随机算法相关。",
+  "tags": [
+    "概率计算",
+    "噪声计算",
+    "不确定性",
+    "随机算法",
+    "硬件"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-20T18:54:06+08:00",
+  "updated_at": "2026-07-20T18:54:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "概率计算机利用噪声作为计算资源，而非消除噪声。",
+      "适用于需要概率推理和采样的AI任务。",
+      "可能为LLM和Agent提供新的硬件加速方案。"
+    ],
+    "category": "计算范式"
+  }
+}

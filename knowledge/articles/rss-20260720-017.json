@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260720-017",
+  "title": "Minecraft: Java Edition now uses SDL3",
+  "source_url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+  "source_type": "rss",
+  "summary": "Minecraft Java版更新使用SDL3库，提升跨平台性能和输入处理。该技术更新主要涉及游戏引擎底层优化，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "游戏开发",
+    "SDL3",
+    "跨平台"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-20T18:54:06+08:00",
+  "updated_at": "2026-07-20T18:54:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Minecraft Java版采用SDL3库",
+      "主要影响游戏输入和窗口管理",
+      "与AI/LLM/Agent领域无关"
+    ],
+    "category": "游戏技术"
+  }
+}

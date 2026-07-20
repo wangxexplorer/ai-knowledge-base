@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260720-001",
+  "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+  "source_url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+  "source_type": "rss",
+  "summary": "本文探讨了利用AI（如GPT-5.6）以低成本发现WordPress远程代码执行漏洞（RCE）的可能性，并指出漏洞经纪商为此类漏洞支付高达50万美元的赏金。展示了AI在自动化漏洞挖掘中的应用潜力。",
+  "tags": [
+    "AI安全",
+    "漏洞挖掘",
+    "LLM应用",
+    "网络安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-20T18:54:06+08:00",
+  "updated_at": "2026-07-20T18:54:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "AI可大幅降低漏洞发现成本，从50万美元降至25美元。",
+      "LLM在自动化漏洞挖掘和代码审计中展现出实际价值。",
+      "AI辅助的漏洞发现可能改变网络安全攻防格局。"
+    ],
+    "category": "AI应用与安全"
+  }
+}

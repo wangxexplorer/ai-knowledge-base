@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260720-012",
+  "title": "HMD Touch 4G",
+  "source_url": "https://www.hmd.com/en_int/hmd-touch-4g",
+  "source_type": "rss",
+  "summary": "HMD Touch 4G是一款功能手机，支持4G网络，主要面向基本通信需求，不具备AI或LLM相关功能。",
+  "tags": [
+    "功能手机",
+    "4G",
+    "HMD"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-20T18:54:06+08:00",
+  "updated_at": "2026-07-20T18:54:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该设备为传统功能手机，无AI集成",
+      "与AI、LLM、Agent领域无直接关联"
+    ],
+    "category": "硬件设备"
+  }
+}

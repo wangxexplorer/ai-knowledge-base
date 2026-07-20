@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260720-004",
+  "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+  "source_url": "https://github.com/Saivineeth147/lora-speedrun",
+  "source_type": "rss",
+  "summary": "LoRA Speedrun是一个公开排行榜，用于比较不同微调技术的实际运行时间，重点关注LoRA等高效微调方法在LLM上的性能。",
+  "tags": [
+    "LoRA",
+    "微调",
+    "LLM",
+    "性能基准"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-20T18:54:06+08:00",
+  "updated_at": "2026-07-20T18:54:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "提供微调技术的实际运行时间基准",
+      "聚焦LoRA等高效微调方法",
+      "有助于选择最优微调策略"
+    ],
+    "category": "技术工具"
+  }
+}

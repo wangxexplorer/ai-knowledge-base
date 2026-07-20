@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260720-016",
+  "title": "I burned all my tokens researching how to save tokens",
+  "source_url": "https://quesma.com/blog/custom-deep-research-pipeline/",
+  "source_type": "rss",
+  "summary": "文章探讨了如何通过自定义深度研究管道来节省AI token消耗，作者在尝试优化过程中消耗了大量token，最终总结出高效使用token的策略。",
+  "tags": [
+    "token优化",
+    "深度研究",
+    "AI成本",
+    "LLM应用",
+    "提示工程"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-20T18:54:06+08:00",
+  "updated_at": "2026-07-20T18:54:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "自定义研究管道可显著降低token使用量",
+      "优化过程中可能先消耗大量token",
+      "提示工程和管道设计是节省token的关键"
+    ],
+    "category": "AI应用与优化"
+  }
+}

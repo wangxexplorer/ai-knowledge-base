@@ -1,0 +1,31 @@
+{
+  "id": "github-20260720-007",
+  "title": "ragflow",
+  "source_url": "https://github.com/infiniflow/ragflow",
+  "source_type": "github",
+  "summary": "RAGFlow是一个领先的开源检索增强生成引擎，融合了前沿RAG与Agent能力，为LLM构建优质上下文层。",
+  "tags": [
+    "RAG",
+    "Agent",
+    "LLM",
+    "开源",
+    "检索增强生成"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-20T18:54:06+08:00",
+  "updated_at": "2026-07-20T18:54:06+08:00",
+  "metadata": {
+    "stars": 85450,
+    "language": "Go",
+    "author": "infiniflow"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "将RAG与Agent能力结合，提升LLM上下文质量",
+      "开源项目，社区活跃度高",
+      "支持Agentic检索与搜索"
+    ],
+    "category": "AI框架与工具"
+  }
+}

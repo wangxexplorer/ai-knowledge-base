@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260720-006",
+  "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+  "source_url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+  "source_type": "rss",
+  "summary": "该条目报道了Claude Fable（可能为AI模型）对雅可比猜想提出了反例。雅可比猜想是代数几何与多项式映射领域的著名难题。此事件展示了AI在数学定理证明或反例构造方面的能力，与AI在科学发现中的应用高度相关。",
+  "tags": [
+    "AI数学证明",
+    "反例构造",
+    "LLM应用",
+    "科学发现",
+    "雅可比猜想"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-20T18:54:06+08:00",
+  "updated_at": "2026-07-20T18:54:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "AI模型（Claude Fable）成功构造了数学难题的反例，展示了其在复杂推理中的潜力。",
+      "该事件标志着AI在数学研究领域从辅助工具向主动发现者的转变。",
+      "对雅可比猜想的反例可能推动代数几何领域的理论发展。"
+    ],
+    "category": "AI应用与科学发现"
+  }
+}

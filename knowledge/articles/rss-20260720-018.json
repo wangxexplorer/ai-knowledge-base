@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260720-018",
+  "title": "I joined the IndieWeb, here's what I learned",
+  "source_url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
+  "source_type": "rss",
+  "summary": "作者分享了加入IndieWeb运动的经验，强调个人网站、去中心化身份和内容所有权的重要性，并讨论了相关技术实践。",
+  "tags": [
+    "IndieWeb",
+    "去中心化",
+    "个人网站"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-20T18:54:06+08:00",
+  "updated_at": "2026-07-20T18:54:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "IndieWeb强调个人对数据和身份的控制",
+      "去中心化是核心原则",
+      "实践包括使用个人域名和微格式"
+    ],
+    "category": "技术社区与运动"
+  }
+}

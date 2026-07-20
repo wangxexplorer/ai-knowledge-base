@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260720-011",
+  "title": "HomeLab #1: MikroTik as a Home Router",
+  "source_url": "https://justsomebody.dev/blog/mikrotik-home-router",
+  "source_type": "rss",
+  "summary": "该条目介绍如何将MikroTik设备配置为家庭路由器，涉及网络硬件配置、路由设置等，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "网络",
+    "路由器",
+    "MikroTik",
+    "家庭实验室"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-20T18:54:06+08:00",
+  "updated_at": "2026-07-20T18:54:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "MikroTik设备可配置为家庭路由器",
+      "涉及网络硬件和路由设置",
+      "与AI、LLM、Agent领域无关"
+    ],
+    "category": "网络技术"
+  }
+}

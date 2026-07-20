@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260720-007",
+  "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+  "source_url": "https://github.com/hgaiser/moonshine",
+  "source_type": "rss",
+  "summary": "Moonshine是一个开源工具，允许用户将PC游戏流式传输到任何支持Moonlight的设备上，实现远程游戏体验。",
+  "tags": [
+    "游戏流",
+    "远程桌面",
+    "开源"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-20T18:54:06+08:00",
+  "updated_at": "2026-07-20T18:54:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "实现PC到多设备的游戏流传输",
+      "基于Moonlight协议",
+      "开源项目"
+    ],
+    "category": "工具"
+  }
+}

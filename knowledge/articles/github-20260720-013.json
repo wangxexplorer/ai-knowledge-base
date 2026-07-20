@@ -1,0 +1,31 @@
+{
+  "id": "github-20260720-013",
+  "title": "mem0",
+  "source_url": "https://github.com/mem0ai/mem0",
+  "source_type": "github",
+  "summary": "mem0是一个为AI Agent提供通用记忆层的开源项目，使用TypeScript开发，支持聊天机器人等应用场景。该项目在GitHub上获得超过6万星标，专注于增强AI Agent的长期记忆能力。",
+  "tags": [
+    "AI Agent",
+    "记忆层",
+    "开源",
+    "TypeScript",
+    "聊天机器人"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-20T18:54:06+08:00",
+  "updated_at": "2026-07-20T18:54:06+08:00",
+  "metadata": {
+    "stars": 61288,
+    "language": "TypeScript",
+    "author": "mem0ai"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "为AI Agent提供通用记忆层，增强长期记忆能力",
+      "高社区关注度（61k+星标），表明需求旺盛",
+      "支持聊天机器人等应用，提升AI交互连续性"
+    ],
+    "category": "AI Agent基础设施"
+  }
+}

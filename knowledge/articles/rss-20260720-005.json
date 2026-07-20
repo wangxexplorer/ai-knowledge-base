@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260720-005",
+  "title": "When can a power company take your land for data center infrastructure?",
+  "source_url": "https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061",
+  "source_type": "rss",
+  "summary": "文章探讨电力公司为数据中心基础设施征用土地的法律问题，涉及公共利益与私有产权的平衡。随着AI和LLM对算力需求激增，数据中心扩张加速，土地征用争议凸显。",
+  "tags": [
+    "数据中心",
+    "土地征用",
+    "基础设施",
+    "法律",
+    "能源"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-20T18:54:06+08:00",
+  "updated_at": "2026-07-20T18:54:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI发展推动数据中心扩张，引发土地征用法律问题",
+      "电力公司征用土地需平衡公共利益与私有产权",
+      "数据中心能源需求增长可能加剧土地资源竞争"
+    ],
+    "category": "基础设施与法律"
+  }
+}
