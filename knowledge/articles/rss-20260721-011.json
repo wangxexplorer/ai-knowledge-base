@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260721-011",
+  "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
+  "source_url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
+  "source_type": "rss",
+  "summary": "该条目探讨了通过提升用户意识来应对监控资本主义的挑战，虽未直接涉及AI/LLM/Agent技术，但监控资本主义常依赖AI进行数据分析和行为预测，因此与AI伦理和隐私保护领域间接相关。",
+  "tags": [
+    "监控资本主义",
+    "AI伦理",
+    "隐私",
+    "用户意识"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-21T18:27:10+08:00",
+  "updated_at": "2026-07-21T18:27:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "监控资本主义依赖AI技术进行大规模数据收集与分析",
+      "提升用户意识是应对监控资本主义的关键策略之一",
+      "该话题与AI伦理和隐私保护密切相关"
+    ],
+    "category": "AI伦理与社会影响"
+  }
+}

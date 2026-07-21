@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260721-010",
+  "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+  "source_url": "https://vincentwoo.com/3d/grace_cathedral/",
+  "source_type": "rss",
+  "summary": "该项目利用3D高斯泼溅技术创建了旧金山恩典大教堂的沉浸式虚拟导览，展示了基于神经渲染的实时3D场景重建能力。虽然不直接涉及LLM或Agent，但该技术可应用于AI驱动的虚拟环境构建，为具身智能和空间智能提供视觉基础。",
+  "tags": [
+    "3D高斯泼溅",
+    "神经渲染",
+    "虚拟导览",
+    "空间智能"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-21T18:27:10+08:00",
+  "updated_at": "2026-07-21T18:27:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "3D高斯泼溅技术可实现高质量实时场景渲染",
+      "该技术可辅助AI Agent进行环境感知与导航",
+      "虚拟导览应用展示了AI在沉浸式体验中的潜力"
+    ],
+    "category": "计算机视觉与图形学"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260721-019",
+  "title": "I Stopped “Creating Content”",
+  "source_url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
+  "source_type": "rss",
+  "summary": "文章探讨了停止“创造内容”的原因，强调从内容生产转向价值创造，可能涉及对AI生成内容泛滥的反思，但未直接讨论AI、LLM或Agent技术。",
+  "tags": [
+    "内容创作",
+    "价值创造",
+    "反思"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-21T18:27:10+08:00",
+  "updated_at": "2026-07-21T18:27:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "停止内容生产，转向价值创造",
+      "反思内容泛滥现象"
+    ],
+    "category": "内容策略"
+  }
+}

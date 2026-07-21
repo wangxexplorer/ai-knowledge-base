@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260721-003",
+  "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
+  "source_url": "https://exsitu.app/map",
+  "source_type": "rss",
+  "summary": "Ex Situ是一个开源空间索引项目，通过地图可视化展示全球博物馆中流散文物的来源地与收藏机构之间的关联。该项目使用Next.js、Deck.gl、Strapi和Python ETL构建，索引了超过10万件文物，支持研究人员下载溯源数据。其核心概念是作为索引器而非宿主，连接原本孤立的档案系统。",
+  "tags": [
+    "开源",
+    "数据可视化",
+    "文化遗产",
+    "空间索引"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-21T18:27:10+08:00",
+  "updated_at": "2026-07-21T18:27:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "该项目通过空间索引技术连接分散的博物馆数据，展示了数据工程在文化遗产领域的应用",
+      "其数据模型设计避免编码有问题的分类法，体现了数据伦理考量",
+      "项目使用Python ETL和开源API，与AI/LLM领域的数据处理技术有间接关联"
+    ],
+    "category": "数据工程"
+  }
+}

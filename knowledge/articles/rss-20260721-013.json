@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260721-013",
+  "title": "Nativ: Run frontier open models locally on your Mac",
+  "source_url": "https://blaizzy.github.io/nativ/",
+  "source_type": "rss",
+  "summary": "Nativ是一个工具，允许用户在Mac上本地运行前沿开源AI模型，无需依赖云端服务。这降低了使用先进LLM的门槛，提升了数据隐私和离线可用性。",
+  "tags": [
+    "本地部署",
+    "开源模型",
+    "Mac",
+    "LLM",
+    "隐私"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-21T18:27:10+08:00",
+  "updated_at": "2026-07-21T18:27:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "支持在Mac上本地运行前沿开源模型，减少对云端的依赖。",
+      "提升数据隐私和离线使用能力。",
+      "降低使用先进AI模型的技术门槛。"
+    ],
+    "category": "工具与应用"
+  }
+}

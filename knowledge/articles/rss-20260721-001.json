@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260721-001",
+  "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+  "source_url": "https://qwen.ai/blog?id=qwen-image-3.0",
+  "source_type": "rss",
+  "summary": "Qwen-Image-3.0是阿里通义千问团队发布的新一代图像生成模型，强调丰富内容、真实细节与深度知识。该模型在图像生成质量、细节表现和知识融合方面有显著提升，适用于多种视觉内容创作场景。",
+  "tags": [
+    "图像生成",
+    "多模态",
+    "Qwen",
+    "AI模型",
+    "视觉AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-21T18:27:10+08:00",
+  "updated_at": "2026-07-21T18:27:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "Qwen-Image-3.0在图像生成中融合了深度知识，提升了内容真实性与细节表现。",
+      "该模型属于多模态AI领域，与LLM和Agent技术有潜在协同应用。",
+      "发布在Hacker News上，表明其受到技术社区关注。"
+    ],
+    "category": "多模态AI"
+  }
+}

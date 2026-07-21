@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260721-016",
+  "title": "Jelly UI: Soft-body physics for native HTML form controls",
+  "source_url": "https://jelly-ui.com/",
+  "source_type": "rss",
+  "summary": "Jelly UI是一个为原生HTML表单控件添加软体物理效果的开源项目，通过模拟弹性变形和碰撞，提升交互体验。该项目主要关注前端UI动画和物理模拟，与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "前端",
+    "UI",
+    "物理模拟",
+    "动画"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-21T18:27:10+08:00",
+  "updated_at": "2026-07-21T18:27:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "软体物理效果增强表单控件交互",
+      "基于原生HTML实现",
+      "与AI技术无关"
+    ],
+    "category": "前端开发"
+  }
+}
