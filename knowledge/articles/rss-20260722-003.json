@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260722-003",
+  "title": "Show HN: ReadKinetic – a free, local-first speed reader for your own books",
+  "source_url": "https://www.readkinetic.com/app/",
+  "source_type": "rss",
+  "summary": "ReadKinetic是一款免费、本地优先的快速阅读工具，专为个人书籍设计。它通过优化阅读速度提升效率，但未涉及AI、LLM或Agent技术。",
+  "tags": [
+    "快速阅读",
+    "本地优先",
+    "免费工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-22T18:27:07+08:00",
+  "updated_at": "2026-07-22T18:27:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "本地优先设计保护隐私",
+      "专注提升阅读速度",
+      "非AI相关技术"
+    ],
+    "category": "工具应用"
+  }
+}

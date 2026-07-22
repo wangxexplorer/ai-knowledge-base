@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260722-017",
+  "title": "Advertise in ChatGPT",
+  "source_url": "https://ads.openai.com/",
+  "source_type": "rss",
+  "summary": "OpenAI推出ChatGPT广告平台，允许品牌在ChatGPT界面中投放广告。这标志着AI聊天机器人商业化的重要一步，通过广告模式实现盈利，同时可能影响用户体验和AI伦理。",
+  "tags": [
+    "ChatGPT",
+    "广告",
+    "商业化",
+    "AI伦理",
+    "用户体验"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-22T18:27:07+08:00",
+  "updated_at": "2026-07-22T18:27:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "ChatGPT引入广告模式，探索AI产品盈利新路径",
+      "广告可能影响用户对话体验和隐私",
+      "AI伦理与商业化的平衡成为关注焦点"
+    ],
+    "category": "AI商业化"
+  }
+}

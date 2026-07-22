@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260722-002",
+  "title": "I graded 36 popular MCP servers on agent usability. A third got a D or F",
+  "source_url": "https://tengli.dev/posts/mcp-servers-failing-agents.html",
+  "source_type": "rss",
+  "summary": "作者对36个流行的MCP服务器进行了代理可用性评分，发现三分之一评分不及格（D或F），揭示了当前MCP服务器在代理集成方面存在显著问题。",
+  "tags": [
+    "MCP",
+    "Agent",
+    "可用性评估",
+    "服务器",
+    "AI集成"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-22T18:27:07+08:00",
+  "updated_at": "2026-07-22T18:27:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "MCP服务器在代理可用性方面普遍表现不佳",
+      "三分之一的热门MCP服务器评分不及格",
+      "代理与MCP服务器的集成存在显著挑战"
+    ],
+    "category": "技术评估"
+  }
+}

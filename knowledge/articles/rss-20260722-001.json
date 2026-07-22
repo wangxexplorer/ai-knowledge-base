@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260722-001",
+  "title": "Codeberg: ToU extension to prohibit LLM-extrusions",
+  "source_url": "https://codeberg.org/Codeberg/org/pulls/1253",
+  "source_type": "rss",
+  "summary": "Codeberg组织提议修改服务条款，明确禁止用户利用平台资源进行LLM模型训练或数据提取，旨在保护社区贡献免受AI训练滥用。",
+  "tags": [
+    "LLM",
+    "数据提取",
+    "服务条款",
+    "开源社区",
+    "AI伦理"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-22T18:27:07+08:00",
+  "updated_at": "2026-07-22T18:27:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "开源平台开始主动限制LLM训练数据抓取",
+      "服务条款成为保护社区数据权益的新工具",
+      "反映AI训练数据来源的伦理争议加剧"
+    ],
+    "category": "AI政策与伦理"
+  }
+}

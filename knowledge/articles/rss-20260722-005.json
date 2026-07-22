@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260722-005",
+  "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+  "source_url": "https://github.com/chrislgarry/Apollo-11",
+  "source_type": "rss",
+  "summary": "该项目提供了阿波罗11号制导计算机的原始源代码，包括指令舱和登月模块。虽然与AI、LLM、Agent无直接技术关联，但作为早期嵌入式系统与实时计算的经典案例，对理解计算机发展史有参考价值。",
+  "tags": [
+    "计算机历史",
+    "嵌入式系统",
+    "实时计算"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-22T18:27:07+08:00",
+  "updated_at": "2026-07-22T18:27:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "早期实时计算系统的代码实现",
+      "嵌入式系统设计的经典案例",
+      "对现代计算技术发展的历史参考"
+    ],
+    "category": "计算机历史"
+  }
+}

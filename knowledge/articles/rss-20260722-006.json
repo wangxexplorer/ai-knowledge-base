@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260722-006",
+  "title": "Late.sh – a command-line Clubhouse for computer people",
+  "source_url": "https://late.sh/",
+  "source_type": "rss",
+  "summary": "Late.sh是一个面向技术人员的命令行Clubhouse，提供实时语音社交平台。其核心是命令行界面下的音频交流，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "命令行",
+    "社交",
+    "语音"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-22T18:27:07+08:00",
+  "updated_at": "2026-07-22T18:27:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "命令行语音社交平台",
+      "面向技术人员",
+      "与AI/LLM/Agent无关"
+    ],
+    "category": "工具"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260722-018",
+  "title": "FreeInk: Open ecosystem for e-readers",
+  "source_url": "https://freeink.org/",
+  "source_type": "rss",
+  "summary": "FreeInk是一个为电子阅读器打造的开源生态系统，旨在提供开放、可定制的阅读体验。该项目可能涉及硬件兼容性、固件开发或内容管理，但与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "开源",
+    "电子阅读器",
+    "生态系统"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-22T18:27:07+08:00",
+  "updated_at": "2026-07-22T18:27:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "FreeInk专注于电子阅读器的开放生态",
+      "与AI、LLM、Agent领域无直接技术关联"
+    ],
+    "category": "开源硬件/软件"
+  }
+}

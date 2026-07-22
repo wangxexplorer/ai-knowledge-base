@@ -1,0 +1,31 @@
+{
+  "id": "github-20260722-020",
+  "title": "langgraph",
+  "source_url": "https://github.com/langchain-ai/langgraph",
+  "source_type": "github",
+  "summary": "LangGraph是一个用于构建弹性AI Agent的Python框架，由LangChain团队开发。它支持创建复杂、可控的Agent工作流，适用于ChatGPT等大语言模型应用场景，在GitHub上拥有超过3.7万星标。",
+  "tags": [
+    "Agent框架",
+    "LangChain",
+    "工作流",
+    "Python",
+    "AI Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-22T18:27:07+08:00",
+  "updated_at": "2026-07-22T18:27:07+08:00",
+  "metadata": {
+    "stars": 37843,
+    "language": "Python",
+    "author": "langchain-ai"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "专注于构建弹性Agent，支持复杂工作流控制",
+      "与LangChain生态深度集成，适用于LLM应用开发",
+      "高社区关注度（37k+ stars），是Agent领域主流工具"
+    ],
+    "category": "AI Agent框架"
+  }
+}

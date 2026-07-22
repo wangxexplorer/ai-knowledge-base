@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260722-012",
+  "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+  "source_url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+  "source_type": "rss",
+  "summary": "本文比较了GPT-5.6、Claude、Gemini和Grok等AI模型在绘制蒙娜丽莎等图像上的表现，探讨了AI在艺术创作中的能力与差异。",
+  "tags": [
+    "AI绘画",
+    "多模型对比",
+    "GPT-5.6",
+    "Claude",
+    "Gemini"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-22T18:27:07+08:00",
+  "updated_at": "2026-07-22T18:27:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "不同AI模型在艺术创作上表现各异",
+      "AI绘画能力持续提升，接近人类水平",
+      "多模型对比有助于理解AI的创造性边界"
+    ],
+    "category": "AI应用"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260722-007",
+  "title": "LG to ban residential proxies from smart TV apps",
+  "source_url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+  "source_type": "rss",
+  "summary": "LG宣布禁止智能电视应用使用住宅代理，旨在防止用户绕过地理限制和内容屏蔽。此举影响用户隐私和访问自由，但主要涉及网络安全和内容分发，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "网络安全",
+    "智能电视",
+    "代理",
+    "内容限制"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-22T18:27:07+08:00",
+  "updated_at": "2026-07-22T18:27:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "LG禁止住宅代理以加强内容地理限制",
+      "可能影响用户隐私和访问自由",
+      "与AI技术无直接关联"
+    ],
+    "category": "网络安全与政策"
+  }
+}
