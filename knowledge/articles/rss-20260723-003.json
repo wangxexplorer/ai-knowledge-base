@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260723-003",
+  "title": "Restructuring GitHub's bug bounty program",
+  "source_url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+  "source_type": "rss",
+  "summary": "GitHub宣布重组其漏洞赏金计划，旨在提升安全研究人员的参与度和效率，通过扩大范围、提高奖励和简化流程来应对不断变化的安全威胁。",
+  "tags": [
+    "安全",
+    "漏洞赏金",
+    "GitHub"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-23T18:24:45+08:00",
+  "updated_at": "2026-07-23T18:24:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "重组旨在激励更多安全研究人员参与",
+      "扩大漏洞范围和提高奖励是关键举措",
+      "反映了平台安全策略的演进"
+    ],
+    "category": "安全"
+  }
+}

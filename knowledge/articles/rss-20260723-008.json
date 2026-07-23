@@ -1,0 +1,24 @@
+{
+  "id": "rss-20260723-008",
+  "title": "John C. Dvorak has died",
+  "source_url": "https://twitter.com/na_announce/status/2079952538040672302",
+  "source_type": "rss",
+  "summary": "该条目报道了科技评论员John C. Dvorak去世的消息，内容与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "讣告",
+    "科技评论"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-23T18:24:45+08:00",
+  "updated_at": "2026-07-23T18:24:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该条目为个人讣告，不涉及AI技术内容。"
+    ],
+    "category": "其他"
+  }
+}

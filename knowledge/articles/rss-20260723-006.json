@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260723-006",
+  "title": "Malleable Computing, Emacs, and You",
+  "source_url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+  "source_type": "rss",
+  "summary": "文章探讨了可塑性计算（Malleable Computing）的概念，并以Emacs为例说明用户如何深度定制和扩展软件环境，实现高度个性化的计算体验。",
+  "tags": [
+    "可塑性计算",
+    "Emacs",
+    "个性化",
+    "软件定制"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-23T18:24:45+08:00",
+  "updated_at": "2026-07-23T18:24:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "可塑性计算强调用户对软件环境的深度定制能力",
+      "Emacs作为可塑性计算的典型代表，允许用户通过Lisp扩展功能",
+      "该理念与AI Agent的自主性和可配置性有潜在关联"
+    ],
+    "category": "软件工程"
+  }
+}

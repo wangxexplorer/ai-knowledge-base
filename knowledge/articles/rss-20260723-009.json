@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260723-009",
+  "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+  "source_url": "https://github.com/cactus-compute/cactus-hybrid",
+  "source_type": "rss",
+  "summary": "Cactus Hybrid 通过后训练 Gemma 4 模型，使其能够输出置信度分数，从而在低置信度时将查询路由到更大的云端模型（如 Gemini 3.1 Flash-Lite）。该方法使用一个仅 68k 参数的探针层，从模型中间隐藏状态预测错误概率，在多个基准测试中 AUROC 达到 0.814，远超基于 token 熵的方法（0.549）。项目已开源，支持多种推理框架。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Agent",
+    "模型校准",
+    "路由"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-23T18:24:45+08:00",
+  "updated_at": "2026-07-23T18:24:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "通过探针层从模型隐藏状态提取置信度信号，实现高效路由。",
+      "在零音频训练数据下，探针在音频基准上仍表现优异，表明其捕捉了模态无关的正确性信号。",
+      "仅路由 15-35% 的查询到云端模型即可匹配更大模型的性能，显著降低成本。"
+    ],
+    "category": "AI模型优化"
+  }
+}

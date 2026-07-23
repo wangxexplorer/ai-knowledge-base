@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260723-018",
+  "title": "Back to Kagi",
+  "source_url": "https://blog.melashri.net/micro/back-to-kagi/",
+  "source_type": "rss",
+  "summary": "该条目是一篇关于重新使用Kagi搜索引擎的个人博客，并附有Hacker News讨论链接。内容与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "搜索引擎",
+    "Kagi",
+    "个人博客"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-23T18:24:45+08:00",
+  "updated_at": "2026-07-23T18:24:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该条目不涉及AI、LLM或Agent技术。"
+    ],
+    "category": "非相关"
+  }
+}

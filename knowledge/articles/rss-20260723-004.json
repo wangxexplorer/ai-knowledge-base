@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260723-004",
+  "title": "Protecting our FLOSS commons from LLMs",
+  "source_url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+  "source_type": "rss",
+  "summary": "文章探讨了大型语言模型（LLMs）对自由/开源软件（FLOSS）公共资源的影响，指出LLMs可能通过大量抓取和利用开源代码来训练模型，从而损害开源社区的贡献和可持续性。作者呼吁采取措施保护FLOSS公共资源免受LLMs的过度利用。",
+  "tags": [
+    "LLM",
+    "开源",
+    "FLOSS",
+    "知识产权",
+    "AI伦理"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-23T18:24:45+08:00",
+  "updated_at": "2026-07-23T18:24:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "LLMs对开源代码的依赖可能削弱开源社区的贡献动力",
+      "需要建立机制保护FLOSS公共资源免受AI模型的过度利用",
+      "开源许可和伦理规范需适应AI时代的新挑战"
+    ],
+    "category": "AI伦理与法律"
+  }
+}

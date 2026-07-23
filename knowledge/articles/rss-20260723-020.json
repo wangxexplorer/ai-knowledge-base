@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260723-020",
+  "title": "The startup's Postgres survival guide",
+  "source_url": "https://hatchet.run/blog/postgres-survival-guide",
+  "source_type": "rss",
+  "summary": "本文为初创公司提供Postgres数据库的生存指南，涵盖常见陷阱、性能优化、扩展策略及运维最佳实践，旨在帮助团队高效使用Postgres避免常见错误。",
+  "tags": [
+    "Postgres",
+    "数据库",
+    "初创公司",
+    "运维"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-23T18:24:45+08:00",
+  "updated_at": "2026-07-23T18:24:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Postgres是初创公司的可靠选择，但需注意配置与索引优化",
+      "扩展策略包括读写分离、分片及连接池管理",
+      "备份与监控是避免数据灾难的关键"
+    ],
+    "category": "数据库技术"
+  }
+}

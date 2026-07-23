@@ -1,0 +1,31 @@
+{
+  "id": "github-20260723-004",
+  "title": "awesome-llm-apps",
+  "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "source_type": "github",
+  "summary": "该项目收集了100多个免费开源的AI代理、代理技能和RAG应用，基于Python实现，涵盖代理、LLM和RAG等核心主题，是AI应用开发的实用资源库。",
+  "tags": [
+    "AI Agents",
+    "LLM",
+    "RAG",
+    "开源",
+    "Python"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-23T18:24:45+08:00",
+  "updated_at": "2026-07-23T18:24:45+08:00",
+  "metadata": {
+    "stars": 126644,
+    "language": "Python",
+    "author": "Shubhamsaboo"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "提供大量AI代理和RAG应用实例，便于学习和复用",
+      "聚焦LLM驱动的代理技能开发，紧跟技术前沿",
+      "开源社区活跃，星标数高，具有广泛影响力"
+    ],
+    "category": "开源项目"
+  }
+}

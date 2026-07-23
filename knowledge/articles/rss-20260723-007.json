@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260723-007",
+  "title": "Fairphone 6 wide camera experimental Linux support",
+  "source_url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+  "source_type": "rss",
+  "summary": "该条目讨论Fairphone 6广角相机在Linux系统上的实验性支持，涉及硬件驱动和开源软件适配，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "Linux",
+    "硬件驱动",
+    "开源软件"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-23T18:24:45+08:00",
+  "updated_at": "2026-07-23T18:24:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Fairphone 6相机在Linux上的实验性支持",
+      "涉及开源驱动开发"
+    ],
+    "category": "硬件与操作系统"
+  }
+}

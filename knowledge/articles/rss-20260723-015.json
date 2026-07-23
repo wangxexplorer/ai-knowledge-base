@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260723-015",
+  "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+  "source_url": "https://bento.page/slides/",
+  "source_type": "rss",
+  "summary": "Bento是一个单HTML文件的幻灯片工具，支持编辑、查看、数据协作和离线使用。它利用Web前端技术构建，可通过Claude或ChatGPT转换PPTX文件。该项目展示了AI在内容创作和协作工具中的应用，但本身并非AI或LLM核心产品。",
+  "tags": [
+    "AI辅助工具",
+    "内容创作",
+    "协作",
+    "Web技术"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-23T18:24:45+08:00",
+  "updated_at": "2026-07-23T18:24:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "Bento通过AI助手（如Claude）辅助生成幻灯片，但核心功能不依赖AI。",
+      "该项目体现了AI在提升内容创作效率方面的潜力。",
+      "Bento的离线协作和单文件设计展示了Web技术的创新应用。"
+    ],
+    "category": "工具与应用"
+  }
+}

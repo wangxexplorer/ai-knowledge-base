@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260723-014",
+  "title": "Making",
+  "source_url": "https://beej.us/blog/data/ai-making/",
+  "source_type": "rss",
+  "summary": "该条目来自Hacker News，标题为'Making'，指向一篇关于AI制作的文章。文章可能探讨AI在创作、制造或开发过程中的应用，涉及AI工具、自动化或生成式AI。由于缺乏具体内容，摘要基于标题和来源推断。",
+  "tags": [
+    "AI",
+    "生成式AI",
+    "自动化",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-23T18:24:45+08:00",
+  "updated_at": "2026-07-23T18:24:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI在制作领域的应用趋势",
+      "Hacker News社区对AI制作的关注",
+      "可能涉及生成式AI工具"
+    ],
+    "category": "AI应用"
+  }
+}

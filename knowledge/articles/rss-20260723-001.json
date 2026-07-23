@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260723-001",
+  "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+  "source_url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+  "source_type": "rss",
+  "summary": "Cruller是Bun的Zig运行时，基于Zig 0.16版本继续开发。Bun是一个JavaScript/TypeScript运行时，其底层使用Zig语言实现。该条目主要关注Bun运行时的技术更新，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "Bun",
+    "Zig",
+    "运行时"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-23T18:24:45+08:00",
+  "updated_at": "2026-07-23T18:24:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Cruller是Bun的Zig运行时",
+      "基于Zig 0.16版本",
+      "与AI/LLM/Agent无直接关联"
+    ],
+    "category": "编程语言与运行时"
+  }
+}
