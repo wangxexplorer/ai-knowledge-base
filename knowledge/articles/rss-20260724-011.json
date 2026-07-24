@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260724-011",
+  "title": "98.css",
+  "source_url": "https://jdan.github.io/98.css/#status-bar",
+  "source_type": "rss",
+  "summary": "98.css是一个用于构建类似Windows 98界面风格的CSS框架，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "CSS",
+    "UI框架",
+    "复古风格"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-24T18:19:02+08:00",
+  "updated_at": "2026-07-24T18:19:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "提供Windows 98风格的UI组件",
+      "纯CSS实现，无需JavaScript"
+    ],
+    "category": "前端开发"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260724-012",
+  "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+  "source_url": "https://news.ycombinator.com/item?id=49026810",
+  "source_type": "rss",
+  "summary": "Echo是一个实验性AI系统，通过动态组合多个开源模型（如GLM-5.2、Kimi K2.7）来提升性能，而非依赖单一模型。它根据请求分配计算资源、选择模型并组合输出，在评估中表现优于最佳单一模型，并以约1/3的推理成本达到与Fable相当的结果。系统提供聊天界面和OpenAI兼容API，目前仍在优化分配决策，并测试在编码和智能体任务上的表现。",
+  "tags": [
+    "开源模型",
+    "模型组合",
+    "推理优化",
+    "智能体",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-24T18:19:02+08:00",
+  "updated_at": "2026-07-24T18:19:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "动态组合多个开源模型可显著提升性能，且成本低于单一强模型。",
+      "模型互补性：整体较弱的模型在特定任务上仍具价值。",
+      "Echo在编码和智能体任务上的表现有待进一步验证。"
+    ],
+    "category": "AI系统架构"
+  }
+}

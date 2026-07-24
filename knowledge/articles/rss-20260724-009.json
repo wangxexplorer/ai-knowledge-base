@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260724-009",
+  "title": "Flux 3",
+  "source_url": "https://bfl.ai/blog/flux-3",
+  "source_type": "rss",
+  "summary": "Flux 3是Black Forest Labs发布的最新AI图像生成模型，在性能、质量和速度上均有显著提升。该模型支持文本到图像生成，具备更好的细节处理和风格多样性，代表了AI视觉生成领域的最新进展。",
+  "tags": [
+    "AI图像生成",
+    "Flux",
+    "文本到图像",
+    "生成模型"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-24T18:19:02+08:00",
+  "updated_at": "2026-07-24T18:19:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Flux 3是AI图像生成领域的最新模型，性能显著提升",
+      "该模型由Black Forest Labs开发，专注于文本到图像生成",
+      "代表了AI视觉生成技术的前沿进展"
+    ],
+    "category": "AI模型"
+  }
+}

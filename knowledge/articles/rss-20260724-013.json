@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260724-013",
+  "title": "Building on ATProto",
+  "source_url": "https://lukekanies.com/writing/building-on-atproto/",
+  "source_type": "rss",
+  "summary": "本文探讨了在ATProto（AT协议）上构建应用的可能性与挑战。ATProto是一个去中心化社交网络协议，旨在提供用户数据可移植性和互操作性。文章分析了其技术架构、开发体验以及与传统中心化平台的区别，并讨论了开发者如何利用该协议创建新的社交应用。",
+  "tags": [
+    "去中心化",
+    "社交协议",
+    "ATProto",
+    "开发者体验"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-24T18:19:02+08:00",
+  "updated_at": "2026-07-24T18:19:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "ATProto提供用户数据可移植性",
+      "开发者需适应去中心化架构",
+      "与传统平台开发体验不同"
+    ],
+    "category": "去中心化技术"
+  }
+}

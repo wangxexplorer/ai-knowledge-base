@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260724-008",
+  "title": "The PImpl idiom and the C++26 std:indirect type",
+  "source_url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+  "source_type": "rss",
+  "summary": "本文讨论了C++中的PImpl惯用法以及即将在C++26标准中引入的std::indirect类型。PImpl惯用法用于隐藏实现细节、减少编译依赖，而std::indirect提供了更安全、更现代的方式来管理间接对象。文章可能涉及内存管理、性能优化和代码可维护性。",
+  "tags": [
+    "C++",
+    "编程语言",
+    "软件工程"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-24T18:19:02+08:00",
+  "updated_at": "2026-07-24T18:19:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "PImpl惯用法用于隐藏实现细节和减少编译依赖。",
+      "C++26的std::indirect类型提供了更安全的间接对象管理。",
+      "该内容与AI、LLM、Agent领域无直接关联。"
+    ],
+    "category": "编程语言"
+  }
+}

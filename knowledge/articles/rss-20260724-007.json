@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260724-007",
+  "title": "It's getting harder to focus every day",
+  "source_url": "https://glyphack.com/attention/",
+  "source_type": "rss",
+  "summary": "文章探讨了现代社会中注意力日益分散的现象，分析了数字干扰、信息过载等因素对专注力的影响，并可能提出改善建议。",
+  "tags": [
+    "注意力",
+    "数字干扰",
+    "信息过载"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-24T18:19:02+08:00",
+  "updated_at": "2026-07-24T18:19:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "注意力分散是数字时代的普遍问题",
+      "信息过载加剧了专注困难"
+    ],
+    "category": "认知科学"
+  }
+}

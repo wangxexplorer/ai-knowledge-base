@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260724-001",
+  "title": "Show HN: A static, client-side tarot calculator for Brazilian Portuguese",
+  "source_url": "https://meuarcanopessoal.net/",
+  "source_type": "rss",
+  "summary": "该项目是一个静态、客户端运行的塔罗牌计算器，专为巴西葡萄牙语用户设计。它不涉及AI、LLM或Agent技术，而是基于传统塔罗牌规则进行前端计算。",
+  "tags": [
+    "塔罗牌",
+    "静态网站",
+    "客户端计算",
+    "巴西葡萄牙语"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-24T18:19:02+08:00",
+  "updated_at": "2026-07-24T18:19:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "纯前端实现，无后端或AI参与",
+      "专注于特定语言和文化背景的塔罗牌计算",
+      "与AI、LLM、Agent领域无直接关联"
+    ],
+    "category": "非AI应用"
+  }
+}

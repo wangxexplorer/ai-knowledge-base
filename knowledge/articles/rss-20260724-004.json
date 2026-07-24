@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260724-004",
+  "title": "Nothing works and everyone is euphoric",
+  "source_url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+  "source_type": "rss",
+  "summary": "文章探讨了AI领域的一种矛盾现象：尽管许多AI模型和系统在实际应用中表现不佳，但整个行业却弥漫着过度乐观的情绪。作者分析了这种“无效却狂热”的状态，可能源于资本驱动、技术炒作和短期利益，提醒从业者需理性看待AI的真实能力与局限性。",
+  "tags": [
+    "AI泡沫",
+    "技术炒作",
+    "行业反思",
+    "LLM局限性",
+    "理性评估"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-24T18:19:02+08:00",
+  "updated_at": "2026-07-24T18:19:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "AI领域存在实际效果与公众情绪严重脱节的现象",
+      "过度乐观可能掩盖技术瓶颈和伦理风险",
+      "需要建立更客观的评估体系来指导AI发展"
+    ],
+    "category": "行业观察与反思"
+  }
+}

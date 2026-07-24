@@ -1,0 +1,579 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-07-24T18:16:57+08:00",
+  "query": "AI LLM Agent",
+  "items": [
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "hermes-agent",
+      "title": "hermes-agent",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 219758,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "NousResearch/hermes-agent",
+      "author": "NousResearch"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "dify",
+      "title": "dify",
+      "source_url": "https://github.com/langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "stars": 150083,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "full_name": "langgenius/dify",
+      "author": "langgenius"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "langchain",
+      "title": "langchain",
+      "source_url": "https://github.com/langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform.",
+      "stars": 142494,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "langchain-ai/langchain",
+      "author": "langchain-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "awesome-llm-apps",
+      "title": "awesome-llm-apps",
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "stars": 127152,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "llms",
+        "python",
+        "rag"
+      ],
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "author": "Shubhamsaboo"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "browser-use",
+      "title": "browser-use",
+      "source_url": "https://github.com/browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 106499,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-use",
+        "llm"
+      ],
+      "full_name": "browser-use/browser-use",
+      "author": "browser-use"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ponytail",
+      "title": "ponytail",
+      "source_url": "https://github.com/DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 88709,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin"
+      ],
+      "full_name": "DietrichGebert/ponytail",
+      "author": "DietrichGebert"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ragflow",
+      "title": "ragflow",
+      "source_url": "https://github.com/infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 85880,
+      "language": "Go",
+      "topics": [
+        "agent-harness",
+        "agentic-ai",
+        "agentic-retrieval",
+        "agentic-search",
+        "ai"
+      ],
+      "full_name": "infiniflow/ragflow",
+      "author": "infiniflow"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "OpenHands",
+      "title": "OpenHands",
+      "source_url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "stars": 81920,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli"
+      ],
+      "full_name": "OpenHands/OpenHands",
+      "author": "OpenHands"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "deer-flow",
+      "title": "deer-flow",
+      "source_url": "https://github.com/bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 77758,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "full_name": "bytedance/deer-flow",
+      "author": "bytedance"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "pi",
+      "title": "pi",
+      "source_url": "https://github.com/earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 76768,
+      "language": "TypeScript",
+      "topics": [],
+      "full_name": "earendil-works/pi",
+      "author": "earendil-works"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "LlamaFactory",
+      "title": "LlamaFactory",
+      "source_url": "https://github.com/hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars": 73483,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "deepseek",
+        "fine-tuning",
+        "gemma"
+      ],
+      "full_name": "hiyouga/LlamaFactory",
+      "author": "hiyouga"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "MetaGPT",
+      "title": "MetaGPT",
+      "source_url": "https://github.com/FoundationAgents/MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "stars": 69498,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "gpt",
+        "llm",
+        "metagpt",
+        "multi-agent"
+      ],
+      "full_name": "FoundationAgents/MetaGPT",
+      "author": "FoundationAgents"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "headroom",
+      "title": "headroom",
+      "source_url": "https://github.com/headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "stars": 62054,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "anthropic",
+        "claude-code",
+        "compression"
+      ],
+      "full_name": "headroomlabs-ai/headroom",
+      "author": "headroomlabs-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "mem0",
+      "title": "mem0",
+      "source_url": "https://github.com/mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "description": "Universal memory layer for AI Agents",
+      "stars": 61604,
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "application",
+        "chatbots"
+      ],
+      "full_name": "mem0ai/mem0",
+      "author": "mem0ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "goose",
+      "title": "goose",
+      "source_url": "https://github.com/aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 51581,
+      "language": "Rust",
+      "topics": [
+        "acp",
+        "ai",
+        "ai-agents",
+        "mcp"
+      ],
+      "full_name": "aaif-goose/goose",
+      "author": "aaif-goose"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "cherry-studio",
+      "title": "cherry-studio",
+      "source_url": "https://github.com/CherryHQ/cherry-studio",
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 48940,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "awesome-skills",
+        "claude-code",
+        "codex"
+      ],
+      "full_name": "CherryHQ/cherry-studio",
+      "author": "CherryHQ"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "JeecgBoot",
+      "title": "JeecgBoot",
+      "source_url": "https://github.com/jeecgboot/JeecgBoot",
+      "url": "https://github.com/jeecgboot/JeecgBoot",
+      "description": "【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+      "stars": 47170,
+      "language": "Java",
+      "topics": [
+        "activiti",
+        "agent",
+        "ai",
+        "antd",
+        "claude-code"
+      ],
+      "full_name": "jeecgboot/JeecgBoot",
+      "author": "jeecgboot"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "nanobot",
+      "title": "nanobot",
+      "source_url": "https://github.com/HKUDS/nanobot",
+      "url": "https://github.com/HKUDS/nanobot",
+      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "stars": 46171,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "HKUDS/nanobot",
+      "author": "HKUDS"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "CowAgent",
+      "title": "CowAgent",
+      "source_url": "https://github.com/zhayujie/CowAgent",
+      "url": "https://github.com/zhayujie/CowAgent",
+      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+      "stars": 46110,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "chatgpt-on-wechat",
+        "claude"
+      ],
+      "full_name": "zhayujie/CowAgent",
+      "author": "zhayujie"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "langgraph",
+      "title": "langgraph",
+      "source_url": "https://github.com/langchain-ai/langgraph",
+      "url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient agents.",
+      "stars": 38023,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "deepagents"
+      ],
+      "full_name": "langchain-ai/langgraph",
+      "author": "langchain-ai"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Show HN: A static, client-side tarot calculator for Brazilian Portuguese",
+      "source_url": "https://meuarcanopessoal.net/",
+      "url": "https://meuarcanopessoal.net/",
+      "description": "Article URL: https://meuarcanopessoal.net/ Comments URL: https://news.ycombinator.com/item?id=49033173 Points: 3 # Comments: 0",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+      "source_url": "https://bfl.ai/blog/flux-3-mimic",
+      "url": "https://bfl.ai/blog/flux-3-mimic",
+      "description": "Article URL: https://bfl.ai/blog/flux-3-mimic Comments URL: https://news.ycombinator.com/item?id=49033127 Points: 22 # Comments: 3",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Future euro banknote design proposals",
+      "source_url": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html",
+      "url": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html",
+      "description": "Article URL: https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html Comments URL: https://news.ycombinator.com/item?id=49033110 Points: 22 # Comments: 12",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Nothing works and everyone is euphoric",
+      "source_url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+      "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+      "description": "Article URL: https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/ Comments URL: https://news.ycombinator.com/item?id=49033004 Points: 25 # Comments: 10",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "The day Steve Jobs dissed me in a keynote (2010)",
+      "source_url": "https://sive.rs/itunes",
+      "url": "https://sive.rs/itunes",
+      "description": "Article URL: https://sive.rs/itunes Comments URL: https://news.ycombinator.com/item?id=49033001 Points: 31 # Comments: 4",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "The Book Prize Index",
+      "source_url": "https://book-prize-index.vercel.app",
+      "url": "https://book-prize-index.vercel.app",
+      "description": "Article URL: https://book-prize-index.vercel.app Comments URL: https://news.ycombinator.com/item?id=49032756 Points: 5 # Comments: 0",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "It's getting harder to focus every day",
+      "source_url": "https://glyphack.com/attention/",
+      "url": "https://glyphack.com/attention/",
+      "description": "Article URL: https://glyphack.com/attention/ Comments URL: https://news.ycombinator.com/item?id=49032660 Points: 16 # Comments: 7",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "The PImpl idiom and the C++26 std:indirect type",
+      "source_url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+      "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+      "description": "Article URL: https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/ Comments URL: https://news.ycombinator.com/item?id=49032095 Points: 48 # Comments: 40",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Flux 3",
+      "source_url": "https://bfl.ai/blog/flux-3",
+      "url": "https://bfl.ai/blog/flux-3",
+      "description": "Article URL: https://bfl.ai/blog/flux-3 Comments URL: https://news.ycombinator.com/item?id=49031796 Points: 274 # Comments: 63",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Claude Cookbook",
+      "source_url": "https://platform.claude.com/cookbook/",
+      "url": "https://platform.claude.com/cookbook/",
+      "description": "Article URL: https://platform.claude.com/cookbook/ Comments URL: https://news.ycombinator.com/item?id=49031409 Points: 51 # Comments: 13",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "98.css",
+      "source_url": "https://jdan.github.io/98.css/#status-bar",
+      "url": "https://jdan.github.io/98.css/#status-bar",
+      "description": "Article URL: https://jdan.github.io/98.css/#status-bar Comments URL: https://news.ycombinator.com/item?id=49028927 Points: 474 # Comments: 108",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "source_url": "https://news.ycombinator.com/item?id=49026810",
+      "url": "https://news.ycombinator.com/item?id=49026810",
+      "description": "I’ve been building Echo ( https://echo.tracerml.ai/ ), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task. It started with a simple experiment. I took a group of models, including GLM-5.2, Kimi K2.7 and others, and ran them on the same evaluations. Then I measured what would happen if, for each problem, you somehow knew in advance which models would be useful and how their outputs should be combined. That hypothetical system performed substantially better than any individual model in the pool. Of course, it is not something you can actually deploy because it relies on knowing which decisions were good after seeing the result. Echo is my attempt to recover some of that advantage without having that information in advance. For each request, Echo decides how much computation to allocate, which models should participate, and how their work should be combined. Some prompts may only need a relatively small amount of inference, while others benefit from multiple models working on different parts of the problem. One thing that surprised me while building it was how complementary the models are. A model that is clearly weaker overall can still be extremely useful on particular problems or as part of a combination. On my first evaluation mix, Echo consistently performed better than the best individual model in its pool. It also reached roughly the same aggregate result as Fable, which I used as one of the stronger comparison systems, at around one third of the inference cost. There are still some cases where Echo makes the wrong allocation or combination decision. I’m currently spending a lot of time understanding those failures, as well as testing whether the same approach holds up on coding and agentic tasks where measuring the quality of each decision becomes much harder. I built a chat interface (echo.tracerml.ai) and an OpenAI-compatible API ( https://echo.tracerml.ai/docs/api ) so the system can be tested outside the evaluation setup. Here is a short/high level video on how it works: https://www.youtube.com/watch?v=lJFJSvOdXhg I wrote up the evaluation methodology, individual model results, costs and current limitations here: https://echo.tracerml.ai/eval I would love for you to try it! Especially if you hit any weird failure cases or places where the allocation looks unintuitive. Comments URL: https://news.ycombinator.com/item?id=49026810 Points: 390 # Comments: 182",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Building on ATProto",
+      "source_url": "https://lukekanies.com/writing/building-on-atproto/",
+      "url": "https://lukekanies.com/writing/building-on-atproto/",
+      "description": "Article URL: https://lukekanies.com/writing/building-on-atproto/ Comments URL: https://news.ycombinator.com/item?id=49025984 Points: 161 # Comments: 81",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "A solid-state “atomic channel” for separating rare earth elements",
+      "source_url": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
+      "url": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
+      "description": "Article URL: https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements Comments URL: https://news.ycombinator.com/item?id=49025831 Points: 90 # Comments: 25",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Why Sony can't bring back its classic Walkman models",
+      "source_url": "https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman",
+      "url": "https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman",
+      "description": "Article URL: https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman Comments URL: https://news.ycombinator.com/item?id=49025766 Points: 131 # Comments: 144",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "What happened to TheNumbers.com",
+      "source_url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "description": "Article URL: https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all Comments URL: https://news.ycombinator.com/item?id=49024691 Points: 377 # Comments: 173",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "source_url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "description": "Article URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md Comments URL: https://news.ycombinator.com/item?id=49023019 Points: 321 # Comments: 231",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "source_url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "description": "https://littletech.org/ https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 940 # Comments: 777",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+      "source_url": "https://github.com/palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "Hi HN, we are Marcos and Harrison, cofounders of Palmier ( https://palmier.io ). We are building Palmier Pro, an open source macOS video editor, with built-in AI generation and a local MCP server that connects to your agent. Here are a few demos: - Making some AI transitions: https://www.youtube.com/watch?v=hbM_-eR1GX4 - Multicam editing with Codex: https://www.youtube.com/watch?v=SjS2q2LT1q8 - Cutting long form clips into shorts: https://www.youtube.com/watch?v=PR66eN2ouuQ We built Palmier Pro as an internal tool when we were making AI launch videos for other startups. The main problem it solved in the beginning was the back-and-forth between AI generation platform and video editor. The iteration loop was awkward: AI videos → download → import to editor → edit → realize we need to change the AI video → repeat. So we built a minimal video editor where we could let Claude generate AI videos inside the editor. As we gave more and more tools to the agent, we wanted to push to see what else agents can do in the video editing space. So today, your Claude/Codex can: - Manage projects inside Palmier Pro - Import media from a public URL or filesystem to the project, and organize them in folders - Search media (by embedding footages using SigLIP2 running locally) - Edit the timeline (tracks/clips/keyframes operations) - Generate images, videos, sound effects, captions, music - Export videos There are two ways for LLMs to interact with the editor: by connecting to the local MCP server, or using the in-app chat. Both use the same tools and APIs exposed by the video editor. We have seen people using MCP server to connect to their own workflow to automate massive-scale video editing (e.g. given this same podcast style, replicate it with other footages that I have). We have also seen people using the in-app chat where it lives closer to the editor UI, with lower latency for faster iteration. We don't believe that AI is going to replace human creativity (nor should it), but where it can really help is in automating the gruntwork in video editing. Most work in the editing workflow is more mechanical than creative. Our vision is to build a video editor where AI can enable more individuals to create. Throughout our experiments, AI is not very good at creative editing, but given a pattern (transcription-based, beat-based), it can do a decent job at rough cut. We built Palmier Pro in Swift as an MVP because we wanted better performance and minimal dependencies (no nodejs/webview), with some native macOS APIs like SpeechAnalyzer and CoreML for us to run some models locally. We use SpeechAnalyzer for local transcriber, SigLip2 to embed video frames, beat_this for beat detection, Silero VAD for silence detection, all running locally. The tradeoff is that we don't support Linux or Windows at the moment. Palmier Pro is open source and free to try out (macOS 26 only at the moment, though - we'll support more platforms over time, but for now are focusing on iterating the core product). No login required except for the AI generation features, which route requests to our backend. We are offering free credits on sign up so you can try out the AI generation as well. We'd love to hear your feedback! Comments URL: https://news.ycombinator.com/item?id=49022911 Points: 157 # Comments: 26",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "source_url": "https://learnopengl.com/",
+      "url": "https://learnopengl.com/",
+      "description": "Article URL: https://learnopengl.com/ Comments URL: https://news.ycombinator.com/item?id=49022634 Points: 247 # Comments: 124",
+      "feed_name": "Hacker News"
+    }
+  ]
+}

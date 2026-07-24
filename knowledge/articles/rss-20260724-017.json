@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260724-017",
+  "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+  "source_url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+  "source_type": "rss",
+  "summary": "本文探讨软件工厂失败的原因，指出仅靠工程化不足，需结合上下文工程与AI Agent协作。强调在AI辅助编码中，上下文管理、提示工程和人类监督的重要性，以提升开发效率与质量。",
+  "tags": [
+    "软件工厂",
+    "上下文工程",
+    "AI Agent",
+    "编码协作",
+    "提示工程"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-24T18:19:02+08:00",
+  "updated_at": "2026-07-24T18:19:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "软件工厂失败主因是忽视上下文工程，仅依赖工程化流程。",
+      "AI Agent在编码中需有效上下文管理才能发挥价值。",
+      "人类监督与提示工程是AI辅助开发成功的关键。"
+    ],
+    "category": "AI工程实践"
+  }
+}

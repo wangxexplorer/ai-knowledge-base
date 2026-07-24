@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260724-010",
+  "title": "Claude Cookbook",
+  "source_url": "https://platform.claude.com/cookbook/",
+  "source_type": "rss",
+  "summary": "Claude Cookbook是Anthropic官方提供的Claude模型使用指南和示例集合，涵盖提示工程、工具使用、多模态等最佳实践，是学习和应用Claude AI的实用资源。",
+  "tags": [
+    "Claude",
+    "提示工程",
+    "最佳实践",
+    "Anthropic",
+    "LLM应用"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-24T18:19:02+08:00",
+  "updated_at": "2026-07-24T18:19:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "官方提供的Claude模型使用指南，包含丰富的示例和最佳实践。",
+      "覆盖提示工程、工具使用、多模态等关键LLM应用领域。",
+      "是开发者和研究人员快速上手Claude的重要参考资源。"
+    ],
+    "category": "技术教程与资源"
+  }
+}

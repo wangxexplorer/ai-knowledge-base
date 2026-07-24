@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260724-006",
+  "title": "The Book Prize Index",
+  "source_url": "https://book-prize-index.vercel.app",
+  "source_type": "rss",
+  "summary": "该条目介绍了一个名为“The Book Prize Index”的网站，用于索引图书奖项信息。内容来自Hacker News，但未涉及AI、LLM或Agent技术。",
+  "tags": [
+    "图书奖项",
+    "索引",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-24T18:19:02+08:00",
+  "updated_at": "2026-07-24T18:19:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "与AI、LLM、Agent领域无关",
+      "属于图书奖项索引工具"
+    ],
+    "category": "非技术"
+  }
+}

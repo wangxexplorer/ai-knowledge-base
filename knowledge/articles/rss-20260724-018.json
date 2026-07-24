@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260724-018",
+  "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+  "source_url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+  "source_type": "rss",
+  "summary": "美国初创企业创始人联合呼吁政府不要切断中国开源AI模型的访问，认为此举将损害美国AI创新和竞争力。文章反映了中美AI技术交流的政治与商业博弈。",
+  "tags": [
+    "AI政策",
+    "开源模型",
+    "中美竞争",
+    "初创企业"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-24T18:19:02+08:00",
+  "updated_at": "2026-07-24T18:19:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "美国初创企业依赖中国开源AI模型进行创新",
+      "切断访问可能削弱美国AI生态竞争力",
+      "政策制定需平衡国家安全与技术创新"
+    ],
+    "category": "AI政策与地缘政治"
+  }
+}

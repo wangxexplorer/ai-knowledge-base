@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260724-019",
+  "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+  "source_url": "https://github.com/palmier-io/palmier-pro",
+  "source_type": "rss",
+  "summary": "Palmier Pro 是一款开源 macOS 视频编辑器，内置 AI 生成功能，并支持通过本地 MCP 服务器连接 AI 代理（如 Claude/Codex）。它允许 AI 管理项目、导入媒体、搜索素材、编辑时间线、生成图像/视频/音效/字幕/音乐，并导出视频。旨在自动化视频编辑中的机械性工作，提升创作效率。",
+  "tags": [
+    "AI视频编辑",
+    "MCP服务器",
+    "开源工具",
+    "LLM集成",
+    "Agent自动化"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-24T18:19:02+08:00",
+  "updated_at": "2026-07-24T18:19:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "通过MCP服务器或内置聊天实现LLM与视频编辑器的深度集成，支持多种AI驱动的编辑操作。",
+      "强调AI在自动化视频编辑中的机械性工作（如粗剪、素材管理）而非替代人类创意。",
+      "本地运行多种AI模型（如SigLIP2、Silero VAD），注重性能和隐私，但当前仅支持macOS。"
+    ],
+    "category": "AI应用工具"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260724-002",
+  "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+  "source_url": "https://bfl.ai/blog/flux-3-mimic",
+  "source_type": "rss",
+  "summary": "Flux 3 X Mimic是下一代视频动作模型，旨在通过AI技术实现更逼真、更高效的动作生成与视频合成，可能涉及多模态学习、时序建模等前沿方向。",
+  "tags": [
+    "视频动作模型",
+    "多模态AI",
+    "生成模型",
+    "时序建模",
+    "AI前沿"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-24T18:19:02+08:00",
+  "updated_at": "2026-07-24T18:19:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "视频动作模型是AI领域的重要分支，与LLM/Agent在多模态交互上有潜在结合点",
+      "该模型可能推动视频生成与动作理解技术的进步",
+      "作为下一代模型，其架构创新值得关注"
+    ],
+    "category": "AI模型与应用"
+  }
+}
