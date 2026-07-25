@@ -1,0 +1,29 @@
+{
+  "id": "github-20260725-016",
+  "title": "cherry-studio",
+  "source_url": "https://github.com/CherryHQ/cherry-studio",
+  "source_type": "github",
+  "summary": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+  "tags": [
+    "agent-skills",
+    "ai-agent",
+    "awesome-skills",
+    "claude-code",
+    "codex"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-25T17:47:51+08:00",
+  "updated_at": "2026-07-25T17:47:51+08:00",
+  "metadata": {
+    "stars": 48965,
+    "language": "TypeScript",
+    "author": "CherryHQ"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rss-20260725-012",
+  "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+  "source_url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+  "source_type": "rss",
+  "summary": "Letter: https://images.nvidia.com/pdf/Open-Weights-and-American-AI-L... [pdf] https://x.com/JensenHuang/status/2080643682408321103 , https://xcancel.com/JensenHuang/status/2080643682408321103 https://",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-25T17:47:51+08:00",
+  "updated_at": "2026-07-25T17:47:51+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}
