@@ -1,0 +1,29 @@
+{
+  "id": "github-20260726-013",
+  "title": "headroom",
+  "source_url": "https://github.com/headroomlabs-ai/headroom",
+  "source_type": "github",
+  "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+  "tags": [
+    "agent",
+    "ai",
+    "anthropic",
+    "claude-code",
+    "compression"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-26T18:00:18+08:00",
+  "updated_at": "2026-07-26T18:00:18+08:00",
+  "metadata": {
+    "stars": 62486,
+    "language": "Python",
+    "author": "headroomlabs-ai"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}

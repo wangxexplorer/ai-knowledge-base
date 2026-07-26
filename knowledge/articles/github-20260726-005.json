@@ -1,0 +1,29 @@
+{
+  "id": "github-20260726-005",
+  "title": "browser-use",
+  "source_url": "https://github.com/browser-use/browser-use",
+  "source_type": "github",
+  "summary": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+  "tags": [
+    "ai-agents",
+    "ai-tools",
+    "browser-automation",
+    "browser-use",
+    "llm"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-26T18:00:18+08:00",
+  "updated_at": "2026-07-26T18:00:18+08:00",
+  "metadata": {
+    "stars": 106813,
+    "language": "Python",
+    "author": "browser-use"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}

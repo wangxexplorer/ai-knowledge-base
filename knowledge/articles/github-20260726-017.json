@@ -1,0 +1,29 @@
+{
+  "id": "github-20260726-017",
+  "title": "JeecgBoot",
+  "source_url": "https://github.com/jeecgboot/JeecgBoot",
+  "source_type": "github",
+  "summary": "【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不",
+  "tags": [
+    "activiti",
+    "agent",
+    "ai",
+    "antd",
+    "claude-code"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-26T18:00:18+08:00",
+  "updated_at": "2026-07-26T18:00:18+08:00",
+  "metadata": {
+    "stars": 47185,
+    "language": "Java",
+    "author": "jeecgboot"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}
