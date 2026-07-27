@@ -1,0 +1,25 @@
+{
+  "id": "rss-20260727-014",
+  "title": "We have proof automation now",
+  "source_url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+  "source_type": "rss",
+  "summary": "文章讨论了自动化证明技术，可能涉及形式化验证或编译器优化，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "自动化证明",
+    "形式化验证"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-27T19:22:54+08:00",
+  "updated_at": "2026-07-27T19:22:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "自动化证明技术进展",
+      "可能用于软件验证"
+    ],
+    "category": "计算机科学"
+  }
+}

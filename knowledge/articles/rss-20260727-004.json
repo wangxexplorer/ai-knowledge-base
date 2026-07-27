@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260727-004",
+  "title": "VLC for Unity now supported on Linux",
+  "source_url": "https://code.videolan.org/videolan/vlc-unity",
+  "source_type": "rss",
+  "summary": "VLC for Unity 现在支持 Linux 平台，允许在 Unity 引擎中集成 VLC 播放功能。该更新主要面向游戏开发和多媒体应用，与 AI、LLM 或 Agent 领域无直接关联。",
+  "tags": [
+    "VLC",
+    "Unity",
+    "Linux",
+    "多媒体"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-27T19:22:54+08:00",
+  "updated_at": "2026-07-27T19:22:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "VLC for Unity 扩展了 Linux 支持",
+      "主要用于游戏和多媒体应用",
+      "与 AI/LLM/Agent 无直接关系"
+    ],
+    "category": "软件开发"
+  }
+}

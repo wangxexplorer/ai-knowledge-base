@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260727-012",
+  "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+  "source_url": "https://github.com/vercel-labs/scriptc",
+  "source_type": "rss",
+  "summary": "Vercel 推出的 Scriptc 是一种将 TypeScript 直接编译为原生代码的编译器，生成的可执行文件不包含 JavaScript 引擎。该技术旨在提升性能并减小二进制体积，对 AI/LLM/Agent 领域的直接影响有限，但可能间接优化相关应用的部署效率。",
+  "tags": [
+    "编译器",
+    "TypeScript",
+    "原生编译",
+    "性能优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-27T19:22:54+08:00",
+  "updated_at": "2026-07-27T19:22:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Scriptc 将 TypeScript 编译为原生代码，无需 JavaScript 引擎，可提升执行效率。",
+      "该技术主要面向通用软件开发，与 AI/LLM/Agent 无直接关联。",
+      "可能间接用于优化 AI 工具链中的脚本执行或部署环节。"
+    ],
+    "category": "编程语言与工具"
+  }
+}

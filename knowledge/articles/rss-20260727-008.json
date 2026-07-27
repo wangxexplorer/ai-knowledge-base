@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260727-008",
+  "title": "Kimi-K3 Releases on HuggingFace 7/27",
+  "source_url": "https://huggingface.co/moonshotai/Kimi-K3",
+  "source_type": "rss",
+  "summary": "Kimi-K3模型在HuggingFace上发布，这是一个由Moonshot AI开发的新模型，引起了Hacker News社区的广泛关注和讨论。",
+  "tags": [
+    "Kimi-K3",
+    "Moonshot AI",
+    "HuggingFace",
+    "模型发布",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-27T19:22:54+08:00",
+  "updated_at": "2026-07-27T19:22:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Kimi-K3是Moonshot AI发布的新模型，与AI和LLM领域直接相关。",
+      "在Hacker News上获得高关注度，表明社区对其兴趣浓厚。",
+      "发布在HuggingFace平台，便于开发者访问和使用。"
+    ],
+    "category": "模型发布"
+  }
+}

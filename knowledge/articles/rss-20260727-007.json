@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260727-007",
+  "title": "Elevated errors on Claude Opus 5",
+  "source_url": "https://status.claude.com/incidents/lhqp09kxq7pb",
+  "source_type": "rss",
+  "summary": "Claude Opus 5出现错误率升高的问题，相关状态页面和Hacker News讨论提及了该事件。",
+  "tags": [
+    "Claude",
+    "LLM",
+    "错误",
+    "状态"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-27T19:22:54+08:00",
+  "updated_at": "2026-07-27T19:22:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "Claude Opus 5出现错误率升高",
+      "该事件在Hacker News上被讨论"
+    ],
+    "category": "技术事件"
+  }
+}

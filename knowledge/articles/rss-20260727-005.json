@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260727-005",
+  "title": "How Unix spell ran in 64 kB of RAM",
+  "source_url": "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram",
+  "source_type": "rss",
+  "summary": "本文探讨了早期Unix拼写检查程序spell如何在仅64KB内存中高效运行，涉及数据压缩、字典存储和算法优化等技术。",
+  "tags": [
+    "Unix",
+    "内存优化",
+    "拼写检查"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-27T19:22:54+08:00",
+  "updated_at": "2026-07-27T19:22:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "早期系统在资源受限下的优化策略",
+      "数据压缩与算法设计的重要性"
+    ],
+    "category": "技术历史"
+  }
+}

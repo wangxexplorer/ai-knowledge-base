@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260727-003",
+  "title": "Chinese chipmaker shares surge 470%",
+  "source_url": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
+  "source_type": "rss",
+  "summary": "中国芯片制造商的股价飙升470%，反映了市场对国产芯片产业的强烈信心。该事件与AI、LLM、Agent领域的硬件基础相关，但非直接技术进展。",
+  "tags": [
+    "芯片",
+    "股价",
+    "中国",
+    "硬件",
+    "市场"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-27T19:22:54+08:00",
+  "updated_at": "2026-07-27T19:22:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "中国芯片股大幅上涨",
+      "市场对国产芯片前景乐观",
+      "可能影响AI硬件供应链"
+    ],
+    "category": "市场动态"
+  }
+}

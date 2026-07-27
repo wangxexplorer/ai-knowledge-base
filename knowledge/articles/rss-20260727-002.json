@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260727-002",
+  "title": "Show HN: NameThatUI – A quiz game to test your UI design knowledge",
+  "source_url": "https://namethatui.org/",
+  "source_type": "rss",
+  "summary": "NameThatUI是一个通过问答游戏测试用户界面设计知识的网站。该工具专注于UI设计知识，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "UI设计",
+    "知识测试",
+    "游戏"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-27T19:22:54+08:00",
+  "updated_at": "2026-07-27T19:22:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该工具用于测试UI设计知识",
+      "与AI、LLM或Agent技术无关"
+    ],
+    "category": "UI/UX设计"
+  }
+}

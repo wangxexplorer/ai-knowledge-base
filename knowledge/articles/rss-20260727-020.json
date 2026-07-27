@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260727-020",
+  "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
+  "source_url": "https://github.com/gmrandazzo/CheapSecurity",
+  "source_type": "rss",
+  "summary": "CheapSecurity是一个轻量级、自托管的CCTV系统，专为Linux单板计算机设计，提供低成本的安全监控解决方案。",
+  "tags": [
+    "CCTV",
+    "自托管",
+    "Linux",
+    "单板计算机"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-27T19:22:54+08:00",
+  "updated_at": "2026-07-27T19:22:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "低成本安全监控",
+      "轻量级设计",
+      "自托管部署"
+    ],
+    "category": "物联网与嵌入式系统"
+  }
+}

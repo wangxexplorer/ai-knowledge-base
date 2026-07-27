@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260727-010",
+  "title": "PGSimCity - How PostgreSQL Works",
+  "source_url": "https://nikolays.github.io/PGSimCity/",
+  "source_type": "rss",
+  "summary": "PGSimCity是一个通过模拟城市构建游戏来可视化展示PostgreSQL内部工作原理的项目。它通过交互式方式帮助理解数据库的查询执行、索引、事务等核心机制。",
+  "tags": [
+    "PostgreSQL",
+    "数据库",
+    "可视化",
+    "教育"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-27T19:22:54+08:00",
+  "updated_at": "2026-07-27T19:22:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "通过游戏化方式学习数据库原理",
+      "可视化PostgreSQL内部机制",
+      "提升数据库理解与教学效果"
+    ],
+    "category": "数据库技术"
+  }
+}

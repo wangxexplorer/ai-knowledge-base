@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260727-001",
+  "title": "Libsm64: Mario 64 as a library for use in external game engines",
+  "source_url": "https://github.com/libsm64/libsm64",
+  "source_type": "rss",
+  "summary": "Libsm64是一个将《超级马里奥64》游戏引擎提取为独立库的项目，允许其他游戏引擎集成马里奥的物理、动画和交互逻辑。该项目专注于游戏开发领域的代码复用和引擎互操作性。",
+  "tags": [
+    "游戏引擎",
+    "代码复用",
+    "逆向工程"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-27T19:22:54+08:00",
+  "updated_at": "2026-07-27T19:22:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "将经典游戏逻辑封装为可复用库",
+      "促进游戏引擎间的互操作性",
+      "属于游戏开发技术栈"
+    ],
+    "category": "游戏开发"
+  }
+}

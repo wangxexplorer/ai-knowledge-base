@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260727-015",
+  "title": "Simulate cassette tape audio profiles using FFmpeg",
+  "source_url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+  "source_type": "rss",
+  "summary": "该项目使用FFmpeg模拟磁带音频效果，属于音频处理技术，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "音频处理",
+    "FFmpeg",
+    "模拟"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-27T19:22:54+08:00",
+  "updated_at": "2026-07-27T19:22:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "使用FFmpeg实现磁带音频效果模拟",
+      "不涉及AI或LLM技术"
+    ],
+    "category": "音频技术"
+  }
+}
