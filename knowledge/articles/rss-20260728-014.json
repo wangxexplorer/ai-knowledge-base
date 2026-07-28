@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260728-014",
+  "title": "Kimi K3 Now Available via Telnyx Inference API",
+  "source_url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+  "source_type": "rss",
+  "summary": "Moonshot AI发布Kimi K3开源权重，并通过Telnyx Inference API提供服务。该模型拥有2.8T参数，在编码和智能体任务上达到前沿水平，仅次于Claude Fable 5和GPT 5.6 Sol。Telnyx提供自营GPU基础设施，支持低延迟推理、零数据保留，定价为$2.70/1M输入tokens、$13.50/1M输出tokens，并兼容OpenAI接口。",
+  "tags": [
+    "Kimi K3",
+    "开源模型",
+    "推理API",
+    "编码",
+    "智能体"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-28T18:37:07+08:00",
+  "updated_at": "2026-07-28T18:37:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Kimi K3在编码和智能体任务上表现突出，达到前沿水平。",
+      "Telnyx通过自营GPU提供低延迟、零数据保留的推理服务。",
+      "模型定价透明，兼容OpenAI接口，便于集成测试。"
+    ],
+    "category": "模型发布与部署"
+  }
+}

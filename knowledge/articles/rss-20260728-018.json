@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260728-018",
+  "title": "Self-contained highly-portable Python distributions",
+  "source_url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+  "source_type": "rss",
+  "summary": "该项目提供自包含、高度可移植的Python发行版，无需系统级依赖即可运行。它简化了Python环境的部署，尤其适用于容器化、CI/CD和边缘计算场景。对于AI/LLM/Agent领域，这种可移植性有助于快速搭建和分发基于Python的AI工具链，但本身不直接涉及模型或智能体技术。",
+  "tags": [
+    "Python",
+    "部署",
+    "可移植性",
+    "工具链"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-28T18:37:07+08:00",
+  "updated_at": "2026-07-28T18:37:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "自包含Python发行版简化了AI应用的部署流程",
+      "适用于需要隔离Python环境的AI/LLM开发场景",
+      "不直接涉及模型或智能体核心算法"
+    ],
+    "category": "基础设施与工具"
+  }
+}

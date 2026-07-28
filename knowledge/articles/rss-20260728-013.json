@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260728-013",
+  "title": "C/C++ projects packaged for Zig",
+  "source_url": "https://github.com/allyourcodebase",
+  "source_type": "rss",
+  "summary": "该项目将C/C++项目打包为Zig格式，便于跨平台构建和依赖管理。Zig作为一种系统编程语言，其构建系统可简化C/C++代码的集成，但该条目本身不直接涉及AI、LLM或Agent技术。",
+  "tags": [
+    "Zig",
+    "C/C++",
+    "构建工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-28T18:37:07+08:00",
+  "updated_at": "2026-07-28T18:37:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Zig构建系统可简化C/C++项目打包",
+      "与AI/LLM/Agent领域无直接关联"
+    ],
+    "category": "软件开发工具"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260728-001",
+  "title": "What Even Are Microservices?",
+  "source_url": "https://var0.xyz/posts/what-even-are-microservices.html",
+  "source_type": "rss",
+  "summary": "本文探讨微服务架构的定义、优缺点及适用场景，分析其与单体架构的对比，并讨论微服务在分布式系统中的实际应用挑战。",
+  "tags": [
+    "微服务",
+    "架构",
+    "分布式系统"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-28T18:37:07+08:00",
+  "updated_at": "2026-07-28T18:37:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "微服务并非银弹，需权衡复杂度与灵活性",
+      "适合大型团队和频繁更新的系统",
+      "分布式系统固有挑战如网络延迟和数据一致性"
+    ],
+    "category": "软件架构"
+  }
+}

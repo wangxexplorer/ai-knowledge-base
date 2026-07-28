@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260728-016",
+  "title": "Our position on open-weights models",
+  "source_url": "https://www.anthropic.com/news/position-open-weights-models",
+  "source_type": "rss",
+  "summary": "Anthropic发布关于开放权重模型的立场声明，讨论开源AI模型的潜在风险与收益，强调在促进创新的同时需确保安全与责任。",
+  "tags": [
+    "开放权重",
+    "AI安全",
+    "开源模型",
+    "Anthropic",
+    "政策"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-28T18:37:07+08:00",
+  "updated_at": "2026-07-28T18:37:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "开放权重模型可加速AI创新，但需平衡安全风险。",
+      "Anthropic主张在开放与管控之间寻求审慎路径。",
+      "该立场影响未来AI开源生态与监管方向。"
+    ],
+    "category": "AI政策与伦理"
+  }
+}

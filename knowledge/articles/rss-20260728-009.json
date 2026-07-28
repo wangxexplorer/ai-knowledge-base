@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260728-009",
+  "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+  "source_url": "https://fermisense.com/when-machines-take-the-wheel/",
+  "source_type": "rss",
+  "summary": "该条目介绍了一项实验：仅用500美元对9B开源模型进行强化学习微调，在目录审查任务上超越了前沿模型。这展示了低成本微调开源模型在特定任务上超越昂贵闭源模型的潜力，对AI、LLM和Agent领域具有重要启示。",
+  "tags": [
+    "强化学习",
+    "开源模型",
+    "微调",
+    "成本效益",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-28T18:37:07+08:00",
+  "updated_at": "2026-07-28T18:37:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "低成本微调开源模型可在特定任务上超越前沿模型",
+      "强化学习是提升模型性能的有效方法",
+      "开源模型在特定领域具有巨大潜力"
+    ],
+    "category": "技术实践"
+  }
+}

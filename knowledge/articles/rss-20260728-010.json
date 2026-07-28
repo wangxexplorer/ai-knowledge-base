@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260728-010",
+  "title": "Vehicle Motion Cues",
+  "source_url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
+  "source_type": "rss",
+  "summary": "Vehicle Motion Cues是苹果iOS系统的一项辅助功能，通过在屏幕边缘显示动画点来减少乘车时观看屏幕引起的晕动症。该功能利用设备传感器检测车辆运动，并动态调整视觉提示，帮助用户保持平衡感。",
+  "tags": [
+    "辅助功能",
+    "晕动症",
+    "iOS",
+    "传感器"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-28T18:37:07+08:00",
+  "updated_at": "2026-07-28T18:37:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "利用传感器检测车辆运动",
+      "通过视觉提示缓解晕动症",
+      "属于iOS辅助功能"
+    ],
+    "category": "移动设备功能"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260728-017",
+  "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+  "source_url": "https://www.rise-reforming.com",
+  "source_type": "rss",
+  "summary": "Rise Reforming将垃圾填埋场、农场和废水处理厂产生的沼气转化为有价值的化学品（如二甲醚和甲醇），采用模块化、现场部署的技术，旨在解决化工行业对化石燃料的依赖和供应链脆弱性问题。",
+  "tags": [
+    "清洁技术",
+    "化工",
+    "沼气",
+    "模块化",
+    "可持续"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-28T18:37:07+08:00",
+  "updated_at": "2026-07-28T18:37:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "利用沼气作为原料生产高价值化学品，减少温室气体排放",
+      "模块化设计实现分布式生产，增强供应链韧性",
+      "技术结合干重整和蒸汽重整，降低绿色化学品生产成本"
+    ],
+    "category": "清洁技术与化工"
+  }
+}

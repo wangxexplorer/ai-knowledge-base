@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260728-012",
+  "title": "DConf 2026 in London",
+  "source_url": "https://dconf.org/2026/index.html",
+  "source_type": "rss",
+  "summary": "DConf 2026是D语言社区在伦敦举办的年度会议，主要关注D语言的发展、应用和社区交流。",
+  "tags": [
+    "D语言",
+    "会议",
+    "编程语言"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-28T18:37:07+08:00",
+  "updated_at": "2026-07-28T18:37:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "D语言社区年度会议",
+      "会议地点为伦敦",
+      "主要面向D语言开发者"
+    ],
+    "category": "编程语言会议"
+  }
+}

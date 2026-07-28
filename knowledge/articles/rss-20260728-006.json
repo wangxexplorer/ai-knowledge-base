@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260728-006",
+  "title": "PyTorch: A Reference Language",
+  "source_url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
+  "source_type": "rss",
+  "summary": "PyTorch作为深度学习框架，其编译器日志探讨了将PyTorch视为一种参考语言的设计理念，涉及动态图、静态图转换及编译器优化，与AI模型开发、LLM训练和Agent系统底层实现密切相关。",
+  "tags": [
+    "PyTorch",
+    "深度学习框架",
+    "编译器",
+    "AI开发",
+    "LLM训练"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-28T18:37:07+08:00",
+  "updated_at": "2026-07-28T18:37:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "PyTorch编译器设计影响AI模型性能与部署效率",
+      "参考语言理念可能推动LLM和Agent系统的底层优化",
+      "动态图与静态图转换是AI框架演进的关键方向"
+    ],
+    "category": "AI框架与工具"
+  }
+}

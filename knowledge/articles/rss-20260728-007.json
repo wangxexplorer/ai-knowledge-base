@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260728-007",
+  "title": "Using an open model feels surprisingly good",
+  "source_url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+  "source_type": "rss",
+  "summary": "文章探讨使用开源AI模型（如LLaMA）相比闭源模型的积极体验，强调透明度、可控性和社区支持带来的信任与灵活性，认为开源模型在隐私、定制化和长期价值上具有优势。",
+  "tags": [
+    "开源模型",
+    "LLM",
+    "AI透明度",
+    "模型可控性"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-28T18:37:07+08:00",
+  "updated_at": "2026-07-28T18:37:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "开源模型提供更高透明度和用户信任",
+      "可控性使定制化和隐私保护更易实现",
+      "社区支持增强模型迭代和长期可用性"
+    ],
+    "category": "AI模型生态"
+  }
+}

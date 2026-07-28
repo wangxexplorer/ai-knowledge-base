@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260728-015",
+  "title": "Benchmarking Opus 5 on SlopCodeBench",
+  "source_url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+  "source_type": "rss",
+  "summary": "该条目介绍了在SlopCodeBench上对Opus 5进行基准测试，涉及编码代理的上下文工程，与AI、LLM和Agent领域高度相关。",
+  "tags": [
+    "基准测试",
+    "编码代理",
+    "上下文工程",
+    "LLM",
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-28T18:37:07+08:00",
+  "updated_at": "2026-07-28T18:37:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Opus 5在SlopCodeBench上的表现评估",
+      "上下文工程对编码代理性能的影响",
+      "基准测试方法在AI编码任务中的应用"
+    ],
+    "category": "技术评测"
+  }
+}

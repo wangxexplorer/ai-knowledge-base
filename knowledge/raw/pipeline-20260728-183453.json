@@ -1,0 +1,579 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-07-28T18:34:53+08:00",
+  "query": "AI LLM Agent",
+  "items": [
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "hermes-agent",
+      "title": "hermes-agent",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 221654,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "NousResearch/hermes-agent",
+      "author": "NousResearch"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "dify",
+      "title": "dify",
+      "source_url": "https://github.com/langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "stars": 150537,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "full_name": "langgenius/dify",
+      "author": "langgenius"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "langchain",
+      "title": "langchain",
+      "source_url": "https://github.com/langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform.",
+      "stars": 142781,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "langchain-ai/langchain",
+      "author": "langchain-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "awesome-llm-apps",
+      "title": "awesome-llm-apps",
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "stars": 128261,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "llms",
+        "python",
+        "rag"
+      ],
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "author": "Shubhamsaboo"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "browser-use",
+      "title": "browser-use",
+      "source_url": "https://github.com/browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 107080,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-use",
+        "llm"
+      ],
+      "full_name": "browser-use/browser-use",
+      "author": "browser-use"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ponytail",
+      "title": "ponytail",
+      "source_url": "https://github.com/DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 90625,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin"
+      ],
+      "full_name": "DietrichGebert/ponytail",
+      "author": "DietrichGebert"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ragflow",
+      "title": "ragflow",
+      "source_url": "https://github.com/infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 86230,
+      "language": "Go",
+      "topics": [
+        "agent-harness",
+        "agentic-ai",
+        "agentic-retrieval",
+        "agentic-search",
+        "ai"
+      ],
+      "full_name": "infiniflow/ragflow",
+      "author": "infiniflow"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "OpenHands",
+      "title": "OpenHands",
+      "source_url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "stars": 82371,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli"
+      ],
+      "full_name": "OpenHands/OpenHands",
+      "author": "OpenHands"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "pi",
+      "title": "pi",
+      "source_url": "https://github.com/earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 79457,
+      "language": "TypeScript",
+      "topics": [],
+      "full_name": "earendil-works/pi",
+      "author": "earendil-works"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "deer-flow",
+      "title": "deer-flow",
+      "source_url": "https://github.com/bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 78044,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "full_name": "bytedance/deer-flow",
+      "author": "bytedance"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "LlamaFactory",
+      "title": "LlamaFactory",
+      "source_url": "https://github.com/hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars": 73576,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "deepseek",
+        "fine-tuning",
+        "gemma"
+      ],
+      "full_name": "hiyouga/LlamaFactory",
+      "author": "hiyouga"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "MetaGPT",
+      "title": "MetaGPT",
+      "source_url": "https://github.com/FoundationAgents/MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "stars": 69556,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "gpt",
+        "llm",
+        "metagpt",
+        "multi-agent"
+      ],
+      "full_name": "FoundationAgents/MetaGPT",
+      "author": "FoundationAgents"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "headroom",
+      "title": "headroom",
+      "source_url": "https://github.com/headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "stars": 62872,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "anthropic",
+        "claude-code",
+        "compression"
+      ],
+      "full_name": "headroomlabs-ai/headroom",
+      "author": "headroomlabs-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "mem0",
+      "title": "mem0",
+      "source_url": "https://github.com/mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "description": "Universal memory layer for AI Agents",
+      "stars": 61903,
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "application",
+        "chatbots"
+      ],
+      "full_name": "mem0ai/mem0",
+      "author": "mem0ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "goose",
+      "title": "goose",
+      "source_url": "https://github.com/aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 51836,
+      "language": "Rust",
+      "topics": [
+        "acp",
+        "ai",
+        "ai-agents",
+        "mcp"
+      ],
+      "full_name": "aaif-goose/goose",
+      "author": "aaif-goose"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "cherry-studio",
+      "title": "cherry-studio",
+      "source_url": "https://github.com/CherryHQ/cherry-studio",
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 49072,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "awesome-skills",
+        "claude-code",
+        "codex"
+      ],
+      "full_name": "CherryHQ/cherry-studio",
+      "author": "CherryHQ"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "JeecgBoot",
+      "title": "JeecgBoot",
+      "source_url": "https://github.com/jeecgboot/JeecgBoot",
+      "url": "https://github.com/jeecgboot/JeecgBoot",
+      "description": "【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+      "stars": 47196,
+      "language": "Java",
+      "topics": [
+        "activiti",
+        "agent",
+        "ai",
+        "antd",
+        "claude-code"
+      ],
+      "full_name": "jeecgboot/JeecgBoot",
+      "author": "jeecgboot"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "CowAgent",
+      "title": "CowAgent",
+      "source_url": "https://github.com/zhayujie/CowAgent",
+      "url": "https://github.com/zhayujie/CowAgent",
+      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+      "stars": 46177,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "chatgpt-on-wechat",
+        "claude"
+      ],
+      "full_name": "zhayujie/CowAgent",
+      "author": "zhayujie"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "langgraph",
+      "title": "langgraph",
+      "source_url": "https://github.com/langchain-ai/langgraph",
+      "url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient agents.",
+      "stars": 38317,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "deepagents"
+      ],
+      "full_name": "langchain-ai/langgraph",
+      "author": "langchain-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "AstrBot",
+      "title": "AstrBot",
+      "source_url": "https://github.com/AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "stars": 38221,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "astrbot",
+        "chatbot",
+        "chatgpt"
+      ],
+      "full_name": "AstrBotDevs/AstrBot",
+      "author": "AstrBotDevs"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "What Even Are Microservices?",
+      "source_url": "https://var0.xyz/posts/what-even-are-microservices.html",
+      "url": "https://var0.xyz/posts/what-even-are-microservices.html",
+      "description": "Article URL: https://var0.xyz/posts/what-even-are-microservices.html Comments URL: https://news.ycombinator.com/item?id=49081594 Points: 13 # Comments: 24",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "About the security content of macOS Tahoe 26.6",
+      "source_url": "https://support.apple.com/en-us/128067",
+      "url": "https://support.apple.com/en-us/128067",
+      "description": "Article URL: https://support.apple.com/en-us/128067 Comments URL: https://news.ycombinator.com/item?id=49081555 Points: 21 # Comments: 10",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "7.1 Earthquake in Japan",
+      "source_url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+      "description": "Article URL: https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en Comments URL: https://news.ycombinator.com/item?id=49080664 Points: 223 # Comments: 53",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+      "source_url": "https://arsastronomica.com/",
+      "url": "https://arsastronomica.com/",
+      "description": "Article URL: https://arsastronomica.com/ Comments URL: https://news.ycombinator.com/item?id=49079727 Points: 64 # Comments: 10",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Neutrino-1 8B",
+      "source_url": "https://www.fermionresearch.com/models/neutrino-8b/",
+      "url": "https://www.fermionresearch.com/models/neutrino-8b/",
+      "description": "Article URL: https://www.fermionresearch.com/models/neutrino-8b/ Comments URL: https://news.ycombinator.com/item?id=49079490 Points: 84 # Comments: 26",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "PyTorch: A Reference Language",
+      "source_url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
+      "url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
+      "description": "Article URL: https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/ Comments URL: https://news.ycombinator.com/item?id=49079454 Points: 32 # Comments: 3",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Using an open model feels surprisingly good",
+      "source_url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+      "description": "Article URL: https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/ Comments URL: https://news.ycombinator.com/item?id=49078583 Points: 283 # Comments: 107",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "EYG: A Programming Language for Humans",
+      "source_url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
+      "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
+      "description": "Article URL: https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/ Comments URL: https://news.ycombinator.com/item?id=49078463 Points: 69 # Comments: 39",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "source_url": "https://fermisense.com/when-machines-take-the-wheel/",
+      "url": "https://fermisense.com/when-machines-take-the-wheel/",
+      "description": "Article URL: https://fermisense.com/when-machines-take-the-wheel/ Comments URL: https://news.ycombinator.com/item?id=49078454 Points: 198 # Comments: 53",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Vehicle Motion Cues",
+      "source_url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
+      "url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
+      "description": "Article URL: https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios Comments URL: https://news.ycombinator.com/item?id=49077999 Points: 124 # Comments: 55",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+      "source_url": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
+      "url": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
+      "description": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sp... Comments URL: https://news.ycombinator.com/item?id=49076923 Points: 341 # Comments: 327",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "DConf 2026 in London",
+      "source_url": "https://dconf.org/2026/index.html",
+      "url": "https://dconf.org/2026/index.html",
+      "description": "Article URL: https://dconf.org/2026/index.html Comments URL: https://news.ycombinator.com/item?id=49076840 Points: 92 # Comments: 41",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "C/C++ projects packaged for Zig",
+      "source_url": "https://github.com/allyourcodebase",
+      "url": "https://github.com/allyourcodebase",
+      "description": "Article URL: https://github.com/allyourcodebase Comments URL: https://news.ycombinator.com/item?id=49076791 Points: 63 # Comments: 35",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Kimi K3 Now Available via Telnyx Inference API",
+      "source_url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+      "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+      "description": "Moonshot AI released open weights for Kimi K3 today and it's live on Telnyx Inference. The architecture and Moonshot's own benchmarks are in their technical blog. This post is about running it on Telnyx. What we are adding: K3 is now available via the Telnyx Inference API, hosted on GPUs that we own and operate. This matters due to the size of this model. A 2.8T model needs dedicated infra to serve well. Because we own and operate the GPUs, we can contorl throughput. with no inter-provider hops and no cloud tenant, latency is minimized. We have GPUs in each of the US, EU, APAC, and MENA. Inference runs in the region you pick, with zero data retention. We do not store prompts or completions after the response returns. Because we own the infra, the per-token price reflects the cost of running the model, not the cost of renting someone else's plus their margin. We have not benchmarked K3 ourselves yet. Moonshot's own numbers and early third-party evaluations put it at frontier level for coding and agentic work, trailing only Claude Fable 5 and GPT 5.6 Sol on aggregate. Full breakdown in their blog. Pricing on Telnyx: $2.70/1M input tokens, $13.50/1M output tokens, $0.27/1M cached input tokens. Prompt caching enabled by default. Served via an OpenAI-compatible endpoint so you can test easily. Model ID: [MODEL_ID] API: https://api.telnyx.com/v2/ai/chat/completions Docs: https://developers.telnyx.com/docs/inference Technical blog (Moonshot): https://www.kimi.com/blog/kimi-k3 Comments URL: https://news.ycombinator.com/item?id=49076505 Points: 89 # Comments: 42",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "source_url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "description": "Article URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md Comments URL: https://news.ycombinator.com/item?id=49076391 Points: 298 # Comments: 67",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Our position on open-weights models",
+      "source_url": "https://www.anthropic.com/news/position-open-weights-models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "description": "Article URL: https://www.anthropic.com/news/position-open-weights-models Comments URL: https://news.ycombinator.com/item?id=49076057 Points: 927 # Comments: 1345",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+      "source_url": "https://www.rise-reforming.com",
+      "url": "https://www.rise-reforming.com",
+      "description": "Hi HN! This is George, Lucas, and Jona from Rise Reforming ( https://www.rise-reforming.com/ ). We’re developing a process to convert gas produced at landfills, farms, and wastewater plants (“biogas”) into higher value chemicals. Our technology is modular, designed to be deployed and operated on-site. Think of us as a chemical project developer; we sit between biogas producers (suppliers) and chemical end users (customers). We pay biogas producers for their gas and we make money from selling our chemicals. We're starting with dimethyl ether (DME) as our beachhead chemical because of its high-margin use case in the cosmetics industry and ultimately targeting methanol – a versatile and widely used industrial chemical. Being in a two sided market allows us to target two large problems. (1) On the chemical side: The multi-trillion dollar U.S. chemical and fuel industries are vulnerable to geopolitical conflicts and climate-driven natural disasters. The Iran war has caused global methanol prices to skyrocket – even in the U.S., a net exporter of methanol. ( https://www.spglobal.com/energy/en/news-research/latest-news... the US). In 2021, Winter Storm Uri wiped out 60% of U.S. organic chemicals production for at least a month ( https://www.dallasfed.org/research/swe/2021/swe2102/swe2102c... ). The problem? Centralized production and fossil-fuel dependence. The solution isn't unknown; decentralized, fossil-free production could insulate supply chains from these shocks. But distributed green chemical production has yet to become cost-competitive with the status quo. Unlocking it requires the right feedstock paired with the right process and strategy. Also, the chemical industry’s reliance on fossil fuels makes it responsible for 5-6% of global greenhouse gas emissions. About 40% of the industry’s well-to-gate emissions come from just the extraction, processing, and transportation of these fossil fuels ( https://rmi.org/resources/chemistry-in-transition-charting-s... ). (2) Biogas is an ideal feedstock to address Problem 1. It is decentralized, plentiful, and a large part of it is not properly utilized. Biogas is a mixture of methane (CH4) and carbon dioxide (CO2), produced as a result of anaerobic digestion at landfills, farms, and wastewater plants, and can be used as a raw material in chemical manufacturing. The U.S. produces around 780 billion cubic feet of biogas a year – if we converted all that biogas into methanol, that’s about $20 billion a year. Currently, about 60% of this biogas is either burned for power/heat (low-margin and unreliable) or flared altogether. The rest is used in the highly subsidized renewable natural gas (RNG) market ( https://americanbiogascouncil.org/abcs-data-digest-lite-july... ). The result: many biogas producers leave substantial revenue on the table and experience huge operational headaches. Our modular technology takes in biogas, electricity, and water as inputs. Co-location with biogas producers allows us to tap into their existing infrastructure and speeds up permitting vs a greenfield project. Our 3 step process is outlined below: Step 1: We clean the biogas of contaminants. That means running the gas over specialized adsorbents that trap any nasty sulfur-containing and silicon-containing compounds we don’t want in our process. Step 2: We reform that biogas into an intermediate gas called syngas through the bi-reforming process, which combines the novel dry methane reforming reaction with the legacy steam methane reforming reaction. Syngas is a versatile combination of H2 and CO and is the building block for many chemicals, allowing us to be a platform company. Step 3: Lastly, we upgrade that syngas into our end chemicals. We do this step using conventional catalysts and operating conditions. The modular approach paired with our patent-pending integrated process makes our solution one of the cheapest ways of making green chemicals. Where are we today? We’ve completed our proof-of-concept in the lab and just broke ground on our pilot plant at a Chicagoland wastewater plant that currently flares all of its biogas. We will convert that wasted biogas into methanol. Estimated commissioning is Q1 2027. We all met at the University of Chicago studying Molecular Engineering and started the company back in June 2024. Rise Reforming’s first iteration came after attending a talk from an Argonne National Laboratory researcher on low-carbon fuels. In that seminar, we heard about a reaction called “dry reforming” wherein one can react CH4 with CO2, effectively eliminating both pollutants and making useful syngas (CO + H2). We realized that this reaction could enable cheaper decarbonization of chemicals than the legacy electrolysis pathway and started to build a technoeconomic analysis. George has a background in energy generation, storage, and carbon capture. He was an early employee at Highland Electric Fleets (now a unicorn) and later worked at Nexamp, GenH, and Mantel Capture – researching various battery chemistries, building a first-of-a-kind (FOAK) modular hydropower system, and helping prove a novel point-source capture prototype. He also conducted battery research at UChicago's Patel Lab and Rowan Group, co-authoring two papers. Lucas led the design, procurement, construction, and operation of Rise Reforming’s bench-scale reforming unit with controls that operated successfully for over 1800+ continuous hours. Prior to Rise, he worked at Avangrid (Iberdrola Group) with the offshore wind project services team and did transmutation research of spent nuclear fuel at Argonne National Laboratory. Jona also studied Molecular Engineering at the University of Chicago. He grew up around the marine industry and brings deep knowledge of the space to the team. While at UChicago, he conducted research in the Patel Lab on batteries and sustainable polymer applications and built novel equipment for the lab, including a high-throughput cyclic voltammetry battery performance testing device. Our advisory board has 220+ combined years in aerosols, permitting/safety, low-carbon fuels, catalysts, scale-up, automated modular chemical plants, and wastewater treatment. Here’s our launch video if you want to put faces to the names: https://youtu.be/Bx_ASPapxlQ?si=PAlqvd1eUhW8kjJm . We’d appreciate any feedback, questions, or advice. Thank you for reading! George, Lucas, and Jona Comments URL: https://news.ycombinator.com/item?id=49074817 Points: 73 # Comments: 31",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Self-contained highly-portable Python distributions",
+      "source_url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "description": "Article URL: https://gregoryszorc.com/docs/python-build-standalone/main/ Comments URL: https://news.ycombinator.com/item?id=49073942 Points: 146 # Comments: 32",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
+      "source_url": "https://github.com/FrigadeHQ/yap",
+      "url": "https://github.com/FrigadeHQ/yap",
+      "description": "Hey HN! I wanted to share this OSS project I've been working on. It's called Yap and its a small menu-bar app for macOS that does voice to text for any input. You'll set a hotkey, press it, talk, press it again, and the text gets pasted into whatever field you were in. Everything runs locally and never leaves your computer. Fully OSS and MIT licensed. With macOS 26, Apple recently added two new APIs, SpeechAnalyzer and SpeechTranscriber, that do streaming on-device speech to text using models the OS ships and manages. So the app ships no model of its own and loads nothing before the first word. A recent benchmark put Apple's model slightly ahead of Whisper Small on accuracy and about 3x faster (see: https://news.ycombinator.com/item?id=48894752 ). On Mac, there's really no need anymore to download models or pay for expensive APIs. A lot of existing dictation tools do one of a few things I wanted to avoid with this OSS project. They either: - cost money (for something that's literally built into the OS) - bundle memory-intensive models (e.g. Whisper or Parakeet) - webapps wrapped in Electron - Intel macs straight up don't work - closed source - use third-party APIs that will have access to all your transcripts It's around 3,000 lines of native Swift in a 4 MB app and idles near 60 MB of memory. Audio comes off AVAudioEngine into SpeechAnalyzer with volatile results turned on for the live preview, history is stored in SwiftData. There's no network code in it at all. Repo and a demo available here: https://github.com/FrigadeHQ/yap Happy to answer questions and would love to hear any feature requests! Comments URL: https://news.ycombinator.com/item?id=49073834 Points: 72 # Comments: 26",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
+      "source_url": "https://up.codes/careers?utm_source=HN",
+      "url": "https://up.codes/careers?utm_source=HN",
+      "description": "Article URL: https://up.codes/careers?utm_source=HN Comments URL: https://news.ycombinator.com/item?id=49072523 Points: 0 # Comments: 0",
+      "feed_name": "Hacker News"
+    }
+  ]
+}
