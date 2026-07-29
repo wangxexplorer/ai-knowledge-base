@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260729-013",
+  "title": "Codex Security",
+  "source_url": "https://github.com/openai/codex-security",
+  "source_type": "rss",
+  "summary": "Codex Security 是 OpenAI 的一个项目，专注于评估和改进 Codex 模型的安全性，包括代码生成中的安全漏洞和滥用风险。该项目与 AI 安全、LLM 应用安全直接相关。",
+  "tags": [
+    "AI安全",
+    "LLM",
+    "代码生成",
+    "安全评估",
+    "OpenAI"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-29T18:41:17+08:00",
+  "updated_at": "2026-07-29T18:41:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "Codex Security 项目直接针对 LLM 代码生成的安全风险。",
+      "该项目是 AI 安全领域的重要实践，涉及漏洞检测和滥用防范。",
+      "与 Agent 安全间接相关，因为 Agent 常依赖代码生成能力。"
+    ],
+    "category": "AI安全"
+  }
+}

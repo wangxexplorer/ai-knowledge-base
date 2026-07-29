@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260729-019",
+  "title": "Zig's Incremental Compilation Internals",
+  "source_url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+  "source_type": "rss",
+  "summary": "本文深入探讨了Zig编程语言的增量编译内部机制，包括依赖图构建、缓存策略和重编译触发条件。虽然不直接涉及AI或LLM，但增量编译技术可优化AI开发工具链的构建效率。",
+  "tags": [
+    "增量编译",
+    "Zig",
+    "编译器",
+    "构建工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-29T18:41:17+08:00",
+  "updated_at": "2026-07-29T18:41:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "增量编译通过依赖图减少重复编译",
+      "缓存策略是提升编译速度的关键",
+      "该技术可间接优化AI开发环境"
+    ],
+    "category": "编程语言与编译器"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260729-010",
+  "title": "ReFrame – The EPaper Camera",
+  "source_url": "https://reframe.camera/",
+  "source_type": "rss",
+  "summary": "ReFrame是一款电子纸相机，专注于提供类似纸质照片的视觉体验，使用电子墨水屏技术。该项目与AI、LLM或Agent领域无直接关联，主要涉及硬件设计和摄影体验。",
+  "tags": [
+    "电子纸",
+    "相机",
+    "硬件"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-29T18:41:17+08:00",
+  "updated_at": "2026-07-29T18:41:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "电子纸相机提供独特视觉体验",
+      "与AI技术无直接关联"
+    ],
+    "category": "硬件与设备"
+  }
+}

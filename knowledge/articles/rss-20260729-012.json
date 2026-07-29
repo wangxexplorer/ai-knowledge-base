@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260729-012",
+  "title": "Half-Life ported to Mac OS 9",
+  "source_url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+  "source_type": "rss",
+  "summary": "该条目报道了经典游戏《半条命》被移植到Mac OS 9系统，属于复古计算和游戏移植领域，与AI、LLM、Agent技术无直接关联。",
+  "tags": [
+    "游戏移植",
+    "复古计算",
+    "Mac OS 9"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-29T18:41:17+08:00",
+  "updated_at": "2026-07-29T18:41:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "经典游戏移植到旧操作系统",
+      "体现社区对复古平台的支持"
+    ],
+    "category": "游戏技术"
+  }
+}

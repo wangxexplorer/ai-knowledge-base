@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260729-003",
+  "title": "More Tailscale tricks for your jailbroken Kindle",
+  "source_url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+  "source_type": "rss",
+  "summary": "本文介绍如何在越狱Kindle上使用Tailscale的代理和TUN模式，实现网络代理和VPN功能。Tailscale是一种基于WireGuard的零配置VPN工具，适用于设备间安全通信。",
+  "tags": [
+    "Tailscale",
+    "Kindle",
+    "VPN",
+    "网络代理"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-29T18:41:17+08:00",
+  "updated_at": "2026-07-29T18:41:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Tailscale提供零配置VPN功能",
+      "越狱Kindle可运行Tailscale代理和TUN模式",
+      "实现Kindle设备的安全网络通信"
+    ],
+    "category": "网络技术"
+  }
+}

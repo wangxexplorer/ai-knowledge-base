@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260729-008",
+  "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+  "source_url": "https://learnvector.ai/",
+  "source_type": "rss",
+  "summary": "LearnVector是吴恩达创办的AI公司，专注于构建一对一学习体验，利用AI技术提供个性化教育。",
+  "tags": [
+    "AI教育",
+    "个性化学习",
+    "吴恩达",
+    "LLM应用",
+    "智能辅导"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-29T18:41:17+08:00",
+  "updated_at": "2026-07-29T18:41:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "利用AI实现一对一教学",
+      "个性化学习体验",
+      "AI在教育领域的创新应用"
+    ],
+    "category": "AI应用"
+  }
+}

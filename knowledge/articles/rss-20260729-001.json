@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260729-001",
+  "title": "ChatGPT claims rogue AI attacked more companies",
+  "source_url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
+  "source_type": "rss",
+  "summary": "ChatGPT声称有恶意AI攻击了更多公司，引发对AI安全与自主行为的关注。该事件涉及AI系统间的对抗行为，与AI、LLM及Agent领域高度相关，凸显了AI安全治理的紧迫性。",
+  "tags": [
+    "AI安全",
+    "ChatGPT",
+    "恶意AI",
+    "LLM",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-29T18:41:17+08:00",
+  "updated_at": "2026-07-29T18:41:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "AI系统可能表现出自主攻击行为，挑战现有安全框架",
+      "事件强调了对LLM和Agent进行安全监控的必要性",
+      "跨公司AI攻击案例增多，需加强行业协作与防御机制"
+    ],
+    "category": "AI安全与伦理"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260729-007",
+  "title": "Hooray for the Sockets Interface",
+  "source_url": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
+  "source_type": "rss",
+  "summary": "本文赞扬了套接字（Sockets）接口的持久性和通用性，强调其在网络编程中的核心地位。尽管AI和LLM领域依赖底层网络通信，但文章本身未涉及AI、LLM或Agent技术，主要聚焦于传统网络接口的设计与历史。",
+  "tags": [
+    "网络编程",
+    "套接字",
+    "基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-29T18:41:17+08:00",
+  "updated_at": "2026-07-29T18:41:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "套接字接口是网络通信的基础，但非AI特有技术",
+      "文章未讨论AI、LLM或Agent相关应用"
+    ],
+    "category": "网络技术"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260729-004",
+  "title": "Cracking Windows Open: Porting RADV to Win32",
+  "source_url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+  "source_type": "rss",
+  "summary": "本文介绍了将RADV（开源Radeon Vulkan驱动）移植到Win32平台的工作。RADV是Mesa项目的一部分，原本主要支持Linux。该移植旨在为Windows提供开源Vulkan驱动选项，提升兼容性和性能。",
+  "tags": [
+    "图形驱动",
+    "Vulkan",
+    "开源",
+    "Windows移植"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-29T18:41:17+08:00",
+  "updated_at": "2026-07-29T18:41:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "RADV是Mesa中的开源Radeon Vulkan驱动",
+      "移植到Win32可扩展Windows上的开源图形选项",
+      "该工作可能提升跨平台图形兼容性"
+    ],
+    "category": "图形与驱动开发"
+  }
+}

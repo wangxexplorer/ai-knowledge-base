@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260729-005",
+  "title": "User Interfaces of the Demo Scene",
+  "source_url": "https://www.datagubbe.se/scenegui/",
+  "source_type": "rss",
+  "summary": "本文探讨了演示场景（Demo Scene）中的用户界面设计，回顾了早期计算机图形和交互方式的创新。虽然不直接涉及AI或LLM，但其中关于界面设计、人机交互和创意编程的内容，对理解Agent系统的交互设计有一定启发。",
+  "tags": [
+    "用户界面",
+    "人机交互",
+    "创意编程"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-29T18:41:17+08:00",
+  "updated_at": "2026-07-29T18:41:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "演示场景中的UI设计强调创意与限制下的创新",
+      "早期界面设计对现代交互有参考价值",
+      "与Agent系统的交互设计有间接关联"
+    ],
+    "category": "人机交互"
+  }
+}
