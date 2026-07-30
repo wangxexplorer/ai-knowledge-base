@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260730-005",
+  "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
+  "source_url": "https://archive.org/details/mancomputerbyjoh0000john",
+  "source_type": "rss",
+  "summary": "John G. Kemeny的《人与计算机》一书探讨了计算机技术对社会的影响，以及人机交互的未来。作为BASIC语言的共同创造者，Kemeny的见解为早期计算普及和编程教育奠定了基础，对理解AI、LLM和Agent领域的人机协作与自动化有历史参考价值。",
+  "tags": [
+    "人机交互",
+    "计算历史",
+    "编程教育"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-30T18:26:45+08:00",
+  "updated_at": "2026-07-30T18:26:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "Kemeny的著作反映了早期对计算机社会影响的思考，与当前AI伦理讨论相关。",
+      "BASIC语言的普及理念预示了现代LLM降低编程门槛的趋势。",
+      "书中关于人机协作的观点为Agent系统的设计提供了历史视角。"
+    ],
+    "category": "历史与哲学"
+  }
+}

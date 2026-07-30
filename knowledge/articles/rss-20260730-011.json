@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260730-011",
+  "title": "Kimi K3-256k",
+  "source_url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+  "source_type": "rss",
+  "summary": "Kimi K3-256k 是 Kimi 公司推出的一个支持 256k 上下文窗口的 AI 模型，专为代码生成和理解优化。该模型在长文本处理、代码补全和复杂任务推理方面表现出色，适用于开发者和 AI 应用场景。",
+  "tags": [
+    "AI模型",
+    "长上下文",
+    "代码生成",
+    "LLM",
+    "Kimi"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-30T18:26:45+08:00",
+  "updated_at": "2026-07-30T18:26:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Kimi K3-256k 支持 256k 超长上下文，适合处理大型代码库和复杂文档。",
+      "该模型专注于代码生成和理解，提升开发者效率。",
+      "作为 LLM 领域的新模型，展示了长上下文技术在编程场景中的潜力。"
+    ],
+    "category": "AI模型"
+  }
+}

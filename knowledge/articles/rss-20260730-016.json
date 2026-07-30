@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260730-016",
+  "title": "Keychron announces first open-source firmware for gaming mice",
+  "source_url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+  "source_type": "rss",
+  "summary": "Keychron宣布推出首款用于游戏鼠标的开源固件，该固件允许用户自定义鼠标行为、按键映射和宏设置，为游戏外设领域带来更高的可定制性和透明度。",
+  "tags": [
+    "开源固件",
+    "游戏鼠标",
+    "外设"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-30T18:26:45+08:00",
+  "updated_at": "2026-07-30T18:26:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "开源固件提升用户自定义能力",
+      "游戏外设领域创新"
+    ],
+    "category": "硬件与固件"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260730-012",
+  "title": "Turning a dumb AC unit smart (without losing my security deposit)",
+  "source_url": "https://prilik.com/blog/post/automating-ac-nyc/",
+  "source_type": "rss",
+  "summary": "本文介绍如何在不损坏租赁房屋押金的前提下，将传统空调改造为智能空调。作者通过使用红外发射器、温度传感器和微控制器（如ESP32）等硬件，结合开源软件（如Home Assistant）实现远程控制和自动化。文章详细描述了硬件选择、电路搭建、软件配置及与智能家居系统集成的过程，重点在于避免对房屋结构造成永久性改动。",
+  "tags": [
+    "智能家居",
+    "物联网",
+    "DIY",
+    "自动化"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-30T18:26:45+08:00",
+  "updated_at": "2026-07-30T18:26:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "通过非侵入式硬件改造实现传统设备智能化",
+      "利用开源平台（如Home Assistant）集成控制",
+      "注重租赁场景下的可逆性改造策略"
+    ],
+    "category": "智能家居技术"
+  }
+}

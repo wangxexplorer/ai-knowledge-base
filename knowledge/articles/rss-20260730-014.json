@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260730-014",
+  "title": "Show HN: CheapFoodMap – A map of good meals under $10",
+  "source_url": "https://cheapfoodmap.com/",
+  "source_type": "rss",
+  "summary": "该项目是一个众包低价美食地图，展示10美元以下的本地餐食，灵感来自韩国学生使用的“乞丐地图”。目前覆盖美国15个城市，种子数据来自Google评论。项目与AI、LLM、Agent领域无直接关联，但涉及众包数据更新和价格验证问题，可间接应用AI技术优化。",
+  "tags": [
+    "众包",
+    "数据验证",
+    "价格更新"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-30T18:26:45+08:00",
+  "updated_at": "2026-07-30T18:26:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "项目依赖众包数据，价格更新是主要挑战",
+      "可考虑用AI模型预测价格变化趋势",
+      "与Agent领域无直接关联"
+    ],
+    "category": "非AI技术"
+  }
+}

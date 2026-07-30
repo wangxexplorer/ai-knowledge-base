@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260730-006",
+  "title": "LLM Honeypot",
+  "source_url": "https://llm2human.pages.dev/",
+  "source_type": "rss",
+  "summary": "LLM Honeypot是一个针对大型语言模型（LLM）的蜜罐项目，旨在通过模拟诱饵系统来检测、分析和防御针对LLM的恶意攻击或滥用行为。该项目在Hacker News上获得260分和68条评论，表明社区对其高度关注。它可能涉及对抗性提示注入、模型安全评估或自动化攻击检测等方向。",
+  "tags": [
+    "LLM安全",
+    "蜜罐",
+    "对抗性攻击",
+    "模型防御",
+    "AI安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-30T18:26:45+08:00",
+  "updated_at": "2026-07-30T18:26:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "LLM Honeypot通过模拟诱饵系统检测针对LLM的恶意行为。",
+      "该项目在Hacker News上获得高关注度，反映社区对LLM安全问题的重视。",
+      "可能涉及对抗性提示注入和自动化攻击检测技术。"
+    ],
+    "category": "AI安全与防御"
+  }
+}

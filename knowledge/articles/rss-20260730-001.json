@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260730-001",
+  "title": "Why the future is local app",
+  "source_url": "https://getapps.cafe/blog/why-the-future-is-local-app",
+  "source_type": "rss",
+  "summary": "文章探讨了本地应用（local app）的未来趋势，强调在云端服务主导的背景下，本地应用在隐私、离线功能和用户体验方面的优势。",
+  "tags": [
+    "本地应用",
+    "隐私",
+    "离线",
+    "用户体验"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-30T18:26:45+08:00",
+  "updated_at": "2026-07-30T18:26:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "本地应用在隐私保护上优于云端服务",
+      "离线功能是本地应用的核心优势",
+      "用户体验可通过本地化得到提升"
+    ],
+    "category": "技术趋势"
+  }
+}

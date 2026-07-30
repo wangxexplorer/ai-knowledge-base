@@ -1,0 +1,31 @@
+{
+  "id": "github-20260730-020",
+  "title": "AstrBot",
+  "source_url": "https://github.com/AstrBotDevs/AstrBot",
+  "source_type": "github",
+  "summary": "AstrBot是一个集成多种即时通讯平台、大语言模型和插件的AI Agent开发框架，可作为OpenClaw的替代方案，支持构建智能聊天机器人。",
+  "tags": [
+    "AI Agent",
+    "LLM",
+    "开发框架",
+    "聊天机器人",
+    "插件系统"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-30T18:26:45+08:00",
+  "updated_at": "2026-07-30T18:26:45+08:00",
+  "metadata": {
+    "stars": 38339,
+    "language": "Python",
+    "author": "AstrBotDevs"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "集成多种IM平台和LLM，提供统一的Agent开发接口",
+      "支持插件扩展，可灵活添加AI功能",
+      "作为开源替代方案，降低AI Agent开发门槛"
+    ],
+    "category": "AI Agent开发框架"
+  }
+}

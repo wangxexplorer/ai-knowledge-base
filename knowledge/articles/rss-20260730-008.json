@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260730-008",
+  "title": "The Cold Email",
+  "source_url": "https://zachholman.com/posts/cold-email",
+  "source_type": "rss",
+  "summary": "文章探讨了冷邮件（Cold Email）的策略与技巧，强调个性化、价值提供和尊重收件人时间的重要性。虽然不直接涉及AI或LLM，但其中关于自动化沟通和效率提升的讨论与AI辅助邮件生成、Agent驱动的客户触达等应用场景有间接关联。",
+  "tags": [
+    "冷邮件",
+    "沟通策略",
+    "自动化",
+    "效率提升"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-30T18:26:45+08:00",
+  "updated_at": "2026-07-30T18:26:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "冷邮件的核心在于提供价值而非推销",
+      "个性化是提高回复率的关键",
+      "尊重收件人时间可提升沟通效果"
+    ],
+    "category": "沟通策略"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260730-017",
+  "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+  "source_url": "https://usetokenless.com/",
+  "source_type": "rss",
+  "summary": "Tokenless 是一个 API 网关，通过动态路由 AI Agent 的请求到不同模型来降低成本。它同时查询多个模型，根据进度智能选择，在保持性能的同时将成本降低一半。该技术利用缓存感知路由，避免切换模型时缓存失效。",
+  "tags": [
+    "模型路由",
+    "成本优化",
+    "API网关",
+    "Agent",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-30T18:26:45+08:00",
+  "updated_at": "2026-07-30T18:26:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "动态模型路由可在保持性能的同时显著降低AI调用成本",
+      "同时查询多个模型并根据进度决策是一种新颖方法",
+      "缓存感知路由解决了模型切换时的效率问题"
+    ],
+    "category": "AI基础设施"
+  }
+}

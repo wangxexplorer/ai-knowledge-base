@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260730-004",
+  "title": "The Productivity Mirage",
+  "source_url": "https://frantic.im/mirage/",
+  "source_type": "rss",
+  "summary": "文章《The Productivity Mirage》探讨了生产力幻觉现象，指出许多看似高效的工作方式实际上可能只是忙碌的表象，而非真正的产出。文章可能涉及时间管理、工具使用或工作流程优化，但未直接提及AI、LLM或Agent技术。",
+  "tags": [
+    "生产力",
+    "工作流程",
+    "效率"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-30T18:26:45+08:00",
+  "updated_at": "2026-07-30T18:26:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "高效工作不等于忙碌",
+      "需警惕生产力幻觉",
+      "关注实际产出而非表面活动"
+    ],
+    "category": "生产力与工作方式"
+  }
+}

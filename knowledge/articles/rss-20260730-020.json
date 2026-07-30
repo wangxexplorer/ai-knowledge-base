@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260730-020",
+  "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
+  "source_url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+  "source_type": "rss",
+  "summary": "AI公司正大规模招聘电工和木匠等蓝领工人，以建设数据中心基础设施。这反映了AI产业对实体基础设施的依赖，以及相关技能培训需求的增长。",
+  "tags": [
+    "AI基础设施",
+    "数据中心",
+    "就业",
+    "技能培训"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-30T18:26:45+08:00",
+  "updated_at": "2026-07-30T18:26:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI发展带动数据中心建设，创造大量蓝领岗位",
+      "传统技能（电工、木匠）在AI时代仍有重要价值",
+      "AI产业对实体基础设施的依赖被低估"
+    ],
+    "category": "产业动态"
+  }
+}

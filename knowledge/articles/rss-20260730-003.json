@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260730-003",
+  "title": "Logic for Programmers",
+  "source_url": "https://logicforprogrammers.com/",
+  "source_type": "rss",
+  "summary": "《Logic for Programmers》是一本面向程序员的逻辑学书籍，涵盖命题逻辑、谓词逻辑、类型论等，强调逻辑在编程中的应用，如形式化验证、类型系统和程序推理。该书与AI、LLM和Agent领域间接相关，因为逻辑是构建可靠AI系统的基础，尤其在推理、知识表示和验证方面。",
+  "tags": [
+    "逻辑",
+    "形式化方法",
+    "编程",
+    "推理"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-30T18:26:45+08:00",
+  "updated_at": "2026-07-30T18:26:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.4,
+    "key_insights": [
+      "逻辑是AI推理和知识表示的核心工具。",
+      "形式化方法有助于验证LLM和Agent系统的正确性。",
+      "类型论与逻辑的关联对程序语言设计有深远影响。"
+    ],
+    "category": "计算机科学基础"
+  }
+}
