@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260731-019",
+  "title": "Stacked PRs are now live on GitHub",
+  "source_url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+  "source_type": "rss",
+  "summary": "GitHub宣布堆叠式拉取请求（Stacked PRs）功能现已公开预览。该功能允许开发者将多个依赖的PR分层管理，简化代码审查流程，提升大型功能开发的效率。此更新主要面向软件开发工作流，与AI、LLM或Agent领域无直接关联，但可能间接影响AI项目的协作方式。",
+  "tags": [
+    "GitHub",
+    "开发者工具",
+    "代码审查",
+    "工作流"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-31T18:41:22+08:00",
+  "updated_at": "2026-07-31T18:41:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "堆叠PR功能优化了多分支协作，对大型AI项目开发有潜在帮助。",
+      "该更新不涉及AI模型或智能体技术，相关性较低。"
+    ],
+    "category": "软件开发工具"
+  }
+}

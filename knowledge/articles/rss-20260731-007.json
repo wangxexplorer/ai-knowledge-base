@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260731-007",
+  "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+  "source_url": "https://github.com/openjdk/jdk/pull/31120",
+  "source_type": "rss",
+  "summary": "JEP 401 是 OpenJDK 引入值对象（Value Objects）预览特性的提案，已合并至主分支。该特性旨在提供不可变、无身份的值类型，提升性能与内存效率。虽然主要面向 Java 语言本身，但对 AI/LLM 领域影响有限，可能间接优化相关应用的底层性能。",
+  "tags": [
+    "Java",
+    "值对象",
+    "性能优化",
+    "OpenJDK",
+    "语言特性"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-31T18:41:22+08:00",
+  "updated_at": "2026-07-31T18:41:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "值对象可减少内存开销，对大规模数据处理有潜在益处。",
+      "该特性属于底层语言改进，与 AI 算法无直接关联。",
+      "对 Java 生态中的 AI 框架（如 Deep Java Library）可能带来性能提升。"
+    ],
+    "category": "编程语言与运行时"
+  }
+}

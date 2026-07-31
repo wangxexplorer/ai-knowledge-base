@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260731-003",
+  "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+  "source_url": "https://blog.google/security/chrome-stronger-with-every-update/",
+  "source_type": "rss",
+  "summary": "Google在6月份修复的Chrome浏览器漏洞数量超过了过去两年的总和，这得益于AI技术的应用。AI在漏洞检测、分析和修复过程中发挥了关键作用，显著提升了安全团队的工作效率。这一案例展示了AI在软件安全领域的实际价值，也反映了AI技术如何加速漏洞管理流程，为浏览器和其他软件的安全防护提供了新的思路。",
+  "tags": [
+    "AI安全",
+    "漏洞修复",
+    "Chrome",
+    "效率提升",
+    "软件安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-31T18:41:22+08:00",
+  "updated_at": "2026-07-31T18:41:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI显著提升了漏洞检测和修复的效率，使单月修复量超过过去两年总和。",
+      "AI在安全领域的应用不仅限于检测，还扩展到自动化修复流程。",
+      "此案例表明AI可有效应对复杂软件的安全挑战，具有广泛推广价值。"
+    ],
+    "category": "AI应用"
+  }
+}

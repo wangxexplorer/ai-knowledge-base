@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260731-006",
+  "title": "Show HN: What should the GUI for AI agents look like?",
+  "source_url": "https://marbleos.com/demo",
+  "source_type": "rss",
+  "summary": "MarbleOS 是一个为 AI 代理设计的图形用户界面（GUI）项目，灵感来自 Xerox PARC、Macintosh 和 NeXTSTEP。它旨在将 AI 交互从类似命令行的聊天界面转变为可视化的工作空间，每个任务以卡片形式呈现，支持并行运行，并展示工具和产出文件。作者认为当前 AI 交互仍处于“命令行阶段”，需要用户记住工具和参数，而 Marble 通过可视化降低使用门槛，让用户更直观地委",
+  "tags": [
+    "AI Agent",
+    "GUI设计",
+    "人机交互",
+    "工作流可视化",
+    "MarbleOS"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-31T18:41:22+08:00",
+  "updated_at": "2026-07-31T18:41:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 1.0,
+    "key_insights": [
+      "当前AI代理交互仍类似命令行，缺乏可视化，限制了用户采用。",
+      "MarbleOS 通过卡片式任务管理和工具可视化，降低用户认知负担。",
+      "GUI 设计可显著提升 AI 代理的可用性和用户接受度。"
+    ],
+    "category": "AI交互设计"
+  }
+}

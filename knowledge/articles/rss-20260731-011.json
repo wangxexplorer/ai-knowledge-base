@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260731-011",
+  "title": "I flagged two research papers for fake authors and both were accepted as orals",
+  "source_url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+  "source_type": "rss",
+  "summary": "本文作者在学术评审中标记了两篇疑似由AI生成或伪造作者信息的研究论文，但这两篇论文均被会议接收为口头报告。作者以此为例，批评当前学术评审流程对AI生成内容（AI slop）的审查不足，并探讨了AI技术对学术诚信和出版质量的负面影响。文章引发了关于如何应对AI在学术领域滥用的广泛讨论。",
+  "tags": [
+    "AI生成内容",
+    "学术诚信",
+    "论文评审",
+    "AI滥用",
+    "学术出版"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-31T18:41:22+08:00",
+  "updated_at": "2026-07-31T18:41:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.75,
+    "key_insights": [
+      "AI生成内容已渗透学术评审流程，且现有审查机制难以有效识别。",
+      "伪造作者和AI代写论文被接收，凸显学术质量控制的漏洞。",
+      "该现象引发对AI技术伦理边界和学术规范更新的迫切需求。"
+    ],
+    "category": "AI伦理与学术影响"
+  }
+}

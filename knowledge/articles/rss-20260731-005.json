@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260731-005",
+  "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
+  "source_url": "https://github.com/mokshablr/gander",
+  "source_type": "rss",
+  "summary": "Gander是一款Android文件查看器，无需任何权限即可打开PDF、Office文档、图片、音视频等格式。它不申请INTERNET权限，确保文件不会离开设备，通过本地渲染（如Pdfium、Media3、WebView中的JS库）处理文件。该项目与AI/LLM/Agent领域无直接关联，但体现了本地化、隐私保护的技术趋势，可能对边缘AI或隐私敏感型应用有参考价值。",
+  "tags": [
+    "Android",
+    "文件查看器",
+    "隐私保护",
+    "本地渲染",
+    "开源"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-31T18:41:22+08:00",
+  "updated_at": "2026-07-31T18:41:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "无权限设计保障用户数据隐私，符合隐私保护趋势。",
+      "本地渲染技术避免云端处理，可借鉴于边缘AI应用。",
+      "开源实现（MIT）为开发者提供参考，但非AI核心领域。"
+    ],
+    "category": "移动应用开发"
+  }
+}

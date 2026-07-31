@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260731-008",
+  "title": "The session you cannot take with you",
+  "source_url": "https://earendil.com/posts/session-portability/",
+  "source_type": "rss",
+  "summary": "本文探讨了会话（session）的可移植性问题，即用户无法将当前会话状态从一个设备或应用迁移到另一个。在AI和LLM领域，这直接关系到对话上下文的连续性、多轮交互的持久化以及Agent跨平台协作的可行性。文章可能分析了现有技术限制、数据格式标准化需求以及隐私安全挑战，并提出了实现会话无缝迁移的潜在方案。对于构建复杂AI助手和自主Agent系统，会话可移植性是提升用户体验和系统互操作性的关键因素。",
+  "tags": [
+    "会话管理",
+    "上下文持久化",
+    "Agent互操作性",
+    "用户体验",
+    "数据迁移"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-31T18:41:22+08:00",
+  "updated_at": "2026-07-31T18:41:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "会话可移植性对LLM多轮对话和Agent跨设备协作至关重要",
+      "实现需解决上下文序列化、状态同步和隐私保护等挑战",
+      "标准化会话格式可促进AI生态系统的互操作性"
+    ],
+    "category": "AI系统架构"
+  }
+}

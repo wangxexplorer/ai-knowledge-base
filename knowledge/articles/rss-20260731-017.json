@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260731-017",
+  "title": "Read this before you buy that TV streaming stick",
+  "source_url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+  "source_type": "rss",
+  "summary": "该文章来自Krebs on Security，主题是购买电视流媒体棒前的注意事项，涉及安全、隐私和产品选择建议。内容与AI、LLM或Agent技术无直接关联，属于消费电子和网络安全领域。",
+  "tags": [
+    "消费电子",
+    "网络安全",
+    "流媒体"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-31T18:41:22+08:00",
+  "updated_at": "2026-07-31T18:41:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "购买流媒体设备需关注安全更新和隐私政策",
+      "设备生态系统的长期支持很重要",
+      "用户应警惕预装软件和广告追踪"
+    ],
+    "category": "消费电子"
+  }
+}

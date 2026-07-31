@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260731-015",
+  "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+  "source_url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+  "source_type": "rss",
+  "summary": "该条目介绍了一项关于模型蒸馏的研究，使用DeepSeek V4 Flash作为教师模型，将金融任务知识蒸馏到GPT-OSS-120B中，并评估了审查特征是否转移。结果显示，蒸馏后的模型在政治敏感问题上的行为与教师模型显著不同，未继承审查特征。研究还发布了评估框架LineageEval和开放权重模型，旨在推动AI安全与可审计性讨论。",
+  "tags": [
+    "模型蒸馏",
+    "审查转移",
+    "LLM评估",
+    "金融推理",
+    "开源模型"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-31T18:41:22+08:00",
+  "updated_at": "2026-07-31T18:41:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "蒸馏不转移审查特征，学生模型保持基础模型行为",
+      "发布LineageEval评估框架，支持可审计的AI安全讨论",
+      "蒸馏模型在受限预算下性能优于更大模型"
+    ],
+    "category": "AI模型研究"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260731-010",
+  "title": "The AI Aesthetic",
+  "source_url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+  "source_type": "rss",
+  "summary": "本文探讨了AI生成内容的美学特征及其对设计、创意产业的影响。作者从技术角度分析了AI输出在视觉风格、文本模式上的独特审美倾向，并讨论了这种美学如何反哺人类创作。文章结合Hacker News社区讨论，反映了业界对AI美学价值的关注与争议，涉及AI在艺术、设计领域的应用边界及人机协作的审美标准。",
+  "tags": [
+    "AI美学",
+    "生成式AI",
+    "设计",
+    "创意产业",
+    "人机协作"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-31T18:41:22+08:00",
+  "updated_at": "2026-07-31T18:41:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI生成内容具有可辨识的独特美学风格，影响设计趋势",
+      "AI美学引发关于创作主体性和审美标准的讨论",
+      "人机协作可能催生新的艺术表现形式"
+    ],
+    "category": "AI应用与美学"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260731-004",
+  "title": "DeepSeek-V4-Flash Update",
+  "source_url": "https://api-docs.deepseek.com/updates/",
+  "source_type": "rss",
+  "summary": "DeepSeek-V4-Flash更新发布，涉及DeepSeek模型的最新版本迭代。该更新在Hacker News上引发广泛讨论，获得299个点赞和127条评论，表明社区对DeepSeek系列模型的高度关注。更新内容可能包括模型性能优化、功能增强或API改进，具体细节需参考官方文档。作为开源大语言模型的重要参与者，DeepSeek的每次更新都对AI领域产生一定影响。",
+  "tags": [
+    "DeepSeek",
+    "模型更新",
+    "大语言模型",
+    "AI社区",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-31T18:41:22+08:00",
+  "updated_at": "2026-07-31T18:41:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "DeepSeek-V4-Flash是DeepSeek模型系列的新版本，受到开发者社区密切关注",
+      "该更新在Hacker News上获得高热度，反映其技术影响力",
+      "具体更新内容需查阅官方API文档，可能涉及性能或功能改进"
+    ],
+    "category": "模型发布"
+  }
+}

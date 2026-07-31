@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260731-001",
+  "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+  "source_url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+  "source_type": "rss",
+  "summary": "该条目来自Hacker News，标题为“DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis”，链接至Artificial Analysis网站，对DeepSeek V4 Flash模型进行智能、性能和价格分析。该模型属于AI大语言模型领域，分析内容涉及模型能力评估、性能基准和定价策略，对了解最新LLM进展具有参考",
+  "tags": [
+    "DeepSeek",
+    "LLM",
+    "模型性能",
+    "价格分析",
+    "AI评估"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-31T18:41:22+08:00",
+  "updated_at": "2026-07-31T18:41:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "DeepSeek V4 Flash是新一代LLM，其性能与价格平衡值得关注。",
+      "Artificial Analysis提供独立评测，有助于横向比较模型。",
+      "该条目反映了开源模型在智能与成本方面的竞争态势。"
+    ],
+    "category": "模型评测"
+  }
+}

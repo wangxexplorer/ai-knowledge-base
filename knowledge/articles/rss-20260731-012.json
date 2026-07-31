@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260731-012",
+  "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+  "source_url": "https://rune.build/blog/rune-1-1-release",
+  "source_type": "rss",
+  "summary": "Rune 1.1版本发布，新增Python支持、Emacs编辑器集成和符号索引功能，并宣布免费开放。Rune是一个面向开发者的工具，此次更新增强了其跨语言和编辑器的兼容性，提升了代码导航体验。该工具与AI/LLM领域关联较弱，主要聚焦于传统开发工具链优化。",
+  "tags": [
+    "开发工具",
+    "Python",
+    "Emacs",
+    "代码索引"
+  ],
+  "status": "draft",
+  "created_at": "2026-07-31T18:41:22+08:00",
+  "updated_at": "2026-07-31T18:41:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "新增Python支持，扩大语言覆盖范围",
+      "集成Emacs编辑器，提升开发效率",
+      "符号索引功能有助于代码导航"
+    ],
+    "category": "开发者工具"
+  }
+}
