@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260801-002",
+  "title": "How to Do Great Work",
+  "source_url": "https://paulgraham.com/greatwork.html",
+  "source_type": "rss",
+  "summary": "该条目是Paul Graham关于如何做出卓越工作的文章，内容聚焦于个人成长、职业选择和创造力培养，与AI、LLM或Agent技术无直接关联。文章可能间接提及技术趋势，但核心是通用方法论，不涉及具体AI技术细节或应用。",
+  "tags": [
+    "个人成长",
+    "职业建议",
+    "创造力"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-01T18:01:29+08:00",
+  "updated_at": "2026-08-01T18:01:29+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "卓越工作需要内在兴趣与持续努力",
+      "选择有前景的领域并深耕",
+      "创造力源于好奇心与独立思考"
+    ],
+    "category": "通用方法论"
+  }
+}

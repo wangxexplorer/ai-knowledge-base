@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260801-012",
+  "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+  "source_url": "https://arxiv.org/abs/2607.28233",
+  "source_type": "rss",
+  "summary": "该条目探讨DRAM读取干扰现象，包括RowHammer和RowPress。RowHammer是重复访问行导致相邻行位翻转的硬件漏洞，RowPress则涉及更复杂的压力效应。文章旨在揭示其机制、影响及缓解策略，对内存安全与系统稳定性至关重要。",
+  "tags": [
+    "硬件安全",
+    "DRAM",
+    "RowHammer",
+    "内存可靠性"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-01T18:01:29+08:00",
+  "updated_at": "2026-08-01T18:01:29+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "RowHammer是DRAM的物理缺陷，可被利用进行权限提升或数据篡改。",
+      "RowPress现象扩展了读取干扰的威胁模型，需新的防护机制。",
+      "缓解措施包括刷新频率调整和错误检测，但面临性能与成本权衡。"
+    ],
+    "category": "硬件安全"
+  }
+}

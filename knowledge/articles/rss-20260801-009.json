@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260801-009",
+  "title": "Flint: A Visualization Language for the AI Era",
+  "source_url": "https://microsoft.github.io/flint-chart/",
+  "source_type": "rss",
+  "summary": "Flint是微软推出的面向AI时代的可视化语言，旨在简化图表创建过程，使AI系统能更自然地生成和交互数据可视化。该工具可能集成LLM能力，通过自然语言指令生成图表，提升数据呈现效率。其与AI、LLM领域相关，但主要聚焦于可视化，而非核心模型或Agent技术。",
+  "tags": [
+    "可视化",
+    "AI",
+    "LLM",
+    "数据呈现",
+    "微软"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-01T18:01:29+08:00",
+  "updated_at": "2026-08-01T18:01:29+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "面向AI时代的可视化语言，可能支持自然语言生成图表",
+      "与LLM结合可简化数据交互和呈现流程",
+      "属于AI应用层工具，非核心模型技术"
+    ],
+    "category": "工具与应用"
+  }
+}

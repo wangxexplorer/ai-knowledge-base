@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260801-008",
+  "title": "The development pipeline is a production system",
+  "source_url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+  "source_type": "rss",
+  "summary": "文章将软件开发流水线视为生产系统，强调其稳定性、可观测性和可靠性对交付质量的重要性。虽未直接涉及AI，但该观点对AI/LLM应用开发中的持续集成、部署和监控具有借鉴意义，尤其适用于Agent系统的工程化实践。",
+  "tags": [
+    "开发流水线",
+    "生产系统",
+    "工程实践",
+    "AI应用",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-01T18:01:29+08:00",
+  "updated_at": "2026-08-01T18:01:29+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "开发流水线需按生产系统标准运维，确保稳定与可观测。",
+      "AI/LLM应用开发可借鉴此理念，强化CI/CD与监控。",
+      "Agent系统需重视流水线可靠性，以保障复杂交互的稳定性。"
+    ],
+    "category": "工程实践"
+  }
+}

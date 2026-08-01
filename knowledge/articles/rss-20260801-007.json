@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260801-007",
+  "title": "Ten Ways NAS Is Getting Enshitified",
+  "source_url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+  "source_type": "rss",
+  "summary": "本文讨论了网络附加存储（NAS）行业正在经历的“恶化”趋势，列举了十种方式，包括厂商锁定、订阅化、隐私侵犯、硬件质量下降、软件臃肿、缺乏可维修性、强制云依赖、数据安全风险、社区支持减弱以及创新停滞。文章批评了NAS厂商为追求利润而牺牲用户体验和开放性的做法，并呼吁用户关注自托管和开源替代方案。",
+  "tags": [
+    "NAS",
+    "存储",
+    "自托管",
+    "开源",
+    "行业趋势"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-01T18:01:29+08:00",
+  "updated_at": "2026-08-01T18:01:29+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "NAS行业正面临商业化侵蚀，用户应警惕厂商锁定和订阅化趋势。",
+      "文章强调自托管和开源方案的重要性，与AI领域的本地化部署理念有间接关联。",
+      "内容与AI/LLM/Agent核心领域关联度低，但可作为技术生态背景参考。"
+    ],
+    "category": "技术行业观察"
+  }
+}

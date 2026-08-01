@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260801-003",
+  "title": "AI doesn't generate working products, that's still your job",
+  "source_url": "https://weeraman.com/the-prototype-isnt-the-product/",
+  "source_type": "rss",
+  "summary": "文章指出AI虽能生成原型，但无法直接产出可用的产品，开发者仍需负责将原型转化为完整产品。强调AI工具在软件开发中的辅助角色，而非替代人类工程师。",
+  "tags": [
+    "AI辅助开发",
+    "产品工程",
+    "原型与产品",
+    "开发者角色"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-01T18:01:29+08:00",
+  "updated_at": "2026-08-01T18:01:29+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI生成的原型与最终产品之间存在巨大鸿沟，需要人工打磨。",
+      "开发者应聚焦于产品化过程，而非依赖AI自动生成完整产品。",
+      "AI工具提升效率，但产品责任和决策仍由人类承担。"
+    ],
+    "category": "AI工程实践"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260801-001",
+  "title": "RamenHaus",
+  "source_url": "https://ramen.haus/",
+  "source_type": "rss",
+  "summary": "RamenHaus是一个网站，其RSS条目显示它被发布在Hacker News上，获得了50个点赞和14条评论。该条目本身没有提供具体技术内容，仅包含链接和评论信息。由于缺乏详细描述，无法判断其与AI、LLM或Agent的直接关联，但作为Hacker News上的技术相关链接，可能涉及软件开发或技术讨论。",
+  "tags": [
+    "Hacker News",
+    "技术链接",
+    "社区讨论"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-01T18:01:29+08:00",
+  "updated_at": "2026-08-01T18:01:29+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "条目内容不明确，无法确认具体技术主题",
+      "来自Hacker News，可能涉及技术或创业话题",
+      "相关性较低，需进一步查看原网站内容"
+    ],
+    "category": "技术社区"
+  }
+}
