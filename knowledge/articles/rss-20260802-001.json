@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260802-001",
+  "title": "The time filter in Google Search broke a few days ago",
+  "source_url": "https://mastodon.online/@mwichary/117023736804129342",
+  "source_type": "rss",
+  "summary": "该条目报道了Google搜索的时间过滤功能在几天前出现故障。这是一个关于搜索引擎功能异常的技术新闻，与AI、LLM或Agent领域没有直接关联。内容仅涉及Google搜索的界面功能问题，不涉及人工智能模型、大语言模型或智能代理技术。",
+  "tags": [
+    "Google搜索",
+    "技术故障",
+    "搜索引擎"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-02T17:58:49+08:00",
+  "updated_at": "2026-08-02T17:58:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Google搜索时间过滤功能出现故障",
+      "该问题与AI技术无关",
+      "属于常规软件维护范畴"
+    ],
+    "category": "技术新闻"
+  }
+}

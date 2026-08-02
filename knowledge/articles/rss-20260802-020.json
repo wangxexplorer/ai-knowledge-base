@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260802-020",
+  "title": "But can your calculator run Linux?",
+  "source_url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+  "source_type": "rss",
+  "summary": "该条目讨论的是在计算器上运行Linux的可能性，属于嵌入式系统和硬件改造的趣味技术话题。内容与AI、LLM或Agent领域无直接关联，但可能涉及边缘计算或轻量级系统部署的底层技术，对理解AI硬件约束有一定间接参考价值。",
+  "tags": [
+    "嵌入式系统",
+    "Linux",
+    "硬件",
+    "边缘计算"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-02T17:58:49+08:00",
+  "updated_at": "2026-08-02T17:58:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "计算器运行Linux展示了轻量级系统的可行性，可能为边缘AI设备提供参考",
+      "该话题与AI核心领域无关，但体现技术探索精神"
+    ],
+    "category": "硬件与系统"
+  }
+}

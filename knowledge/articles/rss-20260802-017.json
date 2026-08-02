@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260802-017",
+  "title": "Atom is better than RSS, in ways that matter",
+  "source_url": "https://chrismorgan.info/atom%3Erss",
+  "source_type": "rss",
+  "summary": "该条目讨论Atom与RSS两种Web订阅格式的优劣，强调Atom在技术细节上优于RSS，如日期格式、扩展性和可读性。内容聚焦于Web标准与数据交换，与AI、LLM或Agent无直接关联，但可作为数据源格式的参考。",
+  "tags": [
+    "Atom",
+    "RSS",
+    "Web标准",
+    "数据交换"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-02T17:58:49+08:00",
+  "updated_at": "2026-08-02T17:58:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Atom在日期和扩展性上优于RSS",
+      "订阅格式对数据获取有影响",
+      "与AI领域关联微弱"
+    ],
+    "category": "Web技术"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260802-011",
+  "title": "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)",
+  "source_url": "https://yarchive.net/comp/128bit.html",
+  "source_type": "rss",
+  "summary": "该条目是1995年John Mashey关于128位处理器前景的技术讨论，主要涉及计算机体系结构、地址空间扩展和处理器设计。内容与AI、LLM或Agent领域无直接关联，属于硬件架构的历史性话题。",
+  "tags": [
+    "处理器",
+    "体系结构",
+    "硬件"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-02T17:58:49+08:00",
+  "updated_at": "2026-08-02T17:58:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "128位处理器讨论聚焦于地址空间和性能，与AI无关",
+      "属于历史技术文档，对现代AI发展无直接影响"
+    ],
+    "category": "计算机硬件"
+  }
+}

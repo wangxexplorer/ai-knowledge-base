@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260802-013",
+  "title": "Unraveling the mysteries of habit formation",
+  "source_url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
+  "source_type": "rss",
+  "summary": "该条目来自京都大学，探讨习惯形成的神经机制，属于认知科学与行为科学领域。内容未涉及AI、LLM或Agent技术，但习惯形成机制对AI行为建模、强化学习中的策略优化及智能体长期行为设计具有潜在启发。",
+  "tags": [
+    "习惯形成",
+    "认知科学",
+    "行为建模",
+    "强化学习"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-02T17:58:49+08:00",
+  "updated_at": "2026-08-02T17:58:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "习惯形成机制可类比于强化学习中的策略固化",
+      "对设计具有长期稳定行为的AI智能体有参考价值",
+      "跨学科研究可能促进AI与神经科学的融合"
+    ],
+    "category": "认知科学"
+  }
+}

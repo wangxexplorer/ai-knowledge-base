@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260802-018",
+  "title": "Seedance 2.5",
+  "source_url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+  "source_type": "rss",
+  "summary": "Seedance 2.5是字节跳动推出的视频生成模型，支持一次性创建和灵活引用，在Hacker News上引发讨论。该技术属于多模态AI生成领域，与LLM和Agent的关联在于其底层可能使用Transformer架构，并可作为多模态Agent的视觉生成组件。",
+  "tags": [
+    "视频生成",
+    "多模态",
+    "字节跳动",
+    "生成模型",
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-02T17:58:49+08:00",
+  "updated_at": "2026-08-02T17:58:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "Seedance 2.5专注于视频生成，扩展了AI在视觉内容创作的能力。",
+      "灵活引用功能可能涉及对已有内容的语义理解，与LLM的上下文处理有共通性。",
+      "作为多模态模型，Seedance 2.5可集成到Agent系统中，增强其视觉交互和内容生成能力。"
+    ],
+    "category": "多模态生成"
+  }
+}

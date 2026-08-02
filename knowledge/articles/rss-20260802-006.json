@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260802-006",
+  "title": "Four Time Scales for Technology Development and Deployment",
+  "source_url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
+  "source_type": "rss",
+  "summary": "Rodney Brooks在其博客文章中提出了技术开发与部署的四个时间尺度，旨在帮助理解技术从研发到实际应用的演进周期。文章强调，不同技术（如AI、机器人等）的发展速度各异，需区分短期炒作与长期趋势。通过分析历史案例，作者指出技术成熟需经历实验室突破、工程化、产品化和广泛部署等阶段，每个阶段耗时不同。该框架有助于投资者、政策制定者和技术人员更理性地评估技术前景，避免过度乐观或悲观。文章特别提及AI",
+  "tags": [
+    "技术发展",
+    "时间尺度",
+    "AI趋势",
+    "技术预测",
+    "Rodney Brooks"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-02T17:58:49+08:00",
+  "updated_at": "2026-08-02T17:58:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "技术发展需区分四个时间尺度，避免混淆短期进展与长期影响。",
+      "AI虽快速发展，但全面部署和社会影响需更长时间，应保持理性预期。",
+      "该框架适用于评估AI、机器人等新兴技术的成熟度和投资时机。"
+    ],
+    "category": "技术分析"
+  }
+}

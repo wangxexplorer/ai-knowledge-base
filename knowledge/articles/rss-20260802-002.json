@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260802-002",
+  "title": "I don't recommend Tailwind CSS",
+  "source_url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
+  "source_type": "rss",
+  "summary": "该条目是一篇关于不推荐使用Tailwind CSS的技术博客，主要讨论CSS框架的优缺点，与AI、LLM或Agent领域无直接关联。内容聚焦于前端开发工具的选择，可能涉及开发者体验和代码维护性，但未涉及人工智能相关技术。",
+  "tags": [
+    "Tailwind CSS",
+    "前端开发",
+    "CSS框架",
+    "开发者体验"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-02T17:58:49+08:00",
+  "updated_at": "2026-08-02T17:58:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Tailwind CSS存在某些设计或使用上的问题，导致作者不推荐",
+      "前端工具选择与AI技术栈无直接交集",
+      "该讨论对AI领域开发者参考价值有限"
+    ],
+    "category": "前端开发"
+  }
+}

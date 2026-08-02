@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260802-008",
+  "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+  "source_url": "https://github.com/tom-ilan/cycloidal_gearbox",
+  "source_type": "rss",
+  "summary": "该项目展示了一位15岁少年制作的摆线齿轮箱，属于机械工程领域。虽然与AI、LLM或Agent无直接关联，但体现了年轻创客的工程实践能力，可能涉及CAD设计和3D打印技术。在AI领域，此类硬件项目可作为机器人或自动化系统的机械组件，但核心内容不涉及人工智能算法或模型。",
+  "tags": [
+    "机械工程",
+    "齿轮箱",
+    "创客",
+    "硬件",
+    "青少年教育"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-02T17:58:49+08:00",
+  "updated_at": "2026-08-02T17:58:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "摆线齿轮箱是精密机械传动装置，常用于机器人关节，但项目本身未涉及AI控制或智能算法。",
+      "该作品展示了青少年在工程领域的实践能力，可能对STEM教育有启发意义，但与AI技术栈无直接交集。",
+      "若未来结合AI进行运动控制或优化设计，可提升其与AI领域的相关性。"
+    ],
+    "category": "硬件工程"
+  }
+}

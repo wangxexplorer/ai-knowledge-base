@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260802-012",
+  "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+  "source_url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+  "source_type": "rss",
+  "summary": "该RFC提议在TLS 1.2和DTLS 1.2中弃用过时的密钥交换方法，以增强安全性。虽然不直接涉及AI，但为AI系统依赖的安全通信提供了基础保障，属于网络安全领域的技术更新。",
+  "tags": [
+    "TLS",
+    "安全",
+    "RFC",
+    "密钥交换",
+    "网络协议"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-02T17:58:49+08:00",
+  "updated_at": "2026-08-02T17:58:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "提升AI系统通信安全性",
+      "反映技术演进对安全标准的影响",
+      "属于基础设施层面的更新"
+    ],
+    "category": "网络安全"
+  }
+}

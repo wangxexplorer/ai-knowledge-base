@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260802-003",
+  "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+  "source_url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+  "source_type": "rss",
+  "summary": "该文章讨论了在MI355X硬件上运行Kimi K3模型，并声称其性价比优于NVIDIA B300。这涉及AI模型部署、硬件性能对比和成本效益分析，与AI和LLM领域高度相关，特别是模型推理优化和硬件选择方面。",
+  "tags": [
+    "Kimi K3",
+    "MI355X",
+    "B300",
+    "模型部署",
+    "性价比"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-02T17:58:49+08:00",
+  "updated_at": "2026-08-02T17:58:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "MI355X在运行Kimi K3时提供比B300更高的性价比",
+      "硬件选择对LLM推理成本有显著影响",
+      "文章可能涉及特定优化技术或基准测试"
+    ],
+    "category": "AI基础设施与性能"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260802-009",
+  "title": "Go 1.27 Interactive Tour",
+  "source_url": "https://victoriametrics.com/blog/go-1-27/index.html",
+  "source_type": "rss",
+  "summary": "该条目介绍Go 1.27版本的交互式教程，内容聚焦于Go语言的新特性和编程实践，与AI、LLM或Agent技术无直接关联。虽然Go语言常用于构建AI基础设施，但此条目本身不涉及AI模型、智能体或相关算法。",
+  "tags": [
+    "Go语言",
+    "编程教程",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-02T17:58:49+08:00",
+  "updated_at": "2026-08-02T17:58:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Go 1.27版本更新可能影响AI工具链的底层实现",
+      "交互式教程有助于开发者学习Go语言，间接支持AI项目开发"
+    ],
+    "category": "编程语言"
+  }
+}

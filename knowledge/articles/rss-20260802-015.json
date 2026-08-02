@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260802-015",
+  "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+  "source_url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+  "source_type": "rss",
+  "summary": "MIT Sloan的研究表明，AI金融建议的质量出人意料地高，尤其是在用户提出正确问题的情况下。文章探讨了大型语言模型在金融咨询领域的应用潜力，指出AI能够提供有价值的财务指导，但提问方式对结果影响显著。这反映了LLM在专业领域应用的可行性，同时也强调了提示工程和用户交互设计的重要性。",
+  "tags": [
+    "AI应用",
+    "金融科技",
+    "LLM",
+    "提示工程",
+    "人机交互"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-02T17:58:49+08:00",
+  "updated_at": "2026-08-02T17:58:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "LLM在专业领域（如金融）可提供高质量建议，但依赖用户提问质量",
+      "提示工程对AI输出效果有显著影响，是实际应用的关键环节",
+      "AI金融咨询的可行性为Agent在垂直行业的落地提供了实证支持"
+    ],
+    "category": "AI应用"
+  }
+}

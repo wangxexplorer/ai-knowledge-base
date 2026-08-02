@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260802-004",
+  "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+  "source_url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+  "source_type": "rss",
+  "summary": "该条目讨论的是MkLinux操作系统在Apple Workgroup Server 9150上的应用，属于历史技术话题，与AI、LLM或Agent领域无直接关联。内容聚焦于Linux在旧款苹果服务器上的移植和优化，属于操作系统和硬件兼容性范畴。",
+  "tags": [
+    "MkLinux",
+    "Apple",
+    "操作系统",
+    "历史技术"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-02T17:58:49+08:00",
+  "updated_at": "2026-08-02T17:58:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "MkLinux是Linux在PowerPC架构上的早期移植版本",
+      "Apple Workgroup Server 9150是90年代的专业服务器",
+      "该内容反映的是Linux与苹果硬件的兼容性探索"
+    ],
+    "category": "操作系统"
+  }
+}

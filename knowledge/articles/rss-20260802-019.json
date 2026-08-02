@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260802-019",
+  "title": "Diátaxis",
+  "source_url": "https://diataxis.fr/",
+  "source_type": "rss",
+  "summary": "Diátaxis是一种文档分类框架，将技术文档分为教程、操作指南、解释和参考四类，以提升文档质量和用户体验。该框架与AI、LLM和Agent领域相关，因为构建AI产品时，清晰的结构化文档对开发者使用API、理解模型行为及部署Agent至关重要。此框架可指导AI项目文档编写，促进技术传播和产品落地。",
+  "tags": [
+    "文档框架",
+    "技术写作",
+    "AI产品",
+    "开发者体验",
+    "知识管理"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-02T17:58:49+08:00",
+  "updated_at": "2026-08-02T17:58:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "Diátaxis提供四类文档划分，有助于AI项目文档组织，提升可读性和易用性。",
+      "在AI/LLM/Agent领域，清晰文档可降低使用门槛，促进技术采纳。",
+      "该框架适用于API文档、模型说明和Agent使用指南，是AI产品开发的重要辅助。"
+    ],
+    "category": "技术文档与知识管理"
+  }
+}

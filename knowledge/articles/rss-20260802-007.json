@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260802-007",
+  "title": "When random.bytes() runs but doesn't work",
+  "source_url": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
+  "source_type": "rss",
+  "summary": "该条目讨论的是random.bytes()函数在运行时看似执行但实际未生效的问题，属于编程技术调试类内容。文章可能涉及随机数生成、系统调用或环境配置等底层细节，与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "编程",
+    "调试",
+    "随机数"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-02T17:58:49+08:00",
+  "updated_at": "2026-08-02T17:58:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "随机数生成问题可能源于环境或配置错误",
+      "文章聚焦于底层技术细节，非AI相关"
+    ],
+    "category": "软件开发"
+  }
+}
