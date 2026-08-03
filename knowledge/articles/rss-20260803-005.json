@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260803-005",
+  "title": "The true power of regular expressions (2012)",
+  "source_url": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html",
+  "source_type": "rss",
+  "summary": "本文探讨正则表达式的真正威力，指出其不仅限于模式匹配，还能通过递归和反向引用实现更复杂的计算，甚至模拟图灵机。作者以2012年的视角，深入解析正则表达式的理论边界和实际应用，强调其在文本处理中的强大能力，并讨论了与形式语言理论的关系。文章对理解计算模型和语言处理有启发意义，但未直接涉及AI或LLM。",
+  "tags": [
+    "正则表达式",
+    "计算理论",
+    "文本处理",
+    "形式语言"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-03T19:25:07+08:00",
+  "updated_at": "2026-08-03T19:25:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "正则表达式可模拟图灵机，具备理论上的强大计算能力",
+      "递归和反向引用扩展了正则表达式的表达能力",
+      "对理解语言处理底层机制有参考价值"
+    ],
+    "category": "编程技术"
+  }
+}

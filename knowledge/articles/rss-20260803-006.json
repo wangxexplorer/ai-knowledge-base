@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260803-006",
+  "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+  "source_url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
+  "source_type": "rss",
+  "summary": "该条目讨论的是通过PPPoE半桥接技术优化UniFi网络设备的PPPoE性能问题，属于网络工程和硬件优化领域。内容聚焦于网络协议配置和性能调优，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "网络优化",
+    "PPPoE",
+    "UniFi",
+    "硬件性能"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-03T19:25:07+08:00",
+  "updated_at": "2026-08-03T19:25:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "PPPoE半桥接可提升网络性能",
+      "属于基础设施优化，非AI技术"
+    ],
+    "category": "网络工程"
+  }
+}

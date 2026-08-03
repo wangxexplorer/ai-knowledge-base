@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260803-018",
+  "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+  "source_url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+  "source_type": "rss",
+  "summary": "本文讨论了Book Corners项目为何不将贡献数据同步回OpenStreetMap的原因，涉及数据质量、社区规范和技术实现等考量。作者可能认为同步会带来维护负担或与OSM的编辑准则冲突。文章反映了开源地图生态中数据协作的复杂性，但整体与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "OpenStreetMap",
+    "数据同步",
+    "开源社区"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-03T19:25:07+08:00",
+  "updated_at": "2026-08-03T19:25:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "数据同步需考虑社区规范与数据质量",
+      "开源项目间协作存在技术和管理挑战",
+      "文章主题与AI技术无关"
+    ],
+    "category": "开源与数据协作"
+  }
+}

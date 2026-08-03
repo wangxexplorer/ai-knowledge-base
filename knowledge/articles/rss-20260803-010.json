@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260803-010",
+  "title": "The AI Productivity Gap",
+  "source_url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+  "source_type": "rss",
+  "summary": "文章探讨了AI生产力差距现象，即AI技术在实际应用中并未显著提升生产力，反而可能因过度依赖或错误使用导致效率下降。作者分析了AI工具在知识工作、软件开发等领域的实际效果与预期之间的落差，指出组织和个人在采用AI时面临的挑战，如学习成本、任务适配性、输出质量验证等。文章强调，AI的真正价值取决于工作流程的重新设计和人类技能的互补，而非简单替代。这一观点对理解LLM和Agent技术的实际落地具有参考意",
+  "tags": [
+    "AI生产力",
+    "技术应用",
+    "工作流程",
+    "LLM落地",
+    "效率分析"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-03T19:25:07+08:00",
+  "updated_at": "2026-08-03T19:25:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI技术存在生产力差距，实际效果常低于预期，需关注任务适配性。",
+      "有效利用AI需重新设计工作流程，而非简单替代现有方法。",
+      "LLM和Agent的落地效果受人类技能和验证机制制约。"
+    ],
+    "category": "AI应用与影响"
+  }
+}

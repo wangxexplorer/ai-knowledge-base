@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260803-019",
+  "title": "SwiftUI After 7 Years",
+  "source_url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
+  "source_type": "rss",
+  "summary": "本文回顾了SwiftUI框架发布7年来的发展历程，指出其存在诸多问题，如性能不佳、API设计不一致、缺乏创新等，认为其表现平庸。文章引发了开发者社区的广泛讨论，反映了对苹果开发框架的批评与期待。",
+  "tags": [
+    "SwiftUI",
+    "苹果开发",
+    "框架批评"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-03T19:25:07+08:00",
+  "updated_at": "2026-08-03T19:25:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "SwiftUI发展未达预期，存在性能与API设计问题",
+      "社区对苹果开发框架的批评与讨论",
+      "与AI/LLM领域无直接关联"
+    ],
+    "category": "技术评论"
+  }
+}

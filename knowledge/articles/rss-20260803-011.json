@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260803-011",
+  "title": "Rust project goals: Immobile types and guaranteed destructors",
+  "source_url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+  "source_type": "rss",
+  "summary": "该条目讨论Rust语言2026年的项目目标，提出引入不可移动类型和保证析构函数的概念，旨在增强类型系统的安全性和资源管理确定性。虽然不直接涉及AI或LLM，但Rust作为AI基础设施（如推理引擎、数据处理）的常用语言，其类型系统改进可提升底层系统可靠性，间接支持AI应用。",
+  "tags": [
+    "Rust",
+    "类型系统",
+    "内存安全",
+    "系统编程",
+    "AI基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-03T19:25:07+08:00",
+  "updated_at": "2026-08-03T19:25:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "不可移动类型可防止对象在内存中意外移动，增强资源管理安全性。",
+      "保证析构函数确保资源释放的确定性，减少内存泄漏风险。",
+      "此类改进对构建高性能、高可靠性的AI系统底层组件有积极影响。"
+    ],
+    "category": "编程语言与系统"
+  }
+}

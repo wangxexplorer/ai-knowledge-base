@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260803-016",
+  "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+  "source_url": "https://github.com/johnsonjh/cpm386",
+  "source_type": "rss",
+  "summary": "CP/M-386是一个将CP/M操作系统移植到Intel 386保护模式的项目，源自CP/M-68K。它属于复古操作系统和软件移植领域，与AI、LLM或Agent技术无直接关联。该项目主要涉及操作系统内核、硬件抽象和兼容层，可能对研究操作系统历史或嵌入式系统开发有兴趣，但不涉及现代AI技术。",
+  "tags": [
+    "操作系统",
+    "复古计算",
+    "软件移植"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-03T19:25:07+08:00",
+  "updated_at": "2026-08-03T19:25:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该项目是历史操作系统CP/M的现代移植，与AI技术无关。",
+      "它展示了将旧系统适配新硬件架构的技术挑战。",
+      "对AI领域无直接参考价值，但可能对系统编程爱好者有启发。"
+    ],
+    "category": "操作系统/复古软件"
+  }
+}

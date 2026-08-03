@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260803-012",
+  "title": "Don't be a meat proxy",
+  "source_url": "https://gruhn.me/blog/2026-08-03/",
+  "source_type": "rss",
+  "summary": "该条目标题为“Don't be a meat proxy”，源自Hacker News，讨论在AI时代避免成为“肉代理”（即被AI替代或沦为AI的机械执行者）。文章可能探讨人类在自动化中的角色、AI对就业的影响以及如何保持人类独特价值。内容与AI、LLM和Agent领域相关，涉及人机协作、AI伦理和未来工作形态。",
+  "tags": [
+    "AI伦理",
+    "人机协作",
+    "自动化",
+    "就业影响",
+    "人类价值"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-03T19:25:07+08:00",
+  "updated_at": "2026-08-03T19:25:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "强调人类在AI时代需避免沦为机械执行者",
+      "探讨AI对就业和人类角色的冲击",
+      "呼吁保持人类独特价值与创造力"
+    ],
+    "category": "AI社会影响"
+  }
+}

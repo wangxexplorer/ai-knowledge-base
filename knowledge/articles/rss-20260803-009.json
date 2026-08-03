@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260803-009",
+  "title": "The Shape of Things to Come",
+  "source_url": "https://yegge.ai/essays/the-shape-of-things-to-come/",
+  "source_type": "rss",
+  "summary": "该条目是Steve Yegge在个人网站发布的一篇长文，标题为《The Shape of Things to Come》，在Hacker News上引发讨论。文章内容虽未直接给出，但结合作者背景和标题，推测其探讨了AI、LLM及Agent技术的未来发展趋势，可能涉及技术演进、行业影响或人机交互范式变革。作为技术圈知名博主，Yegge的观点常具前瞻性，该文或为AI领域的重要评论。",
+  "tags": [
+    "AI趋势",
+    "LLM",
+    "Agent",
+    "技术预测",
+    "Steve Yegge"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-03T19:25:07+08:00",
+  "updated_at": "2026-08-03T19:25:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "文章可能预测AI/LLM/Agent的未来形态与影响",
+      "作者为知名技术评论家，观点具参考价值",
+      "Hacker News讨论热度表明社区关注度高"
+    ],
+    "category": "技术评论"
+  }
+}

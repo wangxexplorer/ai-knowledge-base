@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260803-014",
+  "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+  "source_url": "https://qwen.ai/blog?id=qwen3.8",
+  "source_type": "rss",
+  "summary": "Qwen3.8-Max是阿里通义千问团队发布的最新大语言模型，专注于提升代码生成能力和协作功能。该模型在编程任务上设立了新基准，同时强化了多智能体协作场景下的表现。文章发布在Hacker News上引发广泛讨论，获得633分和316条评论，显示出社区对国产开源模型的高度关注。模型可能延续了Qwen系列的开源策略，为开发者提供更强大的代码辅助和自动化工具支持。",
+  "tags": [
+    "Qwen",
+    "代码生成",
+    "大语言模型",
+    "多智能体协作",
+    "开源模型"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-03T19:25:07+08:00",
+  "updated_at": "2026-08-03T19:25:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Qwen3.8-Max在代码生成任务上达到新SOTA水平，可能超越同类开源模型",
+      "模型强调'Cowork'能力，暗示对多Agent协作场景的优化",
+      "Hacker News高热度表明开发者社区对国产模型性能突破的认可"
+    ],
+    "category": "模型发布"
+  }
+}

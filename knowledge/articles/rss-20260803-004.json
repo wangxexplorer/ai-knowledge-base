@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260803-004",
+  "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+  "source_url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+  "source_type": "rss",
+  "summary": "PISIGuard是一个开源工具，旨在保护用户在与AI聊天时的个人和敏感信息。它可能通过检测、脱敏或过滤机制，防止数据泄露给大语言模型。该项目在Hacker News上获得初步关注，反映了AI应用隐私保护的需求。",
+  "tags": [
+    "隐私保护",
+    "数据安全",
+    "AI安全",
+    "开源工具",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-03T19:25:07+08:00",
+  "updated_at": "2026-08-03T19:25:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "针对AI对话场景的隐私保护工具，直接关联LLM应用安全",
+      "开源项目，社区关注度初步显现，可能成为AI安全生态的一部分",
+      "满足用户对AI交互中敏感信息防护的迫切需求"
+    ],
+    "category": "AI安全与隐私"
+  }
+}

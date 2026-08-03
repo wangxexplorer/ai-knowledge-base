@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260803-007",
+  "title": "Bonsai: Janestreet's UI Library",
+  "source_url": "https://github.com/janestreet/bonsai",
+  "source_type": "rss",
+  "summary": "Bonsai是Jane Street开发的一个OCaml/ReasonML UI库，用于构建类型安全、可组合的Web界面。它强调函数式编程和响应式状态管理，与AI/LLM/Agent领域无直接关联，但可作为构建AI工具前端的技术选项。",
+  "tags": [
+    "UI库",
+    "OCaml",
+    "函数式编程",
+    "前端开发"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-03T19:25:07+08:00",
+  "updated_at": "2026-08-03T19:25:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Bonsai是Jane Street的UI库，与AI核心算法无关。",
+      "可用于构建AI应用的用户界面，但非AI专用。",
+      "其类型安全特性可能对复杂AI前端开发有益。"
+    ],
+    "category": "软件开发工具"
+  }
+}
