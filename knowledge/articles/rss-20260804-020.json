@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260804-020",
+  "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+  "source_url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+  "source_type": "rss",
+  "summary": "数据库领域知名学者Andy Pavlo加入ClickHouse，成立ClickHouse Labs。该实验室将专注于数据库技术的前沿研究与创新，特别是分析型数据库的性能优化和架构演进。此事件对AI/LLM领域有一定间接影响，因为数据库是AI应用的重要基础设施，高性能数据库可支撑大规模AI模型的训练和推理数据管理。",
+  "tags": [
+    "数据库",
+    "ClickHouse",
+    "基础设施",
+    "AI应用"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-04T18:41:10+08:00",
+  "updated_at": "2026-08-04T18:41:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "数据库性能对AI工作负载至关重要",
+      "ClickHouse Labs可能推动AI数据管理创新",
+      "学术界与工业界合作加速技术落地"
+    ],
+    "category": "技术基础设施"
+  }
+}

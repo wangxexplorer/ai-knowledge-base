@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260804-013",
+  "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+  "source_url": "https://github.com/leonickson1/Swiftlet",
+  "source_type": "rss",
+  "summary": "该项目展示了一种在Mac上仅用4.3GB内存运行80B参数Qwen模型，以及在iPhone上运行35B模型的技术方案。通过极致的量化与内存优化，大幅降低了大型语言模型的硬件门槛，使得高端模型能在消费级设备上本地运行。这体现了AI推理效率的显著进步，对边缘计算和隐私保护有重要意义，也展示了开源社区在模型压缩和部署方面的创新。",
+  "tags": [
+    "模型量化",
+    "边缘部署",
+    "LLM推理",
+    "内存优化",
+    "开源工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-04T18:41:10+08:00",
+  "updated_at": "2026-08-04T18:41:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "通过先进量化技术，80B模型内存占用降至4.3GB，实现消费级硬件运行大模型",
+      "该方案支持iPhone等移动设备，推动AI本地化与隐私保护",
+      "展示了开源社区在模型压缩和高效推理方面的持续创新"
+    ],
+    "category": "AI模型部署与优化"
+  }
+}

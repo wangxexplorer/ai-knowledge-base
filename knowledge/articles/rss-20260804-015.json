@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260804-015",
+  "title": "Ten advances in mathematics and theoretical computer science",
+  "source_url": "https://openai.com/index/ten-advances-in-mathematics/",
+  "source_type": "rss",
+  "summary": "OpenAI发布文章，总结其在数学和理论计算机科学领域的十项进展，涵盖算法、复杂性理论、数学推理等方向，展示了AI在推动基础科学发现中的潜力。",
+  "tags": [
+    "OpenAI",
+    "数学",
+    "理论计算机科学",
+    "AI进展",
+    "算法"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-04T18:41:10+08:00",
+  "updated_at": "2026-08-04T18:41:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "AI正被用于解决数学和理论计算机科学中的开放问题",
+      "OpenAI在基础科学领域的投入体现了AI的跨学科影响力",
+      "这些进展可能为LLM和Agent的推理能力提供理论支撑"
+    ],
+    "category": "AI研究进展"
+  }
+}

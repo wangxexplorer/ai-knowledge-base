@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260804-009",
+  "title": "ZX Spectrum System Tour: Text Mode",
+  "source_url": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
+  "source_type": "rss",
+  "summary": "本文介绍了ZX Spectrum计算机的文本模式系统，包括其屏幕内存布局、字符集和文本显示机制。内容聚焦于经典8位计算机的硬件和软件实现细节，属于复古计算领域。与AI、LLM或Agent技术无直接关联，但可能对理解早期计算机图形和文本处理有历史参考价值。",
+  "tags": [
+    "ZX Spectrum",
+    "复古计算",
+    "文本模式",
+    "硬件",
+    "计算机历史"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-04T18:41:10+08:00",
+  "updated_at": "2026-08-04T18:41:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "ZX Spectrum文本模式采用独特的屏幕内存映射方式",
+      "文章详细描述了字符集和显示控制机制",
+      "对理解早期个人计算机架构有参考意义"
+    ],
+    "category": "复古计算"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260804-002",
+  "title": "FFmpeg 9.0",
+  "source_url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+  "source_type": "rss",
+  "summary": "FFmpeg 9.0 是开源多媒体处理框架的重大版本更新，主要涉及音视频编解码、滤镜、格式支持等底层功能改进。该版本与AI、LLM或Agent领域无直接关联，但作为基础工具，可能为AI驱动的媒体处理应用提供底层支持。",
+  "tags": [
+    "FFmpeg",
+    "多媒体",
+    "音视频处理",
+    "开源软件"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-04T18:41:10+08:00",
+  "updated_at": "2026-08-04T18:41:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "FFmpeg 9.0 是多媒体处理领域的常规更新，不涉及AI核心算法。",
+      "在AI应用中，FFmpeg 可作为数据预处理工具，但本身不具备智能特性。",
+      "该版本更新对AI领域影响极小，相关性较低。"
+    ],
+    "category": "基础工具"
+  }
+}

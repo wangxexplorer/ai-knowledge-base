@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260804-012",
+  "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+  "source_url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+  "source_type": "rss",
+  "summary": "该条目庆祝Kermit协议45周年及C-Kermit软件15年来首次新版本发布，内容聚焦于维护数十年历史的C语言代码库的经验。Kermit是经典的文件传输协议，与AI、LLM或Agent领域无直接关联，但涉及软件维护、向后兼容性和技术债务等通用工程话题。",
+  "tags": [
+    "软件维护",
+    "C语言",
+    "协议",
+    "技术债务",
+    "历史软件"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-04T18:41:10+08:00",
+  "updated_at": "2026-08-04T18:41:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "长期维护旧代码库的挑战与策略",
+      "经典协议在现代技术生态中的延续",
+      "技术债务管理对软件生命周期的重要性"
+    ],
+    "category": "软件开发"
+  }
+}

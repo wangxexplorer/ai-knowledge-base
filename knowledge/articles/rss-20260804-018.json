@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260804-018",
+  "title": "Ask HN: Who wants to be hired? (August 2026)",
+  "source_url": "https://news.ycombinator.com/item?id=49156682",
+  "source_type": "rss",
+  "summary": "这是Hacker News上的月度招聘帖，供求职者发布个人求职信息，包括地点、技术栈、简历等，并推荐了nthesis.ai等聚合搜索工具。该条目本身是社区招聘信息，与AI/LLM/Agent技术无直接关联，但提及了AI驱动的求职匹配平台，反映了AI在招聘领域的应用。",
+  "tags": [
+    "招聘",
+    "Hacker News",
+    "求职",
+    "AI应用"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-04T18:41:10+08:00",
+  "updated_at": "2026-08-04T18:41:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "该帖子是HN社区的常规招聘活动，非技术内容。",
+      "提及的nthesis.ai等工具可能利用AI进行职位匹配，但未详细说明。",
+      "与LLM/Agent核心技术无关，仅作为AI应用场景的间接参考。"
+    ],
+    "category": "社区招聘"
+  }
+}

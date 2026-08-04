@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260804-010",
+  "title": "LLMs reward expertise",
+  "source_url": "https://www.seangoedecke.com/llms-reward-expertise/",
+  "source_type": "rss",
+  "summary": "本文探讨了大型语言模型（LLMs）如何奖励专业知识，即在使用LLM时，具备深厚领域知识的用户能获得更高质量的输出。文章强调，LLM并非替代专业知识，而是放大专业优势，专家通过精准提问和上下文设定，能更有效利用模型能力。内容对AI应用实践有指导意义，提示用户需结合自身专长与LLM协作。",
+  "tags": [
+    "LLM",
+    "专业知识",
+    "人机协作",
+    "提示工程",
+    "AI应用"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-04T18:41:10+08:00",
+  "updated_at": "2026-08-04T18:41:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "LLM输出质量高度依赖用户领域知识，专家能更好引导模型。",
+      "专业知识与LLM结合可产生协同效应，而非被替代。",
+      "提示工程需结合领域背景，以释放LLM最大潜力。"
+    ],
+    "category": "AI应用与策略"
+  }
+}

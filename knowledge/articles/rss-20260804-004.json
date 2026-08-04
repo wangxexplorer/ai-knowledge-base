@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260804-004",
+  "title": "You don't need React: creating a minimal UI library in Vanilla JavaScript",
+  "source_url": "https://pedroth.github.io/?p=post/NoNeedReact",
+  "source_type": "rss",
+  "summary": "该文章讨论使用原生JavaScript构建极简UI库，替代React等前端框架。内容聚焦前端开发技术，与AI、LLM或Agent领域无直接关联，但可能涉及AI辅助前端开发或Agent生成UI的潜在应用场景。",
+  "tags": [
+    "前端开发",
+    "JavaScript",
+    "UI库",
+    "React替代"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-04T18:41:10+08:00",
+  "updated_at": "2026-08-04T18:41:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "原生JS可构建轻量UI方案",
+      "减少框架依赖",
+      "对AI生成界面有间接参考价值"
+    ],
+    "category": "前端开发"
+  }
+}

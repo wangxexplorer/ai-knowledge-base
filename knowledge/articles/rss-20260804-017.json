@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260804-017",
+  "title": "Ask HN: Who is hiring? (August 2026)",
+  "source_url": "https://news.ycombinator.com/item?id=49156683",
+  "source_type": "rss",
+  "summary": "这是Hacker News上2026年8月的招聘帖，要求公司直接发布职位信息，注明工作地点和远程/现场情况。帖子提供了多个第三方搜索工具链接，方便求职者查找职位。该条目本身是招聘信息汇总，与AI、LLM、Agent领域无直接关联，但可能包含相关职位。",
+  "tags": [
+    "招聘",
+    "Hacker News",
+    "远程工作",
+    "求职"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-04T18:41:10+08:00",
+  "updated_at": "2026-08-04T18:41:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "该帖子是HN社区月度招聘帖，非AI专项。",
+      "提供了多个第三方搜索工具，便于筛选职位。",
+      "可能包含AI相关岗位，但需自行筛选。"
+    ],
+    "category": "招聘信息"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260804-014",
+  "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+  "source_url": "https://hoplite.sh",
+  "source_type": "rss",
+  "summary": "Hoplite是YC孵化的云编码代理部署平台，支持将本地开发环境（会话、记忆、MCP服务器）迁移至云端，并内置QA工具链，便于开发者并行运行数百个代理进行功能验证。其自研代理框架，不依赖Codex或Claude Code，基础设施基于AWS、Temporal、Modal和Planetscale，强调代理作为一级基础设施的可靠性与安全性。产品定位未来6-12个月主流开发模式：开发者从代码审查转向产品",
+  "tags": [
+    "云代理",
+    "编码代理",
+    "QA自动化",
+    "开发工具",
+    "YC"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-04T18:41:10+08:00",
+  "updated_at": "2026-08-04T18:41:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "云编码代理部署与QA自动化是AI工程化的重要方向",
+      "自研代理框架体现对模型供应商的独立性需求",
+      "代理基础设施化趋势要求高可靠性与安全性"
+    ],
+    "category": "AI开发工具"
+  }
+}

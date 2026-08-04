@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260804-006",
+  "title": "Harness Engineering for Self-Improvement",
+  "source_url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+  "source_type": "rss",
+  "summary": "该条目来自Lilian Weng的博客，题为“Harness Engineering for Self-Improvement”，讨论AI系统通过外部工具和反馈机制实现自我改进的工程方法。内容涉及LLM与Agent的自我优化、工具使用和迭代学习，与AI、LLM和Agent领域高度相关。",
+  "tags": [
+    "Self-Improvement",
+    "LLM",
+    "Agent",
+    "Tool Use",
+    "AI Engineering"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-04T18:41:10+08:00",
+  "updated_at": "2026-08-04T18:41:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "强调外部工具和反馈在AI自我改进中的关键作用",
+      "为LLM和Agent的自主迭代提供工程实践指导",
+      "与当前AI领域的热点方向紧密相关"
+    ],
+    "category": "AI技术博客"
+  }
+}
