@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260805-005",
+  "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+  "source_url": "https://arxiv.org/abs/2603.04221",
+  "source_type": "rss",
+  "summary": "该条目比较了Zigbee和Matter over Thread两种物联网协议的实践性能，属于物联网通信技术领域。虽然与AI、LLM、Agent无直接关联，但物联网设备作为AI Agent的物理载体，其协议性能可能影响边缘AI应用的实时性和可靠性。",
+  "tags": [
+    "物联网",
+    "协议性能",
+    "Zigbee",
+    "Matter",
+    "Thread"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-05T18:36:41+08:00",
+  "updated_at": "2026-08-05T18:36:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "物联网协议性能是边缘AI应用的基础支撑。",
+      "协议选择可能影响AI Agent与物理世界的交互效率。",
+      "该研究对智能家居中的AI集成有间接参考价值。"
+    ],
+    "category": "物联网技术"
+  }
+}

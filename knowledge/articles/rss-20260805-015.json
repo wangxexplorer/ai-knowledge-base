@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260805-015",
+  "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+  "source_url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+  "source_type": "rss",
+  "summary": "国际刑警组织报告指出，AI技术已推动非洲网络犯罪占比超过一半，数字诈骗激增。报告强调AI被滥用于生成钓鱼内容、深度伪造和自动化攻击，加剧了非洲网络安全威胁。该现象凸显AI双刃剑效应，需加强监管与国际合作。",
+  "tags": [
+    "AI安全",
+    "网络犯罪",
+    "非洲",
+    "深度伪造",
+    "监管"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-05T18:36:41+08:00",
+  "updated_at": "2026-08-05T18:36:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI技术显著降低了网络犯罪门槛，使诈骗规模化",
+      "深度伪造和AI生成内容成为主要攻击工具",
+      "非洲地区需加强AI安全能力建设与国际协作"
+    ],
+    "category": "AI安全与治理"
+  }
+}

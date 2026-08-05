@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260805-011",
+  "title": "Show HN: SIMD Viterbi Decoder in Rust",
+  "source_url": "https://github.com/brian-armstrong/fec",
+  "source_type": "rss",
+  "summary": "该项目用Rust实现SIMD优化的Viterbi解码器，用于卷积码纠错，属于通信领域。与AI/LLM/Agent无直接关联，但展示了SIMD和性能优化技术，可能对AI推理加速有间接参考价值。",
+  "tags": [
+    "Rust",
+    "SIMD",
+    "Viterbi",
+    "性能优化",
+    "纠错码"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-05T18:36:41+08:00",
+  "updated_at": "2026-08-05T18:36:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "利用Rust的std::simd实现运行时指令集分派，提升解码性能。",
+      "通过模板化设计支持不同码率和阶数，优化寄存器使用。",
+      "开发工具搜索最优卷积码，但整体与AI领域关联微弱。"
+    ],
+    "category": "系统编程"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260805-009",
+  "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+  "source_url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+  "source_type": "rss",
+  "summary": "该条目报道了WebKit浏览器引擎中存在的IP和DNS泄露问题，影响代理浏览器和iCloud Private Relay用户隐私。此问题与AI/LLM/Agent领域关联度较低，主要涉及网络安全和浏览器隐私保护技术。",
+  "tags": [
+    "网络安全",
+    "隐私保护",
+    "WebKit",
+    "代理",
+    "DNS泄露"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-05T18:36:41+08:00",
+  "updated_at": "2026-08-05T18:36:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "WebKit漏洞可能导致用户真实IP和DNS查询泄露，削弱代理和隐私中继服务效果",
+      "该问题对依赖隐私保护的AI应用（如匿名数据采集）有潜在间接影响",
+      "修复此类漏洞对保障AI系统数据安全传输有基础性意义"
+    ],
+    "category": "网络安全"
+  }
+}

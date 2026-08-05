@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260805-014",
+  "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+  "source_url": "https://techascent.com/blog/just-ducking-around.html",
+  "source_type": "rss",
+  "summary": "本文介绍DuckDB作为嵌入式分析数据库在Clojure中的应用，强调其作为数据工具在本地笔记本上的强大功能。DuckDB支持SQL查询、Parquet文件处理及与Clojure生态集成，为数据分析和处理提供高效方案。文章展示了DuckDB在数据科学工作流中的实用性，虽未直接涉及AI/LLM，但其数据处理能力可作为AI/LLM应用的数据基础设施。",
+  "tags": [
+    "DuckDB",
+    "Clojure",
+    "数据分析",
+    "数据库",
+    "数据工程"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-05T18:36:41+08:00",
+  "updated_at": "2026-08-05T18:36:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "DuckDB提供嵌入式分析数据库，适合本地数据处理，可加速AI/LLM数据准备。",
+      "Clojure集成DuckDB简化数据管道，利于构建数据密集型AI应用。",
+      "该工具可作为AI/LLM项目的数据存储和查询层，但非核心AI技术。"
+    ],
+    "category": "数据工具"
+  }
+}

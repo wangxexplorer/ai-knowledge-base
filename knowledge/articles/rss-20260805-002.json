@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260805-002",
+  "title": "Helsinki Hacker News Meetup",
+  "source_url": "https://calpaterson.com/helsinki-hn.html",
+  "source_type": "rss",
+  "summary": "该条目为Helsinki Hacker News线下聚会信息，源自Hacker News社区，内容涉及技术爱好者线下交流活动，未直接涉及AI、LLM或Agent技术细节，但作为技术社区动态，可能间接关联AI技术讨论与传播。",
+  "tags": [
+    "Hacker News",
+    "线下聚会",
+    "技术社区"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-05T18:36:41+08:00",
+  "updated_at": "2026-08-05T18:36:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "技术社区线下活动促进知识交流",
+      "Hacker News作为技术信息源",
+      "与AI直接相关性较低"
+    ],
+    "category": "社区活动"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260805-008",
+  "title": "Eight Myths on Software Engineering and GenAI",
+  "source_url": "https://queue.acm.org/detail.cfm?id=3807963",
+  "source_type": "rss",
+  "summary": "本文讨论了软件工程与生成式AI（GenAI）相关的八个常见误解，旨在澄清GenAI在软件开发中的实际能力与局限。文章基于ACM Queue的深度分析，指出GenAI虽能提升效率，但并非万能，需结合工程实践与人类判断。内容涉及AI辅助编程、代码质量、开发者生产力等热点，对理解GenAI在软件工程中的真实角色具有参考价值。",
+  "tags": [
+    "GenAI",
+    "软件工程",
+    "AI辅助编程",
+    "开发者生产力",
+    "误解分析"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-05T18:36:41+08:00",
+  "updated_at": "2026-08-05T18:36:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "GenAI在软件工程中作用被高估，需理性看待其能力边界",
+      "AI辅助工具应融入现有工程流程，而非替代人类决策",
+      "识别常见误解有助于更有效采用GenAI技术"
+    ],
+    "category": "AI应用与工程实践"
+  }
+}

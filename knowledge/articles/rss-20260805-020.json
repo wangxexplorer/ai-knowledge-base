@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260805-020",
+  "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+  "source_url": "https://mistral.ai/news/shieldstral/",
+  "source_type": "rss",
+  "summary": "Mistral发布了Shieldstral，一个30亿参数的开源权重模型，专用于多模态内容审核。该模型旨在检测和过滤有害内容，支持文本和图像输入，帮助平台和开发者维护安全环境。Shieldstral强调高效、可定制，并可在本地部署，体现了AI安全与治理领域的最新进展。",
+  "tags": [
+    "AI安全",
+    "内容审核",
+    "多模态",
+    "开源模型",
+    "Mistral"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-05T18:36:41+08:00",
+  "updated_at": "2026-08-05T18:36:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "Shieldstral是专为多模态内容审核设计的轻量级开源模型，可本地部署，增强隐私和可控性。",
+      "该模型填补了AI安全工具链中针对视觉和文本联合审核的空白，对Agent系统有防护价值。",
+      "开源权重策略有利于社区定制和审计，推动负责任的AI发展。"
+    ],
+    "category": "AI模型与应用"
+  }
+}

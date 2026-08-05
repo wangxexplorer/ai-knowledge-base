@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260805-016",
+  "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
+  "source_url": "https://deepgrove.ai/maple-preview",
+  "source_type": "rss",
+  "summary": "Maple-Preview是一个在iPhone上以120 tok/s速度运行的三元20B MoE模型，展示了高效端侧AI推理能力。该技术通过模型压缩和优化，实现了在移动设备上的高性能运行，对AI民主化和边缘计算具有重要意义。",
+  "tags": [
+    "MoE",
+    "端侧推理",
+    "模型优化",
+    "移动AI",
+    "高效推理"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-05T18:36:41+08:00",
+  "updated_at": "2026-08-05T18:36:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "三元量化技术使20B MoE模型能在iPhone上实时运行，突破端侧算力限制。",
+      "120 tok/s的速度表明MoE架构在移动端具有巨大潜力，可支持复杂AI应用。",
+      "该技术有望推动AI应用从云端向边缘设备迁移，降低延迟和隐私风险。"
+    ],
+    "category": "模型部署与优化"
+  }
+}

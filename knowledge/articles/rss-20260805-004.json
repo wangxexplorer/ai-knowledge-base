@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260805-004",
+  "title": "An SLM trained on $8 ESP32-S3",
+  "source_url": "https://github.com/Carloscodix/qapla",
+  "source_type": "rss",
+  "summary": "该项目展示了在极低成本的ESP32-S3微控制器上训练小型语言模型（SLM）的可能性，体现了AI模型在边缘设备上的轻量化部署趋势。通过优化模型架构和训练流程，实现了在资源受限硬件上的高效运行，为物联网和嵌入式AI应用提供了新思路。",
+  "tags": [
+    "SLM",
+    "边缘计算",
+    "嵌入式AI",
+    "模型压缩",
+    "ESP32"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-05T18:36:41+08:00",
+  "updated_at": "2026-08-05T18:36:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "在8美元级硬件上训练SLM，大幅降低AI应用门槛",
+      "展示了模型轻量化与硬件优化的结合潜力",
+      "为物联网设备本地化智能处理提供可行方案"
+    ],
+    "category": "边缘AI"
+  }
+}

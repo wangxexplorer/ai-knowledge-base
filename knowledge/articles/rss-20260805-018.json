@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260805-018",
+  "title": "Waymo in Dallas",
+  "source_url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+  "source_type": "rss",
+  "summary": "Waymo宣布在达拉斯全面开放其自动驾驶出租车服务，标志着其业务扩展到德克萨斯州。该服务基于AI驱动的自动驾驶技术，涉及感知、决策和规划等核心AI能力，与LLM和Agent领域有一定关联，但主要聚焦于自动驾驶应用。",
+  "tags": [
+    "自动驾驶",
+    "AI应用",
+    "Waymo",
+    "智能交通",
+    "机器人"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-05T18:36:41+08:00",
+  "updated_at": "2026-08-05T18:36:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "Waymo的自动驾驶服务是AI技术在物理世界中的典型应用，展示了AI感知与决策的成熟度。",
+      "该事件反映了AI商业化落地的趋势，但未直接涉及LLM或Agent技术。",
+      "自动驾驶与Agent领域有交叉，可视为具身智能的一种形式。"
+    ],
+    "category": "AI应用"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260805-003",
+  "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+  "source_url": "https://arxiv.org/abs/2607.29377",
+  "source_type": "rss",
+  "summary": "本文提出Zero-Mem方法，旨在消除LLM Agent中的token记忆开销，通过零token操作实现高效记忆管理，提升Agent在长对话和复杂任务中的性能与成本效益。",
+  "tags": [
+    "LLM Agent",
+    "记忆管理",
+    "Token效率",
+    "推理优化",
+    "Arxiv"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-05T18:36:41+08:00",
+  "updated_at": "2026-08-05T18:36:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Zero-Mem通过零token操作减少记忆成本，显著提升Agent效率",
+      "适用于长上下文场景，降低推理资源消耗",
+      "为Agent记忆机制提供新范式，可能影响未来设计"
+    ],
+    "category": "AI Agent技术"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260805-010",
+  "title": "libexpat now funded by the City of Munich for up to 6 months",
+  "source_url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+  "source_type": "rss",
+  "summary": "慕尼黑市政府资助libexpat开源项目长达6个月，用于支持其维护和发展。libexpat是一个广泛使用的XML解析库，是许多软件（包括AI和LLM工具链）的基础依赖。该资助体现了公共部门对开源基础设施的重视，有助于保障依赖该库的AI系统的稳定性和安全性。",
+  "tags": [
+    "开源",
+    "基础设施",
+    "XML解析",
+    "公共资助",
+    "依赖"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-05T18:36:41+08:00",
+  "updated_at": "2026-08-05T18:36:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "libexpat是AI和LLM工具链中常见的底层依赖，其维护状况影响相关系统的稳定性。",
+      "公共资金支持开源项目，有助于提升关键基础设施的可持续性。",
+      "该事件反映了开源软件在AI生态中的基础性作用。"
+    ],
+    "category": "开源生态"
+  }
+}
