@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260806-014",
+  "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+  "source_url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+  "source_type": "rss",
+  "summary": "该条目报道了Atlassian Rovo产品存在数据泄露风险，可绕过安全控制。这涉及AI助手在企业环境中的安全漏洞，特别是提示注入攻击可能导致敏感数据被外部窃取。文章来自PromptArmor，在Hacker News上引发讨论，关注点在于AI工具的安全性和合规性。",
+  "tags": [
+    "AI安全",
+    "提示注入",
+    "数据泄露",
+    "企业AI",
+    "LLM应用"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-06T18:40:50+08:00",
+  "updated_at": "2026-08-06T18:40:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "AI助手可能成为数据泄露的通道，需加强安全防护",
+      "提示注入攻击是LLM应用的主要威胁之一",
+      "企业部署AI工具时需重视安全评估和监控"
+    ],
+    "category": "AI安全"
+  }
+}

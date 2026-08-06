@@ -1,0 +1,31 @@
+{
+  "id": "github-20260806-001",
+  "title": "hermes-agent",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "source_type": "github",
+  "summary": "hermes-agent 是一个与 AI 智能体相关的开源项目，由 NousResearch 维护，使用 Python 编写。项目描述为“与您一同成长的智能体”，强调其可扩展性和适应性。该项目在 GitHub 上拥有超过 22.6 万星标，热度极高，涉及 AI、AI 智能体、Anthropic 和 ChatGPT 等主题，表明其与主流大语言模型（如 Claude 和 GPT）有紧密集成。它可能是一",
+  "tags": [
+    "AI Agent",
+    "LLM",
+    "开源框架",
+    "Python",
+    "NousResearch"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-06T18:40:50+08:00",
+  "updated_at": "2026-08-06T18:40:50+08:00",
+  "metadata": {
+    "stars": 226345,
+    "language": "Python",
+    "author": "NousResearch"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "高星标表明社区认可度高，是热门 AI Agent 项目",
+      "支持 Anthropic 和 ChatGPT，说明兼容主流 LLM API",
+      "描述强调‘成长性’，可能具备自我改进或学习能力"
+    ],
+    "category": "AI Agent 框架"
+  }
+}

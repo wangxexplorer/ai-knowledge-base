@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260806-009",
+  "title": "Muse Code and Muse Spark 1.2",
+  "source_url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+  "source_type": "rss",
+  "summary": "Meta AI发布Muse Code和Muse Spark 1.2，前者是面向代码生成与推理的AI模型，后者为多模态AI系统升级版。该版本在代码理解、生成效率及多模态任务上显著提升，并集成Agent能力以支持复杂工作流自动化。发布引发开发者社区广泛讨论，关注其性能与实用性。",
+  "tags": [
+    "代码生成",
+    "多模态模型",
+    "Agent",
+    "Meta AI",
+    "模型升级"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-06T18:40:50+08:00",
+  "updated_at": "2026-08-06T18:40:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Muse Code专注于代码生成与推理，强化LLM在编程领域的应用",
+      "Muse Spark 1.2升级多模态能力，支持更复杂的AI任务",
+      "集成Agent功能，推动自动化工作流发展"
+    ],
+    "category": "AI模型发布"
+  }
+}

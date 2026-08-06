@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260806-004",
+  "title": "Nashville uses eminent domain to block data center near zoo",
+  "source_url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+  "source_type": "rss",
+  "summary": "纳什维尔市议会通过征用权行动，阻止在动物园附近建设数据中心。该事件反映了数据中心选址引发的社区与政策冲突，涉及土地征用、城市规划及大型基础设施项目审批。虽然与AI技术本身无直接关联，但数据中心是AI和LLM训练的基础设施，其建设受阻可能影响区域算力供给，间接影响AI产业发展。",
+  "tags": [
+    "数据中心",
+    "城市规划",
+    "基础设施",
+    "政策"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-06T18:40:50+08:00",
+  "updated_at": "2026-08-06T18:40:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "数据中心是AI算力基础，选址争议可能影响区域AI发展",
+      "地方政府政策对AI基础设施布局有重要影响",
+      "社区反对可能增加AI基础设施建设成本"
+    ],
+    "category": "行业动态"
+  }
+}

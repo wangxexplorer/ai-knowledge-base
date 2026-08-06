@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260806-016",
+  "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+  "source_url": "https://www.hyperprobe.co",
+  "source_type": "rss",
+  "summary": "HyperProbe 是一个面向生产环境的只读调试工具，专为编码代理（如 Cursor、Claude）设计。它通过 SDK 和 MCP 服务器，让代理能在运行中的服务上安全地放置虚拟断点或探针，实时捕获变量值，无需重新部署或添加日志。这解决了 AI 编写代码缺乏遥测数据的问题，减少了代理基于不完整数据的猜测，节省 token 消耗，并加速根因分析。支持 Node.js、Java 和 Python，",
+  "tags": [
+    "AI Agent",
+    "调试",
+    "生产环境",
+    "MCP",
+    "可观测性"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-06T18:40:50+08:00",
+  "updated_at": "2026-08-06T18:40:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "为编码代理提供实时生产数据，减少无效推理和 token 浪费。",
+      "通过 MCP 集成，使代理能主动获取所需数据，而非被动分析日志。",
+      "强调安全性和低开销，支持自托管，适合生产环境使用。"
+    ],
+    "category": "AI 开发工具"
+  }
+}

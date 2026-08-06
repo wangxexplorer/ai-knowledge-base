@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260806-011",
+  "title": "Born Against, or why hobby programming communities are against LLM usage",
+  "source_url": "https://blog.fogus.me/llm/born-against.html",
+  "source_type": "rss",
+  "summary": "本文探讨了业余编程社区为何抵制LLM（大语言模型）的使用。作者从文化、价值观和社区实践角度分析，指出业余爱好者更看重学习过程、创造乐趣和代码的掌控感，而LLM的自动化生成可能削弱这些核心体验。文章还讨论了LLM对编程教育、问题解决方式和社区知识共享的潜在负面影响，并反思了技术工具与人类实践之间的张力。",
+  "tags": [
+    "LLM",
+    "编程社区",
+    "技术文化",
+    "抵制AI",
+    "业余编程"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-06T18:40:50+08:00",
+  "updated_at": "2026-08-06T18:40:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "业余编程社区抵制LLM源于对学习过程和创造乐趣的重视，而非单纯技术效率考量",
+      "LLM可能削弱编程中的掌控感与深度理解，影响社区知识共享模式",
+      "该讨论反映了AI工具与人类实践价值观之间的冲突，对AI应用设计有启示"
+    ],
+    "category": "技术社会学"
+  }
+}

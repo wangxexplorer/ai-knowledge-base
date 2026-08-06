@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260806-008",
+  "title": "I'm switching my phone from Android to Linux",
+  "source_url": "https://runarcn.no/android-to-linux/",
+  "source_type": "rss",
+  "summary": "本文讨论作者将手机从Android系统切换到Linux系统的个人经历，涉及移动操作系统、开源软件和硬件兼容性等话题。虽然与AI、LLM或Agent无直接关联，但反映了技术社区对开源和自主可控的追求，可能间接影响AI在边缘设备上的部署生态。",
+  "tags": [
+    "Linux",
+    "Android",
+    "移动操作系统",
+    "开源",
+    "技术趋势"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-06T18:40:50+08:00",
+  "updated_at": "2026-08-06T18:40:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "移动端操作系统选择影响AI应用的运行环境",
+      "开源生态对AI技术栈的潜在影响",
+      "用户对设备自主权的需求可能推动边缘AI发展"
+    ],
+    "category": "技术生态"
+  }
+}

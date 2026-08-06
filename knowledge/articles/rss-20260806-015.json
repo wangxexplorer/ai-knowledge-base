@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260806-015",
+  "title": "Celld: Self-hosted, distributed Durable Objects",
+  "source_url": "https://github.com/denoland/celld",
+  "source_type": "rss",
+  "summary": "Celld是Deno团队推出的自托管、分布式持久化对象系统，旨在为边缘计算和分布式应用提供可靠的状态存储。它支持跨节点复制、故障恢复和低延迟访问，适合构建需要高可用性的AI代理工作流。其与LLM Agent的关联在于，Agent需要持久化记忆和状态管理，Celld可作为底层基础设施，增强Agent的鲁棒性和可扩展性。",
+  "tags": [
+    "分布式系统",
+    "持久化",
+    "Agent基础设施",
+    "边缘计算",
+    "状态管理"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-06T18:40:50+08:00",
+  "updated_at": "2026-08-06T18:40:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "为AI Agent提供持久化记忆和状态存储，支持跨节点同步。",
+      "自托管特性适合隐私敏感或定制化AI应用。",
+      "与Deno生态集成，可能简化Agent部署流程。"
+    ],
+    "category": "基础设施"
+  }
+}

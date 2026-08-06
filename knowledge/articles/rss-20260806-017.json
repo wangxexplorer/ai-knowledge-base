@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260806-017",
+  "title": "Discovery Loop",
+  "source_url": "https://www.discoveryloop.com/",
+  "source_type": "rss",
+  "summary": "Discovery Loop是一个网站，其标题和描述未提供具体技术细节，但来源为Hacker News，且评论和点赞数较高，表明社区关注。由于内容不明确，无法直接判断其与AI、LLM、Agent的关联，但可能涉及技术或产品创新。",
+  "tags": [
+    "Hacker News",
+    "技术社区",
+    "产品"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-06T18:40:50+08:00",
+  "updated_at": "2026-08-06T18:40:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "社区热度高，可能涉及前沿技术",
+      "内容不明确，需进一步查看",
+      "可能为AI相关项目"
+    ],
+    "category": "未分类"
+  }
+}

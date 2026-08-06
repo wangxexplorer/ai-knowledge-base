@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260806-001",
+  "title": "What I love about Django",
+  "source_url": "https://buttondown.com/blog/what-i-love-about-django",
+  "source_type": "rss",
+  "summary": "该条目是一篇关于Django框架的个人博客文章，发布于Hacker News社区。内容主要表达作者对Django的喜爱，可能涉及其设计理念、开发效率或生态优势。文章与AI、LLM或Agent技术无直接关联，属于Web开发框架领域。",
+  "tags": [
+    "Django",
+    "Web开发",
+    "Python框架"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-06T18:40:50+08:00",
+  "updated_at": "2026-08-06T18:40:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Django作为成熟Web框架，与AI技术栈无直接交集",
+      "文章可能提及Django在AI项目中的应用，但非核心主题"
+    ],
+    "category": "Web开发"
+  }
+}

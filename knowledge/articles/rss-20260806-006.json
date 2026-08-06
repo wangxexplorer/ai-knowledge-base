@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260806-006",
+  "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+  "source_url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+  "source_type": "rss",
+  "summary": "本文分析了NVIDIA Vera芯片白皮书中关于线程调度的一个潜在问题。文章指出，Vera的线程管理机制可能存在设计缺陷或文档描述不清晰之处，这可能会影响其在高性能计算和AI训练任务中的实际表现。作者从硬件架构角度深入探讨了该问题的技术细节，并对其潜在影响进行了评估。",
+  "tags": [
+    "NVIDIA",
+    "硬件架构",
+    "AI芯片",
+    "高性能计算"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-06T18:40:50+08:00",
+  "updated_at": "2026-08-06T18:40:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "Vera芯片的线程调度设计可能影响AI工作负载效率",
+      "硬件细节对AI训练性能有直接影响",
+      "NVIDIA下一代芯片的潜在问题值得关注"
+    ],
+    "category": "AI基础设施"
+  }
+}

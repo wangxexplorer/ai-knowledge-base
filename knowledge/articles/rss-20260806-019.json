@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260806-019",
+  "title": "The Entropy of a Markov Chain",
+  "source_url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+  "source_type": "rss",
+  "summary": "本文探讨马尔可夫链的熵，属于信息论与随机过程的基础概念。马尔可夫链是描述状态转移的数学模型，其熵率衡量系统的不确定性与信息生成速率。该主题与AI/LLM/Agent领域存在间接关联：LLM的token生成可建模为马尔可夫过程，Agent的决策序列也涉及状态转移与熵的优化。但文章本身未直接涉及深度学习、大模型或智能体架构，属于理论数学范畴。",
+  "tags": [
+    "信息论",
+    "马尔可夫链",
+    "熵",
+    "随机过程",
+    "理论基础"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-06T18:40:50+08:00",
+  "updated_at": "2026-08-06T18:40:50+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "马尔可夫链熵率是理解序列数据不确定性的核心工具，可用于分析LLM生成文本的信息密度。",
+      "该理论为Agent状态转移建模提供数学框架，但需结合现代机器学习方法才能落地。",
+      "文章内容偏向纯理论，对AI实践的直接指导有限，但可作为算法设计的理论支撑。"
+    ],
+    "category": "数学基础"
+  }
+}
