@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260807-004",
+  "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+  "source_url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+  "source_type": "rss",
+  "summary": "新奥尔良正在测试Carbyne公司开发的AI紧急呼叫分诊软件，该技术用于911呼叫的初步应答和分类，可能减少人工调度员的介入。此应用展示了AI在公共安全领域的实际部署，涉及自然语言处理、实时决策和应急响应优化，与AI、LLM和Agent技术高度相关，尤其是对话式AI和自动化决策系统。",
+  "tags": [
+    "AI应用",
+    "公共安全",
+    "自然语言处理",
+    "自动化决策",
+    "应急响应"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-07T17:00:37+08:00",
+  "updated_at": "2026-08-07T17:00:37+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "AI在紧急呼叫分诊中的应用体现了LLM在实时对话理解和分类中的潜力。",
+      "该案例展示了AI Agent在关键任务场景中的部署，需考虑可靠性和伦理问题。",
+      "此类系统可能减少人工调度负担，但需平衡自动化与人类监督。"
+    ],
+    "category": "AI应用"
+  }
+}

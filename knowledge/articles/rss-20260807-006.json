@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260807-006",
+  "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
+  "source_url": "https://zenodo.org/records/21359923",
+  "source_type": "rss",
+  "summary": "该条目讨论IBM量子化学基准测试中自旋态问题，作者通过测量发现计算结果收敛到错误的自旋态，并指出IBM的缓解措施未真正解决。同时提及Claude AI在审计中发挥作用，但核心是量子化学计算而非AI。",
+  "tags": [
+    "量子化学",
+    "自旋态",
+    "量子计算",
+    "AI辅助审计"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-07T17:00:37+08:00",
+  "updated_at": "2026-08-07T17:00:37+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "IBM量子化学结果存在自旋态错误，影响其宣称的量子优势。",
+      "Claude AI辅助审计发现缺陷，但核心争议在量子化学。",
+      "AI在科学审计中可提高效率，但需人类监督。"
+    ],
+    "category": "量子计算与AI交叉"
+  }
+}

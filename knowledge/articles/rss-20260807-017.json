@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260807-017",
+  "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+  "source_url": "https://provenmetal.com",
+  "source_type": "rss",
+  "summary": "ProvenMetal是一家YC孵化的初创公司，专注于通过自动化前端流程（如报价、DFM审查和元器件采购）来加速美国本土PCB电路板的制造交付，将交付时间从数周缩短至数天。其核心是开发KiCAD和Altium插件，在客户设计阶段自动获取BOM并提前采购长周期元器件，同时建立制造商档案以简化沟通。虽然其业务本身是硬件制造，但应用了AI/LLM技术（如启发式DFM检查）来优化流程，属于AI在制造业中的",
+  "tags": [
+    "PCB制造",
+    "供应链自动化",
+    "AI应用",
+    "硬件创业",
+    "YC"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-07T17:00:37+08:00",
+  "updated_at": "2026-08-07T17:00:37+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.4,
+    "key_insights": [
+      "AI/LLM技术可优化制造业前端流程，如自动报价和DFM审查，但物理产能仍是瓶颈。",
+      "通过设计阶段提前采购元器件，利用AI辅助决策可显著缩短交付周期。",
+      "该案例展示了AI在传统制造业中的落地潜力，但核心价值在于流程自动化而非模型创新。"
+    ],
+    "category": "AI应用与硬件制造"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260807-014",
+  "title": "My phone detects going on a run as “someone snatching my phone and running off”",
+  "source_url": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
+  "source_type": "rss",
+  "summary": "该条目描述了一个手机将跑步误判为手机被抢的趣闻，属于传感器误判的日常案例。虽然涉及机器学习在行为识别中的应用，但未深入探讨AI、LLM或Agent技术，与核心领域关联较弱。",
+  "tags": [
+    "传感器",
+    "误判",
+    "机器学习",
+    "行为识别"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-07T17:00:37+08:00",
+  "updated_at": "2026-08-07T17:00:37+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "机器学习模型在现实场景中可能产生误判，需考虑上下文信息。",
+      "该案例展示了AI在边缘设备上的应用挑战。",
+      "与LLM和Agent技术无直接关联。"
+    ],
+    "category": "技术趣闻"
+  }
+}

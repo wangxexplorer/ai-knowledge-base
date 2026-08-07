@@ -1,0 +1,31 @@
+{
+  "id": "github-20260807-015",
+  "title": "goose",
+  "source_url": "https://github.com/aaif-goose/goose",
+  "source_type": "github",
+  "summary": "goose是一个开源的、可扩展的AI代理项目，使用Rust语言开发。它超越了简单的代码建议，能够安装、执行、编辑和测试代码，并支持与任何LLM集成。项目涉及ACP（Agent Client Protocol）、AI、AI代理和MCP（Model Context Protocol）等主题，在GitHub上拥有超过5.2万星标，表明其受欢迎程度和社区活跃度。该项目代表了AI代理领域的前沿实践，强调通过",
+  "tags": [
+    "AI代理",
+    "开源",
+    "Rust",
+    "MCP",
+    "LLM集成"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-07T17:00:37+08:00",
+  "updated_at": "2026-08-07T17:00:37+08:00",
+  "metadata": {
+    "stars": 52497,
+    "language": "Rust",
+    "author": "aaif-goose"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "goose是一个功能全面的AI代理，支持代码执行和测试，超越了传统代码生成工具。",
+      "项目采用Rust语言，强调性能和安全性，适合构建高效代理系统。",
+      "支持ACP和MCP协议，展示了AI代理与LLM交互的标准化趋势。"
+    ],
+    "category": "AI代理框架"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260807-007",
+  "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+  "source_url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+  "source_type": "rss",
+  "summary": "该条目报道尼泊尔政府数据泄露事件被纳入Have I Been Pwned（HIBP）数据库，HIBP是一个数据泄露通知服务，帮助用户检查账户是否受影响。文章由Troy Hunt撰写，讨论政府数据安全与隐私保护问题。内容涉及网络安全和数据泄露，与AI、LLM或Agent技术无直接关联，但数据泄露检测可能间接涉及自动化分析技术。",
+  "tags": [
+    "数据泄露",
+    "网络安全",
+    "隐私保护",
+    "政府数据"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-07T17:00:37+08:00",
+  "updated_at": "2026-08-07T17:00:37+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "政府数据泄露事件频发，需加强安全防护",
+      "HIBP作为数据泄露通知工具，提升公众安全意识",
+      "数据泄露检测可结合自动化技术提高效率"
+    ],
+    "category": "网络安全"
+  }
+}

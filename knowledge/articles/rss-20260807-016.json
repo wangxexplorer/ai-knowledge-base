@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260807-016",
+  "title": "Taste Is All That's Left",
+  "source_url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+  "source_type": "rss",
+  "summary": "该条目为一篇Hacker News上的文章，标题为“Taste Is All That's Left”，讨论在AI时代人类剩余的价值可能在于品味与审美判断。文章引发广泛讨论，涉及AI对创意工作、决策过程的影响，以及人类独特性的保留。内容与AI、LLM和Agent领域相关，聚焦于AI能力扩展后人类角色的重新定义。",
+  "tags": [
+    "AI影响",
+    "人类价值",
+    "品味",
+    "创意工作",
+    "未来工作"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-07T17:00:37+08:00",
+  "updated_at": "2026-08-07T17:00:37+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI可能接管常规任务，但品味和审美判断成为人类独特优势",
+      "讨论反映了AI时代对职业和创造力的重新评估",
+      "文章在技术社区引发高关注，表明话题共鸣性强"
+    ],
+    "category": "AI社会影响"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260807-002",
+  "title": "I won't read LLM authored fiction",
+  "source_url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
+  "source_type": "rss",
+  "summary": "该条目讨论作者拒绝阅读LLM创作的小说，反映对AI生成文学作品的抵制态度。文章可能从文学价值、创作本质或伦理角度阐述理由，引发关于AI在创意领域角色的讨论。Hacker News上的评论和点赞表明社区对此话题有较高关注度。",
+  "tags": [
+    "LLM",
+    "AI创作",
+    "文学",
+    "伦理",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-07T17:00:37+08:00",
+  "updated_at": "2026-08-07T17:00:37+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "LLM在创意写作领域的应用引发争议，部分读者持排斥态度",
+      "讨论涉及AI生成内容的价值判断和人类创作独特性",
+      "社区讨论活跃，反映AI对文化生产影响的广泛关注"
+    ],
+    "category": "AI应用与伦理"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260807-005",
+  "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+  "source_url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+  "source_type": "rss",
+  "summary": "新墨西哥州法院裁定Meta因对儿童心理健康造成伤害而需支付5.67亿美元赔偿。该案件聚焦于社交媒体平台（如Instagram和Facebook）的算法推荐系统对未成年用户心理健康的负面影响，涉及AI推荐算法在内容分发中的伦理责任。此案凸显了AI技术在商业应用中的监管与法律风险，对AI伦理、内容审核和平台责任提出了重要挑战。",
+  "tags": [
+    "AI伦理",
+    "算法责任",
+    "内容推荐",
+    "平台监管",
+    "心理健康"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-07T17:00:37+08:00",
+  "updated_at": "2026-08-07T17:00:37+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI推荐算法可能加剧对弱势群体（如儿童）的伤害，引发法律追责",
+      "平台需在AI驱动的个性化推荐与用户福祉间寻求平衡",
+      "此案可能成为AI监管和算法问责的里程碑案例"
+    ],
+    "category": "AI伦理与法律"
+  }
+}

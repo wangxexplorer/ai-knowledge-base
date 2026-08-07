@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260807-008",
+  "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+  "source_url": "https://www.aleksagordic.com/blog/vllm",
+  "source_type": "rss",
+  "summary": "本文深入剖析了vLLM这一高性能LLM推理系统的内部架构，重点介绍了其高吞吐量设计的关键技术，如PagedAttention、连续批处理、优化KV缓存管理等。文章旨在帮助读者理解vLLM如何通过系统级优化提升大模型推理效率，是AI基础设施领域的重要参考。",
+  "tags": [
+    "vLLM",
+    "LLM推理",
+    "系统优化",
+    "高吞吐",
+    "AI基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-07T17:00:37+08:00",
+  "updated_at": "2026-08-07T17:00:37+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "vLLM通过PagedAttention解决KV缓存碎片化问题，显著提升显存利用率和吞吐量。",
+      "连续批处理机制减少等待时间，提高GPU利用率。",
+      "系统级优化是LLM规模化部署的关键，vLLM是代表性实践。"
+    ],
+    "category": "AI系统与基础设施"
+  }
+}
