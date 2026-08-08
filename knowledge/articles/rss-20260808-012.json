@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260808-012",
+  "title": "Oracle bans AI-generated code from OpenJDK",
+  "source_url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+  "source_type": "rss",
+  "summary": "Oracle宣布禁止在OpenJDK项目中提交AI生成的代码，尽管其CEO Larry Ellison曾声称Oracle自身不使用AI编写代码。这一政策引发开发者社区广泛讨论，涉及AI辅助编程的合规性、代码质量与知识产权问题。该事件反映了科技巨头在AI代码生成工具应用上的矛盾态度，对开源社区和AI编程工具的发展具有潜在影响。",
+  "tags": [
+    "AI代码生成",
+    "OpenJDK",
+    "开源政策",
+    "编程合规",
+    "AI治理"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-08T16:42:55+08:00",
+  "updated_at": "2026-08-08T16:42:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "Oracle对AI生成代码的禁令凸显了AI辅助编程在开源项目中的合规争议。",
+      "该政策与CEO的公开言论形成对比，可能影响开发者对AI工具的采用。",
+      "事件引发对AI生成代码版权和质量的广泛讨论，或推动行业标准制定。"
+    ],
+    "category": "AI政策与治理"
+  }
+}

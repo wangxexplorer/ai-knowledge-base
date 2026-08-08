@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260808-009",
+  "title": "Managing AI Coding Costs at Scale",
+  "source_url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+  "source_type": "rss",
+  "summary": "本文探讨了在规模化场景下管理AI编程成本的方法，重点分析LLM辅助编码带来的资源消耗与费用控制策略。内容涉及成本优化、工具选择及工程实践，对采用AI编程的企业具有参考价值。",
+  "tags": [
+    "AI编程",
+    "成本管理",
+    "LLM",
+    "工程实践"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-08T16:42:55+08:00",
+  "updated_at": "2026-08-08T16:42:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "规模化AI编码需关注成本效益",
+      "工具选择影响总体开销",
+      "成本控制需结合工程流程"
+    ],
+    "category": "技术实践"
+  }
+}

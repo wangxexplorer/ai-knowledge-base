@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260808-008",
+  "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+  "source_url": "https://ancientlibrary.net/",
+  "source_type": "rss",
+  "summary": "Ancient Library 是一个提供1060部古希腊和拉丁语文本的在线资源库，用户可点击任意单词进行语法解析。该工具主要面向古典学研究和语言学习，与AI、LLM或Agent领域无直接关联，但可能涉及自然语言处理中的词法分析技术。",
+  "tags": [
+    "古典文本",
+    "词法分析",
+    "自然语言处理",
+    "教育工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-08T16:42:55+08:00",
+  "updated_at": "2026-08-08T16:42:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "提供古典文本的交互式解析功能",
+      "可能应用了NLP技术进行词法分析",
+      "对古典学研究者有较高实用价值"
+    ],
+    "category": "教育工具"
+  }
+}

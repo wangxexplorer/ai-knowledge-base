@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260808-007",
+  "title": "Psychological Warfare in Reverse Engineering (2015)",
+  "source_url": "https://github.com/xoreaxeaxeax/repsych",
+  "source_type": "rss",
+  "summary": "该条目介绍2015年发布的逆向工程心理战工具，通过混淆和欺骗技术对抗逆向分析。内容聚焦于软件安全与逆向工程，与AI、LLM或Agent无直接关联，但可能涉及AI辅助安全分析的应用场景。",
+  "tags": [
+    "逆向工程",
+    "软件安全",
+    "心理战"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-08T16:42:55+08:00",
+  "updated_at": "2026-08-08T16:42:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "逆向工程中的对抗策略",
+      "安全工具的历史案例",
+      "与AI关联度低"
+    ],
+    "category": "软件安全"
+  }
+}

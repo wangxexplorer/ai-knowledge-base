@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260808-006",
+  "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+  "source_url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+  "source_type": "rss",
+  "summary": "前NSA局长指出，水系统控制器等关键基础设施不应连接互联网，这是针对疑似伊朗网络攻击后的安全建议。该事件凸显了OT/ICS系统面临的网络威胁，以及隔离网络的重要性。虽然不直接涉及AI，但AI在网络安全防御和攻击检测中的应用日益增多，此事件对AI安全领域有间接参考价值。",
+  "tags": [
+    "网络安全",
+    "关键基础设施",
+    "OT安全",
+    "网络攻击",
+    "AI安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-08T16:42:55+08:00",
+  "updated_at": "2026-08-08T16:42:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "关键基础设施隔离是安全底线，AI可用于增强此类系统的异常检测",
+      "网络攻击事件推动AI在防御性安全领域的应用需求",
+      "AI系统自身的安全性也需关注，避免被用于攻击关键设施"
+    ],
+    "category": "网络安全"
+  }
+}

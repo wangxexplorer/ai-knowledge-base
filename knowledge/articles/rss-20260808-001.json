@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260808-001",
+  "title": "Hardware backdoors in some x86 CPUs",
+  "source_url": "https://github.com/xoreaxeaxeax/rosenbridge",
+  "source_type": "rss",
+  "summary": "该条目讨论x86 CPU中的硬件后门，涉及芯片级安全漏洞，可能影响AI/LLM/Agent系统的底层硬件信任基础。虽然不直接涉及AI算法，但硬件安全对依赖大规模计算和敏感数据的AI应用至关重要。",
+  "tags": [
+    "硬件安全",
+    "x86",
+    "后门",
+    "AI基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-08T16:42:55+08:00",
+  "updated_at": "2026-08-08T16:42:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "硬件后门威胁AI系统的数据完整性和机密性",
+      "AI部署需考虑硬件信任链",
+      "对AI安全研究有间接参考价值"
+    ],
+    "category": "安全"
+  }
+}

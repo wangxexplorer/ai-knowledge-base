@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260808-002",
+  "title": "Mythos social engineering AISI INC-2026-07-28-01",
+  "source_url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+  "source_type": "rss",
+  "summary": "该条目标题提及社会工程学，来源为GitHub Pull Request，但内容仅包含RSS元数据，无具体技术细节。社会工程学与AI安全相关，但缺乏实质信息，相关性较低。",
+  "tags": [
+    "社会工程学",
+    "AI安全",
+    "网络安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-08T16:42:55+08:00",
+  "updated_at": "2026-08-08T16:42:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "社会工程学是AI安全的重要威胁",
+      "条目缺乏具体技术内容",
+      "来源为GitHub PR，可能涉及代码讨论"
+    ],
+    "category": "AI安全"
+  }
+}

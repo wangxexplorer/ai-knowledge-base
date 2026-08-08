@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260808-005",
+  "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+  "source_url": "https://genesisopenmodels.anl.gov/",
+  "source_type": "rss",
+  "summary": "美国能源部启动Genesis开放模型计划，旨在推动AI模型的开放与共享。该计划由阿贡国家实验室牵头，可能涉及能源领域专用AI模型的开发与开源，对AI治理、开放科学和能源技术创新具有潜在影响。",
+  "tags": [
+    "开放模型",
+    "AI治理",
+    "能源",
+    "开源",
+    "政府计划"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-08T16:42:55+08:00",
+  "updated_at": "2026-08-08T16:42:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "政府主导的开放模型计划，可能影响AI生态的开放性与可及性。",
+      "聚焦能源领域，或催生专用AI模型与基础设施。",
+      "体现AI治理中开放与安全的平衡趋势。"
+    ],
+    "category": "政策与倡议"
+  }
+}

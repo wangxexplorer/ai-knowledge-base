@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260808-019",
+  "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+  "source_url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+  "source_type": "rss",
+  "summary": "本文介绍如何通过批处理、算子融合和SIMD技术将Postgres查询性能提升300倍，重点优化分析型工作负载。这些技术对AI/LLM领域的数据处理管道有借鉴意义，可加速特征工程、向量检索和模型训练中的数据预处理，但本身不直接涉及模型或智能体。",
+  "tags": [
+    "数据库优化",
+    "查询引擎",
+    "SIMD",
+    "数据处理",
+    "性能提升"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-08T16:42:55+08:00",
+  "updated_at": "2026-08-08T16:42:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "批处理和算子融合可显著减少查询开销，适用于大规模数据管道。",
+      "SIMD指令利用CPU并行性，加速向量运算，对向量数据库和嵌入检索有潜在价值。",
+      "优化Postgres查询引擎可提升AI应用的数据服务层效率，但非核心AI技术。"
+    ],
+    "category": "基础设施与性能优化"
+  }
+}

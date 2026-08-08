@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260808-014",
+  "title": "An all-sky map of half a million supermassive black holes",
+  "source_url": "https://www.sdss.org/black-hole-mapper-release-20/",
+  "source_type": "rss",
+  "summary": "该条目报道了SDSS项目发布包含50万个超大质量黑洞的全天图，属于天文学观测成果。内容与AI、LLM或Agent技术无直接关联，但大规模天文数据处理可能涉及机器学习方法。整体相关性较低。",
+  "tags": [
+    "天文学",
+    "黑洞",
+    "SDSS",
+    "数据处理"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-08T16:42:55+08:00",
+  "updated_at": "2026-08-08T16:42:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "大规模天文调查产生海量数据",
+      "可能间接依赖AI技术进行数据分析",
+      "与AI核心领域无直接关联"
+    ],
+    "category": "科学发现"
+  }
+}

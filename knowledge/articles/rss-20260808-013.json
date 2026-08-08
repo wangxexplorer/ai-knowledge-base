@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260808-013",
+  "title": "Responding to the next frontier of critical cyber capabilities",
+  "source_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+  "source_type": "rss",
+  "summary": "OpenAI发布关于应对关键网络能力前沿的声明，强调AI在网络安全中的双重角色：既可能被恶意利用，也需用于防御。文章提出需加强国际合作与监管，确保AI系统安全可靠，并呼吁行业共同制定标准以应对新兴威胁。",
+  "tags": [
+    "AI安全",
+    "网络安全",
+    "OpenAI",
+    "政策监管",
+    "威胁防御"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-08T16:42:55+08:00",
+  "updated_at": "2026-08-08T16:42:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.75,
+    "key_insights": [
+      "AI技术可增强网络攻击能力，需同步发展防御措施",
+      "强调国际合作与监管框架的重要性",
+      "呼吁行业制定统一安全标准"
+    ],
+    "category": "AI安全与政策"
+  }
+}

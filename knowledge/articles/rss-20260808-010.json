@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260808-010",
+  "title": "Assembly Hall of Shame",
+  "source_url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+  "source_type": "rss",
+  "summary": "该条目是GitHub上的一个项目，名为“Assembly Hall of Shame”，内容涉及汇编语言编程中的反模式或糟糕实践示例。它来自Hacker News，讨论热度较高（333分，83条评论）。该项目与AI、LLM或Agent领域无直接关联，主要面向底层系统编程和汇编语言开发者，属于技术教育或代码质量范畴。",
+  "tags": [
+    "汇编语言",
+    "代码质量",
+    "底层编程"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-08T16:42:55+08:00",
+  "updated_at": "2026-08-08T16:42:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该项目聚焦汇编语言中的常见错误或反模式，与AI技术栈无关。",
+      "其内容可能对系统级优化有参考价值，但不涉及机器学习或智能体。",
+      "Hacker News上的高讨论度表明其社区价值，但非AI领域热点。"
+    ],
+    "category": "编程实践"
+  }
+}

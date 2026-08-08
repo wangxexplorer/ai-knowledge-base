@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260808-020",
+  "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+  "source_url": "https://blog.cloudflare.com/kitesurf/",
+  "source_type": "rss",
+  "summary": "Cloudflare 推出 Kitesurf，一种以 Agent 为核心的浏览器，运行在 V8 隔离环境中。该技术旨在为 AI 代理提供安全、高效的网页交互环境，通过隔离执行降低风险，并优化代理的自动化操作能力。这代表了浏览器基础设施向 Agent 原生方向演进的重要趋势。",
+  "tags": [
+    "Agent",
+    "浏览器",
+    "V8",
+    "Cloudflare",
+    "AI基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-08T16:42:55+08:00",
+  "updated_at": "2026-08-08T16:42:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Agent 原生浏览器成为新方向，为 AI 代理提供专用运行环境。",
+      "V8 隔离技术增强安全性和稳定性，适合代理执行复杂任务。",
+      "Cloudflare 布局 AI 基础设施，推动代理与网络融合。"
+    ],
+    "category": "AI基础设施"
+  }
+}
