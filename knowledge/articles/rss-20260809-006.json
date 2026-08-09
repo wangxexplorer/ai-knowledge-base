@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260809-006",
+  "title": "Incentives are for losers",
+  "source_url": "https://www.experimental-history.com/p/incentives-are-for-losers",
+  "source_type": "rss",
+  "summary": "文章标题为“激励是给失败者的”，来自Experimental History，在Hacker News上获得100分和63条评论。文章可能探讨激励机制在人类行为中的局限性，或对传统激励理论提出批判。内容与AI、LLM或Agent领域无直接关联，但可能涉及行为经济学或系统设计，对AI智能体设计中的奖励机制有间接启发。",
+  "tags": [
+    "激励",
+    "行为经济学",
+    "系统设计"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-09T16:44:06+08:00",
+  "updated_at": "2026-08-09T16:44:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "激励并非万能，可能产生反效果。",
+      "对AI奖励机制设计有间接参考价值。",
+      "文章观点可能引发对智能体目标设定的思考。"
+    ],
+    "category": "行为科学"
+  }
+}

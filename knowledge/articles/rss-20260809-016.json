@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260809-016",
+  "title": "Message your other Claude Code sessions",
+  "source_url": "https://code.claude.com/docs/en/cross-session-messaging",
+  "source_type": "rss",
+  "summary": "该条目介绍了Claude Code的跨会话消息功能，允许用户在不同Claude Code会话之间发送消息，实现上下文共享和协作。这增强了Agent的交互性和任务连续性，是AI Agent领域的重要进展。",
+  "tags": [
+    "Claude Code",
+    "跨会话",
+    "Agent协作",
+    "上下文共享",
+    "AI工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-09T16:44:06+08:00",
+  "updated_at": "2026-08-09T16:44:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "跨会话消息传递提升了Agent的连续性和协作能力。",
+      "该功能可能促进多Agent系统的协同工作。",
+      "反映了AI工具向更复杂交互模式发展的趋势。"
+    ],
+    "category": "AI Agent工具"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260809-005",
+  "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+  "source_url": "https://marketnow.site/",
+  "source_type": "rss",
+  "summary": "该条目介绍了一个实时MCP（模型上下文协议）拦截器，用于阻止代理读取.env文件及执行危险命令，以增强AI代理的安全性。它来自Hacker News，讨论度较低，但涉及AI代理安全防护这一重要领域。",
+  "tags": [
+    "MCP",
+    "AI安全",
+    "Agent",
+    "拦截器",
+    "安全防护"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-09T16:44:06+08:00",
+  "updated_at": "2026-08-09T16:44:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "MCP拦截器可实时阻断敏感文件访问，保护环境变量等机密信息。",
+      "通过限制危险命令，降低AI代理被恶意利用的风险。",
+      "反映了AI代理安全工具链的演进趋势。"
+    ],
+    "category": "AI安全"
+  }
+}

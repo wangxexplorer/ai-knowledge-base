@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260809-001",
+  "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+  "source_url": "https://github.com/jmarshall23/msword",
+  "source_type": "rss",
+  "summary": "该项目是Microsoft Word for Windows 1.1a的原生x64移植版本，属于历史软件兼容性工程，与AI、LLM或Agent技术无直接关联。它可能涉及代码移植和逆向工程，但未涉及机器学习或智能代理。",
+  "tags": [
+    "软件移植",
+    "历史软件",
+    "x64",
+    "兼容性"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-09T16:44:06+08:00",
+  "updated_at": "2026-08-09T16:44:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该项目专注于旧版软件的架构移植，不涉及AI技术。",
+      "可作为软件工程实践案例，但无AI相关创新。"
+    ],
+    "category": "软件工程"
+  }
+}

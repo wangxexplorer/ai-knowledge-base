@@ -1,0 +1,579 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-08-09T16:41:50+08:00",
+  "query": "AI LLM Agent",
+  "items": [
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "hermes-agent",
+      "title": "hermes-agent",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 227670,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "NousResearch/hermes-agent",
+      "author": "NousResearch"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "dify",
+      "title": "dify",
+      "source_url": "https://github.com/langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "stars": 151825,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "full_name": "langgenius/dify",
+      "author": "langgenius"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "langchain",
+      "title": "langchain",
+      "source_url": "https://github.com/langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform.",
+      "stars": 143766,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "langchain-ai/langchain",
+      "author": "langchain-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "awesome-llm-apps",
+      "title": "awesome-llm-apps",
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "stars": 131603,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "llms",
+        "python",
+        "rag"
+      ],
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "author": "Shubhamsaboo"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "browser-use",
+      "title": "browser-use",
+      "source_url": "https://github.com/browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 108409,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-use",
+        "llm"
+      ],
+      "full_name": "browser-use/browser-use",
+      "author": "browser-use"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ponytail",
+      "title": "ponytail",
+      "source_url": "https://github.com/DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 98978,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin"
+      ],
+      "full_name": "DietrichGebert/ponytail",
+      "author": "DietrichGebert"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ragflow",
+      "title": "ragflow",
+      "source_url": "https://github.com/infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 87103,
+      "language": "Go",
+      "topics": [
+        "agent-harness",
+        "agentic-ai",
+        "agentic-retrieval",
+        "agentic-search",
+        "ai"
+      ],
+      "full_name": "infiniflow/ragflow",
+      "author": "infiniflow"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "pi",
+      "title": "pi",
+      "source_url": "https://github.com/earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 85760,
+      "language": "TypeScript",
+      "topics": [],
+      "full_name": "earendil-works/pi",
+      "author": "earendil-works"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "OpenHands",
+      "title": "OpenHands",
+      "source_url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "stars": 83502,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli"
+      ],
+      "full_name": "OpenHands/OpenHands",
+      "author": "OpenHands"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "deer-flow",
+      "title": "deer-flow",
+      "source_url": "https://github.com/bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 79587,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "full_name": "bytedance/deer-flow",
+      "author": "bytedance"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "LlamaFactory",
+      "title": "LlamaFactory",
+      "source_url": "https://github.com/hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars": 73931,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "deepseek",
+        "fine-tuning",
+        "gemma"
+      ],
+      "full_name": "hiyouga/LlamaFactory",
+      "author": "hiyouga"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "MetaGPT",
+      "title": "MetaGPT",
+      "source_url": "https://github.com/FoundationAgents/MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "stars": 69731,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "gpt",
+        "llm",
+        "metagpt",
+        "multi-agent"
+      ],
+      "full_name": "FoundationAgents/MetaGPT",
+      "author": "FoundationAgents"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "headroom",
+      "title": "headroom",
+      "source_url": "https://github.com/headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "stars": 65569,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "anthropic",
+        "claude-code",
+        "compression"
+      ],
+      "full_name": "headroomlabs-ai/headroom",
+      "author": "headroomlabs-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "mem0",
+      "title": "mem0",
+      "source_url": "https://github.com/mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "description": "Universal memory layer for AI Agents",
+      "stars": 62850,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "application",
+        "chatbots"
+      ],
+      "full_name": "mem0ai/mem0",
+      "author": "mem0ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "goose",
+      "title": "goose",
+      "source_url": "https://github.com/aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 52587,
+      "language": "Rust",
+      "topics": [
+        "acp",
+        "ai",
+        "ai-agents",
+        "mcp"
+      ],
+      "full_name": "aaif-goose/goose",
+      "author": "aaif-goose"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "cherry-studio",
+      "title": "cherry-studio",
+      "source_url": "https://github.com/CherryHQ/cherry-studio",
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 50131,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "awesome-skills",
+        "claude-code",
+        "codex"
+      ],
+      "full_name": "CherryHQ/cherry-studio",
+      "author": "CherryHQ"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "JeecgBoot",
+      "title": "JeecgBoot",
+      "source_url": "https://github.com/jeecgboot/JeecgBoot",
+      "url": "https://github.com/jeecgboot/JeecgBoot",
+      "description": "【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+      "stars": 47334,
+      "language": "Java",
+      "topics": [
+        "activiti",
+        "agent",
+        "ai",
+        "antd",
+        "claude-code"
+      ],
+      "full_name": "jeecgboot/JeecgBoot",
+      "author": "jeecgboot"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "CowAgent",
+      "title": "CowAgent",
+      "source_url": "https://github.com/zhayujie/CowAgent",
+      "url": "https://github.com/zhayujie/CowAgent",
+      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+      "stars": 46427,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "chatgpt-on-wechat",
+        "claude"
+      ],
+      "full_name": "zhayujie/CowAgent",
+      "author": "zhayujie"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "langgraph",
+      "title": "langgraph",
+      "source_url": "https://github.com/langchain-ai/langgraph",
+      "url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient agents.",
+      "stars": 39270,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "deepagents"
+      ],
+      "full_name": "langchain-ai/langgraph",
+      "author": "langchain-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "AstrBot",
+      "title": "AstrBot",
+      "source_url": "https://github.com/AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "stars": 38853,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "astrbot",
+        "chatbot",
+        "chatgpt"
+      ],
+      "full_name": "AstrBotDevs/AstrBot",
+      "author": "AstrBotDevs"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+      "source_url": "https://github.com/jmarshall23/msword",
+      "url": "https://github.com/jmarshall23/msword",
+      "description": "Article URL: https://github.com/jmarshall23/msword Comments URL: https://news.ycombinator.com/item?id=49228663 Points: 51 # Comments: 17",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
+      "source_url": "http://longbets.org/601/",
+      "url": "http://longbets.org/601/",
+      "description": "Article URL: http://longbets.org/601/ Comments URL: https://news.ycombinator.com/item?id=49228458 Points: 133 # Comments: 46",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Illinois just told every operating system to start reporting your kid's age",
+      "source_url": "https://itsfoss.com/news/illinois-age-verification-bill/",
+      "url": "https://itsfoss.com/news/illinois-age-verification-bill/",
+      "description": "Article URL: https://itsfoss.com/news/illinois-age-verification-bill/ Comments URL: https://news.ycombinator.com/item?id=49228350 Points: 89 # Comments: 51",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
+      "source_url": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
+      "url": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
+      "description": "Thread for original post: https://news.ycombinator.com/item?id=49214863 Comments URL: https://news.ycombinator.com/item?id=49228166 Points: 166 # Comments: 15",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+      "source_url": "https://marketnow.site/",
+      "url": "https://marketnow.site/",
+      "description": "Article URL: https://marketnow.site/ Comments URL: https://news.ycombinator.com/item?id=49228086 Points: 12 # Comments: 2",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Incentives are for losers",
+      "source_url": "https://www.experimental-history.com/p/incentives-are-for-losers",
+      "url": "https://www.experimental-history.com/p/incentives-are-for-losers",
+      "description": "Article URL: https://www.experimental-history.com/p/incentives-are-for-losers Comments URL: https://news.ycombinator.com/item?id=49227652 Points: 100 # Comments: 63",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "TheoremDB – A public workspace for machine mathematics",
+      "source_url": "https://theoremdb.org/",
+      "url": "https://theoremdb.org/",
+      "description": "Article URL: https://theoremdb.org/ Comments URL: https://news.ycombinator.com/item?id=49227505 Points: 36 # Comments: 0",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
+      "source_url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
+      "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
+      "description": "Article URL: https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621 Comments URL: https://news.ycombinator.com/item?id=49227365 Points: 110 # Comments: 65",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+      "source_url": "https://os8088.com/",
+      "url": "https://os8088.com/",
+      "description": "Article URL: https://os8088.com/ Comments URL: https://news.ycombinator.com/item?id=49226923 Points: 152 # Comments: 74",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Dithered QR Codes",
+      "source_url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+      "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+      "description": "Article URL: https://www.andrewt.net/dithered-qr-codes/wtf/ Comments URL: https://news.ycombinator.com/item?id=49226742 Points: 170 # Comments: 15",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "My server is a phone now",
+      "source_url": "https://seg6.space/posts/phone-server/",
+      "url": "https://seg6.space/posts/phone-server/",
+      "description": "Article URL: https://seg6.space/posts/phone-server/ Comments URL: https://news.ycombinator.com/item?id=49226636 Points: 306 # Comments: 115",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Should you stop cracking your knuckles?",
+      "source_url": "https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles",
+      "url": "https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles",
+      "description": "Article URL: https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles Comments URL: https://news.ycombinator.com/item?id=49226563 Points: 51 # Comments: 48",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
+      "source_url": "https://shopify.engineering/scaling-inventory-reservations",
+      "url": "https://shopify.engineering/scaling-inventory-reservations",
+      "description": "Article URL: https://shopify.engineering/scaling-inventory-reservations Comments URL: https://news.ycombinator.com/item?id=49226536 Points: 180 # Comments: 101",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+      "source_url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+      "description": "Article URL: https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute Comments URL: https://news.ycombinator.com/item?id=49225139 Points: 143 # Comments: 32",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Fastmail offers EU data region",
+      "source_url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "description": "Article URL: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/ Comments URL: https://news.ycombinator.com/item?id=49223082 Points: 403 # Comments: 201",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Message your other Claude Code sessions",
+      "source_url": "https://code.claude.com/docs/en/cross-session-messaging",
+      "url": "https://code.claude.com/docs/en/cross-session-messaging",
+      "description": "Article URL: https://code.claude.com/docs/en/cross-session-messaging Comments URL: https://news.ycombinator.com/item?id=49222824 Points: 121 # Comments: 47",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "“Code was never the hard part” is an insult to all programmers",
+      "source_url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+      "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+      "description": "Article URL: https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers Comments URL: https://news.ycombinator.com/item?id=49222189 Points: 735 # Comments: 433",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Triton: DirectX 11 Driver for QEMU",
+      "source_url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+      "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+      "description": "Article URL: https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/ Comments URL: https://news.ycombinator.com/item?id=49221711 Points: 177 # Comments: 34",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "_for-sale DNS records",
+      "source_url": "https://specification.website/spec/foundations/for-sale-dns/",
+      "url": "https://specification.website/spec/foundations/for-sale-dns/",
+      "description": "Article URL: https://specification.website/spec/foundations/for-sale-dns/ Comments URL: https://news.ycombinator.com/item?id=49221668 Points: 393 # Comments: 143",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Making difficulty curves in games",
+      "source_url": "http://www.davetech.co.uk/difficultycurves",
+      "url": "http://www.davetech.co.uk/difficultycurves",
+      "description": "Article URL: http://www.davetech.co.uk/difficultycurves Comments URL: https://news.ycombinator.com/item?id=49180649 Points: 107 # Comments: 43",
+      "feed_name": "Hacker News"
+    }
+  ]
+}

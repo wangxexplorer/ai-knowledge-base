@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260809-013",
+  "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
+  "source_url": "https://shopify.engineering/scaling-inventory-reservations",
+  "source_type": "rss",
+  "summary": "Shopify工程团队分享了将库存预留系统从Redis迁移到MySQL的实践，以应对大规模扩展需求。文章详细阐述了迁移原因、架构设计、数据一致性保障及性能优化策略，展示了MySQL在特定业务场景下作为高性能存储的可行性。该案例对理解分布式系统数据存储选型、缓存与数据库协同、以及高并发场景下的系统设计具有参考价值。",
+  "tags": [
+    "数据库",
+    "系统架构",
+    "扩展性",
+    "MySQL",
+    "Redis"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-09T16:44:06+08:00",
+  "updated_at": "2026-08-09T16:44:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "MySQL在特定业务场景下可替代Redis实现高性能与扩展性",
+      "系统设计需根据业务需求权衡存储技术选型",
+      "高并发场景下的数据一致性保障是核心挑战"
+    ],
+    "category": "工程实践"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "github-20260809-011",
+  "title": "LlamaFactory",
+  "source_url": "https://github.com/hiyouga/LlamaFactory",
+  "source_type": "github",
+  "summary": "LlamaFactory是一个统一的高效微调框架，支持100多种大语言模型（LLM）和视觉语言模型（VLM），在GitHub上拥有超过7.3万星标。该项目被ACL 2024收录，提供灵活的微调方案，涵盖LoRA、QLoRA等技术，并支持DeepSeek、Gemma等主流模型。其设计强调易用性和效率，适用于Agent、AI应用开发中的模型定制，是AI领域重要的开源工具。",
+  "tags": [
+    "fine-tuning",
+    "LLM",
+    "开源工具",
+    "模型定制",
+    "高效微调"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-09T16:44:06+08:00",
+  "updated_at": "2026-08-09T16:44:06+08:00",
+  "metadata": {
+    "stars": 73931,
+    "language": "Python",
+    "author": "hiyouga"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "支持100+模型的高效微调，降低定制门槛",
+      "ACL 2024认可，技术成熟度高",
+      "与Agent和AI应用开发紧密相关"
+    ],
+    "category": "AI开发工具"
+  }
+}

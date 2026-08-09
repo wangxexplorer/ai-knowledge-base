@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260809-007",
+  "title": "TheoremDB – A public workspace for machine mathematics",
+  "source_url": "https://theoremdb.org/",
+  "source_type": "rss",
+  "summary": "TheoremDB是一个面向机器数学的公共工作空间，旨在为机器学习数学定理证明提供数据与协作平台。该条目与AI、LLM和Agent领域相关，特别是与自动定理证明、数学推理和AI辅助科研相关。它可能为LLM提供数学训练数据或评估基准，并支持Agent在数学领域的自主探索。",
+  "tags": [
+    "机器数学",
+    "定理证明",
+    "AI推理",
+    "数学数据",
+    "协作平台"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-09T16:44:06+08:00",
+  "updated_at": "2026-08-09T16:44:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "为LLM提供数学定理证明的训练或评估数据。",
+      "支持AI Agent在数学领域进行自主推理和探索。",
+      "公共工作空间促进协作，加速AI数学研究。"
+    ],
+    "category": "AI基础设施"
+  }
+}

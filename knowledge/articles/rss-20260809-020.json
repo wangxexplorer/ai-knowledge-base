@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260809-020",
+  "title": "Making difficulty curves in games",
+  "source_url": "http://www.davetech.co.uk/difficultycurves",
+  "source_type": "rss",
+  "summary": "该条目讨论游戏难度曲线的设计，属于游戏设计领域，与AI、LLM或Agent无直接关联。虽然AI可用于动态难度调整，但本文未涉及相关技术。",
+  "tags": [
+    "游戏设计",
+    "难度曲线",
+    "用户体验"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-09T16:44:06+08:00",
+  "updated_at": "2026-08-09T16:44:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "难度曲线是游戏设计核心，影响玩家体验。",
+      "AI可辅助动态难度调整，但本文未涉及。",
+      "与LLM和Agent技术无直接关联。"
+    ],
+    "category": "游戏设计"
+  }
+}

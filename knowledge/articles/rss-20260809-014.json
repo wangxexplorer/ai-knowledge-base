@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260809-014",
+  "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+  "source_url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+  "source_type": "rss",
+  "summary": "该条目介绍了一个开源的交互式地图，用于追踪2025年8月12日的日全食路径。地图提供多种图层，包括食相、贝塞尔参数、本影实时位置、3D阴影和云层投影等，用户可自定义视角和透明度。该工具基于天文计算和地理可视化技术，与AI、LLM或Agent领域无直接关联，但可能涉及数据可视化或前端技术。",
+  "tags": [
+    "日食",
+    "开源地图",
+    "天文可视化",
+    "地理信息"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-09T16:44:06+08:00",
+  "updated_at": "2026-08-09T16:44:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "该地图为天文爱好者提供实时日食路径可视化，但未涉及AI或LLM技术。",
+      "开源特性可能允许开发者集成AI增强功能，但当前版本无相关实现。",
+      "与Agent领域无关，属于特定领域应用工具。"
+    ],
+    "category": "天文工具"
+  }
+}

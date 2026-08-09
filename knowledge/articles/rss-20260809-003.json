@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260809-003",
+  "title": "Illinois just told every operating system to start reporting your kid's age",
+  "source_url": "https://itsfoss.com/news/illinois-age-verification-bill/",
+  "source_type": "rss",
+  "summary": "伊利诺伊州通过一项法案，要求所有操作系统在用户使用过程中报告未成年人的年龄，以加强在线年龄验证。该法案可能影响科技公司如何收集和处理年龄数据，引发隐私和监管讨论。",
+  "tags": [
+    "年龄验证",
+    "隐私",
+    "监管",
+    "操作系统"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-09T16:44:06+08:00",
+  "updated_at": "2026-08-09T16:44:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "年龄验证成为法律要求，科技公司需调整数据策略",
+      "可能引发隐私担忧，影响用户数据收集方式",
+      "对AI系统在年龄识别和内容过滤方面提出新要求"
+    ],
+    "category": "政策与法规"
+  }
+}

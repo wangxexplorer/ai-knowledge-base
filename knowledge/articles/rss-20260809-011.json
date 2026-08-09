@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260809-011",
+  "title": "My server is a phone now",
+  "source_url": "https://seg6.space/posts/phone-server/",
+  "source_type": "rss",
+  "summary": "该文章讨论将手机用作服务器，可能涉及移动设备上的自托管、边缘计算或远程访问。虽然与AI/LLM/Agent无直接关联，但边缘计算和移动端部署可能为AI推理提供新场景。",
+  "tags": [
+    "边缘计算",
+    "移动服务器",
+    "自托管"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-09T16:44:06+08:00",
+  "updated_at": "2026-08-09T16:44:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "移动设备可作为轻量级服务器",
+      "边缘部署可能降低AI推理延迟",
+      "自托管趋势与隐私保护相关"
+    ],
+    "category": "基础设施"
+  }
+}

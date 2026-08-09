@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260809-019",
+  "title": "_for-sale DNS records",
+  "source_url": "https://specification.website/spec/foundations/for-sale-dns/",
+  "source_type": "rss",
+  "summary": "该条目讨论的是DNS记录中用于标记域名待售的规范，属于互联网基础设施领域。与AI、LLM或Agent技术无直接关联，但可能涉及域名交易自动化或智能合约等边缘应用。",
+  "tags": [
+    "DNS",
+    "域名",
+    "规范",
+    "互联网基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-09T16:44:06+08:00",
+  "updated_at": "2026-08-09T16:44:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "DNS记录可携带商业元数据",
+      "域名交易可能自动化",
+      "与AI技术关联度低"
+    ],
+    "category": "互联网基础设施"
+  }
+}

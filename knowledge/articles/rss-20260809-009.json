@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260809-009",
+  "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+  "source_url": "https://os8088.com/",
+  "source_type": "rss",
+  "summary": "该条目介绍Os8088，一个为IBM XT、286、386等早期PC设计的类Mac操作系统。内容聚焦于复古计算和操作系统移植，与AI、LLM或Agent技术无直接关联。其技术实现可能涉及底层系统编程，但未涉及机器学习、自然语言处理或自主智能体。因此，该条目在AI领域相关性极低。",
+  "tags": [
+    "复古计算",
+    "操作系统",
+    "IBM PC",
+    "Mac-like",
+    "底层编程"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-09T16:44:06+08:00",
+  "updated_at": "2026-08-09T16:44:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "该条目属于复古计算领域，与AI技术栈无交集。",
+      "可能对理解早期系统设计有历史价值，但不涉及现代AI方法。",
+      "若需AI相关性，可忽略此条目。"
+    ],
+    "category": "非AI技术"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260809-017",
+  "title": "“Code was never the hard part” is an insult to all programmers",
+  "source_url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+  "source_type": "rss",
+  "summary": "本文反驳了“代码从来不是难点”这一流行观点，认为这是对所有程序员的侮辱。作者强调，编写代码本身需要深厚的专业知识、严谨的逻辑思维和解决复杂问题的能力，绝非易事。文章批评了当前AI热潮中贬低编程技能、忽视程序员价值的倾向，指出这种言论不仅不尊重程序员，也误解了软件开发的本质。作者呼吁正视编程的难度和程序员的贡献，避免被过度简化的AI叙事所误导。",
+  "tags": [
+    "编程价值",
+    "AI叙事",
+    "程序员",
+    "软件开发",
+    "技术争议"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-09T16:44:06+08:00",
+  "updated_at": "2026-08-09T16:44:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "反驳AI时代“代码不重要”的流行说法，强调编程的专业性和难度",
+      "批评AI热潮中贬低程序员技能和贡献的倾向",
+      "呼吁正视软件开发复杂性，避免被简化AI叙事误导"
+    ],
+    "category": "技术观点"
+  }
+}

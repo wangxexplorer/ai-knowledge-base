@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260809-015",
+  "title": "Fastmail offers EU data region",
+  "source_url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+  "source_type": "rss",
+  "summary": "Fastmail宣布提供欧盟数据区域，允许用户将邮件数据存储在欧洲，以满足GDPR等数据主权要求。该功能增强了隐私保护，但主要涉及电子邮件服务，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "数据主权",
+    "隐私",
+    "电子邮件",
+    "GDPR"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-09T16:44:06+08:00",
+  "updated_at": "2026-08-09T16:44:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "数据区域选择是云服务合规趋势",
+      "对AI训练数据来源有间接影响",
+      "用户数据控制权增强"
+    ],
+    "category": "数据隐私与合规"
+  }
+}
