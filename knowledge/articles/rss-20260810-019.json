@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260810-019",
+  "title": "Cool URIs Don't Change (1998)",
+  "source_url": "https://www.w3.org/Provider/Style/URI",
+  "source_type": "rss",
+  "summary": "该条目是1998年W3C发布的经典文章，强调URL（统一资源定位符）应保持稳定不变，避免因链接失效导致资源不可访问。文章提出设计持久、可管理的URL原则，对Web架构的长期可维护性有深远影响。在AI与LLM领域，稳定的URL是知识检索、数据抓取和模型训练数据质量的基础，确保引用和溯源可靠。",
+  "tags": [
+    "URL设计",
+    "Web架构",
+    "数据持久性",
+    "知识检索"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-10T17:24:31+08:00",
+  "updated_at": "2026-08-10T17:24:31+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "稳定的URL是构建可靠知识库和训练数据的关键前提。",
+      "AI系统依赖持久链接进行信息溯源，避免内容漂移。",
+      "该原则对LLM的上下文检索和引用准确性有间接影响。"
+    ],
+    "category": "Web基础设施"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260810-013",
+  "title": "How I use LLMs to learn complex topics",
+  "source_url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+  "source_type": "rss",
+  "summary": "本文作者分享了利用LLM学习复杂主题的个人经验和方法，包括如何提问、分解概念、生成示例和验证理解。文章强调LLM作为交互式学习工具的价值，而非被动获取答案，并讨论了其局限性及有效使用策略。内容来自Hacker News热门讨论，反映了实践者对LLM教育应用的关注。",
+  "tags": [
+    "LLM",
+    "学习",
+    "教育",
+    "提示工程",
+    "实践方法"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-10T17:24:31+08:00",
+  "updated_at": "2026-08-10T17:24:31+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "LLM可辅助主动学习，通过提问和反馈加深理解",
+      "有效使用需设计针对性提示，结合批判性思维",
+      "文章提供实用技巧，但需注意模型幻觉风险"
+    ],
+    "category": "LLM应用"
+  }
+}

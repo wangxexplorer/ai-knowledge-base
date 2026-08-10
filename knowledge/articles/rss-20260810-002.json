@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260810-002",
+  "title": "The Philippines' big offshoring industry is growing despite AI",
+  "source_url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
+  "source_type": "rss",
+  "summary": "本文探讨了菲律宾离岸外包产业在人工智能浪潮下仍保持增长的现象。尽管AI技术可能替代部分外包工作，但菲律宾凭借其英语能力、成本优势和时区便利，依然吸引着全球企业。文章分析了AI对离岸外包行业的影响，以及该行业如何适应技术变革，通过提升服务复杂度和人机协作来维持竞争力。这反映了AI在重塑全球劳动力市场中的复杂作用，以及特定地区如何利用自身优势在AI时代找到新定位。",
+  "tags": [
+    "AI对就业影响",
+    "离岸外包",
+    "劳动力市场",
+    "全球化",
+    "产业适应"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-10T17:24:31+08:00",
+  "updated_at": "2026-08-10T17:24:31+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI并未完全取代离岸外包，反而推动行业向高附加值服务转型",
+      "菲律宾的独特优势（语言、成本、时区）使其在AI时代仍具竞争力",
+      "该案例展示了AI技术对全球劳动力市场的非均质影响"
+    ],
+    "category": "AI产业与经济"
+  }
+}

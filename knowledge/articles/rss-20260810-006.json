@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260810-006",
+  "title": "Turn satellite imagery into a paper globe you fold yourself",
+  "source_url": "https://foldingglobes.com/",
+  "source_type": "rss",
+  "summary": "该项目提供将卫星图像转换为可自行折叠的纸质地球仪的工具，属于创意地理可视化项目。与AI、LLM、Agent领域无直接关联，但可能涉及图像处理技术，不涉及大语言模型或智能体。",
+  "tags": [
+    "卫星图像",
+    "纸质地球仪",
+    "地理可视化",
+    "创意项目"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-10T17:24:31+08:00",
+  "updated_at": "2026-08-10T17:24:31+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "属于手工制作与地理信息结合的项目",
+      "可能使用图像处理但非AI核心",
+      "与LLM和Agent无直接联系"
+    ],
+    "category": "非AI相关"
+  }
+}

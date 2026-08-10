@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260810-017",
+  "title": "Taxi drivers rarely die of Alzheimer's",
+  "source_url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+  "source_type": "rss",
+  "summary": "该文章探讨出租车司机因长期进行复杂空间导航和记忆训练，阿尔茨海默病死亡率较低，揭示认知活动对大脑的保护作用。虽非直接涉及AI，但为AI认知模型、神经启发算法及智能体空间推理提供生物学依据，对LLM和Agent的认知架构设计有参考价值。",
+  "tags": [
+    "认知科学",
+    "空间推理",
+    "神经科学",
+    "AI启发",
+    "大脑健康"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-10T17:24:31+08:00",
+  "updated_at": "2026-08-10T17:24:31+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "复杂空间任务可增强神经可塑性，降低神经退行风险，启发AI持续学习机制。",
+      "空间推理能力与认知储备相关，可类比于Agent环境探索与记忆建模。",
+      "研究为设计类脑AI架构提供生物学证据，促进认知模型与LLM融合。"
+    ],
+    "category": "交叉学科"
+  }
+}

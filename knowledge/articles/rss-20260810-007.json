@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260810-007",
+  "title": "What Happened to HackerOne?",
+  "source_url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+  "source_type": "rss",
+  "summary": "文章探讨了HackerOne平台的发展变化，可能涉及漏洞赏金行业的现状、挑战或转型。作为网络安全众测平台，HackerOne的演变反映了安全领域与AI技术的交叉趋势，但具体内容未明确提及AI、LLM或Agent。相关性较低，仅作为行业背景参考。",
+  "tags": [
+    "网络安全",
+    "漏洞赏金",
+    "平台发展"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-10T17:24:31+08:00",
+  "updated_at": "2026-08-10T17:24:31+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "HackerOne是安全众测领域的代表平台",
+      "其变化可能影响安全行业与AI的结合方向",
+      "需进一步阅读原文以获取具体细节"
+    ],
+    "category": "行业动态"
+  }
+}

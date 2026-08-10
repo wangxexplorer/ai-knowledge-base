@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260810-020",
+  "title": "Everything you do is being recorded",
+  "source_url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+  "source_type": "rss",
+  "summary": "本文探讨AI可穿戴设备普及带来的全面监控问题，分析个人隐私被持续记录的社会影响，并提出反监控措施。文章强调技术便利与隐私保护的矛盾，呼吁公众关注数据主权。",
+  "tags": [
+    "AI监控",
+    "可穿戴设备",
+    "隐私",
+    "数据主权",
+    "反监控"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-10T17:24:31+08:00",
+  "updated_at": "2026-08-10T17:24:31+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI可穿戴设备导致日常行为被持续记录，隐私边界模糊。",
+      "反监控技术成为应对全面监控的重要工具。",
+      "技术发展需平衡便利性与个人数据权利。"
+    ],
+    "category": "AI社会影响"
+  }
+}

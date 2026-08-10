@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260810-004",
+  "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+  "source_url": "https://www.whodunnitai.com/",
+  "source_type": "rss",
+  "summary": "该项目是一个基于语音驱动的谋杀悬疑游戏，用户可通过语音与AI嫌疑人进行实时对话。它使用OpenAI的gpt-realtime-2.1模型通过WebRTC实现语音到语音交互，并利用工具调用记录指控和证据，再由gpt-5-mini作为裁判评估证据有效性。项目展示了语音AI代理在互动娱乐中的应用，涉及实时语音处理、多代理协作和用户认证等技术。",
+  "tags": [
+    "语音AI",
+    "实时交互",
+    "多代理系统",
+    "游戏应用",
+    "OpenAI"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-10T17:24:31+08:00",
+  "updated_at": "2026-08-10T17:24:31+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "语音AI代理已可用于复杂互动场景，如审讯模拟。",
+      "多代理协作（嫌疑人+裁判）提升游戏真实性和评估客观性。",
+      "成本控制是语音AI应用商业化的关键挑战。"
+    ],
+    "category": "AI应用"
+  }
+}

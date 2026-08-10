@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260810-008",
+  "title": "How We Pushed CDC into Postgres",
+  "source_url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+  "source_type": "rss",
+  "summary": "本文介绍了Snowflake工程团队如何将Change Data Capture（CDC）功能集成到Postgres数据库，实现数据实时复制到Snowflake。文章详细阐述了技术架构、实现方法及性能优化，展示了如何高效处理大规模数据变更流。该技术虽非直接涉及AI，但为AI应用提供了可靠的数据基础设施，支持实时数据分析和机器学习模型训练。",
+  "tags": [
+    "CDC",
+    "Postgres",
+    "数据复制",
+    "实时数据",
+    "Snowflake"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-10T17:24:31+08:00",
+  "updated_at": "2026-08-10T17:24:31+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "CDC技术是构建实时数据管道的关键，为AI模型提供最新数据。",
+      "Snowflake的工程实践展示了大规模数据同步的优化策略。",
+      "数据基础设施的改进间接提升AI系统的数据质量和可用性。"
+    ],
+    "category": "数据工程"
+  }
+}
