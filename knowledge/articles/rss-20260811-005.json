@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260811-005",
+  "title": "Chicken Scheme 6.0",
+  "source_url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+  "source_type": "rss",
+  "summary": "Chicken Scheme 6.0 是 Scheme 编程语言实现的一个重要版本发布，主要面向编译器、解释器和语言运行时领域。该版本可能包含性能优化、语言特性增强或工具链改进，但具体细节未在条目中详述。作为 Lisp 家族的一员，Scheme 在 AI 历史中具有重要地位，但该发布本身与当前主流 AI、LLM 或 Agent 技术无直接关联。",
+  "tags": [
+    "Scheme",
+    "编程语言",
+    "编译器",
+    "Lisp",
+    "发布"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-11T16:57:18+08:00",
+  "updated_at": "2026-08-11T16:57:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Scheme 语言在 AI 历史中有影响，但此版本更新不涉及现代 AI 技术。",
+      "该发布可能对 Lisp 生态开发者有意义，但非 AI 领域核心。",
+      "与 LLM 或 Agent 无直接关联，相关性极低。"
+    ],
+    "category": "编程语言"
+  }
+}

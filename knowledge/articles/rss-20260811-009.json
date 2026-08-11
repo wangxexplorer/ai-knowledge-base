@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260811-009",
+  "title": "How Claude marks AI-generated content",
+  "source_url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+  "source_type": "rss",
+  "summary": "本文介绍了Claude如何标记AI生成的内容，包括水印技术和内容标注机制。文章讨论了Claude在生成文本时添加的元数据标记，以及这些标记如何帮助用户识别AI生成内容。该功能旨在提高透明度，让用户了解内容的来源。文章还提到了相关技术实现和用户反馈，包括对隐私和内容质量的讨论。",
+  "tags": [
+    "AI内容标记",
+    "Claude",
+    "透明度",
+    "水印技术",
+    "内容溯源"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-11T16:57:18+08:00",
+  "updated_at": "2026-08-11T16:57:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "Claude通过元数据标记AI生成内容，提升内容透明度",
+      "该机制有助于用户区分AI与人类生成内容，增强信任",
+      "技术实现涉及水印和元数据，引发隐私与质量讨论"
+    ],
+    "category": "AI技术应用"
+  }
+}

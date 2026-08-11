@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260811-018",
+  "title": "Show HN: Open-Source Greptile Alternative",
+  "source_url": "https://github.com/Juror-AI/juror",
+  "source_type": "rss",
+  "summary": "该条目是Hacker News上关于一个开源项目Juror的展示，该项目被描述为Greptile的开源替代品。Greptile是一款AI代码审查工具，因此Juror很可能提供类似功能，如基于AI的代码分析、审查和反馈。条目本身信息有限，但标题和链接表明其与AI编程助手领域相关，属于AI在软件开发中的应用。",
+  "tags": [
+    "AI代码审查",
+    "开源",
+    "编程助手",
+    "LLM应用"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-11T16:57:18+08:00",
+  "updated_at": "2026-08-11T16:57:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "开源替代品表明AI代码审查工具市场活跃",
+      "项目名称Juror暗示其功能可能涉及代码评审",
+      "与Greptile对比，说明其定位为AI驱动的开发辅助"
+    ],
+    "category": "AI编程工具"
+  }
+}

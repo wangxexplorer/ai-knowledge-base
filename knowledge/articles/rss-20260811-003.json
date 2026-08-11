@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260811-003",
+  "title": "Recycle – Floppydisks",
+  "source_url": "https://www.floppydisk.com/recycle",
+  "source_type": "rss",
+  "summary": "该条目来自Hacker News，标题为“Recycle – Floppydisks”，内容涉及软盘的回收利用，与AI、LLM或Agent技术无直接关联。它可能是一篇关于环保或怀旧科技的文章，但未提及任何人工智能相关技术。因此，该条目在AI领域的相关性极低。",
+  "tags": [
+    "软盘",
+    "回收",
+    "环保",
+    "科技怀旧"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-11T16:57:18+08:00",
+  "updated_at": "2026-08-11T16:57:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "条目主题为软盘回收，与AI技术无关。",
+      "来源为Hacker News，但内容不涉及AI、LLM或Agent。",
+      "在AI知识库中无参考价值。"
+    ],
+    "category": "非AI相关"
+  }
+}

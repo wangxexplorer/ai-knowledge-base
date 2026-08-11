@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260811-012",
+  "title": "Learning more about Claude's mathematical capabilities",
+  "source_url": "https://www.anthropic.com/research/riemann-zeta",
+  "source_type": "rss",
+  "summary": "该条目来自Anthropic官方研究页面，标题为“了解更多关于Claude的数学能力”，具体涉及黎曼zeta函数相关研究。内容聚焦于Claude在数学推理方面的能力评估与提升，属于AI模型能力研究范畴。条目通过Hacker News分享，引发社区讨论，反映了公众对前沿AI数学能力的关注。",
+  "tags": [
+    "Claude",
+    "数学能力",
+    "Anthropic",
+    "AI研究",
+    "推理"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-11T16:57:18+08:00",
+  "updated_at": "2026-08-11T16:57:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "Anthropic正在深入探索Claude的数学推理能力，可能涉及复杂数学问题如黎曼zeta函数。",
+      "该研究有助于提升LLM在科学计算和数学领域的应用价值。",
+      "社区讨论热度高，表明AI数学能力是公众关注焦点。"
+    ],
+    "category": "AI模型能力研究"
+  }
+}

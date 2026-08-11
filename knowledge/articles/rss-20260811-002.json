@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260811-002",
+  "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
+  "source_url": "https://github.com/activeing123/mcptoon",
+  "source_type": "rss",
+  "summary": "Mcptoon是一个面向MCP（Model Context Protocol）的CLI客户端，旨在通过token高效的方式与AI模型交互。该项目在Hacker News上获得关注，体现了开发者对MCP工具链的优化需求，特别是在减少token消耗方面。它可能通过精简上下文或智能缓存来提升效率，适合在终端环境中使用MCP服务的开发者。",
+  "tags": [
+    "MCP",
+    "CLI",
+    "Token优化",
+    "开发者工具",
+    "AI集成"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-11T16:57:18+08:00",
+  "updated_at": "2026-08-11T16:57:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "MCP生态正在催生专用客户端工具，Mcptoon聚焦token效率，反映成本优化趋势",
+      "CLI形式适合开发者工作流，可能集成到脚本或自动化中",
+      "该项目在HN上获得40分和27条评论，表明社区对MCP工具链的兴趣"
+    ],
+    "category": "AI工具"
+  }
+}

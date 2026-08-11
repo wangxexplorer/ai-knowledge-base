@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260811-015",
+  "title": "Exploiting System Management Mode with a very long interrupt",
+  "source_url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+  "source_type": "rss",
+  "summary": "该条目介绍了一个利用超长中断攻击系统管理模式（SMM）的技术项目。SMM是x86处理器中高权限的固件执行环境，此攻击通过构造极长的中断来触发SMM漏洞，可能实现任意代码执行或固件持久化。该项目由安全研究员xoreaxeaxeax发布，包含PoC代码。与AI/LLM/Agent领域无直接关联，属于底层系统安全和硬件漏洞研究。",
+  "tags": [
+    "系统安全",
+    "固件漏洞",
+    "x86",
+    "SMM",
+    "硬件安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-11T16:57:18+08:00",
+  "updated_at": "2026-08-11T16:57:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "SMM攻击可绕过操作系统安全机制，属于高权限固件攻击。",
+      "该技术对AI系统底层基础设施构成潜在威胁，但非AI核心领域。",
+      "研究价值在于提升硬件安全防护，与AI安全间接相关。"
+    ],
+    "category": "系统安全"
+  }
+}

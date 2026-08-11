@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260811-007",
+  "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+  "source_url": "https://everycube.alen.is/",
+  "source_type": "rss",
+  "summary": "该项目展示了一个魔方所有可能状态的可视化浏览工具，涉及组合数学和状态空间遍历。虽然与AI、LLM或Agent无直接关联，但状态空间搜索和优化算法在AI领域有潜在应用。",
+  "tags": [
+    "魔方",
+    "状态空间",
+    "组合数学",
+    "可视化"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-11T16:57:18+08:00",
+  "updated_at": "2026-08-11T16:57:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "展示了大规模状态空间的交互式可视化方法",
+      "状态空间搜索算法可借鉴于AI规划问题"
+    ],
+    "category": "工具"
+  }
+}

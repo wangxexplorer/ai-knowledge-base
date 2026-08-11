@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260811-019",
+  "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+  "source_url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+  "source_type": "rss",
+  "summary": "Meta CEO马克·扎克伯格公开批评封闭式AI竞争对手，重申Meta将回归开源模型路线。此举凸显AI行业在开源与闭源之间的路线之争，影响LLM生态发展。开源模型有助于推动AI民主化，但可能带来安全与商业挑战。扎克伯格强调开放创新，与OpenAI、Google等闭源策略形成对比。该事件反映AI领域战略分歧，对开发者社区和AI治理具有重要影响。",
+  "tags": [
+    "开源AI",
+    "Meta",
+    "LLM",
+    "AI战略",
+    "行业竞争"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-11T16:57:18+08:00",
+  "updated_at": "2026-08-11T16:57:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "Meta坚持开源模型，与闭源AI巨头形成鲜明对比，影响AI技术生态。",
+      "开源与闭源路线之争是当前AI领域核心议题，关乎创新与安全平衡。",
+      "扎克伯格言论可能影响开发者选择，推动开源模型在LLM领域进一步普及。"
+    ],
+    "category": "AI行业动态"
+  }
+}

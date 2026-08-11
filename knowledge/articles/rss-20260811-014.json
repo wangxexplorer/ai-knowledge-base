@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260811-014",
+  "title": "What's the best programming language for coding agents?",
+  "source_url": "http://danluu.com/pl-tokens/",
+  "source_type": "rss",
+  "summary": "文章探讨了编程语言对编码智能体（coding agents）的适用性，重点关注token效率。通过分析不同语言在LLM上下文中的token消耗，指出某些语言（如Python）更受模型偏好，而其他语言（如Java）可能因冗长语法导致更高token成本。文章还讨论了语言选择对智能体性能的影响，并引用Hacker News上的社区讨论，涉及实际应用中的权衡。",
+  "tags": [
+    "编程语言",
+    "token效率",
+    "编码智能体",
+    "LLM",
+    "性能优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-11T16:57:18+08:00",
+  "updated_at": "2026-08-11T16:57:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "编程语言的token效率直接影响LLM的推理成本和准确性。",
+      "编码智能体的语言选择需平衡模型偏好与任务需求。",
+      "社区讨论揭示了实际部署中的经验与挑战。"
+    ],
+    "category": "AI工程实践"
+  }
+}

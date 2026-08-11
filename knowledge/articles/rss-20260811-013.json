@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260811-013",
+  "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+  "source_url": "https://cactuscompute.com/needle",
+  "source_type": "rss",
+  "summary": "Needle2是Cactus Compute推出的14MB超轻量级agentic LLM，专为手机、可穿戴设备、智能家居和机器人等边缘设备设计。模型仅45M参数，2bit量化，单二进制文件运行，内存占用28MB，在树莓派5上解码速度达500 tokens/sec。基于Simple Attention Networks架构，在工具调用和设备使用基准上与LFM2.5 230M等小模型互有胜负，但体积小",
+  "tags": [
+    "边缘AI",
+    "轻量级LLM",
+    "Agent",
+    "工具调用",
+    "IoT"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-11T16:57:18+08:00",
+  "updated_at": "2026-08-11T16:57:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "极小的模型规模（14MB/45M参数）实现了可用的agentic能力，证明了在资源受限设备上部署LLM的可行性。",
+      "通过将智能结构化为函数调用和结构化提取，降低了对世界知识和开放生成的需求，从而大幅压缩模型。",
+      "置信度评分机制支持边缘与云端协同，为混合AI架构提供了新思路。"
+    ],
+    "category": "模型与架构"
+  }
+}

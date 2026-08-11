@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260811-006",
+  "title": "The UK's war on anonymity has come to America",
+  "source_url": "https://www.effort.news/uk-lobby",
+  "source_type": "rss",
+  "summary": "该条目报道英国推动的反匿名政策已影响美国，涉及隐私、身份验证和网络监管。虽未直接提及AI，但匿名性减少与AI驱动的身份识别、监控技术密切相关，可能影响AI在网络安全、内容审核和用户画像等领域的应用。",
+  "tags": [
+    "隐私",
+    "身份验证",
+    "网络监管",
+    "AI监控",
+    "政策"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-11T16:57:18+08:00",
+  "updated_at": "2026-08-11T16:57:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.4,
+    "key_insights": [
+      "反匿名趋势可能推动AI身份识别技术的更广泛应用",
+      "AI在内容审核和用户追踪中的作用将受政策影响",
+      "隐私保护与AI发展之间的平衡成为关键议题"
+    ],
+    "category": "政策与伦理"
+  }
+}

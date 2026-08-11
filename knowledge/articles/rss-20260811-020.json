@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260811-020",
+  "title": "Humanising LLM Outputs Is Dumb",
+  "source_url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+  "source_type": "rss",
+  "summary": "文章批评了过度人性化LLM输出的做法，认为这会导致用户对AI能力产生误解，并可能掩盖模型的局限性。作者主张应更清晰地呈现AI的机器属性，避免拟人化表达，以建立更准确的用户预期和更健康的交互关系。",
+  "tags": [
+    "LLM",
+    "人机交互",
+    "AI伦理",
+    "用户体验"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-11T16:57:18+08:00",
+  "updated_at": "2026-08-11T16:57:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "人性化输出可能误导用户对AI能力的认知",
+      "应平衡拟人化与透明性以管理用户预期",
+      "过度拟人化可能掩盖模型缺陷并引发伦理问题"
+    ],
+    "category": "AI交互设计"
+  }
+}

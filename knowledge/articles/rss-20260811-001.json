@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260811-001",
+  "title": "France to ban unsolicited telemarketing calls",
+  "source_url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
+  "source_type": "rss",
+  "summary": "法国宣布自2026年8月11日起禁止未经请求的电话营销。该政策旨在减少骚扰电话，保护消费者权益。虽然与AI、LLM或Agent无直接技术关联，但可能影响AI驱动的电话营销系统，促使相关企业调整策略，转向合规的AI应用。",
+  "tags": [
+    "电话营销",
+    "法规",
+    "AI应用",
+    "消费者保护"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-11T16:57:18+08:00",
+  "updated_at": "2026-08-11T16:57:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "AI电话营销系统需适应新法规，避免违规。",
+      "政策可能推动AI在合规营销中的创新。",
+      "对AI客服和语音交互技术有间接影响。"
+    ],
+    "category": "政策法规"
+  }
+}
