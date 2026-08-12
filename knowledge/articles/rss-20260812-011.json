@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260812-011",
+  "title": "How we used to get jobs: A newspaper classifieds story",
+  "source_url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+  "source_type": "rss",
+  "summary": "该文章通过报纸分类广告的历史故事，回顾了互联网时代之前人们寻找工作的方式，属于社会历史类内容。文章与AI、LLM或Agent技术无直接关联，但可作为理解技术变革对就业市场影响的背景材料。",
+  "tags": [
+    "历史",
+    "就业",
+    "报纸",
+    "技术变革"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-12T17:13:17+08:00",
+  "updated_at": "2026-08-12T17:13:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "回顾了前互联网时代的求职方式",
+      "反映了技术对信息传播和就业的影响",
+      "为理解AI时代就业变化提供历史视角"
+    ],
+    "category": "社会历史"
+  }
+}

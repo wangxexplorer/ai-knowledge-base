@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260812-002",
+  "title": "llama.cpp",
+  "source_url": "https://llama.app",
+  "source_type": "rss",
+  "summary": "llama.cpp是一个用于在本地设备上高效运行LLaMA等大语言模型的开源C++库，支持CPU和GPU推理，通过量化技术降低资源需求，是AI领域重要的本地推理工具。该条目来自Hacker News，讨论热度高，反映了社区对本地化AI部署的关注。",
+  "tags": [
+    "llama.cpp",
+    "本地推理",
+    "LLM",
+    "开源工具",
+    "量化"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-12T17:13:17+08:00",
+  "updated_at": "2026-08-12T17:13:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "llama.cpp使得在消费级硬件上运行LLM成为可能，推动了AI民主化。",
+      "量化技术是llama.cpp的核心优势，显著降低内存占用。",
+      "该项目在开发者社区中广受欢迎，是本地AI部署的重要参考。"
+    ],
+    "category": "开源工具"
+  }
+}

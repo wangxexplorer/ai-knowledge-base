@@ -1,0 +1,31 @@
+{
+  "id": "github-20260812-001",
+  "title": "hermes-agent",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "source_type": "github",
+  "summary": "hermes-agent是一个与AI、AI代理、Anthropic和ChatGPT相关的开源项目，基于Python开发，旨在提供可成长的智能代理。该项目在GitHub上拥有超过22.9万星标，表明其受到广泛关注。它可能涉及利用大型语言模型构建自主代理，支持与Anthropic和ChatGPT等模型集成，用于自动化任务和交互。",
+  "tags": [
+    "AI代理",
+    "LLM",
+    "Anthropic",
+    "ChatGPT",
+    "开源"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-12T17:13:17+08:00",
+  "updated_at": "2026-08-12T17:13:17+08:00",
+  "metadata": {
+    "stars": 229268,
+    "language": "Python",
+    "author": "NousResearch"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "项目聚焦于AI代理，与LLM领域高度相关",
+      "支持Anthropic和ChatGPT，体现多模型集成趋势",
+      "高星标数反映社区对代理技术的强烈兴趣"
+    ],
+    "category": "AI代理框架"
+  }
+}

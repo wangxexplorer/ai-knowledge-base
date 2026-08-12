@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260812-013",
+  "title": "CSS properties you should know for better text designs",
+  "source_url": "https://master.dev/blog/typographic-css-tricks/",
+  "source_type": "rss",
+  "summary": "该条目介绍CSS排版属性以优化文本设计，属于前端开发技术内容。虽然与AI、LLM或Agent无直接关联，但在AI生成内容的展示与用户界面设计中，良好的排版可提升可读性与用户体验。文章提供实用CSS技巧，对构建AI产品的前端界面有间接参考价值。",
+  "tags": [
+    "CSS",
+    "排版",
+    "前端开发",
+    "UI设计"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-12T17:13:17+08:00",
+  "updated_at": "2026-08-12T17:13:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "CSS排版属性可提升文本可读性，对AI生成内容的展示有辅助作用。",
+      "前端设计是AI产品用户体验的重要组成部分。",
+      "该内容不涉及AI核心技术，但可作为AI应用开发的补充知识。"
+    ],
+    "category": "前端开发"
+  }
+}

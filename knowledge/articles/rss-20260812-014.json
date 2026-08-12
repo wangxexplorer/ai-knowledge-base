@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260812-014",
+  "title": "Go is an ideal language for AI-assisted software engineering",
+  "source_url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+  "source_type": "rss",
+  "summary": "本文来自Google开发者博客，探讨Go语言为何适合AI辅助软件工程。文章认为Go的简洁性、强类型、静态编译和清晰并发模型，使其成为AI编程助手（如Copilot）的理想目标语言。Go代码的可预测性和低认知负担，有助于AI生成更准确、易维护的代码，减少错误和调试成本。文章还讨论了AI辅助开发对语言设计的影响，以及Go在云原生和微服务中的优势。",
+  "tags": [
+    "Go语言",
+    "AI辅助开发",
+    "软件工程",
+    "编程语言",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-12T17:13:17+08:00",
+  "updated_at": "2026-08-12T17:13:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "Go的简洁性和强类型特性，使其成为AI代码生成的高效目标语言。",
+      "AI辅助开发将影响未来编程语言的设计，Go提供了良好范例。",
+      "Go在云原生领域的普及，与AI辅助工具结合可提升开发效率。"
+    ],
+    "category": "AI工程实践"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260812-012",
+  "title": "Grok Bot",
+  "source_url": "https://x.ai/bot",
+  "source_type": "rss",
+  "summary": "Grok Bot是xAI推出的AI聊天机器人，与Grok模型相关。该条目在Hacker News上获得273分和229条评论，讨论热度较高。内容涉及AI对话系统，与LLM和Agent领域直接相关。",
+  "tags": [
+    "AI",
+    "LLM",
+    "聊天机器人",
+    "Grok",
+    "xAI"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-12T17:13:17+08:00",
+  "updated_at": "2026-08-12T17:13:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Grok Bot是xAI的AI产品，基于Grok大模型。",
+      "Hacker News上的高讨论度表明社区对AI聊天机器人的关注。",
+      "该条目体现了LLM在对话式AI中的应用。"
+    ],
+    "category": "AI产品"
+  }
+}

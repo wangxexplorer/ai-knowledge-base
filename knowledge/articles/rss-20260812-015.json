@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260812-015",
+  "title": "Mojo 1.0",
+  "source_url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+  "source_type": "rss",
+  "summary": "Mojo 1.0是Modular公司发布的编程语言正式版本，旨在结合Python的易用性与C的性能，专为AI和机器学习工作负载设计。该版本标志着Mojo从早期预览走向稳定，提供了改进的编译器、标准库和工具链，支持高性能计算和GPU加速。Mojo语言对AI开发者具有吸引力，因为它能简化高性能AI应用的开发，减少对C++或CUDA的依赖。此新闻在Hacker News上引发热议，反映了开发者对AI基础",
+  "tags": [
+    "编程语言",
+    "AI基础设施",
+    "高性能计算",
+    "Mojo",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-12T17:13:17+08:00",
+  "updated_at": "2026-08-12T17:13:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "Mojo 1.0为AI工作负载提供Python级易用性与C级性能，降低高性能AI开发门槛。",
+      "该版本稳定化可能推动AI模型训练和推理的本地优化，影响AI工程实践。",
+      "社区讨论热度高，表明AI开发者对新兴基础设施工具的兴趣浓厚。"
+    ],
+    "category": "AI开发工具"
+  }
+}

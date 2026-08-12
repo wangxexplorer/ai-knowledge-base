@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260812-010",
+  "title": "Making holograms with a pen plotter",
+  "source_url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+  "source_type": "rss",
+  "summary": "该条目介绍使用笔式绘图仪制作全息图的技术，属于光学制造与数字制造交叉领域。内容涉及通过精密绘图设备在特定材料上生成干涉图案，以实现全息效果。与AI、LLM或Agent无直接关联，但可能涉及计算机辅助设计和自动化控制，与AI应用存在间接联系。",
+  "tags": [
+    "全息术",
+    "笔式绘图仪",
+    "数字制造",
+    "光学"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-12T17:13:17+08:00",
+  "updated_at": "2026-08-12T17:13:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "展示了低成本制造全息图的创新方法",
+      "涉及精密运动控制与图案生成，可借鉴AI优化路径",
+      "与AI领域关联度低，但可作为交叉应用案例"
+    ],
+    "category": "数字制造与光学"
+  }
+}

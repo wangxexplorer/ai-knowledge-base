@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260812-020",
+  "title": "OpenAI’s head of ethics leaves less than a year after joining",
+  "source_url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+  "source_type": "rss",
+  "summary": "OpenAI伦理负责人入职不到一年即离职，引发外界对AI伦理治理和公司内部文化及战略方向的关注。该事件凸显了AI快速发展中伦理实践与商业目标之间的张力，以及顶尖AI机构在负责任AI发展上面临的挑战。",
+  "tags": [
+    "OpenAI",
+    "AI伦理",
+    "人才流动",
+    "公司治理",
+    "负责任AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-12T17:13:17+08:00",
+  "updated_at": "2026-08-12T17:13:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI伦理负责人的快速离职可能反映内部对伦理实践的分歧或资源不足。",
+      "该事件可能影响公众对OpenAI负责任AI承诺的信任。",
+      "顶尖AI机构的人才流失或加剧AI伦理治理的不确定性。"
+    ],
+    "category": "AI治理与伦理"
+  }
+}

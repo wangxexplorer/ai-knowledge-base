@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260812-004",
+  "title": "DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio",
+  "source_url": "https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/",
+  "source_type": "rss",
+  "summary": "DARPA重型起重挑战赛结束，获胜者实现了3.84:1的有效载荷重量比。该新闻来自无人机行业网站，主要关注物理工程和航空技术，与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "DARPA",
+    "无人机",
+    "工程挑战"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-12T17:13:17+08:00",
+  "updated_at": "2026-08-12T17:13:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "该挑战赛聚焦于物理载荷能力，而非智能技术。",
+      "结果可能间接影响自主系统的硬件平台，但非核心AI进展。"
+    ],
+    "category": "工程与航空"
+  }
+}

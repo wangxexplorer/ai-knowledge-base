@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260812-008",
+  "title": "Compression is prediction",
+  "source_url": "https://ngrok.com/blog/compression-is-prediction",
+  "source_type": "rss",
+  "summary": "该文章探讨了压缩与预测之间的深层联系，指出数据压缩本质上是一种预测任务。这一观点与AI和LLM领域高度相关，因为大语言模型的核心机制正是通过预测下一个token来压缩信息。文章可能从信息论角度解释了LLM的工作原理，并讨论了压缩作为智能衡量标准的可能性。对于理解AI基础理论具有启发性。",
+  "tags": [
+    "压缩",
+    "预测",
+    "信息论",
+    "LLM原理",
+    "智能本质"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-12T17:13:17+08:00",
+  "updated_at": "2026-08-12T17:13:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "压缩与预测在数学上等价，LLM通过预测实现信息压缩。",
+      "压缩能力可作为衡量智能水平的重要指标。",
+      "该观点为理解LLM的泛化能力提供了新视角。"
+    ],
+    "category": "AI理论"
+  }
+}

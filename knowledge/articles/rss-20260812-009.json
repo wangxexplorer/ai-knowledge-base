@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260812-009",
+  "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+  "source_url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+  "source_type": "rss",
+  "summary": "Nvidia发布Nemotron 3.5 Lightning模型及NeMo Switchyard框架，旨在优化LLM推理性能与部署效率。Lightning版本强调低延迟和高吞吐，适用于RTX和DGX平台，而Switchyard提供灵活的模型切换与编排能力，支持多模型协同工作。该技术栈与AI、LLM和Agent领域高度相关，尤其在企业级推理优化和智能体部署场景中具有重要价值。",
+  "tags": [
+    "Nvidia",
+    "LLM推理",
+    "模型部署",
+    "Agent框架",
+    "性能优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-12T17:13:17+08:00",
+  "updated_at": "2026-08-12T17:13:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Nemotron 3.5 Lightning显著提升LLM推理速度，适合实时应用",
+      "NeMo Switchyard支持多模型动态切换，增强Agent系统灵活性",
+      "该技术栈面向RTX和DGX平台，降低企业部署门槛"
+    ],
+    "category": "AI基础设施"
+  }
+}

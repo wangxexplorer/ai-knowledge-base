@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260812-005",
+  "title": "The Human Is the Loop",
+  "source_url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+  "source_type": "rss",
+  "summary": "文章探讨了人机协作中人类作为关键环节的理念，强调在AI和自动化系统中保留人类监督与决策的重要性。内容涉及人类反馈在机器学习循环中的作用，以及如何设计以人为中心的AI系统，确保技术发展符合人类价值观。",
+  "tags": [
+    "人机协作",
+    "人类反馈",
+    "AI系统设计",
+    "自动化",
+    "人本AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-12T17:13:17+08:00",
+  "updated_at": "2026-08-12T17:13:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "人类在AI循环中不可或缺，确保系统可靠性和伦理合规",
+      "设计以人为中心的AI系统需整合人类反馈机制",
+      "自动化不应完全取代人类判断，需平衡效率与责任"
+    ],
+    "category": "AI伦理与交互"
+  }
+}

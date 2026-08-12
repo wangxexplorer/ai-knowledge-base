@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260812-001",
+  "title": "LinkedIn CringeBot 3000",
+  "source_url": "https://www.cringebot3000.com/",
+  "source_type": "rss",
+  "summary": "该条目为Hacker News上关于LinkedIn CringeBot 3000的讨论，标题带有讽刺意味，可能指代一种自动生成或模仿LinkedIn上令人尴尬内容的机器人。条目本身未提供具体技术细节，但涉及AI生成内容在社交平台的应用，与AI、LLM和Agent领域有一定关联。",
+  "tags": [
+    "AI生成内容",
+    "社交机器人",
+    "LinkedIn",
+    "讽刺",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-12T17:13:17+08:00",
+  "updated_at": "2026-08-12T17:13:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "可能涉及AI生成社交内容，但缺乏技术细节。",
+      "标题暗示对AI生成内容的负面看法。",
+      "来自Hacker News，社区讨论可能涉及AI伦理。"
+    ],
+    "category": "AI应用"
+  }
+}
