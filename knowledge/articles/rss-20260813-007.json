@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260813-007",
+  "title": "Breaking the WAL",
+  "source_url": "https://antithesis.com/blog/2026/wal-reset-bug/",
+  "source_type": "rss",
+  "summary": "该条目讨论数据库预写日志（WAL）重置相关的bug，属于系统可靠性工程领域。虽然未直接涉及AI或LLM，但AI Agent系统常依赖数据库存储状态，WAL故障可能影响Agent的持久化与恢复能力。文章通过案例剖析，强调分布式系统中日志一致性的重要性，对构建健壮的AI基础设施具有参考价值。",
+  "tags": [
+    "数据库",
+    "WAL",
+    "系统可靠性",
+    "AI基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-13T17:13:55+08:00",
+  "updated_at": "2026-08-13T17:13:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "WAL重置bug可能导致数据丢失，影响依赖持久化的AI系统",
+      "日志一致性是分布式AI系统可靠性的关键",
+      "工程案例对AI基础设施设计有借鉴意义"
+    ],
+    "category": "工程实践"
+  }
+}

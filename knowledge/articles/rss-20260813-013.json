@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260813-013",
+  "title": "DeepSeek V4 Pro 0813",
+  "source_url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+  "source_type": "rss",
+  "summary": "DeepSeek V4 Pro 0813是DeepSeek公司发布的最新大语言模型，在OpenRouter上提供API访问。该模型在Artificial Analysis等基准测试中表现优异，引发了Hacker News社区的热烈讨论（911分，373条评论）。作为AI领域的重要进展，它代表了开源大模型在性能和能力上的持续突破，对LLM生态和Agent应用具有潜在影响。",
+  "tags": [
+    "DeepSeek",
+    "大语言模型",
+    "开源AI",
+    "模型发布",
+    "基准测试"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-13T17:13:55+08:00",
+  "updated_at": "2026-08-13T17:13:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "DeepSeek V4 Pro是新一代大语言模型，性能显著提升，受到社区高度关注。",
+      "该模型通过OpenRouter提供API，降低了使用门槛，有利于Agent和应用的集成。",
+      "Hacker News的高讨论度表明其技术影响力和开发者社区的浓厚兴趣。"
+    ],
+    "category": "模型发布"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260813-005",
+  "title": "Principia Mathematica is modern and insightful",
+  "source_url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+  "source_type": "rss",
+  "summary": "本文探讨了罗素与怀特海合著的《数学原理》在现代计算机科学中的价值，认为其逻辑框架和形式化方法对理解计算理论、类型系统和编程语言设计仍有深刻启发。作者从计算视角重新解读这部经典，强调其与当代AI、形式验证及逻辑编程的关联，展示了历史著作在技术演进中的持续影响力。",
+  "tags": [
+    "数学原理",
+    "逻辑",
+    "形式化方法",
+    "计算理论",
+    "类型系统"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-13T17:13:55+08:00",
+  "updated_at": "2026-08-13T17:13:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "《数学原理》的逻辑体系为现代计算理论提供了基础性框架",
+      "其类型理论思想对编程语言设计和AI推理有借鉴意义",
+      "历史逻辑著作可启发当代形式化验证和知识表示研究"
+    ],
+    "category": "理论计算机科学"
+  }
+}

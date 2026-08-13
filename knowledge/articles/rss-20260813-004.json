@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260813-004",
+  "title": "Build Wide, Ship Narrow",
+  "source_url": "https://adapt.com/blog/build-wide-ship-narrow",
+  "source_type": "rss",
+  "summary": "本文探讨了在AI产品开发中采用'广泛构建、精准发布'的策略，即先广泛探索多种功能或模型能力，再根据用户反馈和实际效果，选择最有效的部分进行精细化发布。该策略有助于降低风险、快速迭代，并聚焦于真正解决用户问题的核心功能。",
+  "tags": [
+    "产品策略",
+    "AI开发",
+    "迭代",
+    "用户反馈",
+    "模型选择"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-13T17:13:55+08:00",
+  "updated_at": "2026-08-13T17:13:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "广泛探索可发现更多可能性，但需通过精准发布来验证价值。",
+      "该策略强调以用户反馈为导向，避免过度工程化。",
+      "适用于AI和LLM应用，可有效管理模型选择与功能迭代的复杂度。"
+    ],
+    "category": "AI产品开发"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260813-011",
+  "title": "Lovable raises $400M Series C",
+  "source_url": "https://lovable.dev/blog/series-c",
+  "source_type": "rss",
+  "summary": "Lovable是一家AI应用开发平台，近期完成4亿美元C轮融资，该消息在Hacker News上引发广泛讨论。此轮融资表明资本市场对AI驱动软件开发工具的高度认可，反映了AI编程助手和低代码/无代码平台领域的持续升温。Lovable利用大语言模型将自然语言转化为应用，是AI与软件工程结合的代表性产品，其融资动态对理解AI应用落地和商业化趋势具有参考价值。",
+  "tags": [
+    "AI编程",
+    "融资",
+    "低代码",
+    "LLM应用",
+    "创业公司"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-13T17:13:55+08:00",
+  "updated_at": "2026-08-13T17:13:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "AI应用开发平台获得巨额融资，验证了LLM在软件工程领域的商业价值。",
+      "Hacker News社区的高讨论度表明开发者对AI辅助开发工具的高度关注。",
+      "该事件反映了AI技术从模型研发向实际产品化、商业化加速演进。"
+    ],
+    "category": "行业动态"
+  }
+}

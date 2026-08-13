@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260813-010",
+  "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+  "source_url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+  "source_type": "rss",
+  "summary": "本文探讨了通过WebSockets传输HTML来构建实时单页应用（SPA）的技术方案，旨在减少JavaScript的使用量。该方法利用WebSocket实现服务器与客户端之间的实时通信，将HTML片段直接推送到浏览器，从而简化前端逻辑并提升开发效率。文章可能涉及与传统SPA框架（如React或Vue）的对比，强调在特定场景下（如实时协作、仪表盘）的轻量级替代方案。该技术虽不直接涉及AI或LLM，但",
+  "tags": [
+    "WebSockets",
+    "实时通信",
+    "SPA",
+    "前端架构",
+    "JavaScript"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-13T17:13:55+08:00",
+  "updated_at": "2026-08-13T17:13:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "WebSockets可减少前端JavaScript依赖，提升实时应用性能。",
+      "该方案适合AI应用中的实时数据流展示，如LLM流式输出。",
+      "与Agent系统的前端交互层集成潜力，但非核心AI技术。"
+    ],
+    "category": "Web开发技术"
+  }
+}

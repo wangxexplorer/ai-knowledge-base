@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260813-014",
+  "title": "Grok 4.6",
+  "source_url": "https://x.ai/news/grok-4-6",
+  "source_type": "rss",
+  "summary": "Grok 4.6是xAI发布的最新AI模型，其基准测试结果在Artificial Analysis上公布。该条目来自Hacker News，讨论热度高（539分，485条评论），表明社区对新一代大语言模型的性能表现高度关注。Grok系列作为xAI的核心产品，其迭代直接反映LLM领域的技术进展，尤其在推理、编码等能力上的提升，对AI行业具有参考价值。",
+  "tags": [
+    "Grok",
+    "xAI",
+    "大语言模型",
+    "基准测试",
+    "AI模型"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-13T17:13:55+08:00",
+  "updated_at": "2026-08-13T17:13:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Grok 4.6的发布标志着xAI在LLM竞赛中的持续发力，其基准测试结果可能刷新多项SOTA记录。",
+      "Hacker News上的高讨论量表明开发者社区对Grok 4.6的实际表现和潜在应用场景有浓厚兴趣。",
+      "该模型可能强化了推理和编码能力，对Agent应用和复杂任务处理有积极影响。"
+    ],
+    "category": "模型发布"
+  }
+}

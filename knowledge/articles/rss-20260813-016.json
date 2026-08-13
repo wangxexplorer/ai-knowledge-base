@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260813-016",
+  "title": "GiveCampus (YC S15) Is Hiring Engineering Managers",
+  "source_url": "https://job-boards.greenhouse.io/givecampus/jobs/4112793009",
+  "source_type": "rss",
+  "summary": "GiveCampus是一家教育科技公司，正在招聘工程经理。该职位信息来自Hacker News，但内容未提及AI、LLM或Agent相关技术。招聘信息本身不涉及具体技术方向，与AI领域无直接关联。",
+  "tags": [
+    "招聘",
+    "教育科技",
+    "工程管理"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-13T17:13:55+08:00",
+  "updated_at": "2026-08-13T17:13:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该条目为招聘信息，未涉及AI技术细节。",
+      "GiveCampus专注于教育领域，可能间接使用AI但未明确。",
+      "与AI、LLM、Agent领域无直接相关性。"
+    ],
+    "category": "招聘信息"
+  }
+}

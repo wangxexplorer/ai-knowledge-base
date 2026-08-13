@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260813-006",
+  "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
+  "source_url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
+  "source_type": "rss",
+  "summary": "该条目讨论社交媒体导致罐装沙丁鱼在超市货架上短缺的现象，属于消费趋势和供应链话题，与AI、LLM或Agent技术无直接关联。但可间接关联到社交媒体算法推荐对消费行为的影响，以及AI在需求预测和供应链优化中的潜在应用。",
+  "tags": [
+    "社交媒体",
+    "供应链",
+    "消费趋势",
+    "算法推荐"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-13T17:13:55+08:00",
+  "updated_at": "2026-08-13T17:13:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "社交媒体可放大特定商品需求，导致短缺",
+      "AI可用于需求预测以缓解供需失衡",
+      "算法推荐对消费行为有显著影响"
+    ],
+    "category": "社会现象"
+  }
+}

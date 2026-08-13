@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260813-003",
+  "title": "Flutter 3.47",
+  "source_url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+  "source_type": "rss",
+  "summary": "Flutter 3.47是跨平台UI开发框架的最新版本更新，主要涉及移动、Web和桌面应用开发。该版本可能包含性能改进、新组件和工具链优化。虽然Flutter可用于构建AI应用的前端界面，但此更新本身与AI、LLM或Agent核心技术无直接关联。",
+  "tags": [
+    "Flutter",
+    "跨平台开发",
+    "UI框架",
+    "移动开发"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-13T17:13:55+08:00",
+  "updated_at": "2026-08-13T17:13:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Flutter更新主要面向应用开发领域，与AI核心算法无关",
+      "可作为AI应用的前端展示层工具，但非AI技术本身"
+    ],
+    "category": "软件开发"
+  }
+}

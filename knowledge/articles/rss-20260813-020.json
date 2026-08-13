@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260813-020",
+  "title": "Why tiny JPEGs look different in Chrome",
+  "source_url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+  "source_type": "rss",
+  "summary": "本文探讨了Chrome浏览器中微小JPEG图像缩放显示差异的技术原因，涉及图像解码、缩放算法和浏览器渲染管线。虽然与AI、LLM或Agent无直接关联，但图像处理技术是计算机视觉和AI应用的基础之一。文章可能对理解浏览器图像处理机制有参考价值，但整体相关性较低。",
+  "tags": [
+    "图像处理",
+    "浏览器",
+    "JPEG",
+    "渲染"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-13T17:13:55+08:00",
+  "updated_at": "2026-08-13T17:13:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "浏览器图像缩放算法差异可能导致显示效果不同",
+      "理解图像解码和渲染管线对前端性能优化重要",
+      "与AI视觉任务无直接关联，但图像处理是AI基础"
+    ],
+    "category": "前端技术"
+  }
+}

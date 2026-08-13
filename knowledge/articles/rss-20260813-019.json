@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260813-019",
+  "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+  "source_url": "https://knownagents.com/insights",
+  "source_type": "rss",
+  "summary": "该条目报道了有人冒充AI爬虫（如ClaudeBot）进行大规模漏洞扫描的事件。这涉及AI代理的安全与滥用问题，与Agent领域直接相关，因为AI代理的身份验证和网络安全成为关键议题。事件凸显了AI系统被恶意利用的风险，以及加强AI代理身份管理和安全防护的必要性。",
+  "tags": [
+    "AI安全",
+    "Agent滥用",
+    "漏洞扫描",
+    "身份验证",
+    "网络安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-13T17:13:55+08:00",
+  "updated_at": "2026-08-13T17:13:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "AI代理身份可能被伪造，用于恶意活动，需加强验证机制。",
+      "大规模漏洞扫描对网络安全构成威胁，AI技术可能被滥用。",
+      "事件引发对AI代理监管和伦理的讨论，需制定相应规范。"
+    ],
+    "category": "AI安全与治理"
+  }
+}

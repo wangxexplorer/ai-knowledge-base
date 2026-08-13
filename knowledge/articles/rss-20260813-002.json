@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260813-002",
+  "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+  "source_url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+  "source_type": "rss",
+  "summary": "该条目庆祝IBM PC和Model F/XT键盘诞生45周年，回顾了个人计算机发展史上的这一里程碑事件。内容聚焦于硬件历史，未涉及人工智能、大语言模型或智能体技术。尽管PC是AI发展的基础平台，但本文本身与AI领域无直接关联。",
+  "tags": [
+    "IBM PC",
+    "硬件历史",
+    "个人计算机",
+    "键盘"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-13T17:13:55+08:00",
+  "updated_at": "2026-08-13T17:13:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "IBM PC是个人计算时代的标志性产品",
+      "Model F/XT键盘在输入设备史上具有重要地位",
+      "该条目为怀旧性内容，与AI技术无直接联系"
+    ],
+    "category": "技术历史"
+  }
+}
