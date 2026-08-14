@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260814-006",
+  "title": "Bluesky Protocol Services",
+  "source_url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+  "source_type": "rss",
+  "summary": "Bluesky Protocol Services是AT Protocol生态中的服务层，旨在为去中心化社交网络提供基础设施。该服务可能涉及身份验证、数据托管和联合功能，与AI/LLM/Agent领域关联较弱，但可作为Agent交互的社交数据源或测试环境。",
+  "tags": [
+    "去中心化",
+    "社交网络",
+    "AT Protocol",
+    "基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-14T17:08:18+08:00",
+  "updated_at": "2026-08-14T17:08:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "提供去中心化社交网络的基础服务，可能为AI代理提供真实用户交互数据。",
+      "与LLM结合可分析社交趋势，但非核心AI技术。",
+      "作为Agent的通信或数据获取渠道，具有潜在应用场景。"
+    ],
+    "category": "基础设施"
+  }
+}

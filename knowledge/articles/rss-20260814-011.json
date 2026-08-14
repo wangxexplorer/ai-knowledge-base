@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260814-011",
+  "title": "Understanding is the new bottleneck",
+  "source_url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+  "source_type": "rss",
+  "summary": "文章探讨了在AI和LLM技术快速发展的背景下，理解能力成为新的瓶颈。作者认为，随着模型能力的提升，如何理解和解释模型的行为、决策过程及其潜在风险变得至关重要。文章可能讨论了可解释性、透明度以及人类与AI协作中的理解挑战，强调了从单纯追求性能转向重视理解的重要性。",
+  "tags": [
+    "AI",
+    "LLM",
+    "可解释性",
+    "理解瓶颈",
+    "人机协作"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-14T17:08:18+08:00",
+  "updated_at": "2026-08-14T17:08:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "理解能力是AI系统应用的关键瓶颈",
+      "可解释性成为AI发展的核心议题",
+      "人类与AI协作需要更深层次的理解"
+    ],
+    "category": "AI技术评论"
+  }
+}

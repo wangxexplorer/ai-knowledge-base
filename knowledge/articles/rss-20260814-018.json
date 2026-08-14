@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260814-018",
+  "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+  "source_url": "https://donkeybas.com/",
+  "source_type": "rss",
+  "summary": "该条目纪念经典BASIC游戏Donkey.bas诞生45周年，该游戏由微软联合创始人比尔·盖茨编写，仅131行代码。文章回顾了其历史意义，并提供了源码和运行方式。虽然与AI、LLM或Agent无直接关联，但作为早期编程范例，对理解软件发展史和简单AI游戏逻辑有一定参考价值。",
+  "tags": [
+    "Donkey.bas",
+    "BASIC",
+    "游戏编程",
+    "软件历史",
+    "比尔·盖茨"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-14T17:08:18+08:00",
+  "updated_at": "2026-08-14T17:08:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Donkey.bas是早期编程的经典示例，展示了极简代码实现游戏逻辑。",
+      "该条目与AI/LLM/Agent领域无直接技术关联，但可作为历史背景。",
+      "对研究早期人机交互和简单决策逻辑有一定启发。"
+    ],
+    "category": "软件历史"
+  }
+}

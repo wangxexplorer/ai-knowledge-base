@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260814-019",
+  "title": "Gemini 3.7 Flash",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+  "source_type": "rss",
+  "summary": "Gemini 3.7 Flash是Google推出的新一代轻量级AI模型，专注于高效推理和快速响应，适用于实时应用场景。该模型在性能与速度间取得平衡，支持多模态任务，并可通过Gemini API集成。Hacker News上的高讨论度表明开发者对其技术特性和应用潜力高度关注。",
+  "tags": [
+    "Gemini",
+    "Google",
+    "轻量级模型",
+    "多模态",
+    "API"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-14T17:08:18+08:00",
+  "updated_at": "2026-08-14T17:08:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Gemini 3.7 Flash强调推理效率，适合实时交互场景。",
+      "作为Flash系列，其定位是低成本、高吞吐量的AI服务。",
+      "开发者社区反响热烈，可能影响后续模型生态。"
+    ],
+    "category": "模型发布"
+  }
+}

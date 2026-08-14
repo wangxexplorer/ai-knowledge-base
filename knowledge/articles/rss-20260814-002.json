@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260814-002",
+  "title": "Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun",
+  "source_url": "https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil",
+  "source_type": "rss",
+  "summary": "该条目报道了小米17 Ultra手机在拍摄日食时出现混淆月亮和太阳的现象，揭示了其相机算法可能存在的图像处理问题。内容主要涉及手机摄影技术，与AI、LLM或Agent领域无直接关联，但相机算法中的图像识别与处理技术可视为AI在消费电子领域的应用案例。",
+  "tags": [
+    "手机摄影",
+    "图像处理",
+    "AI应用",
+    "小米"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-14T17:08:18+08:00",
+  "updated_at": "2026-08-14T17:08:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "手机相机算法在特定场景下可能产生错误识别，反映AI图像处理的局限性。",
+      "该事件可作为AI在边缘设备上应用效果的案例，但非核心AI技术突破。",
+      "与LLM或Agent无关，仅涉及计算机视觉的浅层应用。"
+    ],
+    "category": "消费电子"
+  }
+}

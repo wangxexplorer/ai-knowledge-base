@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260814-020",
+  "title": "Mistral OCR 4.1",
+  "source_url": "https://docs.mistral.ai/models/ocr-4-1",
+  "source_type": "rss",
+  "summary": "Mistral OCR 4.1是Mistral AI推出的最新OCR模型，专注于文档图像中的文本识别与提取。该模型在Hacker News上获得336分和133条评论，引发社区关注。OCR技术是AI领域的重要分支，与LLM结合可实现文档理解、信息抽取等应用，对Agent的感知能力提升有直接帮助。",
+  "tags": [
+    "OCR",
+    "Mistral",
+    "文档理解",
+    "多模态",
+    "AI模型"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-14T17:08:18+08:00",
+  "updated_at": "2026-08-14T17:08:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "OCR是LLM多模态输入的关键预处理步骤",
+      "Mistral OCR 4.1可能集成到Agent流程中增强文档处理能力",
+      "社区高关注度表明OCR与LLM结合是当前热点"
+    ],
+    "category": "AI模型"
+  }
+}

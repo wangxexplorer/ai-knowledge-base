@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260814-016",
+  "title": "Where did the old web go? We followed 657,607 links to find out",
+  "source_url": "https://0.mk/blog/link-rot",
+  "source_type": "rss",
+  "summary": "该文章探讨了互联网链接失效（link rot）现象，通过追踪657,607个链接，分析了旧网页消失的原因和影响。这与AI、LLM和Agent领域有一定关联，因为AI系统常依赖网络数据，链接失效会影响训练数据的完整性和可靠性。文章可能引发对AI数据获取和长期信息保存的思考。",
+  "tags": [
+    "链接失效",
+    "网络数据",
+    "数据可靠性"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-14T17:08:18+08:00",
+  "updated_at": "2026-08-14T17:08:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "链接失效是互联网普遍问题，影响信息可访问性。",
+      "AI训练数据可能受链接失效影响，导致知识过时或缺失。",
+      "需要关注数据持久化策略以支持AI长期发展。"
+    ],
+    "category": "网络生态"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260814-008",
+  "title": "NP-overrated",
+  "source_url": "https://gruhn.me/blog/2026-08-13/",
+  "source_type": "rss",
+  "summary": "该条目标题为“NP-overrated”，来源为个人博客，在Hacker News上获得203分和142条评论，讨论热度较高。内容可能涉及对NP问题（计算复杂性理论）的重新评估或批评，与AI、LLM、Agent领域无直接关联，但可能间接影响对算法复杂性和AI计算极限的理解。",
+  "tags": [
+    "计算复杂性",
+    "NP问题",
+    "算法",
+    "理论计算机科学"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-14T17:08:18+08:00",
+  "updated_at": "2026-08-14T17:08:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "NP问题与AI计算效率相关，但非直接主题。",
+      "高讨论度表明社区对理论话题的兴趣。",
+      "可能引发对AI算法复杂性的思考。"
+    ],
+    "category": "理论计算机科学"
+  }
+}

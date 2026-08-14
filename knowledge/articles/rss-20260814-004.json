@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260814-004",
+  "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+  "source_url": "https://z.ai/blog/glm-5.3",
+  "source_type": "rss",
+  "summary": "GLM-5.3是智谱AI发布的最新大语言模型，重点展示了其在编码任务上的前沿能力，并意外涌现出网络攻防等新兴能力。该模型在Hacker News上引发热议，获得387分和150条评论，表明社区对其高度关注。这一进展体现了大模型在专业领域（如编程）的持续突破，同时其涌现的网络安全相关能力也引发了对AI安全与伦理的讨论。",
+  "tags": [
+    "GLM-5.3",
+    "大语言模型",
+    "编码能力",
+    "网络安全",
+    "AI安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-14T17:08:18+08:00",
+  "updated_at": "2026-08-14T17:08:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "GLM-5.3在编码任务上达到前沿水平，可能超越现有开源模型。",
+      "模型涌现出网络攻防等新兴能力，凸显了AI的潜在风险与安全挑战。",
+      "该发布在开发者社区引发广泛讨论，反映了业界对前沿模型的关注。"
+    ],
+    "category": "模型发布"
+  }
+}

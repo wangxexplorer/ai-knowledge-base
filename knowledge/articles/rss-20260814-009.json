@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260814-009",
+  "title": "How Gödel's Proof Works (2020)",
+  "source_url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+  "source_type": "rss",
+  "summary": "本文来自Quanta Magazine，深入浅出地解释了哥德尔不完备定理的证明过程。该定理揭示了任何足够强大的形式系统中都存在无法在系统内证明的真命题，对数学基础、计算理论和人工智能的极限有深远影响。文章通过直观的比喻和清晰的逻辑，帮助读者理解这一深刻思想。",
+  "tags": [
+    "哥德尔定理",
+    "形式系统",
+    "AI理论",
+    "计算理论",
+    "数学基础"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-14T17:08:18+08:00",
+  "updated_at": "2026-08-14T17:08:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "哥德尔不完备定理为AI的能力边界提供了理论依据，表明任何形式化系统（包括AI模型）都有其内在局限。",
+      "理解不完备定理有助于思考LLM和Agent在推理和知识表示方面的根本限制。",
+      "该定理与可计算性理论紧密相关，对AI的自我反思和元认知能力有启发意义。"
+    ],
+    "category": "理论背景"
+  }
+}

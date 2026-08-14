@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260814-010",
+  "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+  "source_url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+  "source_type": "rss",
+  "summary": "该条目为OpenAI发布的关于组织如何使用ChatGPT的PDF报告，基于实际数据探讨了企业采用AI的现状、模式与影响。内容涉及AI在组织中的实际应用案例、效率提升及挑战，对理解LLM在商业场景中的落地具有参考价值。",
+  "tags": [
+    "ChatGPT",
+    "企业应用",
+    "AI采用",
+    "组织效率",
+    "OpenAI"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-14T17:08:18+08:00",
+  "updated_at": "2026-08-14T17:08:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "提供了企业使用ChatGPT的实证数据，揭示AI在组织中的实际应用模式。",
+      "分析了AI对组织效率和业务流程的影响，为AI落地提供参考。",
+      "反映了LLM在商业环境中的普及趋势，对Agent应用场景有启示。"
+    ],
+    "category": "行业报告"
+  }
+}

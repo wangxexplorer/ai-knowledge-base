@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260814-007",
+  "title": "Blog about things you don't understand yet",
+  "source_url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
+  "source_type": "rss",
+  "summary": "该文章建议技术从业者撰写关于自己尚未完全理解的主题的博客，通过写作过程加深学习。文章强调，公开记录学习过程有助于澄清思路、发现知识盲点，并促进社区反馈。这与AI/LLM领域快速迭代、需要持续学习的特点高度契合，尤其适合Agent开发中的新概念探索。",
+  "tags": [
+    "学习",
+    "技术写作",
+    "知识管理",
+    "持续学习",
+    "AI开发"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-14T17:08:18+08:00",
+  "updated_at": "2026-08-14T17:08:18+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "写作是理解复杂AI概念的有效工具",
+      "公开学习笔记可加速知识共享与反馈",
+      "适用于Agent开发中的新框架和模型学习"
+    ],
+    "category": "学习方法"
+  }
+}
