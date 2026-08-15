@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260815-011",
+  "title": "Racket v9.3",
+  "source_url": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
+  "source_type": "rss",
+  "summary": "Racket v9.3 是 Racket 编程语言的新版本发布，包含语言改进、性能优化和工具更新。Racket 作为 Lisp 方言，常用于教育和语言工程，与 AI/LLM 领域无直接关联，但可作为 AI 系统开发中的通用编程工具。",
+  "tags": [
+    "Racket",
+    "编程语言",
+    "发布"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-15T16:30:06+08:00",
+  "updated_at": "2026-08-15T16:30:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Racket 是通用编程语言，非 AI 专用",
+      "版本更新可能包含性能提升，间接支持 AI 开发",
+      "与 LLM/Agent 无直接技术关联"
+    ],
+    "category": "编程语言"
+  }
+}

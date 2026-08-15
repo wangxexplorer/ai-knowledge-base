@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260815-015",
+  "title": "Google is making private AI practical with homomorphic encryption",
+  "source_url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+  "source_type": "rss",
+  "summary": "Google正在推进同态加密技术在AI领域的实际应用，使AI能够在加密数据上直接计算，无需解密，从而保护用户隐私。该技术对LLM和Agent的隐私保护至关重要，可实现安全的数据共享和推理，降低数据泄露风险。文章讨论了技术挑战、性能优化及未来前景，是隐私计算与AI结合的重要进展。",
+  "tags": [
+    "同态加密",
+    "隐私保护",
+    "AI安全",
+    "LLM",
+    "数据安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-15T16:30:06+08:00",
+  "updated_at": "2026-08-15T16:30:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "同态加密使AI模型能在加密数据上运行，解决数据隐私与可用性矛盾。",
+      "对LLM和Agent而言，该技术可支持敏感数据的合规处理，扩展应用场景。",
+      "性能开销仍是主要挑战，但Google的进展表明实用化正在加速。"
+    ],
+    "category": "AI安全与隐私"
+  }
+}

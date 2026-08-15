@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260815-013",
+  "title": "RustDesk now supports true unattended remote access on Wayland",
+  "source_url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+  "source_type": "rss",
+  "summary": "RustDesk宣布其远程桌面软件现在支持Wayland环境下的真正无人值守远程访问。此前，Wayland的安全模型限制了远程控制，需要物理交互或屏幕共享。此更新解决了这一限制，允许用户在没有本地操作的情况下远程连接和控制Wayland会话。该功能对系统管理员和技术支持尤为重要，提升了远程管理的便利性和效率。",
+  "tags": [
+    "远程桌面",
+    "Wayland",
+    "RustDesk",
+    "系统管理"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-15T16:30:06+08:00",
+  "updated_at": "2026-08-15T16:30:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Wayland安全模型曾阻碍无人值守远程访问，此更新突破该限制",
+      "提升远程管理效率，减少物理干预需求",
+      "对AI/LLM领域间接相关，可能用于远程维护AI基础设施"
+    ],
+    "category": "工具与基础设施"
+  }
+}

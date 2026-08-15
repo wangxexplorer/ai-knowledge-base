@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260815-003",
+  "title": "Show HN: Deltix – AI Driven Testing",
+  "source_url": "https://app.deltix.ai",
+  "source_type": "rss",
+  "summary": "Deltix是一个AI驱动的测试平台，通过自动化测试流程提升软件质量与效率。该项目在Hacker News上获得26个点赞和9条评论，显示出社区对其关注。其核心在于利用AI技术优化测试用例生成、执行和结果分析，减少人工干预，提高测试覆盖率与准确性。该工具面向开发者，旨在简化测试流程，加速产品迭代。",
+  "tags": [
+    "AI测试",
+    "自动化测试",
+    "软件质量",
+    "开发者工具",
+    "AI应用"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-15T16:30:06+08:00",
+  "updated_at": "2026-08-15T16:30:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI驱动的测试自动化是AI在软件开发领域的重要应用方向。",
+      "Deltix通过AI优化测试流程，提升效率与覆盖率。",
+      "社区反馈积极，表明市场对AI测试工具的需求。"
+    ],
+    "category": "AI应用工具"
+  }
+}

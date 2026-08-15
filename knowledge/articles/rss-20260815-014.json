@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260815-014",
+  "title": "AI by Hand",
+  "source_url": "https://www.byhand.ai/",
+  "source_type": "rss",
+  "summary": "AI by Hand 是一个网站，可能提供关于人工智能的手工实践或教学资源。该条目来自 Hacker News，有 287 个点赞和 21 条评论，表明社区对其有一定关注。内容可能涉及 AI 的基础概念、手动实现或可视化教学，与 AI 领域直接相关，但具体细节未明确。",
+  "tags": [
+    "AI教育",
+    "手工实践",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-15T16:30:06+08:00",
+  "updated_at": "2026-08-15T16:30:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "社区关注度较高，可能提供独特的 AI 学习视角。",
+      "标题暗示可能强调 AI 的手动实现或可视化理解。",
+      "来源为 Hacker News，内容可能偏技术实践。"
+    ],
+    "category": "AI教育"
+  }
+}

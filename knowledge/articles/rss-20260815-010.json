@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260815-010",
+  "title": "Show HN: Mole – Deep research agent for your terminal",
+  "source_url": "https://github.com/lajosdeme/mole",
+  "source_type": "rss",
+  "summary": "Mole是一个开源的终端深度研究代理，针对AI研究代理的常见痛点设计：预算超支、引用混乱和隐私泄露。它通过强制预算控制（实测超支为0%）、确保每个声明附带来源，以及支持本地数据（如CSV）分析且数据不离开用户机器，解决了这些问题。兼容多种LLM，包括编码代理、订阅服务和本地模型。该项目在Hacker News上获得69分和10条评论，表明社区对其关注。",
+  "tags": [
+    "深度研究代理",
+    "预算控制",
+    "隐私保护",
+    "开源工具",
+    "LLM应用"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-15T16:30:06+08:00",
+  "updated_at": "2026-08-15T16:30:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Mole通过强制预算机制解决了AI代理成本失控问题，实测超支为0%。",
+      "强调引用可验证性，确保每个声明都有来源，提升研究可信度。",
+      "本地数据处理能力（如CSV分析）保障隐私，数据不离开用户机器。"
+    ],
+    "category": "AI代理工具"
+  }
+}

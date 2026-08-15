@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260815-008",
+  "title": "Going Dark, and the era of law enforcement hacking",
+  "source_url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+  "source_type": "rss",
+  "summary": "文章讨论执法部门黑客攻击时代的到来，即“走向黑暗”现象。随着加密技术普及，执法部门获取通信内容愈发困难，转而采用黑客手段入侵设备。文章分析这一趋势的法律、伦理和技术挑战，并探讨其对隐私和安全的影响。",
+  "tags": [
+    "执法黑客",
+    "加密",
+    "隐私",
+    "安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-15T16:30:06+08:00",
+  "updated_at": "2026-08-15T16:30:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "执法部门转向黑客手段以应对加密通信挑战",
+      "该趋势引发隐私与执法平衡的争议",
+      "技术发展对法律实践产生深远影响"
+    ],
+    "category": "网络安全"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260815-016",
+  "title": "Introducing Toast 1",
+  "source_url": "https://www.mixedbread.com/blog/toast-1",
+  "source_type": "rss",
+  "summary": "Mixedbread AI发布了Toast 1，这是一个新的AI模型或工具，在Hacker News上获得198分和61条评论，引发社区关注。具体技术细节未在摘要中提供，但结合来源和热度，推测其与AI模型创新相关。",
+  "tags": [
+    "AI模型",
+    "Mixedbread",
+    "Hacker News",
+    "技术发布",
+    "社区讨论"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-15T16:30:06+08:00",
+  "updated_at": "2026-08-15T16:30:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "Toast 1是Mixedbread AI的新产品，可能涉及LLM或AI推理优化。",
+      "在Hacker News上的高热度表明其技术价值或话题性。",
+      "具体技术细节需进一步查看原文，但属于AI领域前沿动态。"
+    ],
+    "category": "AI模型发布"
+  }
+}

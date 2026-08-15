@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260815-007",
+  "title": "eigendrum",
+  "source_url": "https://eigendrum.com/#p=circle",
+  "source_type": "rss",
+  "summary": "eigendrum是一个交互式音乐工具，用户通过点击圆形界面生成基于特征向量的鼓点节奏。它结合了数学特征值分解与音频合成，提供独特的视听体验。该工具在Hacker News上获得137分和29条评论，引发社区讨论。其核心创新在于将线性代数概念应用于音乐创作，但未涉及AI或LLM技术。",
+  "tags": [
+    "音乐工具",
+    "特征向量",
+    "交互设计",
+    "数学应用"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-15T16:30:06+08:00",
+  "updated_at": "2026-08-15T16:30:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "利用特征向量生成节奏，展示数学与艺术的结合",
+      "非AI驱动，但可能启发AI音乐生成的新思路",
+      "社区关注度高，反映对创新交互工具的兴趣"
+    ],
+    "category": "创意工具"
+  }
+}

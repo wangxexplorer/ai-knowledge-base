@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260815-001",
+  "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+  "source_url": "https://chenxiachan.github.io/thoughtdag/",
+  "source_type": "rss",
+  "summary": "ThoughtDAG是一个为LLM对话设计的可编辑上下文图工具，通过有向无环图结构组织对话上下文，提升信息检索和管理的灵活性。该项目在Hacker News上发布，获得初步关注。它旨在解决传统线性对话上下文的局限性，为AI助手提供更结构化的记忆和推理基础，对Agent和对话系统的发展具有参考价值。",
+  "tags": [
+    "LLM",
+    "上下文管理",
+    "对话系统",
+    "知识图谱",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-15T16:30:06+08:00",
+  "updated_at": "2026-08-15T16:30:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "ThoughtDAG利用图结构增强LLM对话的上下文组织能力，突破线性限制。",
+      "可编辑性允许用户动态调整上下文，提升交互控制力。",
+      "该工具可能启发Agent设计中长期记忆和推理路径的优化。"
+    ],
+    "category": "AI应用工具"
+  }
+}

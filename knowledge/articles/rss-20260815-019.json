@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260815-019",
+  "title": "Why does Opus 5 feel worse to work with?",
+  "source_url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+  "source_type": "rss",
+  "summary": "本文探讨了Anthropic最新模型Opus 5在用户体验上不如前代的原因，可能涉及模型能力、交互设计或用户期望等方面。文章在Hacker News上引发热议，反映了开发者社区对前沿LLM模型的关注和反馈。",
+  "tags": [
+    "LLM",
+    "Opus 5",
+    "用户体验",
+    "模型评估",
+    "Anthropic"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-15T16:30:06+08:00",
+  "updated_at": "2026-08-15T16:30:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "Opus 5在特定任务上可能表现不佳，导致用户感知质量下降。",
+      "用户期望与模型实际能力之间的差距是体验变差的关键因素。",
+      "社区讨论揭示了LLM迭代中需要平衡能力与可用性的挑战。"
+    ],
+    "category": "模型评测"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260815-004",
+  "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+  "source_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+  "source_type": "rss",
+  "summary": "该条目报道了印度尼西亚恩德附近发生7.7级地震的地质事件，来源于美国地质调查局，并在Hacker News上引发讨论。内容与AI、LLM或Agent技术无直接关联，属于自然灾害新闻，不涉及人工智能领域的技术进展、应用或理论。",
+  "tags": [
+    "地震",
+    "自然灾害",
+    "印度尼西亚",
+    "地质事件"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-15T16:30:06+08:00",
+  "updated_at": "2026-08-15T16:30:06+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该事件为纯地质学范畴，与AI技术无关",
+      "Hacker News上的讨论可能涉及技术社区对灾害的响应，但非AI核心内容"
+    ],
+    "category": "新闻"
+  }
+}
