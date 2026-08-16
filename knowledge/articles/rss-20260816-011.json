@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260816-011",
+  "title": "Software Engineering fundamentals matter more",
+  "source_url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+  "source_type": "rss",
+  "summary": "本文讨论软件工程基础的重要性，强调在AI和LLM快速发展的背景下，扎实的软件工程原理（如代码质量、架构设计、测试和调试）仍然是构建可靠系统的关键。作者认为，AI工具虽能提升效率，但无法替代工程师对基础知识的掌握，尤其在复杂系统集成和故障排查中，基础技能的价值更加凸显。文章可能引发对AI辅助开发与人类专业能力平衡的思考。",
+  "tags": [
+    "软件工程",
+    "AI辅助开发",
+    "LLM应用",
+    "工程实践"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-16T16:30:23+08:00",
+  "updated_at": "2026-08-16T16:30:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI工具增强开发效率，但基础工程能力决定系统质量",
+      "复杂场景下，软件工程原理对AI生成代码的验证和集成至关重要",
+      "工程师需持续强化基础以有效利用AI工具"
+    ],
+    "category": "工程实践"
+  }
+}

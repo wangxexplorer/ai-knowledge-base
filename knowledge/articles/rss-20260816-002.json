@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260816-002",
+  "title": "Falstad Math and Physics Simulations",
+  "source_url": "https://www.falstad.com/mathphysics.html",
+  "source_type": "rss",
+  "summary": "Falstad Math and Physics Simulations是一个提供数学和物理交互式模拟的网站，涵盖电路、波动、量子力学等主题。该资源与AI、LLM和Agent领域无直接关联，但可作为教育工具，用于辅助理解相关概念。",
+  "tags": [
+    "教育",
+    "模拟",
+    "数学",
+    "物理"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-16T16:30:23+08:00",
+  "updated_at": "2026-08-16T16:30:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "提供交互式模拟，有助于直观理解复杂概念。",
+      "与AI/LLM/Agent无直接技术关联。",
+      "可作为辅助教学资源，但非核心领域内容。"
+    ],
+    "category": "教育工具"
+  }
+}

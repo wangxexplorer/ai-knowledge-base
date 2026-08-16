@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260816-003",
+  "title": "Government sponsored study on alcohol doesn't stand up to scrutiny",
+  "source_url": "https://nntaleb.substack.com/p/have-another-drink",
+  "source_type": "rss",
+  "summary": "该条目为Nassim Taleb对政府资助的酒精研究的批评文章，指出研究存在方法论缺陷，不符合科学严谨性。内容与AI、LLM或Agent技术无直接关联，但涉及数据分析、统计推理和科学方法论，可作为AI伦理或数据科学应用的间接参考。",
+  "tags": [
+    "科学方法论",
+    "统计推理",
+    "数据质量",
+    "AI伦理",
+    "批判性思维"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-16T16:30:23+08:00",
+  "updated_at": "2026-08-16T16:30:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "研究需经严格审查，避免方法论缺陷。",
+      "统计推理在科学结论中至关重要。",
+      "AI应用需警惕数据偏差和逻辑谬误。"
+    ],
+    "category": "科学方法论"
+  }
+}

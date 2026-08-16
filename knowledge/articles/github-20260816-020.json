@@ -1,0 +1,31 @@
+{
+  "id": "github-20260816-020",
+  "title": "langgraph",
+  "source_url": "https://github.com/langchain-ai/langgraph",
+  "source_type": "github",
+  "summary": "LangGraph是LangChain团队开发的开源框架，用于构建有状态、可编排的AI代理。它通过图结构定义代理工作流，支持循环、分支和持久化，使代理具备弹性和可控性。该框架与LangChain生态深度集成，适用于复杂任务分解、工具调用和多步骤推理场景，是当前AI代理开发的重要基础设施。",
+  "tags": [
+    "AI代理",
+    "工作流编排",
+    "LangChain",
+    "状态管理",
+    "开源框架"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-16T16:30:23+08:00",
+  "updated_at": "2026-08-16T16:30:23+08:00",
+  "metadata": {
+    "stars": 39771,
+    "language": "Python",
+    "author": "langchain-ai"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "LangGraph提供图级控制流，适合构建复杂、可恢复的AI代理。",
+      "与LangChain生态无缝集成，降低开发门槛。",
+      "支持持久化和人工介入，增强代理的可靠性和可控性。"
+    ],
+    "category": "开发框架"
+  }
+}

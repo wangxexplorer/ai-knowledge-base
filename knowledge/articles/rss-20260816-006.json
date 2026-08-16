@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260816-006",
+  "title": "Guiding Ships with Moire Patterns",
+  "source_url": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
+  "source_type": "rss",
+  "summary": "本文介绍了一种利用莫尔条纹（Moire patterns）引导船舶的技术。通过设计特定的光学图案，利用莫尔效应产生视觉指示，帮助船舶在航行中保持航向或避开障碍。该方法可能涉及光学工程、航海导航和人机交互，但未涉及AI、LLM或Agent技术。",
+  "tags": [
+    "光学",
+    "航海",
+    "莫尔条纹",
+    "导航"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-16T16:30:23+08:00",
+  "updated_at": "2026-08-16T16:30:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "莫尔条纹可用于视觉导航指示",
+      "该技术不依赖AI或机器学习",
+      "属于传统光学与工程应用"
+    ],
+    "category": "非AI技术"
+  }
+}

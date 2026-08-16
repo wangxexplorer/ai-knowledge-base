@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260816-019",
+  "title": "AI has access to a vastly larger working memory than the human brain",
+  "source_url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+  "source_type": "rss",
+  "summary": "文章探讨AI与人类大脑在工作记忆容量上的差异，指出AI拥有远超人类的工作记忆，但并未因此超越数学家。作者认为AI在数学思维上仍有局限，可能缺乏真正的理解与创造力。文章引发关于AI能力边界及与人类认知差异的讨论，涉及AI在复杂推理任务中的表现。",
+  "tags": [
+    "AI能力",
+    "工作记忆",
+    "数学推理",
+    "认知差异",
+    "LLM局限"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-16T16:30:23+08:00",
+  "updated_at": "2026-08-16T16:30:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI的工作记忆容量远超人类，但并未直接转化为更强的数学思维能力。",
+      "AI在数学领域可能缺乏人类式的深层理解与创造性，存在能力边界。",
+      "文章引发对AI与人类认知差异的思考，对评估LLM推理能力有参考价值。"
+    ],
+    "category": "AI认知与能力分析"
+  }
+}

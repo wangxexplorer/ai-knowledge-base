@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260816-005",
+  "title": "Patterns and problems in emerging multi-agent systems",
+  "source_url": "https://www.anthropic.com/research/multiagent-systems",
+  "source_type": "rss",
+  "summary": "本文由Anthropic发布，探讨新兴多智能体系统中的模式与问题。文章分析了多智能体系统的设计模式、协作机制及潜在挑战，如通信开销、任务分配和错误传播等。对于AI和LLM领域，多智能体系统是Agent技术的重要发展方向，涉及多个LLM驱动的Agent协同工作。文章提供了实践中的洞察，有助于理解Agent系统的复杂性和优化方向。",
+  "tags": [
+    "多智能体系统",
+    "Agent",
+    "LLM",
+    "协作模式",
+    "Anthropic"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-16T16:30:23+08:00",
+  "updated_at": "2026-08-16T16:30:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "多智能体系统是Agent技术的重要分支，涉及多个LLM驱动的Agent协同工作。",
+      "文章揭示了多智能体系统中的常见模式与问题，如通信开销和任务分配。",
+      "Anthropic的研究为构建高效、可靠的Agent系统提供了实践指导。"
+    ],
+    "category": "Agent技术"
+  }
+}

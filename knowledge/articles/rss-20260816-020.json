@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260816-020",
+  "title": "Semaglutide linked to lower predicted dementia risk",
+  "source_url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+  "source_type": "rss",
+  "summary": "该条目报道了一项关于Semaglutide（一种GLP-1受体激动剂）与降低痴呆风险相关性的研究。研究发表于阿尔茨海默病期刊，结果显示该药物可能对神经退行性疾病具有保护作用。该内容主要涉及医学和药物研究领域，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "医学",
+    "药物研究",
+    "痴呆症",
+    "Semaglutide"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-16T16:30:23+08:00",
+  "updated_at": "2026-08-16T16:30:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Semaglutide可能降低痴呆风险，但机制尚不明确。",
+      "该研究属于临床医学范畴，不涉及AI技术。",
+      "与AI、LLM或Agent领域无直接相关性。"
+    ],
+    "category": "医学健康"
+  }
+}

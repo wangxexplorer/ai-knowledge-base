@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260816-012",
+  "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+  "source_url": "https://sugartrack-beta.vercel.app/",
+  "source_type": "rss",
+  "summary": "SugarTrack是一款离线Android血糖记录应用，强调无需账户和云同步，注重用户隐私和数据本地存储。该工具与AI、LLM或Agent技术无直接关联，属于健康管理类应用。其设计理念可能对AI健康助手的数据隐私处理有参考价值，但本身不涉及AI技术。",
+  "tags": [
+    "健康管理",
+    "隐私保护",
+    "离线应用"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-16T16:30:23+08:00",
+  "updated_at": "2026-08-16T16:30:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "离线优先设计，保护用户数据隐私",
+      "无账户和云同步，简化用户体验",
+      "对AI健康助手的数据处理有借鉴意义"
+    ],
+    "category": "健康应用"
+  }
+}
