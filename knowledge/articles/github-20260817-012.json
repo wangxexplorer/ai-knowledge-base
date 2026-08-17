@@ -1,0 +1,31 @@
+{
+  "id": "github-20260817-012",
+  "title": "unsloth",
+  "source_url": "https://github.com/unslothai/unsloth",
+  "source_type": "github",
+  "summary": "unsloth是一个用于本地运行和训练大型语言模型及扩散模型的开源工具，提供用户界面，支持Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX等多种模型。该项目在GitHub上拥有超过7万星标，主要面向AI模型微调和推理场景，与LLM和Agent领域高度相关。",
+  "tags": [
+    "LLM",
+    "fine-tuning",
+    "模型训练",
+    "开源工具",
+    "AI推理"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T16:44:28+08:00",
+  "updated_at": "2026-08-17T16:44:28+08:00",
+  "metadata": {
+    "stars": 72913,
+    "language": "Python",
+    "author": "unslothai"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "支持多种主流LLM和扩散模型的本地训练与推理",
+      "提供用户友好的UI，降低模型微调门槛",
+      "高星标表明社区认可度和实用性较强"
+    ],
+    "category": "AI开发工具"
+  }
+}

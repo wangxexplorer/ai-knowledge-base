@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260817-017",
+  "title": "Protobuf has LSP support",
+  "source_url": "https://buf.build/blog/protobuf-lsp",
+  "source_type": "rss",
+  "summary": "该条目报道了Protobuf获得LSP（语言服务器协议）支持的消息，来自Buf公司博客，并在Hacker News上引发讨论。LSP支持可提升Protobuf的编辑体验，如自动补全、诊断等。虽然与AI/LLM/Agent无直接关联，但作为开发者工具改进，可能间接影响AI相关项目的开发效率。",
+  "tags": [
+    "Protobuf",
+    "LSP",
+    "开发者工具",
+    "序列化",
+    "编程体验"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T16:44:28+08:00",
+  "updated_at": "2026-08-17T16:44:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Protobuf获得LSP支持，改善开发体验。",
+      "该改进可能提升AI项目中数据序列化环节的效率。",
+      "与AI/LLM/Agent核心领域关联度低。"
+    ],
+    "category": "开发者工具"
+  }
+}

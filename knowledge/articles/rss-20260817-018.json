@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260817-018",
+  "title": "MathCode, Mathematical Coding Agent",
+  "source_url": "https://math-ai-org.github.io/mathcode/",
+  "source_type": "rss",
+  "summary": "MathCode是一个数学编码智能体项目，旨在结合数学推理与代码生成能力。该项目通过智能体框架，利用大语言模型（LLM）进行数学问题的自动求解和代码实现，展示了LLM在数学推理和编程任务中的潜力。其核心在于将数学逻辑与代码执行相结合，提升复杂数学问题的解决效率。该项目与AI、LLM和Agent领域高度相关，体现了智能体在特定领域（数学）的应用。",
+  "tags": [
+    "数学推理",
+    "代码生成",
+    "智能体",
+    "LLM",
+    "AI应用"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T16:44:28+08:00",
+  "updated_at": "2026-08-17T16:44:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "MathCode展示了LLM在数学推理与代码生成结合方面的能力。",
+      "智能体框架在特定领域（数学）的应用，体现了Agent技术的实用性。",
+      "该项目可能推动数学教育、自动定理证明等领域的发展。"
+    ],
+    "category": "AI应用"
+  }
+}

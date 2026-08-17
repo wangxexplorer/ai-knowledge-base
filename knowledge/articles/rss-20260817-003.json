@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260817-003",
+  "title": "Linear algebra done right",
+  "source_url": "https://linear.axler.net/",
+  "source_type": "rss",
+  "summary": "《Linear Algebra Done Right》是一本经典的线性代数教材，由Sheldon Axler编写，其在线版本可通过linear.axler.net访问。该教材以“行列式后置”和“特征值优先”的独特方法著称，强调概念理解和证明技巧，而非繁琐的计算。在AI和机器学习领域，线性代数是基础工具，涉及向量空间、矩阵运算、特征值分解等，广泛应用于数据表示、模型训练和优化算法。该条目在Hacke",
+  "tags": [
+    "线性代数",
+    "数学基础",
+    "机器学习",
+    "教育",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T16:44:28+08:00",
+  "updated_at": "2026-08-17T16:44:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "线性代数是AI和机器学习算法的核心数学基础，该教材提供深入的概念理解。",
+      "教材的独特编排（如后置行列式）有助于培养抽象思维，对算法设计有启发。",
+      "该条目在技术社区引发讨论，反映数学教育在AI领域的重要性。"
+    ],
+    "category": "数学基础"
+  }
+}

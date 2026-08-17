@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260817-020",
+  "title": "A third world engineer responds to “RISC-V: They should have known better”",
+  "source_url": "https://rvembedded.com/blog_post/12/",
+  "source_type": "rss",
+  "summary": "本文是第三世界工程师对RISC-V相关批评的回应，讨论RISC-V架构在资源受限环境下的应用与挑战。内容聚焦于开源硬件生态，与AI、LLM或Agent技术无直接关联，但可能涉及嵌入式系统在AI边缘计算中的潜在应用。",
+  "tags": [
+    "RISC-V",
+    "嵌入式系统",
+    "开源硬件",
+    "边缘计算"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T16:44:28+08:00",
+  "updated_at": "2026-08-17T16:44:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "RISC-V在第三世界工程实践中的价值与挑战",
+      "开源硬件对技术自主性的影响",
+      "嵌入式系统与边缘AI的潜在交集"
+    ],
+    "category": "硬件与架构"
+  }
+}

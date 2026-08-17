@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260817-008",
+  "title": "Prolly: A content-addressed ordered map built on prolly trees",
+  "source_url": "https://github.com/crabbuild/prolly",
+  "source_type": "rss",
+  "summary": "Prolly是一个基于prolly trees的内容寻址有序映射数据结构库。prolly trees结合了B-tree和Merkle树的特性，支持高效的范围查询、内容寻址和去重，适用于分布式系统和数据库。该技术虽非直接针对AI，但在AI/LLM/Agent领域，可用于构建高效的知识图谱、向量索引或状态管理，提升数据检索和一致性验证能力。",
+  "tags": [
+    "数据结构",
+    "内容寻址",
+    "分布式系统",
+    "知识图谱",
+    "索引"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T16:44:28+08:00",
+  "updated_at": "2026-08-17T16:44:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "prolly trees支持高效的范围查询和内容寻址，适合AI知识库的存储与检索。",
+      "内容寻址特性有助于分布式AI系统中的数据一致性和去重。",
+      "可作为Agent状态管理或记忆模块的底层数据结构。"
+    ],
+    "category": "基础设施"
+  }
+}

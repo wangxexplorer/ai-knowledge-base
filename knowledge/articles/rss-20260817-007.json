@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260817-007",
+  "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+  "source_url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+  "source_type": "rss",
+  "summary": "该条目报道了AGI-64项目将Sierra冒险游戏带到Commodore 64平台，属于复古游戏移植项目。虽然名称含AGI（Adventure Game Interpreter），但与人工智能领域的AGI（通用人工智能）无关。内容主要涉及经典游戏引擎的逆向工程和平台适配，不涉及AI、LLM或Agent技术。",
+  "tags": [
+    "复古游戏",
+    "Commodore 64",
+    "Sierra",
+    "游戏移植"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T16:44:28+08:00",
+  "updated_at": "2026-08-17T16:44:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "AGI在此指游戏解释器而非通用人工智能",
+      "项目聚焦于经典游戏在旧平台的兼容性",
+      "与AI/LLM/Agent领域无直接关联"
+    ],
+    "category": "游戏技术"
+  }
+}

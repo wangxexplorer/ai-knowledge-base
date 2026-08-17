@@ -1,0 +1,31 @@
+{
+  "id": "github-20260817-003",
+  "title": "langchain",
+  "source_url": "https://github.com/langchain-ai/langchain",
+  "source_type": "github",
+  "summary": "LangChain是一个用于构建AI代理的工程平台，提供模块化工具和框架，支持与Anthropic、ChatGPT等大语言模型集成。它简化了代理开发流程，涵盖记忆、工具调用、链式逻辑等核心功能，是AI代理领域最流行的开源项目之一。",
+  "tags": [
+    "AI代理",
+    "LLM",
+    "框架",
+    "开源",
+    "LangChain"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T16:44:28+08:00",
+  "updated_at": "2026-08-17T16:44:28+08:00",
+  "metadata": {
+    "stars": 144372,
+    "language": "Python",
+    "author": "langchain-ai"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "LangChain是AI代理开发的核心基础设施，支持复杂工作流编排。",
+      "其模块化设计降低了LLM应用开发门槛，促进生态繁荣。",
+      "高星标数（144k+）表明其在开发者社区中的广泛采用和影响力。"
+    ],
+    "category": "开发框架"
+  }
+}

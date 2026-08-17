@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260817-013",
+  "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+  "source_url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+  "source_type": "rss",
+  "summary": "该条目讨论Qwen 3.8 27B模型性能优秀，但存在过度思考的默认行为，即模型在回答简单问题时也会进行冗长的推理，影响效率和用户体验。文章可能探讨了如何调整模型参数或提示词来减少过度思考，以及这一现象对AI应用的影响。",
+  "tags": [
+    "Qwen",
+    "LLM",
+    "推理效率",
+    "模型行为",
+    "AI应用"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T16:44:28+08:00",
+  "updated_at": "2026-08-17T16:44:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Qwen 3.8 27B在性能上表现出色，但默认的过度思考行为可能导致不必要的计算开销。",
+      "过度思考问题可能源于模型训练或推理策略，需要针对性地优化。",
+      "该现象对实际部署中的响应速度和成本有直接影响，值得关注。"
+    ],
+    "category": "模型评测"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260817-014",
+  "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+  "source_url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+  "source_type": "rss",
+  "summary": "本文批评Anthropic在Claude中引入的文本水印技术，认为这是对写作的扭曲。作者从写作本质出发，质疑水印对文本纯洁性和作者表达的影响，引发对AI生成内容可追溯性与创作自由之间平衡的讨论。文章在Hacker News上引发热议，反映社区对AI伦理和内容治理的关注。",
+  "tags": [
+    "AI伦理",
+    "文本水印",
+    "Anthropic",
+    "内容治理",
+    "写作"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T16:44:28+08:00",
+  "updated_at": "2026-08-17T16:44:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "文本水印技术可能损害写作的原创性和表达自由",
+      "AI内容可追溯性与创作自由之间存在张力",
+      "社区对AI生成内容治理的争议反映了伦理关切"
+    ],
+    "category": "AI伦理与治理"
+  }
+}

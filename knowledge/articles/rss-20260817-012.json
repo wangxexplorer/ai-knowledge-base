@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260817-012",
+  "title": "Reticulum – Decentralized Mesh Network",
+  "source_url": "https://reticulum.network/",
+  "source_type": "rss",
+  "summary": "Reticulum是一个去中心化的网状网络协议，旨在构建无需中心服务器的加密通信网络。该条目来自Hacker News，讨论其技术特性。与AI/LLM/Agent领域无直接关联，但去中心化网络可能为分布式AI代理通信提供底层基础设施。",
+  "tags": [
+    "去中心化网络",
+    "网状网络",
+    "通信协议",
+    "分布式系统"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T16:44:28+08:00",
+  "updated_at": "2026-08-17T16:44:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "去中心化网络可为AI代理提供抗审查的通信层",
+      "网状网络技术可能支持边缘AI设备的协作",
+      "与LLM应用无直接关联，但可作为分布式AI系统的底层网络"
+    ],
+    "category": "基础设施"
+  }
+}

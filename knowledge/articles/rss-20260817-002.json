@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260817-002",
+  "title": "$12B of US ratepayers' money wasted on a modeling mistake in PJM",
+  "source_url": "https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted",
+  "source_type": "rss",
+  "summary": "该条目报道了美国PJM电力市场因建模错误导致120亿美元浪费，涉及能源市场分析、模型准确性及监管问题。内容聚焦于电力行业的技术失误，与AI、LLM或Agent领域无直接关联，但建模错误可能涉及数据分析或预测模型，间接相关。",
+  "tags": [
+    "能源市场",
+    "建模错误",
+    "PJM",
+    "数据分析"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T16:44:28+08:00",
+  "updated_at": "2026-08-17T16:44:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "建模错误导致巨额经济损失",
+      "凸显模型验证的重要性",
+      "与AI技术应用无直接关联"
+    ],
+    "category": "能源与基础设施"
+  }
+}

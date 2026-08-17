@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260817-015",
+  "title": "An open-source, candle-only crypto pump detector–looking for ML contributors",
+  "source_url": "https://github.com/aleks-ent/pump-dump-crypto-screener",
+  "source_type": "rss",
+  "summary": "该项目是一个开源的加密货币拉盘/砸盘检测器，基于candle数据，正在寻找机器学习贡献者。它利用技术分析指标识别异常价格波动，属于量化交易和金融科技领域。项目与AI/LLM/Agent的直接关联有限，但涉及机器学习在金融预测中的应用，可作为AI在特定行业落地的案例。",
+  "tags": [
+    "加密货币",
+    "机器学习",
+    "量化交易",
+    "开源",
+    "金融科技"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T16:44:28+08:00",
+  "updated_at": "2026-08-17T16:44:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "项目核心是传统技术分析，非LLM或Agent驱动",
+      "机器学习用于模式识别，但未涉及生成式AI",
+      "可作为AI在金融领域应用的边缘案例"
+    ],
+    "category": "金融科技"
+  }
+}

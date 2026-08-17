@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260817-019",
+  "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+  "source_url": "https://news.ycombinator.com/item?id=49322107",
+  "source_type": "rss",
+  "summary": "用户报告Cloudflare在切换域名服务器时静默注入JS分析脚本，需手动禁用。该行为涉及隐私与透明度问题，与AI/LLM/Agent领域无直接关联，但可视为技术生态中的治理与合规议题。",
+  "tags": [
+    "Cloudflare",
+    "隐私",
+    "透明度",
+    "技术治理"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T16:44:28+08:00",
+  "updated_at": "2026-08-17T16:44:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Cloudflare的默认行为可能引发用户信任问题",
+      "技术平台应提供明确的opt-in机制",
+      "该事件对AI领域影响有限，但反映技术部署中的伦理考量"
+    ],
+    "category": "技术生态与治理"
+  }
+}

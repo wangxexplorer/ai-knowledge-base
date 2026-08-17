@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260817-001",
+  "title": "HackEurope 2026: A short rant on AI and hackathons",
+  "source_url": "https://duti.dev/blog/2026/spr/",
+  "source_type": "rss",
+  "summary": "本文是作者对2026年HackEurope活动中AI与黑客马拉松关系的简短评论。文章可能讨论了AI工具在黑客松中的角色、对开发者创造力的影响，以及AI辅助编程在限时竞赛中的实际应用与争议。内容聚焦于AI技术如何改变黑客松的参与方式和项目产出，反映了开发者社区对AI工具在协作与创新中作用的反思。",
+  "tags": [
+    "AI",
+    "黑客马拉松",
+    "开发者社区",
+    "AI工具",
+    "创新"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-17T16:44:28+08:00",
+  "updated_at": "2026-08-17T16:44:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI工具正在改变黑客松的参与方式和项目产出",
+      "开发者对AI在限时竞赛中的角色存在争议",
+      "反映了AI对开发者创造力和协作模式的影响"
+    ],
+    "category": "行业评论"
+  }
+}
