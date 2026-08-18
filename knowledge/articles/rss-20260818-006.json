@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260818-006",
+  "title": "Quake Shareware, a CD-ROM just a little too full",
+  "source_url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+  "source_type": "rss",
+  "summary": "本文探讨了经典游戏《雷神之锤》共享版CD-ROM的容量问题，涉及90年代软件分发技术细节。文章由知名游戏开发者Fabien Sanglard撰写，分析了CD-ROM容量限制与游戏内容打包的工程挑战，属于软件历史与逆向工程范畴。内容与AI、LLM或Agent技术无直接关联，但可作为技术史背景参考。",
+  "tags": [
+    "软件历史",
+    "游戏开发",
+    "CD-ROM",
+    "逆向工程"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-18T16:38:11+08:00",
+  "updated_at": "2026-08-18T16:38:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "90年代软件分发受物理介质容量限制",
+      "游戏打包需优化空间利用",
+      "历史技术案例对现代工程有参考价值"
+    ],
+    "category": "技术史"
+  }
+}

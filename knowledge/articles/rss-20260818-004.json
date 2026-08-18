@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260818-004",
+  "title": "How Bluesky draws its logo on screenshots",
+  "source_url": "https://timmarinin.net/2026/bluesky-screenshots/",
+  "source_type": "rss",
+  "summary": "该条目讨论Bluesky在截图时绘制其标志的技术实现，属于前端图形渲染和图像处理领域。内容涉及Canvas、SVG或像素级操作，与AI、LLM或Agent无直接关联。但可能涉及图像识别或自动化测试中的视觉验证，间接相关。总体相关性低。",
+  "tags": [
+    "前端",
+    "图形渲染",
+    "图像处理",
+    "Bluesky"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-18T16:38:11+08:00",
+  "updated_at": "2026-08-18T16:38:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Bluesky标志绘制涉及Canvas或SVG技术。",
+      "截图处理可能用于视觉回归测试。",
+      "与AI/LLM无直接关联。"
+    ],
+    "category": "前端技术"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260818-018",
+  "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+  "source_url": "https://speko.ai/",
+  "source_type": "rss",
+  "summary": "Speko是一个为语音AI提供模型路由优化的平台，类似于OpenRouter但专注于语音。它自动评估和选择最佳的语音转文本（STT）、大语言模型（LLM）和文本转语音（TTS）组合，基于准确性、延迟、成本等约束条件。平台提供公开基准测试、自动评分器、开源网关，并支持BYOK模式。创始人在亚洲企业语音代理领域有四年经验，产品已获得每周25%的增长率。",
+  "tags": [
+    "语音AI",
+    "模型路由",
+    "LLM",
+    "TTS",
+    "STT"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-18T16:38:11+08:00",
+  "updated_at": "2026-08-18T16:38:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Speko解决了语音代理中模型选择与切换的痛点，通过自动化基准测试和路由优化，降低集成成本。",
+      "平台公开基准测试结果，并训练自动评分器评估TTS自然度，增强透明度和信任。",
+      "开源网关支持BYOK模式，减少网络延迟和密钥共享风险，适合对隐私敏感的企业。"
+    ],
+    "category": "AI基础设施"
+  }
+}

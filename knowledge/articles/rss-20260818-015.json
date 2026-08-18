@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260818-015",
+  "title": "An update on leaving Gmail for Fastmail",
+  "source_url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+  "source_type": "rss",
+  "summary": "本文作者分享了从Gmail迁移到Fastmail的体验更新，讨论了邮件服务切换过程中的技术细节、隐私考量以及自托管或第三方邮件服务的优缺点。内容聚焦于个人工作流优化和邮件管理，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "邮件服务",
+    "隐私",
+    "工作流"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-18T16:38:11+08:00",
+  "updated_at": "2026-08-18T16:38:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "邮件服务选择涉及隐私与便利性的权衡",
+      "自托管或第三方服务可减少对大型科技公司的依赖",
+      "迁移过程需考虑技术适配和长期维护成本"
+    ],
+    "category": "技术生活"
+  }
+}

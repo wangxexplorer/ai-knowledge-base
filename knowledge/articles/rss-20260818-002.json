@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260818-002",
+  "title": "The Benchmarkpocalypse",
+  "source_url": "https://danluu.com/benchpocalypse/",
+  "source_type": "rss",
+  "summary": "文章讨论基准测试泛滥现象，指出在AI和软件工程领域，过度依赖基准测试可能导致优化偏差和性能误判。作者通过案例说明基准测试的局限性，并建议结合真实场景评估。对AI模型评估和Agent系统设计具有警示意义。",
+  "tags": [
+    "基准测试",
+    "模型评估",
+    "AI评测",
+    "性能优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-18T16:38:11+08:00",
+  "updated_at": "2026-08-18T16:38:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "基准测试可能误导AI模型优化方向",
+      "真实场景评估比单一基准更重要",
+      "对Agent系统设计有参考价值"
+    ],
+    "category": "AI评估与基准"
+  }
+}

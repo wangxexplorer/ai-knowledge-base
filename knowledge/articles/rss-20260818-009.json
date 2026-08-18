@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260818-009",
+  "title": "GPT-5.6 Sol Pricing Cut by 50%",
+  "source_url": "https://openrouter.ai/openai/gpt-5.6-sol",
+  "source_type": "rss",
+  "summary": "OpenRouter平台宣布将GPT-5.6 Sol的定价下调50%。该模型是OpenAI推出的新一代大语言模型，此次降价将显著降低使用成本，可能推动更广泛的AI应用和开发。消息在Hacker News上引发热议，获得408分和234条评论，反映出社区对模型定价和性能的高度关注。降价策略可能旨在增强市场竞争力，吸引更多开发者采用该模型进行应用开发。",
+  "tags": [
+    "GPT-5.6",
+    "定价调整",
+    "OpenRouter",
+    "OpenAI",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-18T16:38:11+08:00",
+  "updated_at": "2026-08-18T16:38:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "GPT-5.6 Sol降价50%将降低LLM使用门槛，促进AI应用普及",
+      "降价可能反映市场竞争加剧，OpenAI试图扩大市场份额",
+      "社区高关注度表明模型性能和定价是开发者核心考量"
+    ],
+    "category": "AI模型动态"
+  }
+}

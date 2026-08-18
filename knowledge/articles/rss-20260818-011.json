@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260818-011",
+  "title": "AI;DR (AI; Didn't Read)",
+  "source_url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+  "source_type": "rss",
+  "summary": "AI;DR是一个概念，指利用AI技术快速总结长文内容，让用户无需完整阅读即可获取核心信息。该文章在Hacker News上引发热议，获得846分和521条评论，反映了社区对AI辅助阅读工具的高度关注。文章可能探讨了AI摘要的准确性、效率以及其对信息消费习惯的影响，涉及LLM在文本摘要任务中的应用。",
+  "tags": [
+    "AI摘要",
+    "LLM应用",
+    "信息消费",
+    "文本总结",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-18T16:38:11+08:00",
+  "updated_at": "2026-08-18T16:38:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI;DR代表AI在信息过载时代的重要应用场景，即通过LLM生成摘要提升阅读效率",
+      "该话题在技术社区引发广泛讨论，表明开发者对AI辅助工具的需求和兴趣",
+      "文章可能涉及AI摘要的质量评估及其对传统阅读方式的潜在影响"
+    ],
+    "category": "AI应用"
+  }
+}
