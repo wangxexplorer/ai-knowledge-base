@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260819-001",
+  "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
+  "source_url": "https://www.modular.com/blog/modcon-announcements",
+  "source_type": "rss",
+  "summary": "Modular公司（现已被高通收购）宣布其Mojo编程语言正式开源。Mojo是一种专为AI和机器学习工作负载设计的编程语言，结合了Python的易用性与C/C++的性能，旨在成为AI基础设施的核心语言。开源后，开发者可以自由使用、修改和贡献，有望加速AI生态系统的创新。该事件对AI、LLM和Agent领域具有潜在影响，因为Mojo可优化模型训练和推理性能，支持更高效的Agent部署。",
+  "tags": [
+    "Mojo",
+    "编程语言",
+    "AI基础设施",
+    "开源",
+    "性能优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-19T16:39:11+08:00",
+  "updated_at": "2026-08-19T16:39:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "Mojo开源将促进AI底层性能优化，提升LLM训练和推理效率。",
+      "高通收购Modular后，开源策略可能推动AI硬件与软件协同发展。",
+      "Mojo的Python兼容性降低了AI开发者迁移成本，利于Agent生态扩展。"
+    ],
+    "category": "AI开发工具"
+  }
+}

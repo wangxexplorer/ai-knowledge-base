@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260819-009",
+  "title": "OpenLogi",
+  "source_url": "https://openlogi.org/en",
+  "source_type": "rss",
+  "summary": "OpenLogi是一个在Hacker News上获得512分和143条评论的技术项目，其官网为openlogi.org。虽然描述未明确提及AI，但高关注度表明其可能涉及前沿技术。鉴于缺乏具体内容，无法确认其与AI、LLM或Agent的直接关联，但作为技术项目，可能包含相关应用或工具。",
+  "tags": [
+    "技术项目",
+    "Hacker News",
+    "开源",
+    "工具",
+    "未知"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-19T16:39:11+08:00",
+  "updated_at": "2026-08-19T16:39:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "高关注度暗示潜在技术价值",
+      "具体内容未知，需进一步探索",
+      "可能涉及AI相关应用"
+    ],
+    "category": "技术项目"
+  }
+}

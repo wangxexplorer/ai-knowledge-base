@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260819-014",
+  "title": "Cerebras CS-4",
+  "source_url": "https://www.cerebras.ai/cs4",
+  "source_type": "rss",
+  "summary": "Cerebras CS-4是Cerebras公司推出的新一代AI计算系统，专为大规模语言模型训练和推理设计。其核心优势在于采用晶圆级引擎技术，提供超大规模计算能力和高带宽内存，显著提升AI训练效率。该产品在Hacker News上引发热议，关注点包括性能、成本及对现有GPU市场的冲击。",
+  "tags": [
+    "AI硬件",
+    "大模型训练",
+    "晶圆级计算",
+    "Cerebras",
+    "高性能计算"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-19T16:39:11+08:00",
+  "updated_at": "2026-08-19T16:39:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "CS-4代表AI专用硬件的重大进步，针对LLM训练优化。",
+      "晶圆级引擎技术可能改变AI算力格局，挑战NVIDIA主导地位。",
+      "社区讨论反映市场对AI算力替代方案的高度关注。"
+    ],
+    "category": "AI基础设施"
+  }
+}

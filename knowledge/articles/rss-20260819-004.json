@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260819-004",
+  "title": "Berd",
+  "source_url": "https://berd.xyz",
+  "source_type": "rss",
+  "summary": "Berd是一个网站，其RSS条目来自Hacker News，包含文章链接和评论链接，但未提供具体内容描述。该条目仅显示标题、来源和评论数，缺乏与AI、LLM或Agent直接相关的信息。因此，无法判断其技术相关性，可能是一个通用技术或产品页面。",
+  "tags": [
+    "Hacker News",
+    "技术新闻",
+    "网站"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-19T16:39:11+08:00",
+  "updated_at": "2026-08-19T16:39:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "条目内容不完整，无法评估AI相关性",
+      "来源为Hacker News，可能涉及技术讨论",
+      "需访问原始链接才能确定具体主题"
+    ],
+    "category": "未分类"
+  }
+}

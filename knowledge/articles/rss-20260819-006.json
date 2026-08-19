@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260819-006",
+  "title": "Palomar: A registry of Lean verified mathematics",
+  "source_url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+  "source_type": "rss",
+  "summary": "Palomar是一个Lean验证数学的注册表，由Terry Tao在博客中介绍。Lean是一种交互式定理证明器，用于形式化数学证明。该注册表旨在系统化整理和共享已验证的数学结果，促进数学与计算机科学的交叉。此项目与AI/LLM/Agent领域关联较弱，但形式化数学与AI推理、自动定理证明有潜在联系，可能为AI提供验证环境或训练数据。",
+  "tags": [
+    "形式化数学",
+    "定理证明",
+    "Lean",
+    "AI推理",
+    "数学验证"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-19T16:39:11+08:00",
+  "updated_at": "2026-08-19T16:39:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "形式化数学为AI提供可验证的推理环境",
+      "注册表可能成为AI训练数据来源",
+      "与自动定理证明技术有潜在协同"
+    ],
+    "category": "数学与计算"
+  }
+}

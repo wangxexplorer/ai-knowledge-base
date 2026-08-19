@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260819-011",
+  "title": "Tiny satellite will use the dark side of the Moon as a shield",
+  "source_url": "https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe",
+  "source_type": "rss",
+  "summary": "该条目报道了一颗微型卫星将利用月球背面作为屏蔽，探测宇宙早期微弱无线电信号的研究计划。内容聚焦于天文学和航天工程，旨在通过月球遮挡地球无线电干扰，捕捉宇宙起源的“低语”。这与AI、LLM或Agent技术无直接关联，属于基础科学探索领域。",
+  "tags": [
+    "航天",
+    "天文学",
+    "宇宙学",
+    "卫星技术"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-19T16:39:11+08:00",
+  "updated_at": "2026-08-19T16:39:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "利用月球背面屏蔽地球无线电干扰，是创新的观测策略",
+      "该任务旨在探测宇宙早期信号，推动宇宙学研究",
+      "与AI技术无直接关联，但未来数据处理可能涉及AI"
+    ],
+    "category": "科学探索"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260819-007",
+  "title": "Meta's blockbuster trial draws parallels to big tobacco",
+  "source_url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
+  "source_type": "rss",
+  "summary": "该条目报道了Meta因社交媒体成瘾问题面临重大诉讼，并将其与烟草行业的历史诉讼相提并论。文章来自《经济学人》，在Hacker News上引发热议。虽然未直接提及AI或LLM，但Meta作为科技巨头，其平台算法与AI推荐系统密切相关，诉讼可能影响AI在内容推荐中的伦理与监管。",
+  "tags": [
+    "Meta",
+    "法律诉讼",
+    "社交媒体",
+    "AI伦理",
+    "监管"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-19T16:39:11+08:00",
+  "updated_at": "2026-08-19T16:39:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "Meta诉讼可能成为AI内容推荐系统监管的转折点",
+      "与烟草行业类比暗示科技公司需承担社会责任",
+      "AI算法在成瘾性设计中的角色将受审视"
+    ],
+    "category": "科技法律与伦理"
+  }
+}

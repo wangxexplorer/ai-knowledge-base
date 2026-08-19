@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260819-018",
+  "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+  "source_url": "https://github.com/DenisSergeevitch/desktop-fly",
+  "source_type": "rss",
+  "summary": "该项目在macOS桌面上展示基于真实FlyWire连接组数据的3D果蝇模型，属于神经科学与可视化技术的结合。虽然不直接涉及AI或LLM，但连接组数据本身是神经科学计算的重要资源，可能为类脑计算或AI模型提供生物启发。项目主要价值在于数据可视化和交互体验，与Agent领域关联较弱。",
+  "tags": [
+    "神经科学",
+    "数据可视化",
+    "连接组",
+    "生物启发",
+    "macOS"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-19T16:39:11+08:00",
+  "updated_at": "2026-08-19T16:39:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "利用真实连接组数据构建3D模型，展示了大规模生物数据的可视化潜力",
+      "连接组数据可能为未来AI架构提供结构参考，但当前项目未涉及AI算法",
+      "项目侧重桌面应用体验，与LLM或Agent无直接关联"
+    ],
+    "category": "科学可视化"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "github-20260819-020",
+  "title": "CodeWhale",
+  "source_url": "https://github.com/Hmbown/CodeWhale",
+  "source_type": "github",
+  "summary": "CodeWhale是一个开源的、社区驱动的AI代理工具框架，使用Rust语言开发，支持CLI操作，与阿里云和Anthropic相关。它旨在为AI代理提供执行环境，可能涉及工具调用和自动化任务。该项目在GitHub上拥有超过4万星标，表明其受欢迎程度和社区活跃度。",
+  "tags": [
+    "AI代理",
+    "开源",
+    "Rust",
+    "CLI",
+    "工具框架"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-19T16:39:11+08:00",
+  "updated_at": "2026-08-19T16:39:11+08:00",
+  "metadata": {
+    "stars": 40827,
+    "language": "Rust",
+    "author": "Hmbown"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "CodeWhale作为AI代理框架，与LLM和Agent领域高度相关。",
+      "使用Rust语言，强调性能和安全性，适合构建高效的代理系统。",
+      "社区驱动且高星标，表明其在实际应用中的价值和潜力。"
+    ],
+    "category": "AI代理框架"
+  }
+}

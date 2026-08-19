@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260819-017",
+  "title": "AI usage patterns in software teams",
+  "source_url": "https://linear.app/data",
+  "source_type": "rss",
+  "summary": "该条目报道了Linear发布的一篇关于软件团队中AI使用模式的文章，在Hacker News上获得131分和67条评论，引发社区讨论。文章可能基于Linear平台数据，分析开发者如何在实际工作中使用AI工具，涉及编码辅助、自动化流程等场景，反映了AI在软件开发领域的落地现状和趋势。",
+  "tags": [
+    "AI使用模式",
+    "软件团队",
+    "开发者工具",
+    "Hacker News",
+    "AI落地"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-19T16:39:11+08:00",
+  "updated_at": "2026-08-19T16:39:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "AI在软件团队中的实际使用模式是当前热点，受到开发者社区高度关注。",
+      "Linear的数据分析可能揭示AI工具在真实工作流中的渗透率和效果。",
+      "高讨论度表明开发者对AI提升效率的潜力与挑战存在广泛兴趣。"
+    ],
+    "category": "行业实践"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260819-020",
+  "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+  "source_url": "https://github.com/RyanCodrai/turbovec",
+  "source_type": "rss",
+  "summary": "Turbovec是Google TurboQuant技术在Rust语言中的实现，专注于向量搜索。它利用量化技术加速向量检索，提升性能并降低内存占用。该项目在Hacker News上获得关注，对AI和LLM领域具有潜在价值，因为向量搜索是RAG（检索增强生成）和Agent记忆系统的核心组件。",
+  "tags": [
+    "向量搜索",
+    "Rust",
+    "量化",
+    "RAG",
+    "性能优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-19T16:39:11+08:00",
+  "updated_at": "2026-08-19T16:39:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "向量搜索是LLM应用中RAG和记忆系统的关键，Turbovec可提升其效率。",
+      "量化技术能显著降低内存和计算成本，适合大规模部署。",
+      "Rust实现提供高性能和内存安全，适合生产环境。"
+    ],
+    "category": "基础设施"
+  }
+}
