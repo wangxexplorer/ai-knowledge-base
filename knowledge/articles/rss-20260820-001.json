@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260820-001",
+  "title": "Windows brings out the Rorschach test in everyone",
+  "source_url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+  "source_type": "rss",
+  "summary": "该文章来自微软开发者博客，标题以罗夏测试为喻，讨论Windows系统使用者的不同反应和体验。内容可能涉及Windows的易用性、设计哲学或用户反馈，属于技术社区讨论范畴。文章发布于2003年，但近期在Hacker News上被重新讨论，获得111分和41条评论，说明其观点仍具参考价值。整体与AI、LLM或Agent技术无直接关联，更多是操作系统和用户体验的观察。",
+  "tags": [
+    "Windows",
+    "用户体验",
+    "技术讨论"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-20T16:39:46+08:00",
+  "updated_at": "2026-08-20T16:39:46+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Windows用户反应多样，类似罗夏测试的主观性。",
+      "旧文重提，反映经典技术话题的持久吸引力。",
+      "与AI/LLM/Agent领域无直接关联。"
+    ],
+    "category": "技术杂谈"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260820-010",
+  "title": "Google has stopped pushing Git tags for some Android source code",
+  "source_url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+  "source_type": "rss",
+  "summary": "该条目报道Google停止为部分Android源代码推送Git标签，主要涉及Android开源项目（AOSP）的版本管理变更。这一变化可能影响开发者获取特定版本代码的方式，但与AI、LLM或Agent技术无直接关联。内容属于软件开发与版本控制领域，对AI技术栈的构建或应用没有显著启示。",
+  "tags": [
+    "Android",
+    "Git",
+    "版本控制",
+    "开源"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-20T16:39:46+08:00",
+  "updated_at": "2026-08-20T16:39:46+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Google调整Android源码发布流程，可能影响开发者工作流",
+      "与AI/LLM/Agent技术无直接关联"
+    ],
+    "category": "软件开发"
+  }
+}

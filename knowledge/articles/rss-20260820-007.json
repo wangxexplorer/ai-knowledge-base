@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260820-007",
+  "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+  "source_url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+  "source_type": "rss",
+  "summary": "该条目讨论解锁被锁定或停用的电子废弃物Cricut Maker设备，涉及硬件逆向工程和软件破解。虽然与AI、LLM或Agent无直接关联，但可能涉及设备固件分析、自动化工具使用等边缘技术，对AI在硬件安全领域的应用有间接参考价值。",
+  "tags": [
+    "硬件逆向",
+    "电子废弃物",
+    "设备解锁",
+    "固件分析"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-20T16:39:46+08:00",
+  "updated_at": "2026-08-20T16:39:46+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "逆向工程可能涉及自动化脚本或工具，与Agent技术有潜在交集",
+      "设备解锁过程可能利用机器学习进行模式识别，但非核心内容",
+      "该案例可作为AI在物联网设备安全应用的边缘示例"
+    ],
+    "category": "硬件安全"
+  }
+}

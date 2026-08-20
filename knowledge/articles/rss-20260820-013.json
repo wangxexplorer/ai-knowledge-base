@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260820-013",
+  "title": "Extensible Software in the age of LLMs",
+  "source_url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+  "source_type": "rss",
+  "summary": "文章探讨了在LLM时代如何设计可扩展软件。作者认为，传统软件的可扩展性依赖于预定义的接口和插件机制，而LLM的出现改变了这一范式，使得软件可以通过自然语言指令进行动态扩展和定制。文章讨论了利用LLM作为运行时组件，实现更灵活、更智能的软件架构，并分析了这种转变带来的机遇与挑战，包括性能、安全性和可靠性等问题。",
+  "tags": [
+    "LLM",
+    "软件架构",
+    "可扩展性",
+    "自然语言接口",
+    "AI应用"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-20T16:39:46+08:00",
+  "updated_at": "2026-08-20T16:39:46+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "LLM使软件扩展从预定义接口转向自然语言驱动的动态定制。",
+      "可扩展软件设计需重新考虑模块化、安全性和性能平衡。",
+      "LLM作为运行时组件将推动软件架构向更智能、更灵活的方向演进。"
+    ],
+    "category": "技术趋势"
+  }
+}

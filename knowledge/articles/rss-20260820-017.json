@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260820-017",
+  "title": "PostgreSQL for Everything",
+  "source_url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+  "source_type": "rss",
+  "summary": "本文探讨将PostgreSQL作为全能数据基础设施的理念，强调其多功能性可替代多种专用数据库和中间件。作者认为PostgreSQL的扩展性和稳定性足以支撑从OLTP到OLAP、全文搜索、消息队列等场景，从而简化架构并降低运维成本。文章在Hacker News引发热议，反映了开发者对简化技术栈的追求。",
+  "tags": [
+    "PostgreSQL",
+    "数据库",
+    "架构简化",
+    "技术栈"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-20T16:39:46+08:00",
+  "updated_at": "2026-08-20T16:39:46+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "PostgreSQL可替代多种专用组件，简化系统架构。",
+      "过度依赖单一数据库可能带来扩展性风险。",
+      "社区对全能数据库理念存在争议。"
+    ],
+    "category": "数据库技术"
+  }
+}

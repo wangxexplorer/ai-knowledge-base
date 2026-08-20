@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260820-005",
+  "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+  "source_url": "https://os8088.com/spotlight/",
+  "source_type": "rss",
+  "summary": "该条目介绍Os8088.com网站，该网站为IBM XT等老式计算机提供现代浏览器、CP/M 2.2操作系统（含Z80核心）及MS Word 1.1a等复古软件。内容聚焦于复古计算和软件模拟，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "复古计算",
+    "操作系统",
+    "浏览器",
+    "模拟器"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-20T16:39:46+08:00",
+  "updated_at": "2026-08-20T16:39:46+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "展示了老硬件上运行现代软件的可行性",
+      "反映了对经典软件生态的持续兴趣",
+      "与AI技术栈无直接交集"
+    ],
+    "category": "复古计算"
+  }
+}

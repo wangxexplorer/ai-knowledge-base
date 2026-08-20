@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260820-009",
+  "title": "Go 1.27",
+  "source_url": "https://go.dev/blog/go1.27",
+  "source_type": "rss",
+  "summary": "Go 1.27 是 Go 编程语言的下一个版本发布，包含语言、工具链和运行时改进。虽然 Go 是 AI/LLM/Agent 领域常用的后端语言，但该条目本身未提及任何 AI 相关特性或应用，因此与 AI 领域直接相关性较低。",
+  "tags": [
+    "Go",
+    "编程语言",
+    "版本发布"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-20T16:39:46+08:00",
+  "updated_at": "2026-08-20T16:39:46+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Go 1.27 是语言更新，非 AI 专项",
+      "Go 常用于 AI 基础设施，但此条目未涉及",
+      "对 AI 开发者可能间接相关"
+    ],
+    "category": "编程语言"
+  }
+}

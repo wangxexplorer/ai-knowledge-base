@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260820-015",
+  "title": "Mathematics in the age of AI",
+  "source_url": "https://arxiv.org/abs/2608.16753",
+  "source_type": "rss",
+  "summary": "该条目讨论人工智能时代数学的发展与变革，可能涉及AI对数学研究、教育或应用的影响，以及数学在AI中的角色。内容来自arXiv预印本，在Hacker News上引发讨论，关注度较高。",
+  "tags": [
+    "AI",
+    "数学",
+    "研究",
+    "教育",
+    "arXiv"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-20T16:39:46+08:00",
+  "updated_at": "2026-08-20T16:39:46+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI正在重塑数学研究的方法和工具",
+      "数学为AI提供理论基础，两者相互促进",
+      "该话题在技术社区引发广泛讨论"
+    ],
+    "category": "学术研究"
+  }
+}

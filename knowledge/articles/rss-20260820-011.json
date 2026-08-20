@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260820-011",
+  "title": "OpenRouter is joining Stripe",
+  "source_url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+  "source_type": "rss",
+  "summary": "OpenRouter宣布加入Stripe，此前有报道称Stripe将以70亿美元以上收购OpenRouter。OpenRouter是一个AI模型路由平台，允许开发者通过统一API访问多种LLM。此次收购将强化Stripe在AI基础设施领域的布局，可能影响AI模型分发和支付生态。",
+  "tags": [
+    "AI基础设施",
+    "模型路由",
+    "收购",
+    "API经济",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-20T16:39:46+08:00",
+  "updated_at": "2026-08-20T16:39:46+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "OpenRouter作为AI模型聚合平台，其被收购反映了AI基础设施的整合趋势",
+      "Stripe的介入可能推动AI模型服务的商业化与支付集成",
+      "对开发者而言，OpenRouter的归属变化可能影响API定价和可用性"
+    ],
+    "category": "行业动态"
+  }
+}

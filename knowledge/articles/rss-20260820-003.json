@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260820-003",
+  "title": "Turns are Better than Radians (2022)",
+  "source_url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+  "source_type": "rss",
+  "summary": "该文章讨论在计算机编程中，使用“圈”（turns）作为角度单位优于弧度（radians），强调其更直观、更符合人类认知，并可能简化数学计算。文章由Computer Enhance发布，在Hacker News上获得186分和81条评论，引发技术社区讨论。内容聚焦于编程实践和数学表示，与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "编程",
+    "数学",
+    "角度单位",
+    "技术讨论"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-20T16:39:46+08:00",
+  "updated_at": "2026-08-20T16:39:46+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "角度单位选择影响代码可读性和计算效率。",
+      "圈单位可能简化某些数学表达。",
+      "技术社区对基础编程概念有持续兴趣。"
+    ],
+    "category": "编程实践"
+  }
+}

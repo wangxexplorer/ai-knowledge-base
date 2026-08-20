@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260820-018",
+  "title": "Geolocating a random island using geometry and CUDA programming",
+  "source_url": "https://yassa9.github.io/osint/gralhix-004/",
+  "source_type": "rss",
+  "summary": "该条目介绍如何结合几何算法与CUDA并行编程，对随机岛屿进行地理定位（OSINT）。内容聚焦于计算几何、GPU加速和图像/地理数据处理，属于技术实现类文章。与AI、LLM或Agent无直接关联，但CUDA编程和几何计算可作为AI系统中数据处理或空间推理的底层技术参考。",
+  "tags": [
+    "CUDA",
+    "几何计算",
+    "OSINT",
+    "GPU编程",
+    "地理定位"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-20T16:39:46+08:00",
+  "updated_at": "2026-08-20T16:39:46+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "展示了CUDA在非图形学领域的应用潜力",
+      "几何算法与并行计算结合可提升定位效率",
+      "对AI空间数据处理有间接参考价值"
+    ],
+    "category": "技术实现"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260820-012",
+  "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+  "source_url": "https://github.com/onecli/onecli",
+  "source_type": "rss",
+  "summary": "OneCLI是一个面向团队的开源沙箱化Agent编排平台，由两位网络安全背景的创始人开发。它解决了Agent使用凭据时的安全问题，通过网关在请求级别注入真实凭据，Agent本身不接触秘密。平台提供确定性的人工审批、集中策略管理、隔离VM和完整身份追踪，支持自托管或云部署。其核心引擎基于Rust，使用jcode作为Agent循环核心，旨在为企业提供可验证、可信赖的Agent管理方案。",
+  "tags": [
+    "Agent安全",
+    "沙箱",
+    "团队协作",
+    "开源",
+    "凭据管理"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-20T16:39:46+08:00",
+  "updated_at": "2026-08-20T16:39:46+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "通过网关注入凭据，Agent不持有真实秘密，降低泄露风险",
+      "策略在网络层强制执行，Agent无法绕过，确保安全边界",
+      "面向团队设计，提供集中管理和审批流程，适合企业部署"
+    ],
+    "category": "Agent基础设施"
+  }
+}
