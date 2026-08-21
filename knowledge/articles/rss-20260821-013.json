@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260821-013",
+  "title": "Show HN: Huzzah – a novel approach to coding with AI",
+  "source_url": "https://www.danielvaughn.dev/posts/huzzah/",
+  "source_type": "rss",
+  "summary": "Huzzah是一个实验性编辑器，旨在解决编码代理（coding agents）的痛点：用户厌倦了为每个更改编写完整句子，且代理在复杂代码库中容易混淆。它提出一种新交互范式：用户以伪代码编写意图，保存时编辑器将其同步为真实源代码，并持久化伪代码作为意图记录。该工具目前是概念验证，作者认为它可能不适用于所有场景，但初步体验令人愉快。",
+  "tags": [
+    "AI编码",
+    "伪代码",
+    "意图记录",
+    "编辑器",
+    "人机交互"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-21T16:41:32+08:00",
+  "updated_at": "2026-08-21T16:41:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "针对编码代理的繁琐交互和复杂度限制，提出伪代码驱动的编程范式。",
+      "将伪代码持久化作为意图记录，有助于代码维护和协作。",
+      "反映了AI辅助编程从对话式向更高效、更结构化交互演进的趋势。"
+    ],
+    "category": "AI编程工具"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260821-008",
+  "title": "Codex on AWS bedrock bug causing 10x charges",
+  "source_url": "https://github.com/openai/codex/issues/37674",
+  "source_type": "rss",
+  "summary": "该条目报告了OpenAI Codex在AWS Bedrock上部署时出现的一个bug，导致费用激增10倍。这是一个具体的技术问题报告，涉及AI编程工具与云服务的集成，反映了AI工具在实际应用中可能遇到的成本控制挑战。该问题在Hacker News上引发讨论，关注点在于云服务计费异常和AI工具部署的可靠性。",
+  "tags": [
+    "Codex",
+    "AWS Bedrock",
+    "成本控制",
+    "Bug报告",
+    "AI编程工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-21T16:41:32+08:00",
+  "updated_at": "2026-08-21T16:41:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI工具在云平台部署时可能因计费机制缺陷导致成本异常，需关注运维监控",
+      "该问题凸显了AI工具商业化落地中的成本优化需求",
+      "社区讨论反映了开发者对AI工具可靠性和透明度的关注"
+    ],
+    "category": "AI工具与云服务集成"
+  }
+}

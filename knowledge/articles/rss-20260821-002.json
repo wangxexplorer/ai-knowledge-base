@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260821-002",
+  "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+  "source_url": "https://encore.dev/blog/firecracker-apple-silicon",
+  "source_type": "rss",
+  "summary": "本文介绍了在Apple Silicon上重建Linux MicroVM栈的实践，涉及Firecracker等虚拟化技术。该内容与AI、LLM、Agent领域无直接关联，但MicroVM技术可为AI推理提供轻量级隔离环境，间接支持AI基础设施。",
+  "tags": [
+    "虚拟化",
+    "MicroVM",
+    "Apple Silicon",
+    "基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-21T16:41:32+08:00",
+  "updated_at": "2026-08-21T16:41:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "MicroVM技术可提升AI推理环境的隔离性和效率",
+      "Apple Silicon上的虚拟化优化有助于边缘AI部署",
+      "该技术栈为AI服务提供轻量级运行环境"
+    ],
+    "category": "基础设施"
+  }
+}

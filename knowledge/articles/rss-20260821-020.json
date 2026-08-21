@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260821-020",
+  "title": "Anti-AI fonts are useless and harmful",
+  "source_url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+  "source_type": "rss",
+  "summary": "文章批评了所谓的“反AI字体”技术，认为其既无用又有害。这类字体试图通过视觉干扰阻止AI抓取网页内容，但实际效果有限，且可能损害可访问性和用户体验。作者指出，这种技术无法真正阻止AI，反而会带来负面影响，呼吁放弃此类做法。",
+  "tags": [
+    "AI安全",
+    "内容抓取",
+    "可访问性",
+    "技术批判"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-21T16:41:32+08:00",
+  "updated_at": "2026-08-21T16:41:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "反AI字体无法有效阻止AI抓取，技术效果存疑。",
+      "此类字体可能损害网站可访问性和用户体验。",
+      "应关注更合理的AI内容保护方式，而非对抗性技术。"
+    ],
+    "category": "AI应用与影响"
+  }
+}

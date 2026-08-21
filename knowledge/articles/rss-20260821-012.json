@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260821-012",
+  "title": "SpacetimeDB: a short technical review",
+  "source_url": "https://strn.cat/posts/spacetime/",
+  "source_type": "rss",
+  "summary": "SpacetimeDB是一个将数据库与服务器逻辑合一的实时数据库系统，通过将应用逻辑编译为数据库模块，实现低延迟的多人实时应用。该技术对AI/LLM/Agent领域有一定关联，主要体现在为多智能体系统提供实时状态同步和持久化存储，但并非直接针对AI。其核心优势在于简化分布式开发，提升实时性能，可能用于构建需要实时交互的AI代理环境。",
+  "tags": [
+    "实时数据库",
+    "多智能体",
+    "状态同步",
+    "分布式系统",
+    "后端架构"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-21T16:41:32+08:00",
+  "updated_at": "2026-08-21T16:41:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.4,
+    "key_insights": [
+      "SpacetimeDB将数据库与服务器逻辑合一，可降低AI代理系统的延迟和复杂度。",
+      "适用于需要实时共享状态的多智能体协作场景。",
+      "为AI应用提供可扩展的持久化层，但非AI专用技术。"
+    ],
+    "category": "基础设施"
+  }
+}

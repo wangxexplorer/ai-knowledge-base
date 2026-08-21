@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260821-009",
+  "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+  "source_url": "https://annas-archive.gl/blog/physical-destruction.html",
+  "source_type": "rss",
+  "summary": "文章指出AI公司为训练模型而大规模扫描图书，导致实体书被物理销毁，呼吁在书籍消失前对稀有图书进行数字化保存。这反映了AI发展中的数据获取与文化遗产保护的冲突，涉及版权、数据伦理和知识保存等议题。",
+  "tags": [
+    "AI训练数据",
+    "数据伦理",
+    "文化遗产",
+    "数字化保存",
+    "版权"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-21T16:41:32+08:00",
+  "updated_at": "2026-08-21T16:41:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI训练对实体书的需求导致稀有书籍被销毁，引发数据获取的伦理问题。",
+      "数字化保存是平衡AI发展与文化遗产保护的关键手段。",
+      "该问题凸显了AI数据供应链中缺乏可持续性和合规性。"
+    ],
+    "category": "AI伦理与数据"
+  }
+}

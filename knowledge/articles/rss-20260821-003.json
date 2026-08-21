@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260821-003",
+  "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+  "source_url": "https://Argentic.network",
+  "source_type": "rss",
+  "summary": "Argentic是一个基于L402协议的闪电网络收费系统，专为AI爬虫代理设计。它允许网站对AI代理的访问进行微交易计费，实现按次或按量付费。该项目在Hacker News上发布，旨在为AI代理提供一种支付基础设施，平衡内容提供者与AI抓取之间的利益。",
+  "tags": [
+    "L402",
+    "闪电网络",
+    "AI代理",
+    "微支付",
+    "内容变现"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-21T16:41:32+08:00",
+  "updated_at": "2026-08-21T16:41:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "为AI代理提供支付层，实现按需付费的访问控制。",
+      "利用闪电网络实现低延迟、低成本的微交易。",
+      "可能改变AI爬虫与网站之间的经济关系。"
+    ],
+    "category": "AI基础设施"
+  }
+}

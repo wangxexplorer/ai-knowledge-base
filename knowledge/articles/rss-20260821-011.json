@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260821-011",
+  "title": "The August 17 outage",
+  "source_url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+  "source_type": "rss",
+  "summary": "GitHub于8月17日发生大规模服务中断，本文详细说明了故障原因、影响范围及后续改进措施。文章强调了对基础设施可靠性的重视，并提出了加强监控、优化应急响应等计划。该事件虽非直接涉及AI，但反映了大型技术平台在运维和稳定性方面的挑战，对依赖GitHub进行AI模型托管和协作的开发者具有间接影响。",
+  "tags": [
+    "GitHub",
+    "服务中断",
+    "可靠性",
+    "运维"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-21T16:41:32+08:00",
+  "updated_at": "2026-08-21T16:41:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "大型平台稳定性对AI开发协作有间接影响",
+      "故障复盘与改进措施值得运维团队借鉴"
+    ],
+    "category": "技术基础设施"
+  }
+}

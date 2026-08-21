@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260821-007",
+  "title": "Micron announces $10B research hub in Boise",
+  "source_url": "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx",
+  "source_type": "rss",
+  "summary": "美光科技宣布在爱达荷州博伊西投资100亿美元建立研究实验室，专注于长期创新，旨在塑造内存和AI的未来。该设施将推动存储技术发展，满足AI工作负载对高带宽、低延迟内存的日益增长需求，强化美国在半导体和AI基础设施领域的竞争力。",
+  "tags": [
+    "美光",
+    "内存",
+    "AI基础设施",
+    "半导体",
+    "存储技术"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-21T16:41:32+08:00",
+  "updated_at": "2026-08-21T16:41:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "AI模型训练和推理对高性能内存需求激增，美光此举直接支撑AI算力底座",
+      "美国本土研发中心建设凸显AI供应链安全与自主可控趋势",
+      "长期研究导向表明内存技术是AI未来突破的关键瓶颈之一"
+    ],
+    "category": "AI基础设施"
+  }
+}

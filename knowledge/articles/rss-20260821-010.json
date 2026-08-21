@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260821-010",
+  "title": "Ox Alpha",
+  "source_url": "https://openrouter.ai/stealth/ox-alpha",
+  "source_type": "rss",
+  "summary": "Ox Alpha是OpenRouter平台上的一个模型，由stealth团队开发。该条目来自Hacker News，包含Twitter链接和讨论，但缺乏具体技术细节。从名称和来源看，可能是一个新的AI模型或工具，但信息有限，无法确认其具体功能或与LLM/Agent的关联。",
+  "tags": [
+    "OpenRouter",
+    "AI模型",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-21T16:41:32+08:00",
+  "updated_at": "2026-08-21T16:41:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.5,
+    "key_insights": [
+      "Ox Alpha是OpenRouter上的新模型，但公开信息不足",
+      "条目来自Hacker News，社区讨论活跃，但技术细节未披露",
+      "需进一步查看原始链接以确认其与LLM/Agent的具体关联"
+    ],
+    "category": "模型发布"
+  }
+}

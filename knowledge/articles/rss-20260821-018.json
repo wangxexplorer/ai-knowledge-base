@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260821-018",
+  "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+  "source_url": "https://github.com/runvendo/vendo",
+  "source_type": "rss",
+  "summary": "Vendo是一个开源平台，允许用户通过自然语言描述在现有SaaS产品中创建自定义功能，如仪表盘、工作流和小应用。它利用AI代理读取产品API、主题和路由，生成React组件，并在QuickJS沙箱中运行，确保安全。Vendo强调生成应用的持久性和可共享性，区别于聊天内的临时UI。其关键设计原则包括代码规则优于提示规则、使用JSX形状输出、以及确定性优于模型。该项目与AI、LLM和Agent高度相关",
+  "tags": [
+    "生成式UI",
+    "AI代理",
+    "SaaS定制",
+    "沙箱执行",
+    "开源"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-21T16:41:32+08:00",
+  "updated_at": "2026-08-21T16:41:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 1.0,
+    "key_insights": [
+      "Vendo利用LLM生成React组件，并通过QuickJS沙箱安全执行，实现用户驱动的功能扩展。",
+      "强调持久性和可共享性，生成的应用可复用、分叉，超越聊天内临时UI。",
+      "设计原则：代码规则优于提示规则，确定性优于模型，输出采用JSX形状以提高生成可靠性。"
+    ],
+    "category": "AI应用开发"
+  }
+}

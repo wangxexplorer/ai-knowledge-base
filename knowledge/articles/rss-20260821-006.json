@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260821-006",
+  "title": "Seed: Minimal, self-modifying agent harness",
+  "source_url": "https://github.com/vivekhaldar/seed",
+  "source_type": "rss",
+  "summary": "Seed是一个极简、可自我修改的Agent框架，旨在为AI代理提供轻量级运行环境。该项目强调最小化设计，允许代理在运行时修改自身代码或行为，以适应任务需求。其核心价值在于探索自主代理的自我进化能力，与当前LLM和Agent领域对自适应系统的追求高度契合。",
+  "tags": [
+    "Agent框架",
+    "自我修改",
+    "自主代理",
+    "LLM应用",
+    "开源"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-21T16:41:32+08:00",
+  "updated_at": "2026-08-21T16:41:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "极简设计降低Agent开发门槛",
+      "自我修改能力增强代理适应性",
+      "与LLM结合可提升自主任务执行效率"
+    ],
+    "category": "Agent框架"
+  }
+}

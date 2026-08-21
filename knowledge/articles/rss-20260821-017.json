@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260821-017",
+  "title": "Linux 7.2",
+  "source_url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+  "source_type": "rss",
+  "summary": "Linux 7.2版本发布，由Igalia公司宣布。该版本作为Linux内核的更新，主要包含硬件支持改进、性能优化和稳定性修复。虽然与AI/LLM/Agent无直接关联，但Linux作为AI基础设施的核心操作系统，其更新对AI生态系统的稳定运行具有间接重要性。",
+  "tags": [
+    "Linux",
+    "操作系统",
+    "基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-21T16:41:32+08:00",
+  "updated_at": "2026-08-21T16:41:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Linux内核更新对依赖其运行的AI系统有间接影响",
+      "版本更新通常包含性能和安全改进，有利于AI工作负载"
+    ],
+    "category": "技术基础设施"
+  }
+}

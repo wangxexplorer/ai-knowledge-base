@@ -1,0 +1,579 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-08-21T16:39:17+08:00",
+  "query": "AI LLM Agent",
+  "items": [
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "hermes-agent",
+      "title": "hermes-agent",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 233722,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "NousResearch/hermes-agent",
+      "author": "NousResearch"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "dify",
+      "title": "dify",
+      "source_url": "https://github.com/langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "stars": 153100,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "full_name": "langgenius/dify",
+      "author": "langgenius"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "langchain",
+      "title": "langchain",
+      "source_url": "https://github.com/langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform.",
+      "stars": 144693,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "langchain-ai/langchain",
+      "author": "langchain-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "awesome-llm-apps",
+      "title": "awesome-llm-apps",
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "stars": 133419,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "llms",
+        "python",
+        "rag"
+      ],
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "author": "Shubhamsaboo"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "browser-use",
+      "title": "browser-use",
+      "source_url": "https://github.com/browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 109936,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-use",
+        "llm"
+      ],
+      "full_name": "browser-use/browser-use",
+      "author": "browser-use"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ponytail",
+      "title": "ponytail",
+      "source_url": "https://github.com/DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 106990,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin"
+      ],
+      "full_name": "DietrichGebert/ponytail",
+      "author": "DietrichGebert"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "pi",
+      "title": "pi",
+      "source_url": "https://github.com/earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 94731,
+      "language": "TypeScript",
+      "topics": [],
+      "full_name": "earendil-works/pi",
+      "author": "earendil-works"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ragflow",
+      "title": "ragflow",
+      "source_url": "https://github.com/infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 88959,
+      "language": "Go",
+      "topics": [
+        "agent-harness",
+        "agentic-ai",
+        "agentic-retrieval",
+        "agentic-search",
+        "ai"
+      ],
+      "full_name": "infiniflow/ragflow",
+      "author": "infiniflow"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "OpenHands",
+      "title": "OpenHands",
+      "source_url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "stars": 84668,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli"
+      ],
+      "full_name": "OpenHands/OpenHands",
+      "author": "OpenHands"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "deer-flow",
+      "title": "deer-flow",
+      "source_url": "https://github.com/bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 80447,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "full_name": "bytedance/deer-flow",
+      "author": "bytedance"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "LlamaFactory",
+      "title": "LlamaFactory",
+      "source_url": "https://github.com/hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars": 74271,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "deepseek",
+        "fine-tuning",
+        "gemma"
+      ],
+      "full_name": "hiyouga/LlamaFactory",
+      "author": "hiyouga"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "unsloth",
+      "title": "unsloth",
+      "source_url": "https://github.com/unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "stars": 74159,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "chatgpt",
+        "deepseek",
+        "fine-tuning"
+      ],
+      "full_name": "unslothai/unsloth",
+      "author": "unslothai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "MetaGPT",
+      "title": "MetaGPT",
+      "source_url": "https://github.com/FoundationAgents/MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "stars": 69928,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "gpt",
+        "llm",
+        "metagpt",
+        "multi-agent"
+      ],
+      "full_name": "FoundationAgents/MetaGPT",
+      "author": "FoundationAgents"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "headroom",
+      "title": "headroom",
+      "source_url": "https://github.com/headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "stars": 67041,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "anthropic",
+        "claude-code",
+        "compression"
+      ],
+      "full_name": "headroomlabs-ai/headroom",
+      "author": "headroomlabs-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "mem0",
+      "title": "mem0",
+      "source_url": "https://github.com/mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "description": "Universal memory layer for AI Agents",
+      "stars": 63741,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "application",
+        "chatbots"
+      ],
+      "full_name": "mem0ai/mem0",
+      "author": "mem0ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "goose",
+      "title": "goose",
+      "source_url": "https://github.com/aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 53129,
+      "language": "Rust",
+      "topics": [
+        "acp",
+        "ai",
+        "ai-agents",
+        "mcp"
+      ],
+      "full_name": "aaif-goose/goose",
+      "author": "aaif-goose"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "cherry-studio",
+      "title": "cherry-studio",
+      "source_url": "https://github.com/CherryHQ/cherry-studio",
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 50862,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "claude-code",
+        "codex",
+        "deepseek"
+      ],
+      "full_name": "CherryHQ/cherry-studio",
+      "author": "CherryHQ"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "JeecgBoot",
+      "title": "JeecgBoot",
+      "source_url": "https://github.com/jeecgboot/JeecgBoot",
+      "url": "https://github.com/jeecgboot/JeecgBoot",
+      "description": "【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+      "stars": 47428,
+      "language": "Java",
+      "topics": [
+        "activiti",
+        "agent",
+        "ai",
+        "antd",
+        "claude-code"
+      ],
+      "full_name": "jeecgboot/JeecgBoot",
+      "author": "jeecgboot"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "CowAgent",
+      "title": "CowAgent",
+      "source_url": "https://github.com/zhayujie/CowAgent",
+      "url": "https://github.com/zhayujie/CowAgent",
+      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+      "stars": 46610,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "chatgpt-on-wechat",
+        "claude"
+      ],
+      "full_name": "zhayujie/CowAgent",
+      "author": "zhayujie"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ai-agent-book",
+      "title": "ai-agent-book",
+      "source_url": "https://github.com/bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "stars": 40542,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agent-memory",
+        "ai-agent",
+        "book",
+        "coding-agent"
+      ],
+      "full_name": "bojieli/ai-agent-book",
+      "author": "bojieli"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "The Lost Treasure of Sid Meier's Pirates",
+      "source_url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+      "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+      "description": "Article URL: https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/ Comments URL: https://news.ycombinator.com/item?id=49384896 Points: 37 # Comments: 10",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+      "source_url": "https://encore.dev/blog/firecracker-apple-silicon",
+      "url": "https://encore.dev/blog/firecracker-apple-silicon",
+      "description": "Article URL: https://encore.dev/blog/firecracker-apple-silicon Comments URL: https://news.ycombinator.com/item?id=49384716 Points: 37 # Comments: 5",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+      "source_url": "https://Argentic.network",
+      "url": "https://Argentic.network",
+      "description": "Article URL: https://Argentic.network Comments URL: https://news.ycombinator.com/item?id=49384477 Points: 7 # Comments: 4",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+      "source_url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+      "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+      "description": "Article URL: https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/ Comments URL: https://news.ycombinator.com/item?id=49384224 Points: 29 # Comments: 11",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Japan tried to build an operating system for the world, the US intervened",
+      "source_url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+      "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+      "description": "Article URL: https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/ Comments URL: https://news.ycombinator.com/item?id=49384180 Points: 101 # Comments: 52",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Seed: Minimal, self-modifying agent harness",
+      "source_url": "https://github.com/vivekhaldar/seed",
+      "url": "https://github.com/vivekhaldar/seed",
+      "description": "Article URL: https://github.com/vivekhaldar/seed Comments URL: https://news.ycombinator.com/item?id=49384113 Points: 17 # Comments: 3",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Micron announces $10B research hub in Boise",
+      "source_url": "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx",
+      "url": "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx",
+      "description": "Article URL: https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx Comments URL: https://news.ycombinator.com/item?id=49383582 Points: 12 # Comments: 1",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Codex on AWS bedrock bug causing 10x charges",
+      "source_url": "https://github.com/openai/codex/issues/37674",
+      "url": "https://github.com/openai/codex/issues/37674",
+      "description": "Article URL: https://github.com/openai/codex/issues/37674 Comments URL: https://news.ycombinator.com/item?id=49383326 Points: 128 # Comments: 41",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "source_url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "description": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 310 # Comments: 220",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Ox Alpha",
+      "source_url": "https://openrouter.ai/stealth/ox-alpha",
+      "url": "https://openrouter.ai/stealth/ox-alpha",
+      "description": "https://twitter.com/OpenRouter/status/2090544970923184269 , https://xcancel.com/OpenRouter/status/2090544970923184269 Comments URL: https://news.ycombinator.com/item?id=49381896 Points: 131 # Comments: 98",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "The August 17 outage",
+      "source_url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "description": "Article URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/ Comments URL: https://news.ycombinator.com/item?id=49378957 Points: 494 # Comments: 563",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "SpacetimeDB: a short technical review",
+      "source_url": "https://strn.cat/posts/spacetime/",
+      "url": "https://strn.cat/posts/spacetime/",
+      "description": "Article URL: https://strn.cat/posts/spacetime/ Comments URL: https://news.ycombinator.com/item?id=49378933 Points: 89 # Comments: 19",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "source_url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "description": "Hello everyone. I've been working on this experimental editor called Huzzah. I've been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. They're great, but I'm finding it more and more tedious to write full sentences for every change I want. Not only that, but it seems there's a complexity limit for codebases - beyond a certain point the agent begins confusing itself. I'd like to go back to writing code, but I don't want to go all the way back to fully manual coding. So I've come up with this interaction paradigm where you: 1. write pseudocode in whatever way makes the most sense to you 2. on save, the editor synchronizes your work to real source code 3. the pseudocode is persisted alongside the generated code, making your prompt effectively a stored record of intent. It may not work for every use case, but in my initial playthroughs I've found it very enjoyable. Right now it's just a proof of concept - installation instructions are here in the readme: https://github.com/danielvaughn/hz You can also watch a video of it in action here: https://x.com/danielvaughn/status/2090456808431165715 Cheers! Comments URL: https://news.ycombinator.com/item?id=49378768 Points: 301 # Comments: 157",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Why aren't smart people happier? (2022)",
+      "source_url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
+      "url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
+      "description": "Article URL: https://www.experimental-history.com/p/why-arent-smart-people-happier Comments URL: https://news.ycombinator.com/item?id=49378446 Points: 163 # Comments: 233",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "I should have loved biology (2020)",
+      "source_url": "https://jsomers.net/i-should-have-loved-biology/",
+      "url": "https://jsomers.net/i-should-have-loved-biology/",
+      "description": "Article URL: https://jsomers.net/i-should-have-loved-biology/ Comments URL: https://news.ycombinator.com/item?id=49377853 Points: 272 # Comments: 104",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Sixtyfour (YC P25) Is Hiring",
+      "source_url": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
+      "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
+      "description": "Article URL: https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern Comments URL: https://news.ycombinator.com/item?id=49377248 Points: 0 # Comments: 0",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Linux 7.2",
+      "source_url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+      "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+      "description": "Article URL: https://www.igalia.com/2026/08/19/Linux-72-Released.html Comments URL: https://news.ycombinator.com/item?id=49376265 Points: 246 # Comments: 95",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+      "source_url": "https://github.com/runvendo/vendo",
+      "url": "https://github.com/runvendo/vendo",
+      "description": "Hi HN, we’re Yousef & Nour, founders of Vendo ( https://vendo.run ). Vendo lets users create new features inside the software they already use. A user describes the dashboard, workflow, or small app they need, and Vendo builds it on top of the product’s existing data, API, and interface. Demo: https://www.youtube.com/watch?v=VdpHehY64ls We built Vendo because every SaaS eventually faces the same problem: every customer needs something slightly different. One wants a new report and another needs a workflow that only makes sense for their team. These requests either sit on the roadmap, become one-off engineering work, or force the customer into spreadsheets and external tools. We wanted the user to be able to create the missing feature themselves, without leaving the product. Here is how it works: - npx vendo init reads the product's API surface, theme, routes, and more. These are used so that the apps Vendo creates (1) look on-brand and native and (2) have the ability to read data and perform actions directly through the company's API - When a user asks for a feature, we have a custom Vendo harness that writes a React component with a bunch of Vendo add-ons and guardrails (ex. ability to make calls to the host API + our component library). Every save is compiled, type-checked, run against real API responses, and rendered before the user sees it. We just released a benchmark and write-up here with more info for anyone interested: https://vendo.run/blog/generating-product-ui-measured - We use QuickJS to make sure that anything the agent creates is sandboxed and can't mess with the company's site. Vendo compiles the component and runs it with Preact inside a QuickJS VM with no access to the DOM, network, or clock. The VM returns a UI tree, which the host renders using the product’s registered components. When the user clicks something, QuickJS emits a tool call; the host executes it through Vendo’s guard and passes the result back into the same VM, preserving the screen’s local state. There's a lot of generative UI right now: streaming developer-written components into a chat (Vercel AI SDK, CopilotKit, Thesys), or rendering your app inside someone else's assistant (OpenAI Apps SDK, MCP Apps). We differ on two things. Vendo lives in your product and acts through your API as the signed-in user, so what it makes is durable: real apps users keep, pin, and run on triggers while they're away, and not components that are merely confined to a chat. Plus, it's not capped at putting together a bunch of prebuilt components: the agent can build arbitrary apps, from a quick dashboard out of your own components to real custom code running in a sandbox, and either way data only ever comes from tool calls to your API. Here are some things customers are using Vendo for today: - Letting their users create custom dashboards and reports. These are mainly UI-based and focused on letting the user see the exact graphs and metrics they care about - Letting their customers create recurring automations. A big thing as well that has been used for these automations is the fact that we connect to external connections, so users have been automating many of their inter-tool workflows (ex. an automation that sends a slack alert based off of something in the product) - B2B customers letting their customers customize the product with specific business logic. Often this is simple things like an extra field on a form, or an extra permission, but it is hard for a business to keep up with them otherwise. - Creating and sharing custom dashboards/apps across an organization. Since the apps Vendo creates are durable, they can be shared, reused, and forked (which can’t be done with many of the other in-chat generative UI solutions) We've spent a lot of time thinking about how AI and agents will change the way people consume software. We think the answer is personal(ized) software: you see the UI you need to see, you tell an agent exactly what you need, and the product molds to how you work. The key insights that have enabled the product to work are: - A rule in code always beats a rule in a prompt. - Invent as little syntax as possible. Generation got faster and more reliable when the output looked like what models already know (JSX-shaped markup) instead of a clever custom format. - Deterministic beats model wherever you can get away with it. Theme extraction is pure static analysis, and a remix starts as a copy of your component, no model call. Vendo is completely open-source (Apache-2.0) and can be self-hosted, so feel free to check out all the source code here: https://github.com/runvendo/vendo . Would love you to try it out and give us your feedback: https://docs.vendo.run/ . Or if you’re a company looking to embed Vendo in your product feel free to book a call here: https://cal.com/team/vendo/intro-call Comments URL: https://news.ycombinator.com/item?id=49376038 Points: 34 # Comments: 19",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "source_url": "https://github.com/zachahn/vomit",
+      "url": "https://github.com/zachahn/vomit",
+      "description": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 246 # Comments: 243",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Anti-AI fonts are useless and harmful",
+      "source_url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "description": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 156 # Comments: 112",
+      "feed_name": "Hacker News"
+    }
+  ]
+}

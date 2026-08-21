@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260821-014",
+  "title": "Why aren't smart people happier? (2022)",
+  "source_url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
+  "source_type": "rss",
+  "summary": "该文章探讨智力与幸福感之间的关系，质疑高智商人群是否更快乐。内容涉及认知偏差、社会比较和情绪调节，与AI领域无直接关联，但可作为AI伦理和人类行为建模的参考。",
+  "tags": [
+    "心理学",
+    "幸福感",
+    "认知偏差",
+    "人类行为"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-21T16:41:32+08:00",
+  "updated_at": "2026-08-21T16:41:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "智力与幸福感并非正相关",
+      "高智商可能伴随过度分析导致不满",
+      "社会比较影响主观幸福感"
+    ],
+    "category": "社会科学"
+  }
+}
