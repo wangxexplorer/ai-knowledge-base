@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260822-006",
+  "title": "Three important steps in my maturation process",
+  "source_url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+  "source_type": "rss",
+  "summary": "该文章是作者个人成长历程的反思，探讨了在技术领域成熟过程中的三个关键步骤。内容可能涉及编程、系统设计或工程实践中的经验教训，但未明确提及AI、LLM或Agent技术。文章在Hacker News上获得关注，表明其内容对技术社区有一定启发，但核心主题与AI领域关联度较低。",
+  "tags": [
+    "个人成长",
+    "技术经验",
+    "工程实践"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-22T16:31:11+08:00",
+  "updated_at": "2026-08-22T16:31:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "文章强调反思与迭代在技术成长中的重要性。",
+      "可能包含对系统复杂性和工程权衡的讨论。",
+      "对技术从业者有一定借鉴意义，但非AI专项内容。"
+    ],
+    "category": "技术随笔"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260822-014",
+  "title": "How we made a text-to-speech model respond in sub-50 ms",
+  "source_url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+  "source_type": "rss",
+  "summary": "本文介绍了Nari Labs如何优化其文本转语音（TTS）模型，实现亚50毫秒的响应时间。文章可能涉及模型架构、推理优化、硬件加速等技术，旨在降低延迟和成本，提升实时交互体验。该技术对AI语音助手、实时对话系统等应用具有重要意义，与LLM和Agent领域相关，因为低延迟TTS是构建高效多模态Agent的关键组件。",
+  "tags": [
+    "TTS",
+    "低延迟",
+    "模型优化",
+    "实时交互",
+    "多模态"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-22T16:31:11+08:00",
+  "updated_at": "2026-08-22T16:31:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "亚50毫秒的TTS响应时间显著提升实时交互体验，是Agent系统的重要基础。",
+      "优化TTS模型涉及推理加速和成本控制，对部署大规模AI服务有参考价值。",
+      "低延迟TTS与LLM结合，可推动更自然的语音对话Agent发展。"
+    ],
+    "category": "AI应用优化"
+  }
+}

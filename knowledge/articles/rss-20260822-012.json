@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260822-012",
+  "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+  "source_url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
+  "source_type": "rss",
+  "summary": "LiteLLM是一家获得Y Combinator W23孵化的AI基础设施初创公司，专注于提供LLM API网关和代理服务。该公司正在招聘Rust/性能工程师，这表明其业务正在扩展，需要优化性能以应对大规模LLM调用。该职位涉及底层系统开发，与AI/LLM领域高度相关，反映了AI基础设施层对高性能工程人才的需求。",
+  "tags": [
+    "LiteLLM",
+    "LLM基础设施",
+    "Rust",
+    "性能优化",
+    "AI招聘"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-22T16:31:11+08:00",
+  "updated_at": "2026-08-22T16:31:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "LiteLLM作为YC孵化的LLM网关服务商，其招聘动向反映AI基础设施层对性能工程的重视",
+      "Rust语言在AI基础设施中的应用日益增多，用于构建高性能、低延迟的代理服务",
+      "该职位暗示LiteLLM正在扩展其服务能力，可能涉及大规模LLM流量管理"
+    ],
+    "category": "AI基础设施"
+  }
+}

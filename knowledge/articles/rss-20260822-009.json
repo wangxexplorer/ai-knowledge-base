@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260822-009",
+  "title": "Scientists release biggest 2D map of the universe",
+  "source_url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+  "source_type": "rss",
+  "summary": "科学家发布了迄今最大的宇宙二维地图，基于Legacy Survey项目，覆盖广阔天区，为天文学研究提供重要数据资源。该地图通过可视化工具公开访问，有助于星系演化、暗物质等研究。",
+  "tags": [
+    "宇宙地图",
+    "天文学",
+    "数据可视化",
+    "Legacy Survey"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-22T16:31:11+08:00",
+  "updated_at": "2026-08-22T16:31:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "大规模天文数据公开共享，促进科研协作",
+      "二维地图为宇宙结构研究提供基础数据",
+      "可视化工具降低数据使用门槛"
+    ],
+    "category": "科学研究"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260822-010",
+  "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
+  "source_url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
+  "source_type": "rss",
+  "summary": "本文介绍meshoptimizer库的优化，使其能在几分钟内处理数十亿三角形。该技术主要面向3D图形和几何处理，与AI、LLM或Agent领域无直接关联，但可能对AI生成3D内容或大规模数据处理有间接参考价值。",
+  "tags": [
+    "3D图形",
+    "性能优化",
+    "几何处理"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-22T16:31:11+08:00",
+  "updated_at": "2026-08-22T16:31:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "高效处理大规模几何数据",
+      "性能优化技术",
+      "可能用于AI生成3D模型的预处理"
+    ],
+    "category": "计算机图形学"
+  }
+}

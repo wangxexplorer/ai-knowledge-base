@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260822-017",
+  "title": "Zig’s io.threaded is neat",
+  "source_url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+  "source_type": "rss",
+  "summary": "本文探讨Zig语言中io.threaded的设计，强调其简洁性和高效性。该机制通过线程池处理I/O操作，简化并发编程，提升性能。文章分析其内部实现，并与传统异步I/O对比，展示其优势。虽不直接涉及AI，但为构建高性能AI系统的基础设施提供参考。",
+  "tags": [
+    "Zig",
+    "并发",
+    "I/O",
+    "系统编程"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-22T16:31:11+08:00",
+  "updated_at": "2026-08-22T16:31:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "io.threaded简化了并发I/O编程，降低复杂度。",
+      "线程池模型在特定场景下性能优于异步I/O。",
+      "对AI基础设施的构建有间接参考价值。"
+    ],
+    "category": "编程语言与系统"
+  }
+}

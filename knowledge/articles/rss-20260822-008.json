@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260822-008",
+  "title": "Rust Glancer: Rust LSP using 100x less RAM",
+  "source_url": "https://rust-glancer.github.io/blog/hello-world/",
+  "source_type": "rss",
+  "summary": "Rust Glancer 是一个用 Rust 编写的语言服务器（LSP），声称内存占用比现有方案低 100 倍。该条目来自 Hacker News，讨论其技术实现和性能优势。虽然主要面向 Rust 开发工具，但低资源消耗的 LSP 对 AI 辅助编程工具（如 Copilot）的本地部署和效率提升有潜在参考价值。",
+  "tags": [
+    "Rust",
+    "LSP",
+    "性能优化",
+    "开发工具",
+    "AI编程"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-22T16:31:11+08:00",
+  "updated_at": "2026-08-22T16:31:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "低内存 LSP 可提升 AI 代码补全的响应速度",
+      "Rust 的高性能特性适合构建资源敏感型工具",
+      "对本地 AI 编程助手有间接优化启示"
+    ],
+    "category": "开发工具"
+  }
+}

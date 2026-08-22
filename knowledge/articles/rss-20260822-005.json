@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260822-005",
+  "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+  "source_url": "https://ozbrain.com",
+  "source_type": "rss",
+  "summary": "OzBrain是一个为AI代理和团队设计的共享知识库，旨在解决代理生成知识的存储、共享和版本管理问题。它支持多代理协作、冲突处理、知识重构和审计追踪，并强调易用性，无需技术背景。作者认为代理优先的聊天界面将成为主要软件形态，并希望构建一个类似Vercel的简单易用方案，以替代复杂的自定义系统。",
+  "tags": [
+    "知识管理",
+    "多代理协作",
+    "AI代理",
+    "共享大脑",
+    "知识图谱"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-22T16:31:11+08:00",
+  "updated_at": "2026-08-22T16:31:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "代理优先的界面将主导软件，知识管理需适应代理工作流。",
+      "共享知识库需处理多代理冲突、版本控制和知识淘汰。",
+      "易用性对非技术用户至关重要，类似Vercel的简化方案有市场。"
+    ],
+    "category": "AI应用"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260822-004",
+  "title": "HN: The Good Parts (2016)",
+  "source_url": "https://danluu.com/hn-comments/",
+  "source_type": "rss",
+  "summary": "该条目是Hacker News上关于Dan Luu文章《HN: The Good Parts》的讨论帖，发布于2016年，但评论链接指向2024年的新讨论。文章分析Hacker News社区中高质量评论的特征，与AI、LLM或Agent技术无直接关联，但可能对理解人类反馈和社区互动模式有间接参考价值。",
+  "tags": [
+    "Hacker News",
+    "社区分析",
+    "评论质量"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-22T16:31:11+08:00",
+  "updated_at": "2026-08-22T16:31:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "探讨在线社区高质量讨论的构成要素",
+      "与AI训练数据中的人类反馈质量相关",
+      "对设计AI交互界面有间接启发"
+    ],
+    "category": "社区文化"
+  }
+}

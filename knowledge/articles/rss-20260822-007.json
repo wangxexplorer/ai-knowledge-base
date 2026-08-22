@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260822-007",
+  "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
+  "source_url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+  "source_type": "rss",
+  "summary": "SalesPatriot是一家YC W25孵化的初创公司，正在招聘前向部署工程师。该职位涉及将AI解决方案部署到客户环境，与AI和LLM应用落地相关。但条目本身是招聘信息，未提供具体技术细节，相关性中等。",
+  "tags": [
+    "招聘",
+    "AI部署",
+    "YC初创",
+    "前向部署"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-22T16:31:11+08:00",
+  "updated_at": "2026-08-22T16:31:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.5,
+    "key_insights": [
+      "AI应用落地需要前向部署工程师",
+      "YC孵化公司聚焦AI销售工具",
+      "招聘信息反映AI行业人才需求"
+    ],
+    "category": "招聘信息"
+  }
+}

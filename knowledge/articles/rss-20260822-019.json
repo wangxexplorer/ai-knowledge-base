@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260822-019",
+  "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+  "source_url": "https://lina.sh/blog/hijacking-e164-arpa",
+  "source_type": "rss",
+  "summary": "该条目讲述作者意外记录了数十万通打往军事基地的电话，涉及E.164号码与ARPA域名解析的技术细节。文章可能探讨了电话号码路由、DNS基础设施或安全漏洞，但未直接涉及AI、LLM或Agent技术。其核心内容偏向电信与网络安全，与AI领域关联度极低。",
+  "tags": [
+    "电信安全",
+    "DNS",
+    "电话号码",
+    "基础设施",
+    "安全漏洞"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-22T16:31:11+08:00",
+  "updated_at": "2026-08-22T16:31:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "电话号码解析与DNS基础设施存在潜在安全风险",
+      "大规模电话记录可能暴露敏感信息",
+      "该事件与AI技术无直接关联"
+    ],
+    "category": "网络安全"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260822-011",
+  "title": "OTel isn’t going well",
+  "source_url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+  "source_type": "rss",
+  "summary": "本文探讨了OpenTelemetry（OTel）项目在发展中面临的挑战，作者通过数据表格分析了其生态、采用率及治理问题。文章指出OTel虽被广泛关注，但在标准化、工具成熟度及社区协作方面存在不足，可能影响其长期发展。内容聚焦可观测性基础设施，与AI/LLM/Agent无直接关联，但可作为技术生态背景参考。",
+  "tags": [
+    "OpenTelemetry",
+    "可观测性",
+    "技术生态",
+    "基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-22T16:31:11+08:00",
+  "updated_at": "2026-08-22T16:31:11+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "OTel项目面临治理和标准化挑战",
+      "可观测性工具生态发展不均衡",
+      "技术基础设施问题与AI领域间接相关"
+    ],
+    "category": "技术基础设施"
+  }
+}
