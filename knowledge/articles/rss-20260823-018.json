@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260823-018",
+  "title": "A Friendly Introduction to Racket",
+  "source_url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+  "source_type": "rss",
+  "summary": "本文是一篇面向初学者的Racket编程语言友好介绍，涵盖其语法、函数式编程特性及宏系统。Racket作为Lisp方言，强调代码即数据，其宏能力与语言导向编程思想对AI领域中的DSL设计和元编程有启发意义。文章通过实例展示Racket的简洁与强大，适合希望拓展编程范式视角的AI开发者。",
+  "tags": [
+    "Racket",
+    "函数式编程",
+    "宏",
+    "DSL",
+    "编程语言"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-23T16:31:19+08:00",
+  "updated_at": "2026-08-23T16:31:19+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "Racket的宏系统支持语言扩展，可用于构建AI专用DSL。",
+      "函数式编程范式有助于编写更可靠、可推理的AI代码。",
+      "代码即数据理念与LLM的符号处理有潜在关联。"
+    ],
+    "category": "编程语言与范式"
+  }
+}

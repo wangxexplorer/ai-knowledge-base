@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260823-002",
+  "title": "JIT Compiling Code in 5μs",
+  "source_url": "https://malisper.me/jit-compiling-code-in-5-us/",
+  "source_type": "rss",
+  "summary": "本文探讨了在极短时间内（5微秒）完成JIT编译的技术实现，涉及编译优化、代码生成和运行时性能。该技术对AI/LLM领域具有潜在价值，尤其是在需要低延迟推理或动态生成代码的Agent系统中，可提升执行效率。",
+  "tags": [
+    "JIT编译",
+    "低延迟",
+    "性能优化",
+    "代码生成",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-23T16:31:19+08:00",
+  "updated_at": "2026-08-23T16:31:19+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "JIT编译速度的提升可显著降低AI推理的启动延迟。",
+      "动态代码生成技术可应用于Agent的实时决策和工具调用。",
+      "该技术为边缘计算中的轻量级AI模型部署提供新思路。"
+    ],
+    "category": "性能优化"
+  }
+}

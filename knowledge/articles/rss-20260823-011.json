@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260823-011",
+  "title": "NetBSD and my life (2005)",
+  "source_url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+  "source_type": "rss",
+  "summary": "该条目是2005年一篇关于NetBSD操作系统与个人生活经历的文章，内容涉及开源社区、操作系统开发与个人成长。与AI、LLM、Agent领域无直接关联，但作为技术社区历史资料，可能对理解开源文化和技术演进有背景价值。",
+  "tags": [
+    "NetBSD",
+    "开源",
+    "操作系统",
+    "技术社区"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-23T16:31:19+08:00",
+  "updated_at": "2026-08-23T16:31:19+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "NetBSD是历史悠久的开源操作系统，对现代系统有影响",
+      "文章反映2005年开源社区生态",
+      "与AI/LLM/Agent无直接技术关联"
+    ],
+    "category": "技术历史"
+  }
+}

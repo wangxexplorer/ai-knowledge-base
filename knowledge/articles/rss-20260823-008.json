@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260823-008",
+  "title": "I Dream of Quieter Computing",
+  "source_url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+  "source_type": "rss",
+  "summary": "本文探讨了计算设备噪音问题，作者梦想更安静的计算体验。文章可能涉及硬件设计、散热方案或使用习惯，但未明确提及AI、LLM或Agent技术。相关性较低，仅可能间接关联到AI硬件部署中的噪音控制。",
+  "tags": [
+    "计算设备",
+    "噪音",
+    "硬件",
+    "用户体验"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-23T16:31:19+08:00",
+  "updated_at": "2026-08-23T16:31:19+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "计算噪音是影响用户体验的重要因素",
+      "安静计算可能涉及硬件优化",
+      "与AI技术无直接关联"
+    ],
+    "category": "硬件与用户体验"
+  }
+}

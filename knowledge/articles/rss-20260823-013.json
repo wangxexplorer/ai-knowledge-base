@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260823-013",
+  "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
+  "source_url": "https://marcua.net/minitools/figmimic/",
+  "source_type": "rss",
+  "summary": "Figmimic是一个书签工具，可将任意网页复制到Figma中作为可编辑图层。它通过解析网页DOM结构，将其转换为Figma可识别的设计元素，方便设计师直接复用网页设计。该工具与AI、LLM或Agent领域无直接关联，属于前端开发与设计工具范畴。",
+  "tags": [
+    "Figma",
+    "网页设计",
+    "书签工具",
+    "前端开发",
+    "设计工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-23T16:31:19+08:00",
+  "updated_at": "2026-08-23T16:31:19+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该工具专注于网页到Figma的转换，不涉及AI技术。",
+      "对设计师提高工作效率有辅助作用，但非AI驱动。",
+      "与LLM或Agent无技术交集。"
+    ],
+    "category": "设计工具"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260823-012",
+  "title": "Why your local LLM feels dumber than it is",
+  "source_url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+  "source_type": "rss",
+  "summary": "本文探讨了本地部署LLM在实际使用中表现不如预期的原因，指出模型量化、上下文窗口限制、推理参数设置及硬件资源不足等因素可能导致性能下降，而非模型本身能力不足。文章提供了优化建议，帮助用户提升本地LLM的实用效果。",
+  "tags": [
+    "本地LLM",
+    "模型量化",
+    "推理优化",
+    "性能调优",
+    "LLM部署"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-23T16:31:19+08:00",
+  "updated_at": "2026-08-23T16:31:19+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "本地LLM性能受量化精度和硬件配置影响显著",
+      "合理设置推理参数可改善输出质量",
+      "性能问题多源于部署配置而非模型能力"
+    ],
+    "category": "LLM技术实践"
+  }
+}

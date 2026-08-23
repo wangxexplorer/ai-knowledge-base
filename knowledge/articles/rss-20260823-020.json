@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260823-020",
+  "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
+  "source_url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+  "source_type": "rss",
+  "summary": "本文探讨了1970年代的Z80微处理器至今仍在使用的原因，包括其简单架构、低成本、广泛生态和嵌入式应用。文章回顾了Z80的历史，分析了其在现代电子设备中的持续存在，并讨论了其与当代计算技术的对比。尽管AI和LLM领域依赖现代高性能硬件，但Z80的持久性体现了基础计算原理的稳定性，对理解计算历史与嵌入式系统设计有参考价值。",
+  "tags": [
+    "Z80",
+    "微处理器",
+    "嵌入式系统",
+    "计算历史",
+    "硬件"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-23T16:31:19+08:00",
+  "updated_at": "2026-08-23T16:31:19+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Z80的持久性源于其简单性和成本效益，适合嵌入式应用。",
+      "现代AI依赖高性能硬件，但基础计算原理仍有其价值。",
+      "了解历史硬件有助于理解计算架构的演进。"
+    ],
+    "category": "硬件与历史"
+  }
+}
