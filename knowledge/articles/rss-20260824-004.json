@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260824-004",
+  "title": "Death to px, long live ch",
+  "source_url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+  "source_type": "rss",
+  "summary": "本文讨论CSS单位px与ch的取舍，主张用ch替代px以改善网页排版。ch单位基于字符宽度，更适合文本布局，提升可读性与响应式设计。文章强调现代Web开发应关注内容而非像素，倡导更语义化的样式单位。",
+  "tags": [
+    "CSS",
+    "Web开发",
+    "排版"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-24T16:49:51+08:00",
+  "updated_at": "2026-08-24T16:49:51+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "ch单位更适合文本相关布局",
+      "减少像素依赖可提升响应式设计",
+      "关注内容语义化样式"
+    ],
+    "category": "前端技术"
+  }
+}

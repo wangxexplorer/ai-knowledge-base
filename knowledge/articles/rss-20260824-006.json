@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260824-006",
+  "title": "Malware infects Android-based automotive head unit firmware",
+  "source_url": "https://securelist.com/android-head-unit-malware/121106/",
+  "source_type": "rss",
+  "summary": "该条目报道了针对Android车载信息娱乐系统（head unit）固件的恶意软件感染事件。攻击者通过恶意固件入侵车载系统，可能窃取用户数据或控制车辆功能。该事件凸显了智能汽车安全风险，与AI/LLM/Agent领域关联较弱，但涉及边缘设备安全，对AI驱动的自动驾驶系统有潜在影响。",
+  "tags": [
+    "恶意软件",
+    "车载系统",
+    "固件安全",
+    "物联网安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-24T16:49:51+08:00",
+  "updated_at": "2026-08-24T16:49:51+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "车载系统成为网络攻击目标，安全防护需加强",
+      "固件供应链安全是智能汽车的关键挑战",
+      "对AI驱动的汽车系统安全设计有警示作用"
+    ],
+    "category": "网络安全"
+  }
+}

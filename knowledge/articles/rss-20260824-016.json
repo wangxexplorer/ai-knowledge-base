@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260824-016",
+  "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+  "source_url": "https://martypc.net/",
+  "source_type": "rss",
+  "summary": "MartyPC是一个用Rust编写的跨平台早期PC模拟器，专注于精确模拟IBM PC/XT等硬件。该项目在Hacker News上获得154分和55条评论，受到开发者社区关注。虽然与AI、LLM或Agent无直接关联，但作为Rust系统编程和硬件模拟的实践，可能对AI基础设施或边缘计算中的底层模拟有间接参考价值。",
+  "tags": [
+    "Rust",
+    "模拟器",
+    "PC",
+    "硬件",
+    "系统编程"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-24T16:49:51+08:00",
+  "updated_at": "2026-08-24T16:49:51+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Rust在系统级模拟器中的应用，体现其性能和安全性优势。",
+      "硬件模拟技术可能用于AI芯片或边缘设备的仿真测试。",
+      "社区讨论热度表明开发者对复古计算和底层技术的兴趣。"
+    ],
+    "category": "开发工具"
+  }
+}

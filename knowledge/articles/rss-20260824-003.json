@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260824-003",
+  "title": "What Is a Harness?",
+  "source_url": "https://earendil.com/posts/what-is-a-harness/",
+  "source_type": "rss",
+  "summary": "该文章探讨了“Harness”的概念，可能涉及AI或LLM系统中的工具调用、工作流编排或代理控制机制。文章来自Hacker News，讨论热度适中，可能对理解Agent架构中的约束与执行框架有参考价值。",
+  "tags": [
+    "Harness",
+    "Agent",
+    "工作流",
+    "工具调用",
+    "架构"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-24T16:49:51+08:00",
+  "updated_at": "2026-08-24T16:49:51+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "Harness可能指代AI代理的执行控制框架",
+      "与LLM工具调用和任务编排相关",
+      "对理解Agent系统设计有参考意义"
+    ],
+    "category": "技术概念"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260824-001",
+  "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+  "source_url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+  "source_type": "rss",
+  "summary": "斯洛伐克在交通测速摄像头中发现俄罗斯后门，涉及供应链安全和关键基础设施的网络安全风险。该事件凸显了物联网设备在AI和自动化系统中的脆弱性，以及恶意软件对智能交通系统可能造成的威胁。",
+  "tags": [
+    "网络安全",
+    "供应链安全",
+    "物联网",
+    "关键基础设施",
+    "后门"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-24T16:49:51+08:00",
+  "updated_at": "2026-08-24T16:49:51+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "智能交通设备可能成为网络攻击目标，影响公共安全。",
+      "供应链安全是AI和物联网系统部署中的关键挑战。",
+      "此类事件提醒AI系统需加强安全设计和威胁监测。"
+    ],
+    "category": "网络安全"
+  }
+}

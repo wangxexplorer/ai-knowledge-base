@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260824-005",
+  "title": "My favorite nonfiction books about cults, scams, and schemes",
+  "source_url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+  "source_type": "rss",
+  "summary": "该条目是Hacker News上关于非虚构类书籍推荐的文章，主题涉及邪教、骗局和阴谋。内容与AI、LLM或Agent技术无直接关联，但可能对理解社会工程、信息操纵和系统信任问题有间接参考价值。",
+  "tags": [
+    "书籍推荐",
+    "社会工程",
+    "信息操纵",
+    "非虚构"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-24T16:49:51+08:00",
+  "updated_at": "2026-08-24T16:49:51+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "社会工程与AI安全相关",
+      "信息操纵模式可类比模型偏见",
+      "信任机制研究对Agent设计有启发"
+    ],
+    "category": "非技术类"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260824-018",
+  "title": "NanoGPT Speedrun Frontier",
+  "source_url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+  "source_type": "rss",
+  "summary": "NanoGPT Speedrun Frontier是Prime Intellect发布的研究项目，旨在通过优化训练流程和硬件利用，大幅加速NanoGPT模型的训练速度。该项目展示了在有限资源下高效训练GPT级别模型的创新方法，涉及分布式训练、内核优化等技术，对AI训练效率提升有重要参考价值。",
+  "tags": [
+    "NanoGPT",
+    "训练加速",
+    "分布式训练",
+    "性能优化",
+    "开源AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-24T16:49:51+08:00",
+  "updated_at": "2026-08-24T16:49:51+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "通过系统级优化可显著降低GPT模型训练成本和时间",
+      "分布式训练与内核优化是加速关键",
+      "为小型团队和研究者提供了高效训练大模型的可行路径"
+    ],
+    "category": "AI训练技术"
+  }
+}

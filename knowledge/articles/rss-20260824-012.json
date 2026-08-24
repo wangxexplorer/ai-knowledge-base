@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260824-012",
+  "title": "JIT Compiling Code in 5μs",
+  "source_url": "https://malisper.me/jit-compiling-code-in-5-us/",
+  "source_type": "rss",
+  "summary": "本文探讨了在5微秒内完成JIT编译代码的技术，涉及高性能编译优化。虽然主要聚焦于编译器和系统性能，但JIT编译技术对AI/LLM领域有潜在应用，如加速推理、动态优化模型执行等。文章可能介绍了极速编译的方法，对实时AI系统有参考价值。",
+  "tags": [
+    "JIT编译",
+    "性能优化",
+    "实时系统",
+    "推理加速"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-24T16:49:51+08:00",
+  "updated_at": "2026-08-24T16:49:51+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.4,
+    "key_insights": [
+      "极速JIT编译可降低AI推理延迟",
+      "编译优化技术可迁移至LLM执行引擎",
+      "对实时AI应用有启发"
+    ],
+    "category": "系统性能"
+  }
+}

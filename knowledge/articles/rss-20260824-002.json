@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260824-002",
+  "title": "Authoritarianism of Code",
+  "source_url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
+  "source_type": "rss",
+  "summary": "本文探讨了代码中的威权主义现象，即开发者或组织通过代码强制实施控制，可能限制用户自由和透明度。文章反思了技术决策中的权力动态，并呼吁更民主和开放的软件开发方式。这与AI和LLM领域相关，因为AI系统同样面临算法控制和伦理问题。",
+  "tags": [
+    "代码伦理",
+    "算法控制",
+    "技术权力",
+    "AI伦理",
+    "开源"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-24T16:49:51+08:00",
+  "updated_at": "2026-08-24T16:49:51+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "代码威权主义可能影响AI系统的透明度和用户自主性",
+      "技术决策中的权力集中需要制衡机制",
+      "开放和民主的软件开发有助于减少AI伦理风险"
+    ],
+    "category": "技术伦理"
+  }
+}

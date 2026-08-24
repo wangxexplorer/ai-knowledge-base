@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260824-014",
+  "title": "Fast and Hard Code",
+  "source_url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+  "source_type": "rss",
+  "summary": "该条目为Hacker News上的一篇技术文章，标题为“Fast and Hard Code”，来自lucumr.pocoo.org。文章讨论代码性能与复杂度之间的权衡，可能涉及优化技巧和工程实践。虽然未明确提及AI或LLM，但性能优化是AI系统（如模型推理）的关键环节，因此与AI领域存在间接关联。",
+  "tags": [
+    "性能优化",
+    "代码质量",
+    "工程实践"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-24T16:49:51+08:00",
+  "updated_at": "2026-08-24T16:49:51+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "代码性能与可维护性需要平衡",
+      "优化可能增加代码复杂度",
+      "对AI系统推理性能有参考价值"
+    ],
+    "category": "软件工程"
+  }
+}

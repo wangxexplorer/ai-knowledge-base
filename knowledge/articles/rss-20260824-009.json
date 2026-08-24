@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260824-009",
+  "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+  "source_url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+  "source_type": "rss",
+  "summary": "该条目报道了Qwen 3.8 27B模型在30分钟内完成逆向工程任务，展示了开源模型在复杂任务上的能力。文章来自XDA Developers，在Hacker News上获得159分和80条评论，引发社区关注。这体现了中小规模开源模型在特定任务上接近前沿模型的潜力，以及AI在软件工程和逆向工程领域的应用价值。",
+  "tags": [
+    "Qwen",
+    "开源模型",
+    "逆向工程",
+    "AI应用",
+    "软件工程"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-24T16:49:51+08:00",
+  "updated_at": "2026-08-24T16:49:51+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "开源模型在特定任务上可媲美前沿模型",
+      "AI在逆向工程领域具有实用价值",
+      "社区对开源模型能力提升高度关注"
+    ],
+    "category": "模型应用"
+  }
+}
