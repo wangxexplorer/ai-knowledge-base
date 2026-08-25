@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260825-020",
+  "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+  "source_url": "https://twitter.com/lemire/status/2091894299289874926",
+  "source_type": "rss",
+  "summary": "该条目报道小米新CPU在单线程性能上媲美苹果核心，多线程性能更优。内容聚焦硬件芯片，与AI、LLM或Agent无直接关联，但高性能CPU可能间接影响AI模型推理效率。",
+  "tags": [
+    "硬件",
+    "CPU",
+    "小米",
+    "性能"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-25T16:43:15+08:00",
+  "updated_at": "2026-08-25T16:43:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "芯片性能提升可能加速AI推理",
+      "与AI核心领域关联度低"
+    ],
+    "category": "硬件技术"
+  }
+}

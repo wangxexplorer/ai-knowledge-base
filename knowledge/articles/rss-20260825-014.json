@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260825-014",
+  "title": "Octopus intelligence may be related to never-before-seen mutation",
+  "source_url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
+  "source_type": "rss",
+  "summary": "该条目报道了章鱼智能可能与其独特的基因突变有关，这种突变帮助它们更准确地构建蛋白质。文章来自史密森尼杂志，在Hacker News上引发讨论。虽然内容涉及生物智能和基因机制，但与AI、LLM或Agent领域无直接关联，仅可作为生物智能与人工智能交叉研究的背景参考。",
+  "tags": [
+    "章鱼智能",
+    "基因突变",
+    "生物智能",
+    "蛋白质构建"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-25T16:43:15+08:00",
+  "updated_at": "2026-08-25T16:43:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "章鱼智能可能源于独特的基因突变，影响蛋白质合成准确性。",
+      "生物智能机制可为AI研究提供灵感，但非直接相关。",
+      "该发现属于神经生物学范畴，与LLM/Agent技术无直接联系。"
+    ],
+    "category": "生物智能"
+  }
+}

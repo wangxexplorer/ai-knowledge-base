@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260825-005",
+  "title": "Thomson Reuters Launches Its Own Frontier Model",
+  "source_url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+  "source_type": "rss",
+  "summary": "汤森路透宣布利用其世界级数据资产推出自有前沿模型，标志着专业信息服务机构向AI基础模型领域进军。该模型可能结合法律、金融等垂直领域数据，提升专业场景的AI应用能力。此举反映了行业趋势：拥有高质量专有数据的公司正通过自研模型实现差异化竞争，而非依赖通用大模型。",
+  "tags": [
+    "前沿模型",
+    "垂直领域",
+    "数据资产",
+    "企业AI",
+    "行业趋势"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-25T16:43:15+08:00",
+  "updated_at": "2026-08-25T16:43:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "专业数据公司自研模型成为新趋势，以数据优势构建竞争壁垒。",
+      "垂直领域模型可能超越通用模型在专业任务上的表现。",
+      "汤森路透此举将影响法律、金融等行业的AI服务格局。"
+    ],
+    "category": "行业动态"
+  }
+}

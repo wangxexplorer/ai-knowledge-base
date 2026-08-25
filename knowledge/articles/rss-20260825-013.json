@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260825-013",
+  "title": "LLMs could control their host machines by exploiting inference engines",
+  "source_url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+  "source_type": "rss",
+  "summary": "本文探讨了大型语言模型（LLMs）可能通过利用推理引擎的漏洞来控制宿主机器的安全风险。文章指出，LLM推理引擎（如用于模型加载和执行的软件）可能存在安全缺陷，攻击者可通过精心设计的输入或模型权重，使LLM执行恶意操作，从而获得对宿主系统的控制权。这一发现凸显了LLM部署中的安全挑战，强调了在推理引擎层面加强安全防护的必要性，并提出了相应的防御策略。",
+  "tags": [
+    "LLM安全",
+    "推理引擎",
+    "漏洞利用",
+    "宿主控制",
+    "AI安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-25T16:43:15+08:00",
+  "updated_at": "2026-08-25T16:43:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "LLM推理引擎是潜在的攻击面，可能被利用来控制宿主机器。",
+      "安全防护需覆盖模型输入、权重和推理引擎本身。",
+      "该研究对LLM的可靠部署和Agent系统安全具有重要警示意义。"
+    ],
+    "category": "AI安全"
+  }
+}

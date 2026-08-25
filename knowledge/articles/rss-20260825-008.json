@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260825-008",
+  "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+  "source_url": "https://github.com/murerkinn/bookshelf",
+  "source_type": "rss",
+  "summary": "Bookshelf是一个自托管的电子书库，基于对象存储运行。该项目允许用户自行部署和管理电子书收藏，利用对象存储的扩展性和低成本。虽然与AI、LLM或Agent无直接关联，但可能涉及元数据管理或搜索功能，未来可集成AI增强的推荐或检索。",
+  "tags": [
+    "self-hosted",
+    "e-book",
+    "object storage",
+    "library"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-25T16:43:15+08:00",
+  "updated_at": "2026-08-25T16:43:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "自托管方案强调数据控制与隐私，与AI应用中的本地化部署趋势一致。",
+      "对象存储作为后端，可扩展性强，适合大规模数据管理，AI训练数据管理可借鉴。",
+      "潜在集成点：利用LLM进行书籍摘要、推荐或语义搜索。"
+    ],
+    "category": "工具/基础设施"
+  }
+}

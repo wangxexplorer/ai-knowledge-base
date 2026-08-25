@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260825-001",
+  "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+  "source_url": "https://github.com/dragthelake/ambient-context",
+  "source_type": "rss",
+  "summary": "这是一个macOS菜单栏应用，通过Accessibility API定期读取当前聚焦窗口的文本内容，无需截图或OCR，将信息以Markdown格式按天保存到指定文件夹。用户可让Claude Code等AI工具访问该文件夹，查询工作记录或构建项目记忆。该应用旨在为AI提供持续的环境上下文，增强其记忆能力。",
+  "tags": [
+    "AI记忆",
+    "上下文工程",
+    "Claude Code",
+    "macOS工具",
+    "Markdown"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-25T16:43:15+08:00",
+  "updated_at": "2026-08-25T16:43:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "利用Accessibility API实现无侵入的屏幕文本捕获，为AI提供实时上下文。",
+      "通过文件系统与AI模型交互，简化了记忆持久化与查询流程。",
+      "展示了AI辅助工作流中环境感知与记忆管理的新思路。"
+    ],
+    "category": "AI工具"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260825-006",
+  "title": "How Universities Should Prepare Founders",
+  "source_url": "https://paulgraham.com/prepare.html",
+  "source_type": "rss",
+  "summary": "该文章由Paul Graham撰写，讨论大学应如何培养创业者。文章可能涉及创业教育、实践机会、思维模式培养等，与AI、LLM、Agent领域无直接关联，但可能间接涉及技术创业生态。",
+  "tags": [
+    "创业教育",
+    "大学",
+    "创始人",
+    "Paul Graham",
+    "创业生态"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-25T16:43:15+08:00",
+  "updated_at": "2026-08-25T16:43:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "大学需调整课程以支持创业实践",
+      "强调实践与导师制的重要性",
+      "可能提及技术创业趋势，但非AI特定"
+    ],
+    "category": "创业教育"
+  }
+}

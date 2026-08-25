@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260825-010",
+  "title": "Moon (2024)",
+  "source_url": "https://ciechanow.ski/moon/",
+  "source_type": "rss",
+  "summary": "该条目是Hacker News上关于一篇题为“Moon (2024)”的文章的分享，文章链接指向ciechanow.ski网站。该网站以交互式可视化技术文章著称，此篇可能涉及月球的科学或天文知识。条目本身不直接涉及AI、LLM或Agent技术，但作为技术社区的热门内容，可能包含与计算机图形学或数据可视化相关的技术实现，与AI领域关联度较低。",
+  "tags": [
+    "可视化",
+    "天文",
+    "技术文章",
+    "交互式"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-25T16:43:15+08:00",
+  "updated_at": "2026-08-25T16:43:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "该条目为技术社区分享，非AI直接相关。",
+      "可能涉及交互式可视化技术，与AI可视化应用有间接关联。",
+      "来源网站以高质量技术文章闻名，但主题为月球，非AI核心领域。"
+    ],
+    "category": "技术科普"
+  }
+}

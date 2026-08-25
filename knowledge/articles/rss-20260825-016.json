@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260825-016",
+  "title": "The entire city of San Francisco as a video game",
+  "source_url": "https://sf.thijs.gg/",
+  "source_type": "rss",
+  "summary": "该项目将旧金山整座城市转化为可交互的视频游戏，利用实时地图数据和3D渲染技术，为用户提供沉浸式城市探索体验。虽未直接提及AI，但此类大规模场景生成与交互系统常依赖AI辅助的自动化建模、路径规划或实时渲染优化，与LLM和Agent的潜在结合点在于智能导航、动态任务生成或自然语言交互。",
+  "tags": [
+    "3D渲染",
+    "城市数字化",
+    "交互体验",
+    "实时地图",
+    "游戏化"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-25T16:43:15+08:00",
+  "updated_at": "2026-08-25T16:43:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "城市级3D场景构建可能采用AI辅助的自动化建模技术",
+      "未来可集成LLM实现自然语言驱动的城市探索或任务交互",
+      "Agent技术可用于模拟城市中的智能体行为，增强游戏动态性"
+    ],
+    "category": "应用场景"
+  }
+}

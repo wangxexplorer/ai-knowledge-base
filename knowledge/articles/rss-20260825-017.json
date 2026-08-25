@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260825-017",
+  "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+  "source_url": "https://picomq.com/",
+  "source_type": "rss",
+  "summary": "PicoMQ是一个基于对象存储的Rust服务器，提供持久化流（Durable Streams）功能，支持通过HTTP进行创建、追加、读取、长轮询和SSE操作。它采用Pico协议或持久化流协议作为接口，S3Stream作为流存储原语，已在AutoMQ中使用。协调通过Postgres中的命令日志实现。该项目在Hacker News上获得114分和22条评论，展示了开发者对高效、低成本流式处理的兴趣。",
+  "tags": [
+    "流处理",
+    "对象存储",
+    "Rust",
+    "持久化流",
+    "基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-25T16:43:15+08:00",
+  "updated_at": "2026-08-25T16:43:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "PicoMQ提供基于对象存储的持久化流，成本低且可扩展，适合大规模数据管道。",
+      "其设计支持HTTP和SSE，易于集成到Web应用中，可能用于AI代理的事件流。",
+      "作为AutoMQ的底层存储原语，表明其在云原生消息系统中的实用性。"
+    ],
+    "category": "数据基础设施"
+  }
+}

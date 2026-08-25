@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260825-018",
+  "title": "Jabber/XMPP: 25 Years of Digital Independence",
+  "source_url": "https://gultsch.de/posts/25-years-of-digital-independence/",
+  "source_type": "rss",
+  "summary": "本文回顾Jabber/XMPP协议25年来的发展历程，强调其在数字独立和去中心化通信中的重要性。文章探讨了XMPP的开放性、联邦制特性及其在隐私保护方面的优势，同时反思了其面临的挑战和未来机遇。",
+  "tags": [
+    "XMPP",
+    "去中心化",
+    "数字独立",
+    "通信协议",
+    "开源"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-25T16:43:15+08:00",
+  "updated_at": "2026-08-25T16:43:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "XMPP作为开放协议，支持联邦制部署，是数字独立的重要基石。",
+      "去中心化通信与AI代理的交互可能产生协同效应。",
+      "文章强调用户自主权，与AI伦理中的隐私保护理念相呼应。"
+    ],
+    "category": "技术历史与理念"
+  }
+}
