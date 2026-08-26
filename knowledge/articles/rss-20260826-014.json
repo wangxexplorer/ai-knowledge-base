@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260826-014",
+  "title": "Run OpenBSD on DigitalOcean for $4/month",
+  "source_url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+  "source_type": "rss",
+  "summary": "本文介绍如何在DigitalOcean上以每月4美元的价格运行OpenBSD系统，涉及云服务器配置、操作系统安装和成本优化。内容主要面向系统管理员和DevOps工程师，与AI、LLM或Agent技术无直接关联，但可作为AI模型部署的基础设施参考。",
+  "tags": [
+    "OpenBSD",
+    "DigitalOcean",
+    "云计算",
+    "基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-26T16:44:23+08:00",
+  "updated_at": "2026-08-26T16:44:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "低成本运行BSD系统的可行性",
+      "云服务商对非主流操作系统的支持",
+      "基础设施成本优化思路"
+    ],
+    "category": "技术基础设施"
+  }
+}

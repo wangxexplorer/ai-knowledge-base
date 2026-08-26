@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260826-017",
+  "title": "My Friend Aaron",
+  "source_url": "https://rorz.io/writing/my-friend-aaron",
+  "source_type": "rss",
+  "summary": "该条目为Hacker News上的一篇文章《My Friend Aaron》，讨论个人友谊或回忆，与AI、LLM、Agent技术领域无直接关联。文章可能涉及个人叙事，但未提及人工智能相关技术、应用或观点。因此，该内容在AI领域相关性极低，不适合作为技术分析素材。",
+  "tags": [
+    "个人叙事",
+    "友谊",
+    "非技术"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-26T16:44:23+08:00",
+  "updated_at": "2026-08-26T16:44:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "内容与AI技术无关",
+      "属于个人情感类文章",
+      "不适合技术分析"
+    ],
+    "category": "非技术"
+  }
+}

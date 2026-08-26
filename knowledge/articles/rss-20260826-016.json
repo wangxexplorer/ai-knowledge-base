@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260826-016",
+  "title": "Black hole singularity is a surface not a point",
+  "source_url": "https://arxiv.org/abs/2608.21590",
+  "source_type": "rss",
+  "summary": "该条目讨论黑洞奇点作为表面而非点的物理理论，属于广义相对论和天体物理学范畴，与AI、LLM或Agent技术无直接关联。尽管AI可用于物理模拟或数据分析，但此条目本身不涉及相关技术。",
+  "tags": [
+    "黑洞",
+    "奇点",
+    "广义相对论",
+    "天体物理"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-26T16:44:23+08:00",
+  "updated_at": "2026-08-26T16:44:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "黑洞奇点的几何性质是理论物理前沿问题",
+      "该研究可能依赖计算模拟，但非AI核心",
+      "与AI领域无直接交叉"
+    ],
+    "category": "物理学"
+  }
+}

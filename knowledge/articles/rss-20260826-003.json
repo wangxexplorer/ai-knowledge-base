@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260826-003",
+  "title": "More than half of adults in U.S. say they lack basic statistical understanding",
+  "source_url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
+  "source_type": "rss",
+  "summary": "该条目报道了美国一项调查结果，显示超过一半的成年人缺乏基本统计理解能力。这一现象与AI、LLM和Agent领域相关，因为统计素养是理解和评估AI模型输出、数据驱动决策以及智能体行为的基础。缺乏统计知识可能导致公众对AI系统的误解或不当使用，也凸显了AI教育中统计素养的重要性。",
+  "tags": [
+    "统计素养",
+    "AI教育",
+    "公众理解",
+    "数据素养",
+    "社会影响"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-26T16:44:23+08:00",
+  "updated_at": "2026-08-26T16:44:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.4,
+    "key_insights": [
+      "统计素养不足可能影响公众对AI输出可靠性的判断。",
+      "AI系统日益依赖数据，统计理解成为关键技能。",
+      "该发现提示AI开发者需关注用户教育，以促进负责任使用。"
+    ],
+    "category": "社会与教育"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260826-010",
+  "title": "C2PA Cameras Do Not Survive Contact with Reality",
+  "source_url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+  "source_type": "rss",
+  "summary": "本文探讨C2PA内容凭证技术在Android相机实现中的现实困境。作者指出，尽管C2PA旨在通过加密签名验证图像来源与真实性，但在实际设备上，由于硬件、软件及用户操作流程的复杂性，该技术难以有效运作。文章分析了C2PA在Android生态中的落地问题，包括密钥管理、用户控制权及隐私权衡，并质疑其对抗深度伪造的实际效果。内容涉及数字内容溯源、AI生成内容检测及媒体真实性验证，与AI安全及内容认证领域",
+  "tags": [
+    "C2PA",
+    "内容认证",
+    "AI安全",
+    "深度伪造",
+    "数字水印"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-26T16:44:23+08:00",
+  "updated_at": "2026-08-26T16:44:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "C2PA在现实设备中面临技术落地挑战，影响其作为AI内容溯源工具的有效性。",
+      "内容凭证技术需平衡用户隐私与验证需求，当前实现存在缺陷。",
+      "对AI生成内容的检测依赖底层基础设施，C2PA的局限凸显了深度伪造治理的复杂性。"
+    ],
+    "category": "AI安全与内容真实性"
+  }
+}

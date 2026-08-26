@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260826-015",
+  "title": "Nitter and XCancel receive cease and desist notices",
+  "source_url": "https://github.com/zedeus/nitter/issues/1442",
+  "source_type": "rss",
+  "summary": "该条目报道了Nitter和XCancel收到停止侵权通知的事件。Nitter是一个替代Twitter的前端，XCancel是其镜像站。此事件反映了第三方工具面临的法律压力，与AI、LLM和Agent领域无直接关联，但可能影响数据获取渠道，间接影响依赖社交媒体数据的AI训练或应用。",
+  "tags": [
+    "Nitter",
+    "法律通知",
+    "数据获取",
+    "社交媒体"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-26T16:44:23+08:00",
+  "updated_at": "2026-08-26T16:44:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "第三方社交媒体工具面临法律风险，可能影响数据可访问性。",
+      "AI领域可能依赖此类工具获取训练数据，但相关性较低。",
+      "事件本身不涉及AI技术，但可能对数据生态有间接影响。"
+    ],
+    "category": "技术法律"
+  }
+}

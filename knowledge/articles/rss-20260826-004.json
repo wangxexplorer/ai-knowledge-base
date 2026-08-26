@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260826-004",
+  "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
+  "source_url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+  "source_type": "rss",
+  "summary": "该条目介绍IBM 7950 Harvest超级计算机，用于冷战时期NSA密码分析。内容聚焦历史计算硬件与密码学应用，与AI、LLM或Agent无直接关联，但可作为计算历史背景参考。",
+  "tags": [
+    "超级计算机",
+    "密码分析",
+    "历史",
+    "NSA",
+    "IBM"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-26T16:44:23+08:00",
+  "updated_at": "2026-08-26T16:44:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "早期专用计算系统用于国家安全",
+      "密码分析推动计算技术发展",
+      "历史背景与AI发展无直接联系"
+    ],
+    "category": "计算历史"
+  }
+}

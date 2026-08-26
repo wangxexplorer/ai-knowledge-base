@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260826-013",
+  "title": "Firefox 157 will include JPEG XL by default on all platforms",
+  "source_url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
+  "source_type": "rss",
+  "summary": "Mozilla宣布Firefox 157将在所有平台默认支持JPEG XL图像格式。JPEG XL是一种现代图像编码标准，提供更高的压缩效率和更好的图像质量，支持HDR和宽色域。此更新对浏览器性能和用户体验有积极影响，但与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "Firefox",
+    "JPEG XL",
+    "浏览器",
+    "图像格式"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-26T16:44:23+08:00",
+  "updated_at": "2026-08-26T16:44:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "JPEG XL提升图像压缩效率",
+      "浏览器默认支持新格式",
+      "与AI领域关联微弱"
+    ],
+    "category": "技术更新"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260826-019",
+  "title": "Tooltips need a delay, and then they need to skip it",
+  "source_url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+  "source_type": "rss",
+  "summary": "本文讨论工具提示（Tooltips）的显示延迟设计，提出工具提示需要延迟出现，但当用户快速移动鼠标时又应跳过延迟。文章从用户体验角度分析延迟的利弊，强调在避免误触和提供即时反馈之间取得平衡。虽然不直接涉及AI或LLM，但该交互设计原则对AI驱动的智能界面、Agent辅助系统的人机交互体验有参考价值，可应用于AI产品中动态提示、上下文帮助等场景。",
+  "tags": [
+    "UX设计",
+    "交互设计",
+    "工具提示",
+    "人机交互"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-26T16:44:23+08:00",
+  "updated_at": "2026-08-26T16:44:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "工具提示的延迟设计需平衡误触避免与响应速度",
+      "快速移动场景下应跳过延迟以提升效率",
+      "该原则可迁移至AI辅助界面的动态提示设计"
+    ],
+    "category": "用户体验"
+  }
+}

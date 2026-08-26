@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260826-009",
+  "title": "When str.lower() is a security vulnerability in Python",
+  "source_url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+  "source_type": "rss",
+  "summary": "本文探讨Python中str.lower()方法在特定场景下可能引发的安全漏洞。由于Unicode字符的复杂性，某些字符在大小写转换后可能产生意外的结果，导致字符串比较或验证逻辑被绕过。文章分析了具体案例，并提供了安全编码建议，强调在处理用户输入或安全敏感操作时需谨慎使用大小写转换函数。",
+  "tags": [
+    "Python",
+    "安全漏洞",
+    "Unicode",
+    "字符串处理"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-26T16:44:23+08:00",
+  "updated_at": "2026-08-26T16:44:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "str.lower()在Unicode处理中可能产生非预期结果，导致安全风险",
+      "安全敏感场景需避免依赖大小写转换进行验证",
+      "开发者应了解Unicode规范化规则以防范此类漏洞"
+    ],
+    "category": "编程安全"
+  }
+}

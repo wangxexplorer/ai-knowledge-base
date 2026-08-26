@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260826-008",
+  "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+  "source_url": "https://github.com/swimmingbrain/texbrain",
+  "source_type": "rss",
+  "summary": "TeXbrain是一个在浏览器中通过WASM运行pdfTeX的LaTeX编辑器，无需后端，支持本地文件系统访问和Git集成。它利用Service Worker和缓存实现离线使用，并支持通过jsDelivr加载TeX Live包。该项目主要面向无法安装TeX Live的用户，如Chromebook或实验室电脑用户。虽然与AI/LLM/Agent无直接关联，但其本地文件访问和离线特性为未来集成本地AI",
+  "tags": [
+    "LaTeX",
+    "WASM",
+    "离线应用",
+    "本地文件系统",
+    "Git集成"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-26T16:44:23+08:00",
+  "updated_at": "2026-08-26T16:44:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "TeXbrain通过WASM在浏览器中运行pdfTeX，实现无后端LaTeX编辑。",
+      "利用Service Worker和缓存策略，实现离线使用和快速包加载。",
+      "支持本地文件系统访问和Git集成，便于与本地AI代理等工具协同工作。"
+    ],
+    "category": "开发工具"
+  }
+}

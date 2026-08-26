@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260826-006",
+  "title": "Queryable Executables",
+  "source_url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+  "source_type": "rss",
+  "summary": "本文探讨了可查询可执行文件（Queryable Executables）的概念，即通过结构化接口（如SQL或API）直接查询程序内部状态或输出，而非仅依赖标准输出。文章可能涉及将可执行文件与数据库或查询引擎集成，使程序运行结果可被程序化访问和分析。这与AI/LLM领域相关，因为LLM工具调用和Agent系统常需与外部程序交互，可查询接口能提升数据获取效率和自动化能力。",
+  "tags": [
+    "可查询可执行文件",
+    "程序接口",
+    "工具调用",
+    "自动化",
+    "数据访问"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-26T16:44:23+08:00",
+  "updated_at": "2026-08-26T16:44:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "可查询可执行文件提供结构化数据访问，利于AI系统集成。",
+      "该概念可增强LLM工具调用的可靠性和效率。",
+      "对Agent系统构建数据管道有潜在价值。"
+    ],
+    "category": "软件工程与AI集成"
+  }
+}

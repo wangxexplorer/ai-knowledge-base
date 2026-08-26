@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260826-018",
+  "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
+  "source_url": "https://github.com/jeffhajewski/latticedb",
+  "source_type": "rss",
+  "summary": "LatticeDB是一个类似SQLite的嵌入式图数据库，旨在解决图数据库在本地开发中的使用痛点。该项目源于作者在工作中频繁使用图数据库后，发现现有工具本地使用不便，因此尝试构建更优方案。该条目在Hacker News上获得151分和39条评论，表明开发者社区对轻量级图数据库工具存在需求。虽然该工具本身不是AI或LLM专用，但图数据库常被用于AI应用中的知识图谱、关系推理和Agent记忆存储，因此",
+  "tags": [
+    "图数据库",
+    "嵌入式数据库",
+    "知识图谱",
+    "开发者工具",
+    "本地开发"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-26T16:44:23+08:00",
+  "updated_at": "2026-08-26T16:44:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.4,
+    "key_insights": [
+      "图数据库在AI应用中常用于知识图谱和关系推理，LatticeDB可能为本地AI原型开发提供便利",
+      "该项目反映了开发者对轻量级、易用图数据库工具的需求，可能间接支持AI应用开发",
+      "Hacker News上的高关注度表明该工具在开发者社区中有一定潜力"
+    ],
+    "category": "数据库工具"
+  }
+}

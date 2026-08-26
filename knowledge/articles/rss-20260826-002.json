@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260826-002",
+  "title": "Disrupting a new covert influence campaign from Russia",
+  "source_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+  "source_type": "rss",
+  "summary": "OpenAI披露其已瓦解一个来自俄罗斯的隐蔽影响力行动，该行动利用AI工具生成内容并传播虚假信息。此事件凸显了AI技术被滥用于政治宣传和舆论操纵的风险，也展示了AI安全与治理的重要性。OpenAI的应对措施包括识别和阻断相关账号与内容，并强调与行业、政府合作以应对此类威胁。该案例为AI伦理、安全防护及国际网络空间治理提供了现实参考。",
+  "tags": [
+    "AI安全",
+    "虚假信息",
+    "影响力行动",
+    "内容审核",
+    "AI治理"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-26T16:44:23+08:00",
+  "updated_at": "2026-08-26T16:44:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "AI工具可被用于大规模生成虚假信息，加剧舆论操纵风险。",
+      "OpenAI等机构需持续监控并阻断AI滥用行为，维护平台安全。",
+      "该事件凸显了跨机构合作在应对AI威胁中的必要性。"
+    ],
+    "category": "AI安全与治理"
+  }
+}

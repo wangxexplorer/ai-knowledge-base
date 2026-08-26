@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260826-011",
+  "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+  "source_url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+  "source_type": "rss",
+  "summary": "FDA首次授权一款可穿戴设备，能同时连续监测酮体和血糖水平。该设备通过传感器实时追踪代谢指标，帮助用户管理饮食、运动及健康状况，尤其对生酮饮食和糖尿病患者有重要意义。此进展标志着可穿戴健康监测技术的突破，但主要聚焦于医疗设备领域，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "可穿戴设备",
+    "健康监测",
+    "FDA",
+    "血糖",
+    "酮体"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-26T16:44:23+08:00",
+  "updated_at": "2026-08-26T16:44:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "FDA首次批准双代谢物连续监测设备，推动个性化健康管理。",
+      "设备可能结合数据分析算法，但未涉及AI或LLM核心技术。",
+      "对AI领域影响有限，属于医疗硬件创新。"
+    ],
+    "category": "医疗健康"
+  }
+}

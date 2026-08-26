@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260826-020",
+  "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+  "source_url": "https://github.com/ThinkOffApp/CarWatch",
+  "source_type": "rss",
+  "summary": "该项目展示了在树莓派上运行35B参数的Qwen模型，实现本地车载AI。通过连接OBD接口和制造商云服务，AI能读取车辆数据并控制空调、门锁等。结合车辆手册，可离线回答保养问题，在线时与其他Agent协作，如故障时自动规划行程。体现了边缘AI与多智能体协同的潜力。",
+  "tags": [
+    "边缘AI",
+    "车载智能",
+    "多智能体",
+    "Qwen",
+    "树莓派"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-26T16:44:23+08:00",
+  "updated_at": "2026-08-26T16:44:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "在低功耗设备上运行大模型成为可能，推动AI本地化部署。",
+      "AI与物联网结合，实现车辆状态监控与远程控制。",
+      "多Agent协作可自主处理复杂任务，如故障响应与行程规划。"
+    ],
+    "category": "应用实践"
+  }
+}
