@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260828-010",
+  "title": "Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",
+  "source_url": "https://github.com/kelviq/tare",
+  "source_type": "rss",
+  "summary": "该项目针对Claude API配额快速耗尽的问题，开发了一个诊断工具，帮助用户分析配额消耗原因。工具通过监控和追踪API调用，提供详细的用量报告和优化建议，使用户能更高效地管理AI资源。",
+  "tags": [
+    "Claude",
+    "API配额",
+    "用量监控",
+    "开发者工具",
+    "AI成本优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-28T02:55:20+08:00",
+  "updated_at": "2026-08-28T02:55:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "Claude API配额消耗过快是开发者常见痛点，该工具提供针对性解决方案",
+      "通过用量追踪和报告，帮助用户识别高消耗调用并优化使用策略",
+      "反映了AI服务成本管理日益重要，推动相关工具生态发展"
+    ],
+    "category": "AI工具与基础设施"
+  }
+}

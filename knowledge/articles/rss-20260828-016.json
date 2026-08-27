@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260828-016",
+  "title": "Decompiling a Nintendo 64 game in 84 days",
+  "source_url": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
+  "source_type": "rss",
+  "summary": "本文记录了作者在84天内对一款Nintendo 64游戏进行反编译的完整过程，涉及逆向工程、二进制分析、汇编代码理解等技术细节。文章展示了如何从机器码逐步还原出可读的C语言源码，并讨论了反编译工具的使用、代码重构策略以及遇到的挑战。虽然内容聚焦于游戏逆向工程，但其中涉及的模式识别、代码生成和自动化分析思路与AI辅助编程和代码理解有潜在关联。",
+  "tags": [
+    "逆向工程",
+    "代码分析",
+    "N64",
+    "反编译"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-28T02:55:20+08:00",
+  "updated_at": "2026-08-28T02:55:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "反编译过程依赖大量模式匹配和人工推理，与AI代码生成有相似性",
+      "逆向工程中的自动化工具可借鉴AI技术提升效率",
+      "该案例展示了复杂代码库分析的方法论，对AI训练数据构建有参考价值"
+    ],
+    "category": "软件工程"
+  }
+}

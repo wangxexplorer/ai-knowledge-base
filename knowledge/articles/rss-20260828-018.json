@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260828-018",
+  "title": "Show HN: Restoredrill – proves your Postgres backups restore",
+  "source_url": "https://github.com/ahmadpiran/restoredrill",
+  "source_type": "rss",
+  "summary": "Restoredrill是一个开源工具，用于验证Postgres数据库备份的可恢复性。它通过自动化恢复流程，确保备份文件在灾难发生时能够成功还原，从而增强数据可靠性。该工具与AI、LLM或Agent领域无直接关联，但可作为AI应用中数据存储层的辅助工具，确保AI系统依赖的数据库备份有效。",
+  "tags": [
+    "Postgres",
+    "备份恢复",
+    "数据可靠性",
+    "DevOps",
+    "数据库"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-28T02:55:20+08:00",
+  "updated_at": "2026-08-28T02:55:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "确保备份可恢复是数据管理的关键，对依赖数据库的AI应用尤为重要。",
+      "该工具可集成到AI系统的数据管道中，提升整体稳定性。",
+      "与AI核心领域（如模型训练、推理）无直接关系，但属于支撑性技术。"
+    ],
+    "category": "数据基础设施"
+  }
+}

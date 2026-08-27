@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260828-009",
+  "title": "Bild AI (YC W25) is hiring product and AI engineers",
+  "source_url": "https://www.bild.ai/jobs",
+  "source_type": "rss",
+  "summary": "Bild AI (YC W25) 是一家获得 Y Combinator 支持的初创公司，正在招聘产品工程师和 AI 工程师。该招聘信息发布于 Hacker News，表明公司专注于 AI 技术研发，但未提供具体技术细节。",
+  "tags": [
+    "AI",
+    "招聘",
+    "YC",
+    "初创公司"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-28T02:55:20+08:00",
+  "updated_at": "2026-08-28T02:55:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI 初创公司正在扩张团队",
+      "YC 背书增加可信度",
+      "岗位涉及产品与 AI 工程"
+    ],
+    "category": "招聘信息"
+  }
+}

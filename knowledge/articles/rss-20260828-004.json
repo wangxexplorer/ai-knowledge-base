@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260828-004",
+  "title": "M5Stack Launches PaperMono",
+  "source_url": "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects",
+  "source_type": "rss",
+  "summary": "M5Stack发布了PaperMono，一款紧凑型电子墨水开发终端，面向联网项目。该设备结合了低功耗电子墨水屏与开发板功能，适合物联网、便携式显示和低功耗应用场景。虽然与AI/LLM/Agent无直接关联，但可作为边缘设备或交互终端，用于展示AI生成内容或作为Agent的物理输出界面。",
+  "tags": [
+    "硬件",
+    "电子墨水",
+    "物联网",
+    "开发板",
+    "边缘设备"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-28T02:55:20+08:00",
+  "updated_at": "2026-08-28T02:55:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "电子墨水屏适合低功耗显示场景，可作为AI应用的输出终端",
+      "该设备可能用于物联网项目，与AI代理的物理交互集成潜力有限",
+      "属于硬件新闻，与LLM/Agent核心领域关联较弱"
+    ],
+    "category": "硬件开发"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260828-020",
+  "title": "Trade (and Tariffs)",
+  "source_url": "https://xkcd.com/3290/",
+  "source_type": "rss",
+  "summary": "该条目是xkcd漫画《Trade (and Tariffs)》的链接，内容涉及贸易和关税话题，与AI、LLM或Agent领域无直接关联。漫画可能以幽默方式探讨经济政策，但技术相关性极低。",
+  "tags": [
+    "漫画",
+    "贸易",
+    "关税",
+    "经济"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-28T02:55:20+08:00",
+  "updated_at": "2026-08-28T02:55:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "内容为漫画，非技术讨论",
+      "主题为贸易政策，与AI无关",
+      "来源为Hacker News，但技术相关性低"
+    ],
+    "category": "非技术"
+  }
+}

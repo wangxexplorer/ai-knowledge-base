@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260828-019",
+  "title": "507 Mechanical Movements",
+  "source_url": "https://507movements.com/",
+  "source_type": "rss",
+  "summary": "该条目介绍1868年出版的《507 Mechanical Movements》一书，收录507种机械运动原理，现通过网站和互联网档案馆提供在线访问。内容聚焦传统机械工程，与AI、LLM或Agent无直接关联，但可作为历史技术知识参考，对理解机械自动化基础有一定价值。",
+  "tags": [
+    "机械工程",
+    "历史技术",
+    "自动化",
+    "知识图谱"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-28T02:55:20+08:00",
+  "updated_at": "2026-08-28T02:55:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "传统机械运动原理是自动化技术的历史基础，与AI驱动的智能自动化形成对比。",
+      "该资源可作为AI系统训练或知识库构建的领域数据来源。",
+      "与LLM/Agent无直接技术关联，但体现技术演进脉络。"
+    ],
+    "category": "历史技术资料"
+  }
+}

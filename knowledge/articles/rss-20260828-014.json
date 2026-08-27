@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260828-014",
+  "title": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
+  "source_url": "https://news.ycombinator.com/item?id=49466715",
+  "source_type": "rss",
+  "summary": "Salem Robotics为工业巡检机器人提供任务级智能软件，结合AI与经典机器人技术，实现危险环境中的物理交互检查，如核污染擦拭和LDAR检测。其核心在于快速生成约束操作计划，并闭环验证检查结果。公司采用硬件无关策略，将检查程序映射到现有机器人平台，面向核工业及油气化工行业销售，价格从数万到50万美元不等。",
+  "tags": [
+    "机器人",
+    "工业巡检",
+    "AI+经典控制",
+    "任务规划",
+    "核工业"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-28T02:55:20+08:00",
+  "updated_at": "2026-08-28T02:55:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI用于语义理解，经典方法确保安全约束和可预测性",
+      "强调闭环检查结果验证，而非仅执行轨迹",
+      "硬件无关的应用层模式，降低部署成本"
+    ],
+    "category": "机器人应用"
+  }
+}

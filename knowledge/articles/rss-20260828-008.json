@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260828-008",
+  "title": "Gemini Omni 1.1 Flash",
+  "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+  "source_type": "rss",
+  "summary": "Gemini Omni 1.1 Flash是Google推出的多模态AI模型，支持文本、图像、音频和视频的实时处理，旨在为开发者提供高效、低延迟的交互体验。该模型强调在移动端和边缘设备上的优化，适用于构建智能助手、实时翻译、视觉问答等应用。其发布反映了AI模型向轻量化、多模态融合和实时响应方向发展的趋势，对Agent和LLM生态具有重要影响。",
+  "tags": [
+    "多模态",
+    "实时处理",
+    "开发者工具",
+    "Gemini",
+    "边缘计算"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-28T02:55:20+08:00",
+  "updated_at": "2026-08-28T02:55:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "多模态融合：支持文本、图像、音频和视频的联合理解，增强Agent的感知能力。",
+      "实时性优化：低延迟设计适合需要即时响应的交互式应用，如语音助手和实时翻译。",
+      "轻量化部署：针对移动端和边缘设备优化，扩展了LLM在资源受限场景的应用。"
+    ],
+    "category": "模型发布"
+  }
+}

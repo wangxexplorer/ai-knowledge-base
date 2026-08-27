@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260828-006",
+  "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+  "source_url": "https://www.bbc.com/news/articles/cz6zwgg9y8go",
+  "source_type": "rss",
+  "summary": "该条目报道两名德国机场工作人员因疟疾死亡，疑似疟疾蚊虫通过飞机传播。事件涉及公共卫生和航空运输，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "公共卫生",
+    "航空",
+    "疟疾"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-28T02:55:20+08:00",
+  "updated_at": "2026-08-28T02:55:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "蚊虫传播疾病可跨区域扩散",
+      "机场工作人员面临健康风险",
+      "事件凸显全球旅行带来的公共卫生挑战"
+    ],
+    "category": "新闻"
+  }
+}

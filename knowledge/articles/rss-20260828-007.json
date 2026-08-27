@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260828-007",
+  "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+  "source_url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+  "source_type": "rss",
+  "summary": "Cloudflare通过优化1.1.1.1公共DNS服务的缓存机制，节省了100TB内存。该优化涉及数据结构、内存分配和缓存策略的改进，显著提升了服务效率并降低了成本。文章详细介绍了技术实现和性能收益，展示了大规模基础设施优化的实践。",
+  "tags": [
+    "DNS",
+    "内存优化",
+    "基础设施",
+    "性能"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-28T02:55:20+08:00",
+  "updated_at": "2026-08-28T02:55:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "大规模缓存优化可显著节省内存资源",
+      "数据结构设计对内存效率至关重要",
+      "基础设施优化对云服务成本影响巨大"
+    ],
+    "category": "基础设施优化"
+  }
+}

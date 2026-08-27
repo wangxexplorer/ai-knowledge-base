@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260828-005",
+  "title": "Show HN: Yet another minimal and lightweight terminal multiplexer written in Go.",
+  "source_url": "https://github.com/patriceckhart/hrdx",
+  "source_type": "rss",
+  "summary": "该项目是一个用Go语言编写的轻量级终端复用器，类似于tmux或screen，但更简洁。它旨在提供多终端会话管理功能，适合开发者在命令行环境中使用。该工具本身不涉及AI、LLM或Agent技术，但可作为AI开发者的终端工具，提升开发效率。",
+  "tags": [
+    "终端复用器",
+    "Go",
+    "开发者工具",
+    "命令行"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-28T02:55:20+08:00",
+  "updated_at": "2026-08-28T02:55:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "轻量级终端复用器，适合日常开发使用",
+      "与AI/LLM无直接关联，但可辅助AI开发环境",
+      "Go语言实现，性能可能优于传统工具"
+    ],
+    "category": "开发者工具"
+  }
+}
