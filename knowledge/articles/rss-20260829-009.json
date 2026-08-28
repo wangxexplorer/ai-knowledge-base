@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260829-009",
+  "title": "GUIs should be fully keyboard-driven",
+  "source_url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+  "source_type": "rss",
+  "summary": "该文章主张图形用户界面（GUI）应完全支持键盘驱动操作，强调键盘导航和快捷键对提升效率与可访问性的重要性。这一观点与AI Agent领域相关，因为AI代理在自动化GUI交互时，键盘驱动接口更易于程序化控制，能提升自动化任务的可靠性和效率。文章可能讨论了当前GUI设计的不足，并提出了改进方向，对AI驱动的UI自动化具有参考价值。",
+  "tags": [
+    "GUI",
+    "键盘驱动",
+    "可访问性",
+    "AI自动化",
+    "人机交互"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-29T03:57:28+08:00",
+  "updated_at": "2026-08-29T03:57:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "键盘驱动GUI可提升AI代理对界面的自动化操作效率",
+      "可访问性设计原则与AI交互需求存在共通性",
+      "界面设计需考虑程序化控制，以支持智能代理的集成"
+    ],
+    "category": "人机交互与AI自动化"
+  }
+}

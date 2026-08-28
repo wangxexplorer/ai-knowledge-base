@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260829-010",
+  "title": "Don't use musl if you care about performance",
+  "source_url": "https://blog.brokk.ai/dont-use-musl-if-you-care-about-performance/",
+  "source_type": "rss",
+  "summary": "本文讨论在追求性能时不应使用musl libc的问题。musl是轻量级C标准库，常用于Alpine Linux等容器环境，但其内存分配器和系统调用实现相比glibc在性能上存在显著劣势，尤其在多线程和高并发场景下。文章建议在性能敏感的应用（如AI推理服务、LLM后端）中避免使用musl，转而使用glibc或优化过的分配器。该讨论对AI基础设施的部署优化有参考价值，但本身不涉及AI算法或模型。",
+  "tags": [
+    "性能优化",
+    "系统库",
+    "部署",
+    "基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-29T03:57:28+08:00",
+  "updated_at": "2026-08-29T03:57:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "musl在性能敏感场景下可能成为瓶颈，影响AI服务响应速度",
+      "选择正确的C库对高并发AI推理服务至关重要",
+      "容器化部署时需权衡镜像大小与运行时性能"
+    ],
+    "category": "技术基础设施"
+  }
+}

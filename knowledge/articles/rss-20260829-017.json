@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260829-017",
+  "title": "U.S. sanctions against the A/I Collective",
+  "source_url": "https://www.inventati.org/",
+  "source_type": "rss",
+  "summary": "该条目报道美国对意大利托管服务商Autistici Inventati实施制裁，因其被指与A/I Collective相关。事件引发Hacker News社区广泛讨论，涉及网络自由、隐私保护及地缘政治对技术基础设施的影响。虽未直接涉及AI或LLM，但反映了技术生态中的政策风险与伦理议题。",
+  "tags": [
+    "地缘政治",
+    "网络自由",
+    "隐私",
+    "技术政策",
+    "基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-29T03:57:28+08:00",
+  "updated_at": "2026-08-29T03:57:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "技术基础设施受政治制裁影响，可能波及AI/LLM依赖的云服务。",
+      "事件凸显隐私保护与国家安全之间的张力，对AI数据治理有间接启示。",
+      "社区讨论聚焦于技术中立性与国际法律冲突，与AI伦理治理相关。"
+    ],
+    "category": "政策与伦理"
+  }
+}

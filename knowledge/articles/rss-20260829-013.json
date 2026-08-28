@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260829-013",
+  "title": "Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits",
+  "source_url": "https://www.hanselman.com/blog/debugging-my-new-network-when-10-gigabit-ethernet-runs-at-300-megabits",
+  "source_type": "rss",
+  "summary": "本文是Scott Hanselman关于网络调试的技术博客，讲述其10GbE网络实际速度仅300Mbps的排查过程。内容涉及网线、交换机、网卡驱动、协商速率等硬件与配置问题，属于传统网络工程领域。文章与AI、LLM或Agent无直接关联，但可作为技术问题排查的案例参考，体现系统性调试思维。",
+  "tags": [
+    "网络调试",
+    "硬件故障",
+    "性能优化",
+    "技术博客"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-29T03:57:28+08:00",
+  "updated_at": "2026-08-29T03:57:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "网络性能问题常源于物理层或配置细节，需逐层排查",
+      "系统性调试方法论可迁移至AI系统性能优化",
+      "硬件与软件协同问题在AI基础设施中同样关键"
+    ],
+    "category": "网络工程"
+  }
+}

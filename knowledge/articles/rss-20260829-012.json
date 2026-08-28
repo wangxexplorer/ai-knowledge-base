@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260829-012",
+  "title": "Verschlimmbesserung: The Word Your Software Updates Need",
+  "source_url": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
+  "source_type": "rss",
+  "summary": "本文探讨了德语词汇“Verschlimmbesserung”（意为“越改越糟”），并将其与软件更新现象联系起来。文章指出，软件更新有时会引入新问题，导致用户体验下降，这种“改进性恶化”在技术领域尤为常见。作者可能通过案例分析或幽默笔触，反思了软件迭代中的常见陷阱，并呼吁开发者更谨慎地对待更新流程。内容虽未直接涉及AI或LLM，但软件更新中的回归问题与AI模型迭代中的性能退化有相似性，对AI工程实践",
+  "tags": [
+    "软件更新",
+    "技术反思",
+    "用户体验",
+    "迭代风险",
+    "工程实践"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-29T03:57:28+08:00",
+  "updated_at": "2026-08-29T03:57:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "软件更新可能引入新问题，导致“越改越糟”的现象。",
+      "该概念与AI模型迭代中的性能退化有类比性，提醒开发者关注回归风险。",
+      "文章强调谨慎更新和充分测试的重要性，对AI系统部署有参考价值。"
+    ],
+    "category": "软件工程"
+  }
+}

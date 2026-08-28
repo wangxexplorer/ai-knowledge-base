@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260829-007",
+  "title": "Barrier lake continues to pose flood risk, China warns",
+  "source_url": "https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns",
+  "source_type": "rss",
+  "summary": "该条目报道中国警告堰塞湖持续构成洪水风险，属于自然灾害新闻，与AI、LLM或Agent技术无直接关联。内容未涉及人工智能应用、模型或智能体，仅可能隐含灾害监测中潜在的技术应用场景，但未明确提及。",
+  "tags": [
+    "自然灾害",
+    "洪水风险",
+    "中国",
+    "新闻"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-29T03:57:28+08:00",
+  "updated_at": "2026-08-29T03:57:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该新闻聚焦于环境灾害预警，不涉及AI技术细节。",
+      "无证据表明条目与LLM或Agent领域相关。",
+      "可能仅作为背景信息，对AI应用场景无直接启示。"
+    ],
+    "category": "非技术新闻"
+  }
+}

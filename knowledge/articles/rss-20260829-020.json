@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260829-020",
+  "title": "Inception-style curved map for turn-by-turn directions",
+  "source_url": "https://www.orbify.eu/demo/",
+  "source_type": "rss",
+  "summary": "该条目介绍了一个Inception风格的弯曲地图，用于提供逐向导航。它来自Orbify的演示页面，在Hacker News上获得312分和113条评论，表明社区关注度较高。该技术主要涉及地图可视化与导航交互，与AI、LLM或Agent领域无直接关联，但可能涉及地理空间数据的处理与展示。",
+  "tags": [
+    "地图",
+    "导航",
+    "可视化",
+    "地理空间"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-29T03:57:28+08:00",
+  "updated_at": "2026-08-29T03:57:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "创新地图展示方式",
+      "社区讨论活跃",
+      "与AI关联度低"
+    ],
+    "category": "地图与导航"
+  }
+}

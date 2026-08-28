@@ -1,0 +1,31 @@
+{
+  "id": "github-20260829-019",
+  "title": "CowAgent",
+  "source_url": "https://github.com/zhayujie/CowAgent",
+  "source_type": "github",
+  "summary": "CowAgent是一个开源的超级AI助手和Agent框架，前身为chatgpt-on-wechat。它支持任务规划、工具调用、技能执行，并具备记忆和知识自进化能力。项目采用多模型、多通道设计，轻量且可扩展，提供一行安装。基于Python开发，在GitHub上拥有46.7k星标，社区活跃。该项目与AI Agent领域高度相关，是构建智能助手和自动化工作流的实用工具。",
+  "tags": [
+    "AI Agent",
+    "开源框架",
+    "任务规划",
+    "多模型",
+    "记忆机制"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-29T03:57:28+08:00",
+  "updated_at": "2026-08-29T03:57:28+08:00",
+  "metadata": {
+    "stars": 46711,
+    "language": "Python",
+    "author": "zhayujie"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "从聊天机器人演化为通用Agent框架，支持复杂任务规划与工具调用",
+      "强调自进化能力，通过记忆和知识积累提升智能水平",
+      "多模型多通道设计，轻量易扩展，适合快速部署"
+    ],
+    "category": "AI Agent框架"
+  }
+}

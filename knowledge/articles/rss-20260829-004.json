@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260829-004",
+  "title": "Just the rumour of a bug is enough to find an exploit these days",
+  "source_url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+  "source_type": "rss",
+  "summary": "文章讨论了在当今安全环境中，仅凭漏洞的传闻就可能被利用来发现和发起攻击。这反映了AI和LLM在自动化漏洞挖掘和攻击生成方面的潜在应用，以及它们对网络安全带来的新挑战。",
+  "tags": [
+    "网络安全",
+    "漏洞利用",
+    "AI安全",
+    "自动化攻击"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-29T03:57:28+08:00",
+  "updated_at": "2026-08-29T03:57:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI可加速漏洞发现和利用过程",
+      "传闻信息在AI辅助下可快速转化为实际攻击",
+      "需要加强AI在安全防御中的应用"
+    ],
+    "category": "AI安全"
+  }
+}

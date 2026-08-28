@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260829-014",
+  "title": "State of the Map 2026",
+  "source_url": "https://2026.stateofthemap.org/",
+  "source_type": "rss",
+  "summary": "State of the Map 2026是OpenStreetMap社区的年度会议，旨在汇聚地图爱好者、开发者和研究者，讨论开放地图数据、工具及社区发展。该活动与AI、LLM和Agent领域关联较弱，但地图数据可作为AI训练和空间智能应用的潜在基础。",
+  "tags": [
+    "OpenStreetMap",
+    "地图",
+    "社区会议",
+    "数据",
+    "空间智能"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-29T03:57:28+08:00",
+  "updated_at": "2026-08-29T03:57:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "开放地图数据对AI空间感知和地理信息系统有潜在价值。",
+      "社区会议促进地图工具与AI技术的融合讨论。",
+      "该活动本身不直接涉及LLM或Agent，但数据可辅助相关应用。"
+    ],
+    "category": "社区活动"
+  }
+}

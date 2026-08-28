@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260829-019",
+  "title": "“It works better in the app”",
+  "source_url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
+  "source_type": "rss",
+  "summary": "文章标题“It works better in the app”来自Hacker News，讨论移动应用与网页体验的差异，可能涉及用户对应用内功能优于网页的普遍认知。内容可能探讨技术设计、用户体验或平台策略，与AI、LLM或Agent无直接关联，但可作为技术生态中用户行为分析的背景参考。",
+  "tags": [
+    "用户体验",
+    "移动应用",
+    "技术生态"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-29T03:57:28+08:00",
+  "updated_at": "2026-08-29T03:57:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "用户偏好应用内体验，可能影响技术产品设计",
+      "文章反映技术社区对平台差异的关注",
+      "与AI/LLM/Agent无直接关联"
+    ],
+    "category": "技术评论"
+  }
+}

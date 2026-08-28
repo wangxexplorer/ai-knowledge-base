@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260829-005",
+  "title": "How Dactyl Works",
+  "source_url": "https://dactyl.dev/blog/how-dactyl-works/",
+  "source_type": "rss",
+  "summary": "Dactyl是一个用于构建和部署AI代理（Agent）的框架，其工作原理涉及将自然语言指令转化为可执行的操作，并支持与外部工具和API的集成。该文章详细介绍了Dactyl的核心机制，包括任务规划、上下文管理和执行循环，旨在简化复杂AI代理的开发和运维。",
+  "tags": [
+    "AI代理",
+    "框架",
+    "任务规划",
+    "工具集成",
+    "部署"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-29T03:57:28+08:00",
+  "updated_at": "2026-08-29T03:57:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Dactyl提供了一种将自然语言指令映射到具体操作的方法，增强了AI代理的实用性。",
+      "文章强调了上下文管理和执行循环在代理稳定性中的重要性。",
+      "Dactyl的设计支持与外部工具的无缝集成，扩展了代理的能力边界。"
+    ],
+    "category": "AI代理框架"
+  }
+}

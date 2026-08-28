@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260829-008",
+  "title": "GLM-5.3 is now open-weight",
+  "source_url": "https://huggingface.co/zai-org/GLM-5.3",
+  "source_type": "rss",
+  "summary": "GLM-5.3模型现已开放权重，由智谱AI发布。该模型在Hacker News上获得390分和139条评论，引发社区广泛关注。开放权重意味着开发者可以自由下载、使用和微调该模型，这有助于推动AI技术的普及和创新。GLM系列模型在中文和英文任务上表现优异，其开放策略可能对开源AI生态产生重要影响。",
+  "tags": [
+    "GLM",
+    "开放权重",
+    "开源模型",
+    "智谱AI",
+    "大语言模型"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-29T03:57:28+08:00",
+  "updated_at": "2026-08-29T03:57:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "GLM-5.3开放权重，降低使用门槛，促进AI民主化",
+      "该发布在开发者社区获得高关注度，反映开源模型需求旺盛",
+      "智谱AI持续迭代GLM系列，增强其在开源LLM领域的竞争力"
+    ],
+    "category": "模型发布"
+  }
+}

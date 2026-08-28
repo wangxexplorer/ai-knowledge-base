@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260829-002",
+  "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+  "source_url": "https://arxiv.org/abs/2608.23691",
+  "source_type": "rss",
+  "summary": "该条目介绍了一篇关于开放世界多智能体环境中自主数学发现的论文，发表于arXiv。研究聚焦于利用多智能体系统在开放世界设定下进行数学定理的自动发现与证明，涉及AI、LLM与Agent技术的交叉应用。论文可能探讨了如何通过智能体协作、探索与推理来推动数学研究自动化，对AI驱动的科学发现具有潜在价值。",
+  "tags": [
+    "多智能体",
+    "数学发现",
+    "自主推理",
+    "科学发现",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-29T03:57:28+08:00",
+  "updated_at": "2026-08-29T03:57:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "多智能体协作可增强数学探索能力",
+      "开放世界环境对自主发现提出新挑战",
+      "该研究可能推动AI辅助科学发现"
+    ],
+    "category": "AI研究"
+  }
+}

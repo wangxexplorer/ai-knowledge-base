@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260829-016",
+  "title": "Htmx 4.0",
+  "source_url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+  "source_type": "rss",
+  "summary": "Htmx 4.0发布，这是一个用于构建动态Web界面的JavaScript库，通过HTML属性实现AJAX、CSS过渡和WebSocket等功能，无需编写大量JavaScript代码。该版本可能带来新特性和改进，但核心定位仍是前端开发工具，与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "前端开发",
+    "Web框架",
+    "JavaScript"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-29T03:57:28+08:00",
+  "updated_at": "2026-08-29T03:57:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Htmx是前端工具，不涉及AI或LLM技术",
+      "该发布对AI领域无直接影响"
+    ],
+    "category": "前端开发"
+  }
+}

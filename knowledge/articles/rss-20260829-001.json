@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260829-001",
+  "title": "The Analytical AI Handbook",
+  "source_url": "https://handbook.sutro.sh",
+  "source_type": "rss",
+  "summary": "该条目为《The Analytical AI Handbook》，来自Sutro.sh，是一本关于分析型AI的在线手册。内容涉及AI技术应用，但未提供具体细节。从标题看，可能涵盖数据分析、模型评估或AI系统设计等主题。由于描述信息有限，相关性中等。",
+  "tags": [
+    "AI",
+    "分析",
+    "手册",
+    "技术文档"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-29T03:57:28+08:00",
+  "updated_at": "2026-08-29T03:57:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "标题表明这是一本专注于分析型AI的实用指南。",
+      "来源为独立网站，可能提供实践性内容。",
+      "在Hacker News上发布，说明受到技术社区关注。"
+    ],
+    "category": "技术资源"
+  }
+}
