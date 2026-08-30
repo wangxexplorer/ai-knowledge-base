@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260830-007",
+  "title": "One Nix flake to rule them all",
+  "source_url": "https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all",
+  "source_type": "rss",
+  "summary": "本文介绍如何使用单个Nix flake统一管理开发环境、构建配置和依赖，提升项目可复现性与开发效率。Nix作为声明式包管理器，通过flake定义标准化配置，简化多环境切换与团队协作。文章强调flake在软件工程中的实用价值，虽未直接涉及AI，但为AI项目提供可靠的基础设施支持。",
+  "tags": [
+    "Nix",
+    "开发环境",
+    "配置管理",
+    "可复现性",
+    "DevOps"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-30T21:38:07+08:00",
+  "updated_at": "2026-08-30T21:38:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Nix flake可统一管理项目配置，增强可复现性",
+      "适用于AI项目的基础设施搭建",
+      "提升开发环境一致性，减少依赖冲突"
+    ],
+    "category": "软件工程"
+  }
+}

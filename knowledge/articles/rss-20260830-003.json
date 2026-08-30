@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260830-003",
+  "title": "Automating Immersive Reading",
+  "source_url": "https://smoores.dev/post/automating_immersive_reading/",
+  "source_type": "rss",
+  "summary": "本文介绍作者如何自动化沉浸式阅读流程，可能涉及利用AI或脚本工具将网页内容转换为适合专注阅读的格式，如提取正文、去除干扰、生成摘要或朗读。文章来自Hacker News，讨论技术实现和工具集成，与AI在内容处理方面的应用相关。",
+  "tags": [
+    "沉浸式阅读",
+    "自动化",
+    "内容提取",
+    "AI应用",
+    "阅读工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-30T21:38:07+08:00",
+  "updated_at": "2026-08-30T21:38:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "自动化阅读流程可提升信息获取效率",
+      "AI可用于内容清洗和格式转换",
+      "工具集成是自动化阅读的关键"
+    ],
+    "category": "AI应用"
+  }
+}

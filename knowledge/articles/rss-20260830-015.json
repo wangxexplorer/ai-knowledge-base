@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260830-015",
+  "title": "Xcena and Samsung's Near Memory Compute CXL Device",
+  "source_url": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
+  "source_type": "rss",
+  "summary": "该条目报道了Hot Chips 2026上Xcena与三星联合展示的近内存计算CXL设备。该技术通过将计算能力集成到CXL内存扩展设备中，减少数据搬运开销，提升内存带宽利用率。对AI和LLM领域而言，此类硬件创新可加速大模型推理和训练，降低内存墙瓶颈，是AI基础设施演进的重要方向。",
+  "tags": [
+    "CXL",
+    "近内存计算",
+    "AI硬件",
+    "内存墙",
+    "大模型"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-30T21:38:07+08:00",
+  "updated_at": "2026-08-30T21:38:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "近内存计算可显著降低AI工作负载的数据访问延迟",
+      "CXL设备为LLM推理提供高带宽内存扩展方案",
+      "硬件创新是突破AI算力瓶颈的关键路径"
+    ],
+    "category": "AI基础设施"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260830-004",
+  "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
+  "source_url": "https://www.muppetlabs.com/~breadbox/software/windows.html",
+  "source_type": "rss",
+  "summary": "该条目介绍了一个针对Windows 3.1x及后续版本实现的康威生命游戏。康威生命游戏是经典的元胞自动机，属于计算理论和人工智能领域的早期探索，但与当前AI、LLM或Agent技术无直接关联。其价值主要体现在历史性和趣味性，而非现代AI应用。",
+  "tags": [
+    "元胞自动机",
+    "康威生命游戏",
+    "Windows",
+    "计算理论",
+    "历史软件"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-30T21:38:07+08:00",
+  "updated_at": "2026-08-30T21:38:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "康威生命游戏是元胞自动机的经典示例，对计算理论有启发意义。",
+      "该实现针对老旧Windows系统，属于复古软件范畴。",
+      "与当前AI、LLM或Agent技术关联度极低。"
+    ],
+    "category": "计算理论"
+  }
+}

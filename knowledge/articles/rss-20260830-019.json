@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260830-019",
+  "title": "Hy4 preview",
+  "source_url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+  "source_type": "rss",
+  "summary": "腾讯发布并开源了Hy4预览版，这是一个与AI相关的技术模型。该条目来自Hacker News，获得了较高关注度（344分，208条评论），表明社区对其有浓厚兴趣。Hy4可能涉及大语言模型或相关AI技术，但具体细节未在描述中展开。开源行为有助于推动AI领域发展，促进技术共享与创新。",
+  "tags": [
+    "腾讯",
+    "开源",
+    "AI模型",
+    "大语言模型",
+    "技术发布"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-30T21:38:07+08:00",
+  "updated_at": "2026-08-30T21:38:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "腾讯开源Hy4预览版，体现其在AI领域的布局",
+      "Hacker News高关注度表明社区对AI新模型的兴趣",
+      "开源策略有助于加速AI技术迭代与应用"
+    ],
+    "category": "AI模型发布"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260830-002",
+  "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
+  "source_url": "https://github.com/fugue-labs/monty-go",
+  "source_type": "rss",
+  "summary": "monty-go是一个纯Go语言实现的Pydantic Monty Python解释器封装库。Monty Python解释器是Pydantic中用于执行Python代码的组件，常用于AI/LLM应用中的代码生成与执行场景。该Go封装使得Go开发者能够在Go生态中利用Monty Python解释器的能力，可能用于构建需要动态代码执行的AI代理或工具。该项目与AI/LLM领域有一定关联，但属于基础设施",
+  "tags": [
+    "Go",
+    "代码执行",
+    "Pydantic",
+    "工具封装",
+    "AI基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-30T21:38:07+08:00",
+  "updated_at": "2026-08-30T21:38:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.4,
+    "key_insights": [
+      "为Go语言提供Python代码执行能力，可能用于AI代理中的动态代码生成与执行",
+      "属于AI/LLM生态中的辅助工具，非核心模型或算法",
+      "与Pydantic生态集成，便于Go开发者复用Python生态的AI组件"
+    ],
+    "category": "开发者工具"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260830-013",
+  "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+  "source_url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+  "source_type": "rss",
+  "summary": "该条目报道了QubesOS中发现的一个安全漏洞，攻击者可通过复制到虚拟机（copy-to-VM）功能的错误报告回传通道实现任意代码执行。QubesOS是一个基于Xen的桌面操作系统，采用安全隔离架构，将不同任务隔离在独立虚拟机中。此漏洞涉及系统安全机制，与AI、LLM或Agent领域无直接关联，但可能影响使用QubesOS作为AI开发或运行环境的用户。",
+  "tags": [
+    "安全漏洞",
+    "QubesOS",
+    "虚拟机",
+    "系统安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-30T21:38:07+08:00",
+  "updated_at": "2026-08-30T21:38:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该漏洞影响QubesOS的隔离机制，可能导致跨虚拟机攻击",
+      "与AI/LLM/Agent技术无直接相关性",
+      "对使用QubesOS的AI开发者有间接安全影响"
+    ],
+    "category": "安全"
+  }
+}

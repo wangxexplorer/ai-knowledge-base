@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260830-006",
+  "title": "The turbulent AI era is here. The choices we make now are critical",
+  "source_url": "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+  "source_type": "rss",
+  "summary": "比尔·盖茨在文章中探讨了当前人工智能时代的动荡性，强调社会在AI发展过程中做出的关键选择将决定其影响方向。文章涉及AI的机遇与风险，呼吁负责任地推进技术，确保其造福全人类。内容聚焦于AI治理、伦理和长期影响，与LLM和Agent技术应用相关，但更侧重于宏观战略层面。",
+  "tags": [
+    "AI治理",
+    "伦理",
+    "技术影响",
+    "比尔·盖茨",
+    "社会选择"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-30T21:38:07+08:00",
+  "updated_at": "2026-08-30T21:38:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI时代充满不确定性，决策至关重要",
+      "需平衡创新与风险管控",
+      "强调全球合作与公平性"
+    ],
+    "category": "AI政策与伦理"
+  }
+}

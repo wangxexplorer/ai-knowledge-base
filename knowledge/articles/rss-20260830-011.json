@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260830-011",
+  "title": "Everyone Should Build Their Own Network Stack",
+  "source_url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
+  "source_type": "rss",
+  "summary": "文章主张每个人都应构建自己的网络栈，通过DN42等实验网络实践网络协议、路由和分布式系统。作者分享了搭建个人网络栈的经验，强调这能加深对互联网底层机制的理解，提升工程能力。虽然主题聚焦网络基础设施，但其中涉及的分布式系统、系统设计和自动化运维思想与AI/LLM代理的部署和基础设施管理有间接关联。",
+  "tags": [
+    "网络栈",
+    "DN42",
+    "分布式系统",
+    "基础设施",
+    "工程实践"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-30T21:38:07+08:00",
+  "updated_at": "2026-08-30T21:38:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "构建个人网络栈有助于理解分布式系统底层原理，对AI代理的部署环境有参考价值",
+      "文章强调动手实践和系统设计，与AI工程中的系统集成思想相通",
+      "内容不直接涉及AI/LLM，但网络基础设施是AI服务运行的基础"
+    ],
+    "category": "基础设施与工程实践"
+  }
+}

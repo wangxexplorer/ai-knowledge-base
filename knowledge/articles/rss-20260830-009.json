@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260830-009",
+  "title": "Spark: Sparklines in your shell",
+  "source_url": "https://git.zx2c4.com/spark/about/",
+  "source_type": "rss",
+  "summary": "Spark是一个在shell中生成迷你趋势图（sparklines）的命令行工具，通过简单的字符图形展示数据变化。该工具与AI、LLM或Agent领域无直接关联，但可作为数据可视化辅助工具，在终端环境中快速呈现数据趋势，可能对AI开发者的调试或数据展示有间接帮助。",
+  "tags": [
+    "命令行工具",
+    "数据可视化",
+    "终端",
+    "sparklines",
+    "开发辅助"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-30T21:38:07+08:00",
+  "updated_at": "2026-08-30T21:38:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Spark提供轻量级终端内数据可视化，适合快速查看数据趋势。",
+      "与AI/LLM/Agent无直接技术关联，但可作为辅助工具用于数据展示。",
+      "在AI开发中，可用于日志分析或模型输出趋势的快速可视化。"
+    ],
+    "category": "开发工具"
+  }
+}

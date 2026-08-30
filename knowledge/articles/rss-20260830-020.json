@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260830-020",
+  "title": "Nancy Grace Roman Space Telescope",
+  "source_url": "https://science.nasa.gov/mission/roman-space-telescope/",
+  "source_type": "rss",
+  "summary": "该条目报道了NASA南希·格雷斯·罗马太空望远镜的发射及相关新闻，属于航天与天文观测领域。内容涉及太空望远镜的科学任务，与AI、LLM或Agent技术无直接关联，但可能涉及未来数据处理中的AI应用。整体相关性较低。",
+  "tags": [
+    "航天",
+    "天文",
+    "NASA",
+    "太空望远镜"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-30T21:38:07+08:00",
+  "updated_at": "2026-08-30T21:38:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "该任务属于基础科学观测，非AI技术直接应用",
+      "未来可能利用AI处理天文大数据",
+      "当前条目未提及任何AI相关技术"
+    ],
+    "category": "航天科技"
+  }
+}

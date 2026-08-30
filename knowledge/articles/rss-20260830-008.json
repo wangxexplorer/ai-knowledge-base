@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260830-008",
+  "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+  "source_url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+  "source_type": "rss",
+  "summary": "澳大利亚公平工作委员会谴责了一起AI生成的法律建议，称其‘完全错误’。该事件凸显了AI在专业领域（如法律）应用中可能产生的严重风险，尤其是在缺乏人工审核的情况下。此案例对AI伦理、责任归属及LLM在关键决策中的可靠性提出了警示，并引发了对AI监管和人类监督必要性的讨论。",
+  "tags": [
+    "AI伦理",
+    "法律AI",
+    "LLM风险",
+    "AI监管",
+    "人工审核"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-30T21:38:07+08:00",
+  "updated_at": "2026-08-30T21:38:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "AI在法律等高风险领域可能产生严重错误，需严格验证。",
+      "事件强调了人类监督在AI辅助决策中的不可替代性。",
+      "对AI责任归属和监管框架的完善提出了迫切需求。"
+    ],
+    "category": "AI应用与风险"
+  }
+}

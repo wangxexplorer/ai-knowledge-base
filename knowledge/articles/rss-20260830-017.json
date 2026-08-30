@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260830-017",
+  "title": "FreeCORE TrueNAS Core – Continued",
+  "source_url": "https://freecore.org/",
+  "source_type": "rss",
+  "summary": "该条目涉及FreeCORE TrueNAS Core的持续开发，主要聚焦于开源网络附加存储（NAS）系统。内容与AI、LLM或Agent技术无直接关联，但可能涉及存储基础设施，为AI数据管理提供底层支持。",
+  "tags": [
+    "存储",
+    "开源",
+    "基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-30T21:38:07+08:00",
+  "updated_at": "2026-08-30T21:38:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "TrueNAS Core是开源存储解决方案，与AI无直接关联。",
+      "存储系统是AI数据管道的潜在基础组件。",
+      "该条目可能对AI部署中的存储需求有间接参考价值。"
+    ],
+    "category": "基础设施"
+  }
+}
