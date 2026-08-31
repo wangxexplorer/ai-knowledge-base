@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260831-014",
+  "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+  "source_url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+  "source_type": "rss",
+  "summary": "OpenShot 4.0 是开源视频编辑软件的重大版本更新，重点提升了录制、编辑和调色功能。该条目来自 Hacker News，讨论热度较高（375 分，89 条评论），但内容本身与 AI、LLM 或 Agent 技术无直接关联。视频编辑软件可能在未来集成 AI 辅助功能（如自动剪辑、智能调色），但当前版本发布信息未提及相关 AI 特性。",
+  "tags": [
+    "视频编辑",
+    "开源软件",
+    "OpenShot",
+    "工具更新"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-31T23:55:03+08:00",
+  "updated_at": "2026-08-31T23:55:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "OpenShot 4.0 是视频编辑工具的功能更新，不涉及 AI 核心技术。",
+      "该条目在 Hacker News 上热度较高，反映社区对开源创作工具的关注。",
+      "未来视频编辑软件可能引入 AI 功能，但当前版本未明确提及。"
+    ],
+    "category": "软件发布"
+  }
+}

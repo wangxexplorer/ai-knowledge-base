@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260831-010",
+  "title": "ChatGPT Work Tool and Skill Reference",
+  "source_url": "https://codex-tool-reference.simonw.chatgpt.site/",
+  "source_type": "rss",
+  "summary": "该条目指向一个关于ChatGPT工作工具和技能参考的网站，由Simon Willison在Hacker News上分享。内容涉及ChatGPT的扩展工具和技能，与AI、LLM和Agent领域高度相关，可能提供实用的工具参考和技能指南。",
+  "tags": [
+    "ChatGPT",
+    "工具",
+    "技能",
+    "LLM",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-31T23:55:03+08:00",
+  "updated_at": "2026-08-31T23:55:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "ChatGPT工具和技能参考可能涵盖插件、API或自定义技能，对Agent开发有直接参考价值。",
+      "该资源由知名开发者Simon Willison分享，具有较高的可信度和实用性。",
+      "Hacker News上的讨论可能提供社区反馈和补充见解。"
+    ],
+    "category": "工具与资源"
+  }
+}

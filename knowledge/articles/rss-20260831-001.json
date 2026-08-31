@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260831-001",
+  "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+  "source_url": "https://usealmanac.com/",
+  "source_type": "rss",
+  "summary": "Almanac 是一个面向企业的 AI 助手，通过预编译知识库（wikis）来记忆公司和个人上下文，实现个性化响应、主动任务建议和长期任务跟踪。它支持一键连接多种工具，区分个人和共享账户，并注重隐私安全。该产品旨在解决 AI 助手的记忆和上下文问题，提升任务自动化效率。",
+  "tags": [
+    "AI助手",
+    "企业知识库",
+    "记忆机制",
+    "任务自动化",
+    "上下文理解"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-31T23:55:03+08:00",
+  "updated_at": "2026-08-31T23:55:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "通过预编译知识库显著提升AI的上下文理解和记忆能力",
+      "支持长期任务跟踪和主动式任务建议，超越传统会话式AI",
+      "注重隐私安全，仅访问用户明确连接的账户，并区分个人与共享数据"
+    ],
+    "category": "AI应用"
+  }
+}

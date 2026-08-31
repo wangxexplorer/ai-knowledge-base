@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260831-002",
+  "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+  "source_url": "https://github.com/Hebbian-Robotics/hflow",
+  "source_type": "rss",
+  "summary": "Hebbian Robotics推出HFlow，一个用于构建可扩展机器人数据管道的SDK。它处理多模态机器人记录，提供标准化、质量检查和可查询的数据集清单。HFlow支持MCAP格式，集成Airflow、Parquet和DuckDB，强调处理溯源和质量证据。该项目旨在解决机器人数据处理的瓶颈，适用于数据供应商、机器人团队和现场运维。",
+  "tags": [
+    "机器人",
+    "数据管道",
+    "多模态",
+    "质量检查",
+    "数据集管理"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-31T23:55:03+08:00",
+  "updated_at": "2026-08-31T23:55:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "HFlow通过标准化处理和溯源解决机器人数据质量控制的痛点。",
+      "使用MCAP容器格式同步多模态数据，兼容现有工具。",
+      "质量检查结合确定性方法和VLM等模型，但保留证据供用户自定义策略。"
+    ],
+    "category": "机器人数据基础设施"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260831-020",
+  "title": "uv: Deduplicate all files in the wheel cache",
+  "source_url": "https://github.com/astral-sh/uv/pull/21327",
+  "source_type": "rss",
+  "summary": "该条目是关于uv工具的一个PR，旨在对wheel缓存中的文件进行去重。uv是一个用Rust编写的Python包管理器，该优化可减少磁盘占用。虽然与AI/LLM/Agent无直接关联，但作为开发工具链的优化，可能间接提升AI项目的依赖管理效率。",
+  "tags": [
+    "uv",
+    "Python",
+    "缓存优化",
+    "开发工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-31T23:55:03+08:00",
+  "updated_at": "2026-08-31T23:55:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "uv通过去重wheel缓存文件减少磁盘空间占用",
+      "该优化对Python项目（包括AI项目）的依赖管理有间接帮助",
+      "属于工程效率改进，非AI核心领域"
+    ],
+    "category": "开发工具"
+  }
+}

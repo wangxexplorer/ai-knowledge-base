@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260831-003",
+  "title": "Agentic Trust Controls",
+  "source_url": "https://trustcontrols.ai/",
+  "source_type": "rss",
+  "summary": "该条目介绍了一个名为“Agentic Trust Controls”的网站，可能涉及AI代理的信任控制机制。由于描述信息有限，仅能推断其与AI代理的安全性和可控性相关。该网站可能提供工具或框架，用于管理AI代理的行为和权限，确保其可信赖。目前缺乏具体内容，无法深入分析。",
+  "tags": [
+    "AI代理",
+    "信任控制",
+    "安全性",
+    "可控性"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-31T23:55:03+08:00",
+  "updated_at": "2026-08-31T23:55:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI代理的信任控制是确保其安全可靠运行的关键。",
+      "该网站可能提供相关工具或框架，但具体内容待探索。",
+      "此类控制机制对于AI代理的广泛应用至关重要。"
+    ],
+    "category": "AI安全与治理"
+  }
+}

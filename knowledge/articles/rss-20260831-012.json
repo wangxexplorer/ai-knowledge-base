@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260831-012",
+  "title": "Agent Memory as a File Format",
+  "source_url": "https://calpaterson.com/memoryfields.html",
+  "source_type": "rss",
+  "summary": "该文章探讨将Agent记忆设计为一种文件格式，而非数据库或向量存储。作者提出通过结构化文件（如JSON或自定义格式）持久化Agent状态，便于调试、版本控制和互操作。文章强调文件格式的透明性和可编辑性，有助于提升Agent系统的可解释性和可维护性，并可能简化记忆的迁移与共享。",
+  "tags": [
+    "Agent记忆",
+    "文件格式",
+    "持久化",
+    "可解释性",
+    "系统设计"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-31T23:55:03+08:00",
+  "updated_at": "2026-08-31T23:55:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "将记忆作为文件格式可提高调试透明度和可移植性",
+      "文件格式优于数据库，便于版本控制和人工审查",
+      "该设计可能影响Agent记忆管理的标准化"
+    ],
+    "category": "Agent架构"
+  }
+}

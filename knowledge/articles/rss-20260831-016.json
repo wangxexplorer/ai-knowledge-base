@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260831-016",
+  "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
+  "source_url": "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/",
+  "source_type": "rss",
+  "summary": "该研究探讨蓝光对眼睛区分细微细节能力的影响，属于视觉科学领域。与AI、LLM或Agent技术无直接关联，但可能对AI视觉系统或人机交互界面设计有间接启示。",
+  "tags": [
+    "蓝光",
+    "视觉",
+    "人机交互",
+    "健康"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-31T23:55:03+08:00",
+  "updated_at": "2026-08-31T23:55:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "蓝光可能影响视觉精度",
+      "对AI视觉模型设计有潜在参考",
+      "人机交互中需考虑视觉健康"
+    ],
+    "category": "视觉科学"
+  }
+}

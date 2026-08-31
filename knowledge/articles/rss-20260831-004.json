@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260831-004",
+  "title": "Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP",
+  "source_url": "https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/",
+  "source_type": "rss",
+  "summary": "Apache Iggy是一个用Rust编写的消息流平台，近期从Apache孵化器毕业成为顶级项目（TLP）。该平台专注于高性能、低延迟的消息传输，适用于实时数据管道和事件驱动架构。虽然与AI/LLM/Agent无直接关联，但可作为AI系统的基础设施组件，支持数据流处理和模型推理的输入输出。其Rust实现和Apache治理模型值得关注。",
+  "tags": [
+    "消息流",
+    "Rust",
+    "基础设施",
+    "Apache",
+    "实时数据"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-31T23:55:03+08:00",
+  "updated_at": "2026-08-31T23:55:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "消息流平台是AI系统数据管道的关键组件，可支撑实时推理和事件驱动Agent。",
+      "Rust实现提供高性能和内存安全，适合对延迟敏感AI场景。",
+      "Apache TLP身份增强可信度，利于企业级AI集成。"
+    ],
+    "category": "基础设施"
+  }
+}

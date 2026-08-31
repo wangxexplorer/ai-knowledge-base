@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260831-011",
+  "title": "Show HN: Linux server management over SSH – written in Rust and Tauri",
+  "source_url": "https://serverbox.stupidlabs.lol/",
+  "source_type": "rss",
+  "summary": "该项目展示了一个基于Rust和Tauri构建的Linux服务器管理工具，通过SSH协议进行远程管理。它利用Rust的高性能和Tauri的轻量级Web前端，提供桌面应用体验。虽然与AI、LLM或Agent无直接关联，但可作为AI Agent执行服务器运维任务的潜在基础设施或工具。",
+  "tags": [
+    "Linux",
+    "SSH",
+    "Rust",
+    "Tauri",
+    "服务器管理"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-31T23:55:03+08:00",
+  "updated_at": "2026-08-31T23:55:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Rust和Tauri组合适合构建高效桌面工具",
+      "可作为AI运维Agent的底层操作接口",
+      "当前无AI功能集成"
+    ],
+    "category": "开发工具"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260831-015",
+  "title": "State of the Map 2026: OpenStreetMap conference",
+  "source_url": "https://povesham.wordpress.com/2026/08/30/state-of-the-map-2026-openstreetmap-conference/",
+  "source_type": "rss",
+  "summary": "该条目报道了OpenStreetMap年度会议State of the Map 2026的举办信息，内容涉及开源地图社区的活动与交流。会议聚焦于地图数据、社区协作及开源工具，与AI、LLM或Agent技术无直接关联，但地图数据可作为AI训练或空间智能应用的潜在基础数据源。整体相关性较低。",
+  "tags": [
+    "OpenStreetMap",
+    "开源社区",
+    "地图数据",
+    "会议"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-31T23:55:03+08:00",
+  "updated_at": "2026-08-31T23:55:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "会议是开源地图社区的重要年度活动，促进协作与数据更新。",
+      "地图数据可能为AI空间智能或地理相关模型提供辅助数据。",
+      "与LLM或Agent技术无直接关联，但可视为数据生态的一部分。"
+    ],
+    "category": "开源社区活动"
+  }
+}

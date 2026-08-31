@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260831-018",
+  "title": "Breaking Claude Code Opus 5 Auto Mode",
+  "source_url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+  "source_type": "rss",
+  "summary": "本文探讨了Claude Code Opus 5在自动模式下的安全漏洞与破解方法，涉及AI代理的权限控制、提示注入攻击及自主行为风险。文章通过具体案例展示了如何利用系统提示词或工具调用链绕过安全限制，引发对LLM代理安全性的深度思考。内容聚焦于AI Agent的鲁棒性与防御策略，对开发者构建安全可靠的自主系统具有重要参考价值。",
+  "tags": [
+    "AI安全",
+    "LLM代理",
+    "提示注入",
+    "自主系统",
+    "Claude"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-31T23:55:03+08:00",
+  "updated_at": "2026-08-31T23:55:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "自动模式下的AI代理存在被恶意指令劫持的风险，需强化权限隔离与输入验证",
+      "提示注入攻击可绕过模型安全对齐，导致未授权操作或数据泄露",
+      "构建Agent时应采用最小权限原则并实施实时行为监控以降低安全威胁"
+    ],
+    "category": "AI安全与Agent"
+  }
+}

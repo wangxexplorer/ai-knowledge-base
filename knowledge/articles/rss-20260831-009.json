@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260831-009",
+  "title": "My Experience Has Nuance, Yours Is a Data Point",
+  "source_url": "https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/",
+  "source_type": "rss",
+  "summary": "文章标题暗示了个人经验与数据点之间的对比，可能探讨在AI时代，人类经验的主观性与数据客观性之间的张力。内容来自Hacker News，讨论可能涉及AI如何将个体经验简化为数据，以及这种简化对认知和社会的影响。文章可能批评AI系统缺乏对细微差别的理解，强调人类经验的复杂性。",
+  "tags": [
+    "AI伦理",
+    "数据化",
+    "人类经验",
+    "认知",
+    "社会影响"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-31T23:55:03+08:00",
+  "updated_at": "2026-08-31T23:55:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI倾向于将复杂经验简化为数据点，可能忽视个体差异。",
+      "文章可能呼吁在AI设计中保留对细微差别的尊重。",
+      "讨论反映了AI技术对人文价值的潜在冲击。"
+    ],
+    "category": "AI与社会"
+  }
+}

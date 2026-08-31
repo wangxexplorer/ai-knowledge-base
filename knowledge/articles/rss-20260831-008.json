@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260831-008",
+  "title": "Culture Clash",
+  "source_url": "https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash",
+  "source_type": "rss",
+  "summary": "本文探讨了C.P. Snow与F.R. Leavis之间关于“两种文化”的著名争论，即科学与人文的对立。文章深入分析了Leavis对Snow的批评，以及这一争论背后关于知识价值、教育目的和社会责任的深层分歧。该讨论虽源于20世纪，但对理解当代AI、LLM等技术文化与人文批判之间的张力具有启发意义，提醒我们在技术发展中重视人文视角。",
+  "tags": [
+    "两种文化",
+    "科学与人文",
+    "技术批判",
+    "教育哲学"
+  ],
+  "status": "draft",
+  "created_at": "2026-08-31T23:55:03+08:00",
+  "updated_at": "2026-08-31T23:55:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "科学与人文的冲突是理解技术社会争论的经典框架",
+      "AI发展需平衡技术理性与人文价值",
+      "历史争论为当代技术伦理提供反思视角"
+    ],
+    "category": "文化评论"
+  }
+}
