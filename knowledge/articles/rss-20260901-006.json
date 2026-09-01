@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260901-006",
+  "title": "Restroom Archive",
+  "source_url": "https://restroomarchive.com",
+  "source_type": "rss",
+  "summary": "该条目为Hacker News上关于Restroom Archive网站的讨论，内容涉及公共厕所的档案记录，与AI、LLM或Agent技术无直接关联。网站可能涉及数据收集或地理信息，但未提及任何人工智能相关技术。因此，该条目在AI领域相关性极低。",
+  "tags": [
+    "Hacker News",
+    "公共设施",
+    "数据档案"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-01T21:11:27+08:00",
+  "updated_at": "2026-09-01T21:11:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "条目内容与AI技术无关",
+      "可能涉及数据收集但未明确技术",
+      "属于社会或地理信息类话题"
+    ],
+    "category": "非AI相关"
+  }
+}

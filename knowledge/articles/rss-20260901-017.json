@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260901-017",
+  "title": "I think the military commissary's freezers were hacked",
+  "source_url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+  "source_type": "rss",
+  "summary": "该条目讨论作者怀疑军事杂货店冷柜被黑客入侵，内容涉及对设备异常行为的推测，但缺乏技术细节和证据。文章来自个人博客，在Hacker News上引发讨论，但未明确关联AI、LLM或Agent技术。整体相关性较低，仅可能涉及物联网设备安全或异常检测的泛泛话题。",
+  "tags": [
+    "物联网安全",
+    "异常检测",
+    "设备入侵"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-01T21:11:27+08:00",
+  "updated_at": "2026-09-01T21:11:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "文章主题为设备异常，未涉及AI技术",
+      "缺乏技术分析，仅为主观推测",
+      "与AI/LLM/Agent领域无直接关联"
+    ],
+    "category": "安全"
+  }
+}

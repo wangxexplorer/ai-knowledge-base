@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260901-003",
+  "title": "44% on ARC-AGI-1 in 67 cents",
+  "source_url": "https://mvakde.github.io/blog/44-on-arc-1/",
+  "source_type": "rss",
+  "summary": "该条目报道了在ARC-AGI-1基准测试上取得44%准确率且成本仅67美分的成果，展示了低成本高效AI推理的进展。ARC-AGI-1是评估通用人工智能的重要测试，此成绩表明在资源受限条件下提升AI推理能力成为可能，对AI模型优化和Agent发展具有参考价值。",
+  "tags": [
+    "ARC-AGI",
+    "AI推理",
+    "成本优化",
+    "基准测试",
+    "通用人工智能"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-01T21:11:27+08:00",
+  "updated_at": "2026-09-01T21:11:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "低成本实现较高ARC-AGI-1得分，体现推理效率提升。",
+      "ARC-AGI-1作为AGI评估基准，该成绩反映模型泛化能力。",
+      "对资源受限的Agent部署具有启示意义。"
+    ],
+    "category": "AI研究进展"
+  }
+}

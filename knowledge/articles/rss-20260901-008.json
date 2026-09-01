@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260901-008",
+  "title": "Fastpotify",
+  "source_url": "https://fastpotify.rocks/",
+  "source_type": "rss",
+  "summary": "Fastpotify是一个在Hacker News上获得532分和309条评论的热门项目，但条目描述未提供具体技术细节。从名称和来源看，它可能与Spotify相关，但无法确认是否涉及AI、LLM或Agent技术。因此，与AI领域的直接相关性较低，可能仅作为技术社区的热门话题参考。",
+  "tags": [
+    "Hacker News",
+    "热门项目",
+    "Spotify",
+    "技术社区"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-01T21:11:27+08:00",
+  "updated_at": "2026-09-01T21:11:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "项目在技术社区获得高关注度，但缺乏AI相关描述。",
+      "名称暗示与Spotify集成，但未明确技术栈。",
+      "需进一步查看原始链接以确认是否涉及AI技术。"
+    ],
+    "category": "未分类"
+  }
+}

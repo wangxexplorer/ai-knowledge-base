@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260901-002",
+  "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+  "source_url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+  "source_type": "rss",
+  "summary": "该条目讨论AnkiDroid应用因Google Play政策变化，不再允许在应用内展示Open Collective捐赠链接。这反映了开源项目在平台分发中面临的商业化与合规挑战，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "开源",
+    "应用商店",
+    "捐赠",
+    "政策"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-01T21:11:27+08:00",
+  "updated_at": "2026-09-01T21:11:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "平台政策影响开源项目资金渠道",
+      "开源项目需适应商业化规则",
+      "社区支持与平台合规的平衡"
+    ],
+    "category": "开源生态"
+  }
+}

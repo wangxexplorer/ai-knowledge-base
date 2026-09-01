@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260901-007",
+  "title": "GPU World",
+  "source_url": "https://www.gpuworld.org/",
+  "source_type": "rss",
+  "summary": "GPU World是一个关于GPU技术的网站，在Hacker News上获得288分和164条评论，讨论热度较高。内容涉及GPU硬件、计算性能及相关应用，与AI和LLM训练所需的基础设施密切相关，但未直接提及具体AI模型或Agent技术。",
+  "tags": [
+    "GPU",
+    "硬件",
+    "计算基础设施",
+    "AI训练",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-01T21:11:27+08:00",
+  "updated_at": "2026-09-01T21:11:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "GPU是AI和LLM训练的核心硬件资源，其性能直接影响模型训练效率。",
+      "该条目在技术社区引发广泛讨论，表明GPU技术对AI领域的重要性。",
+      "内容可能涵盖GPU架构、优化或应用，对AI从业者具有参考价值。"
+    ],
+    "category": "基础设施"
+  }
+}

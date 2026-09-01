@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260901-020",
+  "title": "Cheap GPS jammers are filling the world with navigation dead zones",
+  "source_url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
+  "source_type": "rss",
+  "summary": "该条目报道了廉价GPS干扰器在全球范围内造成导航盲区的问题，属于网络安全与基础设施安全领域。虽然与AI、LLM、Agent无直接关联，但GPS干扰可能影响依赖位置数据的AI系统（如自动驾驶、物流机器人）的可靠性，值得关注。",
+  "tags": [
+    "GPS干扰",
+    "网络安全",
+    "基础设施",
+    "AI可靠性"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-01T21:11:27+08:00",
+  "updated_at": "2026-09-01T21:11:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "GPS干扰器成本低廉，导致导航盲区增多，影响依赖定位的AI应用。",
+      "AI系统在GPS信号缺失时需具备替代定位或容错机制。",
+      "该问题凸显了AI在物理世界部署时的环境脆弱性。"
+    ],
+    "category": "网络安全"
+  }
+}

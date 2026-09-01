@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260901-010",
+  "title": "Evidence of Fraud in an Influential Study About Procrastination",
+  "source_url": "https://datacolada.org/138",
+  "source_type": "rss",
+  "summary": "该条目报道了一项关于拖延症的有影响力研究被指存在欺诈证据，来自Data Colada博客，并在Hacker News上引发讨论。内容聚焦学术诚信和研究可重复性问题，与AI、LLM或Agent技术无直接关联，但涉及数据分析和科学方法论，可能对AI伦理和可信度有间接启示。",
+  "tags": [
+    "学术诚信",
+    "研究可重复性",
+    "数据欺诈",
+    "科学伦理"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-01T21:11:27+08:00",
+  "updated_at": "2026-09-01T21:11:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "研究欺诈问题凸显数据验证的重要性，与AI模型训练数据的可靠性相关。",
+      "可重复性危机对AI辅助科研工具的开发提出挑战。",
+      "该事件可作为AI伦理讨论中关于透明度和问责制的案例。"
+    ],
+    "category": "学术伦理"
+  }
+}

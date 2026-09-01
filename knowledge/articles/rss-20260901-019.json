@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260901-019",
+  "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+  "source_url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+  "source_type": "rss",
+  "summary": "该条目是陶哲轩讲解6个基础数学概念的视频，虽未直接涉及AI，但数学是AI和LLM的理论基础，对理解算法和模型有间接帮助。",
+  "tags": [
+    "数学",
+    "教育",
+    "基础理论"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-01T21:11:27+08:00",
+  "updated_at": "2026-09-01T21:11:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "数学概念是AI算法的基础",
+      "陶哲轩的讲解有助于理解数学思维",
+      "对AI学习者有间接参考价值"
+    ],
+    "category": "数学教育"
+  }
+}

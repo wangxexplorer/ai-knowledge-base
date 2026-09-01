@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260901-018",
+  "title": "Roget's Thesaurus",
+  "source_url": "https://artflsrv04.uchicago.edu/roget-thesaurus/",
+  "source_type": "rss",
+  "summary": "Roget's Thesaurus 是一个经典的英语同义词词典资源，由芝加哥大学提供在线版本。该条目来自Hacker News，讨论其数字化和可用性。虽然与AI、LLM或Agent无直接关联，但作为语言资源，可用于自然语言处理中的语义相似性研究或数据增强。",
+  "tags": [
+    "语言资源",
+    "同义词词典",
+    "NLP",
+    "语义"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-01T21:11:27+08:00",
+  "updated_at": "2026-09-01T21:11:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "可作为NLP任务中的语义知识库",
+      "用于同义词替换和数据增强",
+      "经典资源，但非AI核心技术"
+    ],
+    "category": "语言资源"
+  }
+}

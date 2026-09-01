@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260901-005",
+  "title": "CollectWise (YC F24) Is Hiring",
+  "source_url": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
+  "source_type": "rss",
+  "summary": "该条目为Y Combinator孵化的初创公司CollectWise的招聘信息，招聘创始客户成功工程师。内容本身未涉及具体AI、LLM或Agent技术细节，但作为YC公司，可能涉及AI应用。整体相关性较低。",
+  "tags": [
+    "招聘",
+    "YC",
+    "客户成功",
+    "初创公司"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-01T21:11:27+08:00",
+  "updated_at": "2026-09-01T21:11:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "YC公司招聘可能涉及AI产品",
+      "客户成功角色与AI技术关联弱",
+      "无具体技术内容"
+    ],
+    "category": "招聘信息"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260901-013",
+  "title": "I turned my security cameras into an automatic bird identification system",
+  "source_url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+  "source_type": "rss",
+  "summary": "作者利用BirdNET Go将安全摄像头改造为自动鸟类识别系统。该系统通过摄像头捕捉画面，结合BirdNET的AI模型进行实时鸟类声音和图像识别，实现了对鸟类活动的自动监测与分类。项目展示了AI技术在边缘设备上的实际应用，将通用硬件与专用模型结合，降低了野生动物监测成本，为生态观察提供了新思路。",
+  "tags": [
+    "AI应用",
+    "边缘计算",
+    "计算机视觉",
+    "音频识别",
+    "物联网"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-01T21:11:27+08:00",
+  "updated_at": "2026-09-01T21:11:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "BirdNET Go展示了轻量级AI模型在嵌入式设备上的可行性",
+      "安全摄像头与AI结合可低成本实现专业级生态监测",
+      "该项目体现了AI在特定垂直领域的实用价值"
+    ],
+    "category": "AI应用案例"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260901-009",
+  "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
+  "source_url": "https://github.com/fregacmols/RotaryCell",
+  "source_type": "rss",
+  "summary": "该项目展示如何利用ESP32-S3微控制器将传统旋转拨号电话改装为可通过LTE网络拨打电话的设备。它涉及硬件接口、信号处理和网络通信，属于物联网与嵌入式系统领域。虽然不直接涉及AI或LLM，但体现了边缘计算和智能设备集成的思路，可为AI Agent的物理交互提供参考。",
+  "tags": [
+    "嵌入式系统",
+    "物联网",
+    "硬件改造",
+    "LTE",
+    "ESP32"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-01T21:11:27+08:00",
+  "updated_at": "2026-09-01T21:11:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "展示了传统设备与现代通信技术的融合方法",
+      "为AI Agent的物理世界交互提供了硬件基础",
+      "体现了边缘计算在智能设备中的应用潜力"
+    ],
+    "category": "硬件与嵌入式"
+  }
+}

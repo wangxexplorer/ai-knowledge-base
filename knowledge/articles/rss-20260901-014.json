@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260901-014",
+  "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+  "source_url": "https://ravynos.com/",
+  "source_type": "rss",
+  "summary": "RavynOS是一个基于Darwin、FreeBSD和Apple开源组件的预alpha开源操作系统，旨在提供类似macOS的体验。该项目在Hacker News上获得209分和120条评论，引发技术社区关注。其与AI/LLM/Agent领域无直接关联，但作为操作系统层面的创新，可能为未来AI基础设施提供底层支持。",
+  "tags": [
+    "操作系统",
+    "开源",
+    "Darwin",
+    "FreeBSD",
+    "macOS"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-01T21:11:27+08:00",
+  "updated_at": "2026-09-01T21:11:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "RavynOS是操作系统项目，与AI/LLM/Agent无直接技术关联。",
+      "其开源特性可能为AI开发提供新的底层平台选择。",
+      "社区讨论热度高，但主要聚焦于系统实现而非AI应用。"
+    ],
+    "category": "系统软件"
+  }
+}

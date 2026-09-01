@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260901-011",
+  "title": "Tmp.0ut Volume 5",
+  "source_url": "https://tmpout.sh/5/",
+  "source_type": "rss",
+  "summary": "Tmp.0ut Volume 5 是一本关于二进制利用、逆向工程和底层系统安全的电子杂志，内容涉及漏洞研究、shellcode 编写等。该条目来自 Hacker News，讨论热度较高，但与 AI、LLM 或 Agent 领域无直接关联。",
+  "tags": [
+    "安全",
+    "逆向工程",
+    "二进制利用",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-01T21:11:27+08:00",
+  "updated_at": "2026-09-01T21:11:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "该杂志聚焦底层系统安全，与 AI 技术栈无直接交集。",
+      "Hacker News 上的讨论可能涉及安全与 AI 的交叉话题，但条目本身未体现。",
+      "对于 AI 安全研究者，可关注其中与模型安全相关的潜在内容，但需进一步查看原文。"
+    ],
+    "category": "安全技术"
+  }
+}

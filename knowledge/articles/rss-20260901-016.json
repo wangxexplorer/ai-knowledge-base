@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260901-016",
+  "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+  "source_url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+  "source_type": "rss",
+  "summary": "苹果对Mac Mini和Mac Studio因AI需求激增而措手不及，表明AI工作负载正推动高性能本地计算设备需求上升。该事件反映AI应用对硬件性能的依赖，以及市场对AI就绪设备的强劲需求，可能影响苹果产品策略和供应链布局。",
+  "tags": [
+    "AI硬件",
+    "Mac",
+    "本地计算",
+    "市场需求",
+    "苹果"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-01T21:11:27+08:00",
+  "updated_at": "2026-09-01T21:11:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI应用推动本地高性能计算设备需求增长",
+      "苹果对AI驱动的硬件需求预估不足，反映市场动态变化",
+      "AI工作负载正成为消费级和专业级硬件的重要购买因素"
+    ],
+    "category": "AI硬件与市场"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "github-20260901-020",
+  "title": "ai-agent-book",
+  "source_url": "https://github.com/bojieli/ai-agent-book",
+  "source_type": "github",
+  "summary": "《深入理解 AI Agent：设计原理与工程实践》是李博杰撰写的一本关于AI Agent的书籍，其GitHub开源仓库提供了全书正文、PDF及配套代码。该书系统讲解Agent的设计原理与工程实践，涵盖Agent记忆、编码Agent等核心主题，是学习AI Agent开发的权威参考资料。",
+  "tags": [
+    "AI Agent",
+    "Agent设计",
+    "工程实践",
+    "开源书籍",
+    "编码Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-01T21:11:27+08:00",
+  "updated_at": "2026-09-01T21:11:27+08:00",
+  "metadata": {
+    "stars": 44066,
+    "language": "Python",
+    "author": "bojieli"
+  },
+  "ai_analysis": {
+    "relevance_score": 1.0,
+    "key_insights": [
+      "系统阐述AI Agent的设计原理与工程实践，适合开发者深入学习",
+      "提供完整开源代码与PDF，便于理论与实践结合",
+      "覆盖Agent记忆、编码Agent等前沿主题，具有较高参考价值"
+    ],
+    "category": "AI Agent技术书籍"
+  }
+}
