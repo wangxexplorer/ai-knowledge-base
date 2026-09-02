@@ -1,0 +1,31 @@
+{
+  "id": "github-20260902-006",
+  "title": "browser-use",
+  "source_url": "https://github.com/browser-use/browser-use",
+  "source_type": "github",
+  "summary": "browser-use是一个开源Python库，旨在让AI代理能够轻松访问和操作网站，实现浏览器自动化任务。它通过将LLM与浏览器交互结合，使AI代理能自主执行网页操作，如填写表单、点击按钮等。该项目在GitHub上拥有超过11万星标，是AI代理领域的热门工具，专注于提升AI在真实网络环境中的实用性。",
+  "tags": [
+    "AI代理",
+    "浏览器自动化",
+    "LLM",
+    "开源工具",
+    "网页交互"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-02T20:37:21+08:00",
+  "updated_at": "2026-09-02T20:37:21+08:00",
+  "metadata": {
+    "stars": 112044,
+    "language": "Python",
+    "author": "browser-use"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "browser-use是连接LLM与网页操作的关键桥梁，扩展了AI代理的应用场景。",
+      "高星标数表明其在AI代理社区中具有广泛认可度和影响力。",
+      "该工具简化了AI代理的在线任务自动化，是AI落地的重要基础设施。"
+    ],
+    "category": "AI代理工具"
+  }
+}

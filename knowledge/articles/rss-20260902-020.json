@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260902-020",
+  "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+  "source_url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+  "source_type": "rss",
+  "summary": "该条目介绍Anthropic发布的Claude Fable 5.1和Claude Mythos 5.1模型，包含更新文档和系统卡片链接，并在Hacker News上引发热议。内容直接关联AI大模型的最新进展，属于前沿技术发布，对LLM领域具有重要参考价值。",
+  "tags": [
+    "Claude",
+    "Anthropic",
+    "大语言模型",
+    "模型发布",
+    "AI进展"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-02T20:37:21+08:00",
+  "updated_at": "2026-09-02T20:37:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Anthropic持续迭代Claude系列模型，Fable和Mythos版本可能针对不同应用场景优化。",
+      "系统卡片的发布体现了对模型安全性和透明度的重视。",
+      "高关注度（1302分，1221评论）表明社区对Claude新版本的高度兴趣。"
+    ],
+    "category": "模型发布"
+  }
+}

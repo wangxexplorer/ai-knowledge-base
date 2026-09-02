@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260902-019",
+  "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+  "source_url": "https://danluu.com/zitron/",
+  "source_type": "rss",
+  "summary": "本文评估了AI怀疑论者Ed Zitron的预测准确性，通过事实核查其过往观点，分析其批评是否经得起时间检验。内容涉及AI行业泡沫、技术炒作与实际落地差距等议题，反映了对AI发展现状的批判性视角，有助于理解AI领域的争议与理性评估。",
+  "tags": [
+    "AI批评",
+    "行业分析",
+    "技术预测",
+    "怀疑论"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-02T20:37:21+08:00",
+  "updated_at": "2026-09-02T20:37:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "对AI怀疑论者的预测进行系统性验证，提供理性评估框架",
+      "揭示AI炒作与现实之间的差距，有助于识别行业泡沫风险",
+      "反映AI领域多元观点，促进对技术发展的全面认知"
+    ],
+    "category": "AI行业评论"
+  }
+}

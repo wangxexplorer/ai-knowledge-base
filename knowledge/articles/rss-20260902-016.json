@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260902-016",
+  "title": "Path to Astra: critical capabilities and frontier safeguards",
+  "source_url": "https://openai.com/index/path-to-astra/",
+  "source_type": "rss",
+  "summary": "OpenAI发布关于Astra项目的进展，阐述了其关键能力与前沿安全防护措施。Astra作为AI助手，展示了实时多模态交互能力，并强调了在部署前沿模型时对安全性的重视。文章可能涉及Agent技术、模型能力边界及安全对齐策略，反映了OpenAI在推进实用AI系统时的技术路径与治理考量。",
+  "tags": [
+    "OpenAI",
+    "Astra",
+    "AI安全",
+    "多模态",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-02T20:37:21+08:00",
+  "updated_at": "2026-09-02T20:37:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Astra代表OpenAI在实时多模态AI助手方向的重要进展",
+      "文章强调前沿模型的安全防护与能力并重",
+      "可能涉及Agent系统在真实场景中的部署经验"
+    ],
+    "category": "AI产品与技术"
+  }
+}

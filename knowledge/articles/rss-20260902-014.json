@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260902-014",
+  "title": "Bugs happen: The easy way to compare solo PQ to ECC+PQ",
+  "source_url": "https://blog.cr.yp.to/20260704-bugs.html",
+  "source_type": "rss",
+  "summary": "该条目讨论后量子密码学(PQ)与椭圆曲线密码(ECC)混合方案中的错误比较问题，属于密码学安全领域的技术博客。内容聚焦于算法实现中的bug处理，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "密码学",
+    "后量子安全",
+    "ECC"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-02T20:37:21+08:00",
+  "updated_at": "2026-09-02T20:37:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "密码学实现中的错误比较是实际安全问题",
+      "混合PQ+ECC方案需要严谨的验证方法",
+      "该内容不涉及AI或LLM技术"
+    ],
+    "category": "信息安全"
+  }
+}

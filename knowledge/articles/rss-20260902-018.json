@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260902-018",
+  "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+  "source_url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+  "source_type": "rss",
+  "summary": "本文详细记录了作者对一台Tektronix TDS7104示波器的翻新过程，包括硬件拆解、故障诊断、元件更换及校准等步骤。内容聚焦于电子设备维修与逆向工程，属于硬件技术领域，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "硬件维修",
+    "示波器",
+    "逆向工程",
+    "电子工程"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-02T20:37:21+08:00",
+  "updated_at": "2026-09-02T20:37:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "展示了老式电子设备的内部结构与维修方法",
+      "强调了硬件维护对仪器精度的重要性",
+      "可作为电子工程实践案例参考"
+    ],
+    "category": "硬件技术"
+  }
+}

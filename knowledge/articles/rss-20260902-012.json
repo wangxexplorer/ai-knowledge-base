@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260902-012",
+  "title": "My local model setup on an M4 Pro Mac Mini",
+  "source_url": "https://lws.io/blog/my-local-model-setup/",
+  "source_type": "rss",
+  "summary": "本文介绍了作者在M4 Pro Mac Mini上搭建本地模型的具体配置与经验，涉及硬件选择、软件环境及性能调优。内容聚焦于本地运行AI模型的实际操作，对开发者部署本地LLM有参考价值，但未深入模型原理或Agent设计。",
+  "tags": [
+    "本地模型",
+    "M4 Pro",
+    "Mac Mini",
+    "LLM部署",
+    "硬件配置"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-02T20:37:21+08:00",
+  "updated_at": "2026-09-02T20:37:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "M4 Pro Mac Mini可作为本地运行LLM的高性价比平台",
+      "本地模型部署需关注内存与散热等硬件限制",
+      "文章提供了实际部署经验，但缺乏基准测试数据"
+    ],
+    "category": "技术实践"
+  }
+}

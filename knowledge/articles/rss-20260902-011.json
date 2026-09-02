@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260902-011",
+  "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+  "source_url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+  "source_type": "rss",
+  "summary": "FBI正在调查一项出售超过1.53亿张驾照信息的服务，该服务可能涉及大规模数据泄露。此事件凸显了个人敏感数据在暗网上的交易风险，以及身份盗窃和欺诈的潜在威胁。对于AI和LLM领域，此类数据泄露可能被用于训练更精准的钓鱼攻击或深度伪造，加剧AI安全与隐私挑战。",
+  "tags": [
+    "数据泄露",
+    "隐私",
+    "网络安全",
+    "身份盗窃",
+    "AI安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-02T20:37:21+08:00",
+  "updated_at": "2026-09-02T20:37:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "大规模驾照数据泄露凸显个人隐私保护的重要性，对AI训练数据的合规性提出更高要求。",
+      "泄露数据可能被用于训练恶意AI模型，如生成钓鱼邮件或深度伪造，增加AI滥用风险。",
+      "AI在检测和防御此类数据泄露中可发挥关键作用，但也需警惕其被用于攻击。"
+    ],
+    "category": "网络安全"
+  }
+}

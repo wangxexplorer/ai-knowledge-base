@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260902-002",
+  "title": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
+  "source_url": "https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/",
+  "source_type": "rss",
+  "summary": "本文探讨了液流电池中对称亚铁氰化物电解液缺失的原因。亚铁氰化物/铁氰化物氧化还原对因其高溶解度和稳定性，常被用作正极电解液，但作为负极时存在电化学窗口窄、析氢反应等挑战。文章分析了热力学和动力学限制，指出对称设计虽能降低成本并简化系统，但需克服材料兼容性和电压效率问题。当前研究多集中于非对称体系，未来或通过改性电解液或电极材料实现对称电池的可行性。",
+  "tags": [
+    "液流电池",
+    "亚铁氰化物",
+    "电化学",
+    "储能"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-02T20:37:21+08:00",
+  "updated_at": "2026-09-02T20:37:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "对称电解液设计受限于负极侧的电化学稳定性和副反应",
+      "非对称体系仍是主流，但对称方案有成本优势",
+      "需通过材料改性提升对称电池性能"
+    ],
+    "category": "能源技术"
+  }
+}

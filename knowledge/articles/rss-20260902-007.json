@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260902-007",
+  "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+  "source_url": "https://arxiv.org/abs/2608.29530",
+  "source_type": "rss",
+  "summary": "本文探讨人工神经网络中涌现的符号结构，分析网络内部表征如何形成类似语言的符号系统。研究可能涉及可解释性、表征学习及符号与连接主义的融合，对理解LLM的内部机制和Agent的推理能力有潜在价值。",
+  "tags": [
+    "神经网络",
+    "符号结构",
+    "可解释性",
+    "表征学习",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-02T20:37:21+08:00",
+  "updated_at": "2026-09-02T20:37:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "揭示神经网络内部可能自发形成符号化表征，有助于提升模型可解释性。",
+      "符号结构与连接主义的结合或为LLM推理能力提供新视角。",
+      "对Agent的决策与规划机制设计具有启发意义。"
+    ],
+    "category": "AI基础研究"
+  }
+}

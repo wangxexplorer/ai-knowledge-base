@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260902-005",
+  "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
+  "source_url": "https://careers.telli.com/",
+  "source_type": "rss",
+  "summary": "该条目为Telli公司（YC F24孵化）在柏林招聘工程师和设计师的招聘信息，来自Hacker News。内容未涉及具体技术细节，仅提及公司背景和职位需求。Telli作为YC孵化的初创公司，可能涉及AI或LLM领域，但条目本身缺乏技术内容，相关性较低。",
+  "tags": [
+    "招聘",
+    "YC孵化",
+    "柏林",
+    "初创公司"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-02T20:37:21+08:00",
+  "updated_at": "2026-09-02T20:37:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Telli为YC F24批次初创公司，可能涉及AI领域但未明确",
+      "招聘岗位为工程师和设计师，地点在柏林",
+      "条目无技术细节，仅作为行业动态参考"
+    ],
+    "category": "招聘信息"
+  }
+}

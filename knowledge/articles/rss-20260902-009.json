@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260902-009",
+  "title": "True Rate of Unemployment",
+  "source_url": "https://www.lisep.org/tru",
+  "source_type": "rss",
+  "summary": "该条目讨论真实失业率，来自Hacker News，与AI、LLM或Agent技术无直接关联。内容聚焦经济指标，可能涉及数据统计方法，但未提及人工智能应用。相关性极低，仅作为社会背景信息参考。",
+  "tags": [
+    "失业率",
+    "经济",
+    "数据统计"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-02T20:37:21+08:00",
+  "updated_at": "2026-09-02T20:37:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "真实失业率是经济分析的重要指标",
+      "该条目未涉及AI技术",
+      "可能反映技术对就业的间接影响"
+    ],
+    "category": "社会经济"
+  }
+}

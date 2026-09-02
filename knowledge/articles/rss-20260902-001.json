@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260902-001",
+  "title": "It's OK to hardcode feature flags (2025)",
+  "source_url": "https://code.mendhak.com/hardcode-feature-flags/",
+  "source_type": "rss",
+  "summary": "文章主张在特定场景下硬编码功能开关是合理的，反对过度工程化的配置系统。作者认为，对于简单或一次性功能，硬编码可减少复杂性和维护成本，提升开发效率。文章结合实例讨论了何时应硬编码、何时应使用动态配置，强调务实决策。该观点对AI系统开发中的功能管理有参考价值，但并非直接针对AI或LLM。",
+  "tags": [
+    "feature flags",
+    "software engineering",
+    "pragmatism"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-02T20:37:21+08:00",
+  "updated_at": "2026-09-02T20:37:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "硬编码功能开关可简化简单场景，避免过度设计。",
+      "决策应基于功能复杂度和变更频率。",
+      "对AI系统开发中的功能迭代有间接启示。"
+    ],
+    "category": "软件工程实践"
+  }
+}

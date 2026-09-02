@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260902-013",
+  "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+  "source_url": "https://masteranza.github.io/weedout/",
+  "source_type": "rss",
+  "summary": "Weedout是一款Safari扩展，售价1.99美元，用于隐藏YouTube中标记为“Made with AI”的视频，以应对AI生成内容（尤其是阴谋论视频）泛滥的问题。它基于YouTube官方标签进行过滤，完全本地运行，不进行AI检测，因此无法识别未标记的视频。开发者公开了源代码供他人分叉，但不接受拉取请求。该工具反映了用户对AI生成内容质量与可信度的担忧，以及通过客户端过滤来改善内容消费体验",
+  "tags": [
+    "AI内容过滤",
+    "YouTube",
+    "Safari扩展",
+    "用户控制",
+    "AI标签"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-02T20:37:21+08:00",
+  "updated_at": "2026-09-02T20:37:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "利用平台AI标签进行内容过滤，而非依赖本地AI检测，体现对平台标注的信任。",
+      "反映了AI生成内容在主流平台泛滥引发的用户反感与应对需求。",
+      "作为客户端工具，提供了一种轻量级、隐私友好的内容管理方案。"
+    ],
+    "category": "AI应用与工具"
+  }
+}

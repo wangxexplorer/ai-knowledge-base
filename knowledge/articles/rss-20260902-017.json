@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260902-017",
+  "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+  "source_url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+  "source_type": "rss",
+  "summary": "该条目报道了ChatGPT/Codex应用捆绑了完整版LibreOffice的事实。这反映了AI编程助手在运行时可能依赖或集成开源办公软件，用于处理文档生成、格式转换等任务。此现象揭示了AI工具链中隐含的软件依赖关系，以及开源生态在AI应用中的基础性作用。",
+  "tags": [
+    "ChatGPT",
+    "Codex",
+    "LibreOffice",
+    "AI工具",
+    "开源集成"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-02T20:37:21+08:00",
+  "updated_at": "2026-09-02T20:37:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI编程助手可能集成办公软件以增强文档处理能力",
+      "开源软件在AI工具链中扮演重要基础角色",
+      "该捆绑行为可能影响AI应用的部署体积和资源消耗"
+    ],
+    "category": "AI应用生态"
+  }
+}
