@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260903-002",
+  "title": "4.5B Posts Scraped from TikTok",
+  "source_url": "https://tiktok-api.seeksocial.io/",
+  "source_type": "rss",
+  "summary": "该条目报道了从TikTok抓取45亿条帖子的数据事件，涉及大规模社交媒体数据采集。虽然未直接提及AI或LLM，但此类数据常用于训练多模态模型、用户行为分析及推荐系统，与AI领域的数据基础设施相关。",
+  "tags": [
+    "数据抓取",
+    "社交媒体",
+    "数据集",
+    "多模态",
+    "隐私"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-03T20:40:07+08:00",
+  "updated_at": "2026-09-03T20:40:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.4,
+    "key_insights": [
+      "大规模社交媒体数据是训练AI模型的重要资源",
+      "数据抓取引发隐私和伦理问题",
+      "此类数据集可能用于多模态模型或用户画像分析"
+    ],
+    "category": "数据与基础设施"
+  }
+}

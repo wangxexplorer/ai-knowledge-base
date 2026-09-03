@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260903-010",
+  "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+  "source_url": "https://news.ycombinator.com/item?id=49543530",
+  "source_type": "rss",
+  "summary": "RonanRx是一家垂直整合的制药公司，专注于GLP-1和肽类药物，结合软件实现处方、远程医疗、配药、制造和配送。创始人Lloyd曾用AI和计算机视觉优化口罩工厂，现计划将类似技术应用于个性化药物制造，通过患者数据反馈闭环调整剂量。业务模式为直接面向患者销售，降低成本。该项目涉及AI在药物制造和个性化医疗中的应用，但与LLM或Agent的直接关联较弱。",
+  "tags": [
+    "AI制药",
+    "个性化医疗",
+    "GLP-1",
+    "垂直整合",
+    "软件"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-03T20:40:07+08:00",
+  "updated_at": "2026-09-03T20:40:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "创始人将AI和计算机视觉经验应用于制药制造，体现AI在工业场景的迁移价值。",
+      "患者数据反馈闭环是核心亮点，但未明确使用LLM或Agent技术。",
+      "项目强调软件与硬件整合，但AI部分主要限于制造优化，而非前沿模型。"
+    ],
+    "category": "AI应用"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260903-014",
+  "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+  "source_type": "rss",
+  "summary": "该条目报道了Google发布Gemini 3.8 Flash及3.8 Flash Cyber模型，后者专注于网络安全应用。作为最新一代Gemini系列，该模型在性能、效率和安全性上均有提升，并提供了详细的技术文档。此发布对AI领域，尤其是LLM的轻量化部署和垂直场景应用具有重要参考价值。",
+  "tags": [
+    "Gemini",
+    "LLM",
+    "模型发布",
+    "网络安全",
+    "Google"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-03T20:40:07+08:00",
+  "updated_at": "2026-09-03T20:40:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Gemini 3.8 Flash是轻量级LLM，适合高效推理场景。",
+      "Cyber版本针对网络安全任务优化，拓展了LLM应用边界。",
+      "官方提供完整模型卡，便于技术评估与集成。"
+    ],
+    "category": "模型发布"
+  }
+}

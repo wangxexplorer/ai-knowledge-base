@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260903-005",
+  "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+  "source_url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+  "source_type": "rss",
+  "summary": "该条目报道了Google Antigravity服务条款中关于第三方使用可能导致Google账户被暂停的规定。Antigravity是Google推出的AI开发平台，其条款限制第三方对服务的访问和使用，违反者将面临账户暂停。此消息在Hacker News上引发讨论，反映了AI平台服务条款的严格性及对开发者生态的影响。",
+  "tags": [
+    "Google Antigravity",
+    "服务条款",
+    "AI平台",
+    "开发者生态",
+    "账户政策"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-03T20:40:07+08:00",
+  "updated_at": "2026-09-03T20:40:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "Google Antigravity对第三方使用有严格限制，违规可能导致账户暂停。",
+      "该条款影响开发者对AI平台的集成与自动化操作。",
+      "反映了AI服务提供商在安全与开放之间的平衡策略。"
+    ],
+    "category": "AI平台政策"
+  }
+}

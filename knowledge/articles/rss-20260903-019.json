@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260903-019",
+  "title": "Aging brains blend memories together instead of just forgetting them",
+  "source_url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+  "source_type": "rss",
+  "summary": "该条目报道了一项关于衰老大脑记忆机制的研究，指出衰老大脑并非单纯遗忘，而是会将不同记忆混合在一起。这一发现对理解人类记忆的认知科学有重要意义，但与AI、LLM或Agent领域的直接技术关联较弱。不过，该研究可能为AI中的记忆模型、灾难性遗忘问题或认知架构设计提供生物学启发，例如通过模拟记忆整合机制来改进神经网络的学习策略。",
+  "tags": [
+    "记忆机制",
+    "认知科学",
+    "AI启发",
+    "灾难性遗忘"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-03T20:40:07+08:00",
+  "updated_at": "2026-09-03T20:40:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "衰老大脑的记忆混合现象可能启发AI记忆模型的改进",
+      "与灾难性遗忘问题存在潜在类比",
+      "为认知架构设计提供生物学参考"
+    ],
+    "category": "认知科学"
+  }
+}

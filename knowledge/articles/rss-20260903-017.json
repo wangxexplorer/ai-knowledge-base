@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260903-017",
+  "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+  "source_url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+  "source_type": "rss",
+  "summary": "该报告揭露了三个网站制造了超过21.5万个“最佳软件”页面，这些页面被Perplexity等AI搜索引擎引用，从而影响AI推荐结果。这反映了AI信息生态中存在的操纵风险，即通过大规模生成内容来欺骗AI系统，进而影响用户决策。报告强调了AI推荐系统在数据源可信度方面的脆弱性，以及对此类操纵行为进行检测和防范的必要性。",
+  "tags": [
+    "AI推荐系统",
+    "内容操纵",
+    "信息可信度",
+    "Perplexity",
+    "SEO滥用"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-03T20:40:07+08:00",
+  "updated_at": "2026-09-03T20:40:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "AI搜索引擎可能被大规模生成的内容操纵，影响推荐结果。",
+      "需要加强对AI引用来源的审核和验证机制。",
+      "此类行为对AI信息生态的可信度构成严重威胁。"
+    ],
+    "category": "AI伦理与安全"
+  }
+}

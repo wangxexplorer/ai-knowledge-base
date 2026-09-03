@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260903-003",
+  "title": "A dark horse enters China's AI race: StartLux",
+  "source_url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
+  "source_type": "rss",
+  "summary": "文章报道了陈大伟（StartLux创始人）重返AI领域，进入大模型赛道，被视为中国AI竞赛中的一匹黑马。内容聚焦于中国AI产业动态、创业公司竞争及大模型发展，与AI、LLM领域直接相关，但未涉及具体技术细节或Agent应用。",
+  "tags": [
+    "中国AI",
+    "大模型",
+    "创业公司",
+    "StartLux",
+    "AI竞赛"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-03T20:40:07+08:00",
+  "updated_at": "2026-09-03T20:40:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "中国大模型赛道竞争激烈，新玩家持续涌入",
+      "StartLux作为黑马，其创始人背景或带来差异化优势",
+      "反映中国AI产业投资与创新热度"
+    ],
+    "category": "行业动态"
+  }
+}

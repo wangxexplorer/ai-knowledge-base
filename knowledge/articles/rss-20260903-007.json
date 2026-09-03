@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260903-007",
+  "title": "Claude for Commerce Agents",
+  "source_url": "https://claude.com/blog/claude-for-commerce-agents",
+  "source_type": "rss",
+  "summary": "该条目为Anthropic发布的关于Claude在商业代理（Commerce Agents）中应用的博客文章，来自Hacker News。内容聚焦于利用Claude构建电商领域的AI代理，涉及自动化购物、客户服务等场景，体现了LLM在垂直行业的落地实践。",
+  "tags": [
+    "Claude",
+    "商业代理",
+    "电商",
+    "LLM应用",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-03T20:40:07+08:00",
+  "updated_at": "2026-09-03T20:40:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Claude正被用于构建商业领域的AI代理，拓展LLM在电商场景的应用。",
+      "该文章反映了AI代理在垂直行业（如商业）的落地趋势。",
+      "Anthropic持续推动Claude在具体业务场景中的集成与创新。"
+    ],
+    "category": "AI应用"
+  }
+}

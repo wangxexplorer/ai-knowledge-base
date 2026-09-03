@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260903-018",
+  "title": "Biggest dark matter detector spots a single weird particle",
+  "source_url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+  "source_type": "rss",
+  "summary": "该条目报道了世界上最大的暗物质探测器探测到一个奇异粒子的事件，属于粒子物理和天体物理领域的前沿发现。内容与AI、LLM或Agent技术无直接关联，但可能涉及探测器数据分析中的机器学习应用，或作为科学发现新闻被AI系统抓取。整体相关性较低。",
+  "tags": [
+    "暗物质",
+    "粒子物理",
+    "科学发现",
+    "探测器"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-03T20:40:07+08:00",
+  "updated_at": "2026-09-03T20:40:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "暗物质探测是基础物理研究热点，与AI技术无直接交叉。",
+      "探测器数据分析可能间接使用AI算法，但条目未提及。",
+      "该新闻可作为AI领域外部科学动态的参考信息。"
+    ],
+    "category": "科学新闻"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260903-006",
+  "title": "Audacity 4.0",
+  "source_url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+  "source_type": "rss",
+  "summary": "Audacity 4.0是开源音频编辑软件的重大版本更新，主要涉及音频处理功能改进，与AI、LLM或Agent技术无直接关联。该版本可能包含性能优化、界面调整或新音频效果，但未提及任何人工智能相关特性。",
+  "tags": [
+    "音频编辑",
+    "开源软件",
+    "版本发布"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-03T20:40:07+08:00",
+  "updated_at": "2026-09-03T20:40:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Audacity是传统音频工具，不涉及AI技术",
+      "该版本更新与LLM或Agent领域无关"
+    ],
+    "category": "软件工具"
+  }
+}

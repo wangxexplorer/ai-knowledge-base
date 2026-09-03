@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260903-020",
+  "title": "Can I opt out of my input or output data being used for training?",
+  "source_url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+  "source_type": "rss",
+  "summary": "该条目讨论Mistral AI平台用户能否选择退出其输入或输出数据用于模型训练的问题，涉及AI数据隐私政策、用户控制权及合规性。内容来自Hacker News，引发广泛讨论，反映公众对AI训练数据使用的关注。",
+  "tags": [
+    "数据隐私",
+    "AI训练",
+    "用户选择",
+    "Mistral AI",
+    "合规性"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-03T20:40:07+08:00",
+  "updated_at": "2026-09-03T20:40:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "用户对AI训练数据使用的控制权是重要议题",
+      "Mistral AI提供退出机制但需明确政策细节",
+      "该问题影响AI产品信任度和合规性"
+    ],
+    "category": "AI伦理与政策"
+  }
+}
