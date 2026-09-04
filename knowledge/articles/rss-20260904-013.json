@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260904-013",
+  "title": "K2 Horizon: A connected fleet of six open models",
+  "source_url": "https://ifm.ai/blog/k2/",
+  "source_type": "rss",
+  "summary": "K2 Horizon 是 ifm.ai 发布的一组由六个开放模型组成的互联模型系列，旨在通过模型间的协同工作提升 AI 系统的整体能力。该博客文章在 Hacker News 上获得较高关注（305 分，108 条评论），表明社区对开放模型生态和模型协作方向的兴趣。文章可能涉及多模型架构、模型互操作性及开源策略，与 AI 和 LLM 领域直接相关，尤其对 Agent 系统的设计有参考价值。",
+  "tags": [
+    "开放模型",
+    "多模型协作",
+    "LLM",
+    "Agent",
+    "开源AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-04T20:34:01+08:00",
+  "updated_at": "2026-09-04T20:34:01+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "开放模型互联是提升 AI 能力的新方向",
+      "多模型协作可能促进 Agent 系统发展",
+      "社区高度关注开放模型生态"
+    ],
+    "category": "AI模型与架构"
+  }
+}

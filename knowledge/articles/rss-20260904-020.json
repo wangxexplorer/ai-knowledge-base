@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260904-020",
+  "title": "Unusual Suspects",
+  "source_url": "https://neal.fun/unusual-suspects/",
+  "source_type": "rss",
+  "summary": "该条目为Hacker News上分享的一个趣味游戏网站链接，标题为“Unusual Suspects”，来自neal.fun。内容本身是游戏或互动体验，与AI、LLM或Agent技术无直接关联。网站可能涉及推理或模式识别，但未提供技术细节。在HN上获得174分和29条评论，表明社区有一定兴趣，但讨论焦点可能偏向娱乐或认知挑战，而非前沿AI研究。",
+  "tags": [
+    "趣味游戏",
+    "推理",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-04T20:34:01+08:00",
+  "updated_at": "2026-09-04T20:34:01+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "该条目为游戏链接，非技术文章",
+      "与AI/LLM/Agent领域无直接相关性",
+      "社区讨论可能涉及认知或游戏设计"
+    ],
+    "category": "娱乐互动"
+  }
+}

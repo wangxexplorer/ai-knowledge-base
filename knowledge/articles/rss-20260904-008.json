@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260904-008",
+  "title": "Project Xanadu: Even More Hindsight (2025)",
+  "source_url": "https://gwern.net/xanadu",
+  "source_type": "rss",
+  "summary": "Project Xanadu是超文本的早期构想，由Ted Nelson提出，旨在创建非顺序、可双向链接的文档系统。2025年的回顾文章重新审视其理念，探讨其与当代技术如AI、LLM和Agent的关联。Xanadu强调链接的持久性和版权管理，与当前AI生成内容的知识溯源和引用问题相关。文章可能分析Xanadu的失败原因，并对比现代AI系统在信息组织和交互上的差异，为AI驱动的知识管理提供历史视角。",
+  "tags": [
+    "超文本",
+    "知识管理",
+    "历史回顾",
+    "信息架构"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-04T20:34:01+08:00",
+  "updated_at": "2026-09-04T20:34:01+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "Xanadu的链接理念与AI内容溯源需求有潜在联系",
+      "历史失败案例为AI知识系统设计提供教训",
+      "文章可能讨论AI对信息组织方式的变革"
+    ],
+    "category": "技术历史"
+  }
+}

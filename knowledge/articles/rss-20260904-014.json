@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260904-014",
+  "title": ".name Termination",
+  "source_url": "https://neil.fraser.name/news/2026/09/03/",
+  "source_type": "rss",
+  "summary": "该条目标题为'.name Termination'，来源为Hacker News上的一篇技术文章，讨论域名.name的终止或相关事件。内容涉及域名系统（DNS）的变更，与AI、LLM或Agent技术无直接关联。文章在HN上获得较高关注（1943分，482评论），可能涉及互联网基础设施或政策问题，但未提供具体技术细节。",
+  "tags": [
+    "域名",
+    "DNS",
+    "互联网基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-04T20:34:01+08:00",
+  "updated_at": "2026-09-04T20:34:01+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "域名终止事件可能影响网络服务，但与AI核心领域无关。",
+      "HN高关注度表明该事件在开发者社区有影响力。",
+      "缺乏AI相关技术内容，相关性极低。"
+    ],
+    "category": "互联网技术"
+  }
+}

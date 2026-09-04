@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260904-015",
+  "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+  "source_url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+  "source_type": "rss",
+  "summary": "作者将1993年为Amiga平台用MC68000汇编编写的游戏，借助Claude Fable 5在Godot引擎中重写移植。LLM不仅阅读和理解汇编代码，还自动使用vasm汇编器验证生成的二进制与原始版本一致，仅差108字节（因原始文件是运行时的内存快照）。整个过程仅用一晚完成核心移植，后续数周用于调整手感并发布。作者还利用LLM辅助撰写技术文章，并免费发布了原版游戏。",
+  "tags": [
+    "LLM辅助编程",
+    "代码迁移",
+    "逆向工程",
+    "Godot",
+    "汇编"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-04T20:34:01+08:00",
+  "updated_at": "2026-09-04T20:34:01+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "LLM能高效理解并转换旧汇编代码，实现跨平台移植，显著缩短开发时间。",
+      "LLM自动验证生成代码的二进制一致性，展示了其在代码正确性保障上的潜力。",
+      "LLM辅助文档编写，能基于作者记忆和代码库生成初稿，再经人工精编。"
+    ],
+    "category": "LLM应用案例"
+  }
+}

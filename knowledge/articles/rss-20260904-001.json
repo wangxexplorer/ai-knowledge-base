@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260904-001",
+  "title": "SubImage (YC W25) Is Hiring a Founding Engineer in SF",
+  "source_url": "https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer",
+  "source_type": "rss",
+  "summary": "该条目是SubImage公司在Y Combinator上发布的招聘信息，招聘旧金山地区的创始工程师。SubImage是YC W25批次公司，但未明确提及AI、LLM或Agent相关技术。内容本身为招聘广告，无技术细节或行业分析。",
+  "tags": [
+    "招聘",
+    "YC",
+    "创始工程师"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-04T20:34:01+08:00",
+  "updated_at": "2026-09-04T20:34:01+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "SubImage为YC孵化的初创公司",
+      "招聘岗位为创始工程师，地点在旧金山",
+      "未涉及具体AI技术方向"
+    ],
+    "category": "招聘信息"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260904-009",
+  "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+  "source_url": "https://armature.tech/blog/which-tools-coding-agents-install",
+  "source_type": "rss",
+  "summary": "本文通过分析17,000次运行数据，研究了Claude、Codex和Cursor等主流AI编程代理实际安装和使用的工具。文章揭示了这些编码代理在真实场景中的工具选择偏好、使用频率及模式，为理解AI代理的工具调用行为提供了实证数据。研究发现不同代理在工具选择上存在显著差异，反映了各自的设计哲学和优化目标。该研究对AI代理的工具使用优化、性能评估及未来发展方向具有重要参考价值。",
+  "tags": [
+    "AI编程代理",
+    "工具调用",
+    "实证分析",
+    "Claude",
+    "Codex"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-04T20:34:01+08:00",
+  "updated_at": "2026-09-04T20:34:01+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "通过大规模运行数据量化了主流AI编码代理的工具使用行为，提供了实证基础",
+      "不同代理（Claude、Codex、Cursor）在工具选择上存在明显差异，反映设计策略不同",
+      "研究结果可用于优化代理的工具配置和性能评估"
+    ],
+    "category": "AI代理研究"
+  }
+}

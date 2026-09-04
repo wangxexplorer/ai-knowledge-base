@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260904-007",
+  "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
+  "source_url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
+  "source_type": "rss",
+  "summary": "该条目报道了黑客对一家身份验证公司长达一年多的实时监控入侵事件，涉及大规模身份数据泄露。此事件与AI/LLM/Agent领域相关，因为身份验证系统越来越多地采用AI技术，且AI Agent可能被用于自动化攻击或防御。事件凸显了AI系统中数据安全与隐私保护的重要性，以及AI在网络安全中的双刃剑效应。",
+  "tags": [
+    "网络安全",
+    "身份验证",
+    "数据泄露",
+    "AI安全",
+    "隐私"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-04T20:34:01+08:00",
+  "updated_at": "2026-09-04T20:34:01+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "身份验证公司成为黑客长期攻击目标，AI驱动的验证系统面临严峻安全挑战。",
+      "事件表明AI在身份验证中的应用需加强安全防护，防止数据被滥用。",
+      "对AI/LLM/Agent领域而言，此案例强调了在开发AI系统时需内置安全机制和隐私保护。"
+    ],
+    "category": "AI安全与隐私"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260904-019",
+  "title": "GPS glitched across the US by as much as 33 feet",
+  "source_url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
+  "source_type": "rss",
+  "summary": "该条目报道美国GPS系统出现高达33英尺的定位偏差，属于罕见异常现象。虽然与AI/LLM/Agent无直接关联，但GPS作为时空数据基础设施，其异常可能影响依赖位置信息的AI系统（如自动驾驶、物流机器人）的可靠性，也涉及AI用于异常检测的潜在场景。",
+  "tags": [
+    "GPS",
+    "基础设施",
+    "异常检测",
+    "时空数据"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-04T20:34:01+08:00",
+  "updated_at": "2026-09-04T20:34:01+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "GPS异常可能间接影响依赖位置数据的AI应用",
+      "此类事件可作为AI异常检测系统的测试案例",
+      "基础设施稳定性是AI系统可靠运行的前提"
+    ],
+    "category": "基础设施与数据可靠性"
+  }
+}

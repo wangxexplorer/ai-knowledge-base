@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260904-018",
+  "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+  "source_url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+  "source_type": "rss",
+  "summary": "韩国围棋九段棋手申真谑以让两子优势击败AI系统KataGo，这一事件展示了人类棋手在特定条件下对AI的战术胜利。该新闻在Hacker News上引发热议，涉及AI在博弈领域的局限性、人类直觉与AI计算的对比，以及AI系统在非标准规则下的脆弱性。此事件对理解AI在复杂决策中的边界具有参考价值，但主要聚焦于围棋领域，与通用AI或LLM的直接关联有限。",
+  "tags": [
+    "AI博弈",
+    "KataGo",
+    "围棋",
+    "人类vsAI",
+    "AI局限性"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-04T20:34:01+08:00",
+  "updated_at": "2026-09-04T20:34:01+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.4,
+    "key_insights": [
+      "人类棋手在让子条件下可击败顶级围棋AI，表明AI在非标准对局中可能表现不佳。",
+      "事件引发对AI系统鲁棒性和适应性的讨论，尤其在规则变化时。",
+      "与LLM和Agent领域关联较弱，但可作为AI能力边界研究的案例。"
+    ],
+    "category": "AI应用案例"
+  }
+}

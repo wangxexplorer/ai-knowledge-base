@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260904-010",
+  "title": "GPT-6 Astra",
+  "source_url": "https://openai.com/index/gpt-6-astra/",
+  "source_type": "rss",
+  "summary": "OpenAI发布GPT-6 Astra，作为新一代大语言模型，在编码智能体基准（Artificial Analysis Coding Agent Index）上取得重大进展，并发布系统卡（System Card）以披露部署安全信息。该模型在ARC-AGI-3基准上表现突出，引发Hacker News社区广泛讨论（1898分、1714条评论），关注点集中于模型能力、安全评估及智能体应用。",
+  "tags": [
+    "GPT-6",
+    "OpenAI",
+    "编码智能体",
+    "系统卡",
+    "基准测试"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-04T20:34:01+08:00",
+  "updated_at": "2026-09-04T20:34:01+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 1.0,
+    "key_insights": [
+      "GPT-6 Astra在编码智能体领域表现显著，推动Agent能力边界",
+      "系统卡发布强调部署安全，反映前沿模型安全评估重要性",
+      "ARC-AGI-3基准上的进展暗示通用推理能力提升"
+    ],
+    "category": "模型发布"
+  }
+}

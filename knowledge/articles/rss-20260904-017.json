@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260904-017",
+  "title": "Ask HN: Who is using MCP in production?",
+  "source_url": "https://news.ycombinator.com/item?id=49548600",
+  "source_type": "rss",
+  "summary": "该条目是Hacker News上的一个讨论帖，询问谁在生产环境中使用MCP（Model Context Protocol）。发帖者关注MCP自发布以来虽受关注，但实际生产使用案例不多。讨论旨在了解MCP的实际应用场景、相比普通API或直接工具集成的优势。帖子有92分和117条评论，反映了社区对MCP生产落地情况的兴趣与疑虑。",
+  "tags": [
+    "MCP",
+    "生产环境",
+    "工具集成",
+    "社区讨论",
+    "AI协议"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-04T20:34:01+08:00",
+  "updated_at": "2026-09-04T20:34:01+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "MCP在生产环境中的采用率尚不明确，引发社区讨论。",
+      "用户关注MCP相比传统API或直接集成的实际优势。",
+      "该讨论反映了AI工具协议从概念到落地的挑战。"
+    ],
+    "category": "技术讨论"
+  }
+}
