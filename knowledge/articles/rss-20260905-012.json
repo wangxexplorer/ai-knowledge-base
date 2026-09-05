@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260905-012",
+  "title": "An open DNS recursive service for free security and high privacy",
+  "source_url": "https://quad9.net/",
+  "source_type": "rss",
+  "summary": "该条目介绍Quad9，一个提供免费安全与高隐私保护的开放DNS递归服务。它通过阻止恶意域名来增强网络安全，并注重用户隐私。虽然DNS是互联网基础设施，与AI/LLM/Agent无直接关联，但可作为AI系统运行时的网络基础组件。",
+  "tags": [
+    "DNS",
+    "网络安全",
+    "隐私",
+    "基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-05T19:42:26+08:00",
+  "updated_at": "2026-09-05T19:42:26+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "DNS服务是网络基础，对AI系统运行有间接支持作用",
+      "该服务强调安全与隐私，与AI伦理中的隐私保护理念有微弱关联"
+    ],
+    "category": "网络基础设施"
+  }
+}

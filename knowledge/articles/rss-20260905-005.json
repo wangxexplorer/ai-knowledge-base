@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260905-005",
+  "title": "Artificial Analysis Intelligence Index v4.2",
+  "source_url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+  "source_type": "rss",
+  "summary": "该条目介绍Artificial Analysis Intelligence Index v4.2，这是一个用于评估和比较AI模型能力的综合指数。文章可能涵盖最新版本指数的更新内容、评测方法及对主流大语言模型（LLM）的性能排名。该指数通过标准化测试衡量模型在推理、知识、编码等多维度能力，为AI领域提供客观的基准参考。其发布在Hacker News上并引发讨论，表明社区对模型评测和对比的高度关注。",
+  "tags": [
+    "AI评测",
+    "LLM基准",
+    "模型对比",
+    "Artificial Analysis",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-05T19:42:26+08:00",
+  "updated_at": "2026-09-05T19:42:26+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "该指数提供多维度AI模型能力量化评估，有助于横向对比主流LLM。",
+      "v4.2版本更新可能反映最新模型进展和评测标准演进。",
+      "社区讨论热度高，体现AI模型评测在开发者中的重要性。"
+    ],
+    "category": "AI评测与基准"
+  }
+}

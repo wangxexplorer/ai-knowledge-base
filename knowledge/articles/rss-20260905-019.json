@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260905-019",
+  "title": "Show HN: Open-Source eInk Bike Computer",
+  "source_url": "https://opentrailpaper.com",
+  "source_type": "rss",
+  "summary": "该项目是一个开源的电子墨水屏自行车电脑，利用AI辅助开发了ESP32上的ANT协议实现，通过探索未文档化寄存器完成。展示了AI在硬件逆向工程和协议实现中的辅助作用，但核心是硬件DIY项目，与AI、LLM、Agent领域直接相关性较低。",
+  "tags": [
+    "AI辅助开发",
+    "硬件",
+    "开源",
+    "ESP32",
+    "ANT协议"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-05T19:42:26+08:00",
+  "updated_at": "2026-09-05T19:42:26+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "AI可辅助硬件协议实现，降低开发门槛",
+      "开源硬件项目结合AI工具是新兴趋势",
+      "AI在嵌入式开发中的潜力值得关注"
+    ],
+    "category": "硬件与AI应用"
+  }
+}

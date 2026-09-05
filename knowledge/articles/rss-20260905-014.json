@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260905-014",
+  "title": "Government Rails Site Hit Hours After CVE Patch",
+  "source_url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+  "source_type": "rss",
+  "summary": "该条目报道了一个政府网站因未及时应用Ruby on Rails的CVE补丁而在补丁发布数小时后即遭攻击的事件。文章强调了漏洞修补的紧迫性以及未修补系统面临的现实威胁。虽然内容涉及网络安全，但未直接关联AI、LLM或Agent技术，仅可能对AI系统的安全运维有间接参考价值。",
+  "tags": [
+    "网络安全",
+    "CVE",
+    "补丁管理",
+    "Ruby on Rails"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-05T19:42:26+08:00",
+  "updated_at": "2026-09-05T19:42:26+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "补丁需及时应用，否则易被利用",
+      "政府网站成为攻击目标",
+      "漏洞利用速度极快"
+    ],
+    "category": "网络安全"
+  }
+}

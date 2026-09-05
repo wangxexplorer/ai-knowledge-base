@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260905-009",
+  "title": "Actively exploited sandbox RCE in all Chromium versions",
+  "source_url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+  "source_type": "rss",
+  "summary": "该条目报告了所有Chromium版本中存在的一个被积极利用的沙箱远程代码执行漏洞（CVE-2026-85046），来源为NVD和Hacker News。该漏洞影响广泛使用的浏览器内核，可能导致任意代码执行。虽然与AI/LLM/Agent无直接关联，但AI系统常依赖Chromium（如Electron应用、浏览器自动化工具）作为运行环境，因此该漏洞可能间接影响AI应用的安全性。",
+  "tags": [
+    "安全漏洞",
+    "Chromium",
+    "RCE",
+    "沙箱逃逸",
+    "供应链安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-05T19:42:26+08:00",
+  "updated_at": "2026-09-05T19:42:26+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Chromium漏洞可影响基于其构建的AI工具链",
+      "沙箱逃逸漏洞威胁AI系统的运行环境安全",
+      "需关注AI基础设施中浏览器组件的补丁更新"
+    ],
+    "category": "安全"
+  }
+}

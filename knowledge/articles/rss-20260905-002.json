@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260905-002",
+  "title": "AI handles incidents, engineers lose touch with their systems",
+  "source_url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+  "source_type": "rss",
+  "summary": "文章讨论AI在系统运维中处理事故的能力增强，但可能导致工程师对自身系统理解减弱。作者担忧过度依赖AI会削弱工程师的故障排查和系统掌握能力，强调需平衡自动化与人工参与。",
+  "tags": [
+    "AI运维",
+    "人机协作",
+    "系统可靠性",
+    "技能退化",
+    "自动化"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-05T19:42:26+08:00",
+  "updated_at": "2026-09-05T19:42:26+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI可高效处理常规事故，但可能使工程师缺乏深入理解系统的机会。",
+      "长期依赖AI可能导致工程师技能退化，影响复杂问题解决能力。",
+      "需设计人机协同机制，保持工程师对系统的掌控与学习。"
+    ],
+    "category": "AI应用与影响"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260905-016",
+  "title": "Shutting down our public encrypted DNS",
+  "source_url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+  "source_type": "rss",
+  "summary": "Mullvad宣布关闭其公共加密DNS服务，转而赞助Quad9项目。这一决策反映了隐私保护领域对DNS基础设施的重新评估，与AI/LLM/Agent领域无直接关联，但涉及网络基础设施、隐私和安全技术，可能对依赖网络服务的AI系统有间接影响。",
+  "tags": [
+    "DNS",
+    "隐私",
+    "网络安全",
+    "基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-05T19:42:26+08:00",
+  "updated_at": "2026-09-05T19:42:26+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "公共加密DNS服务因运营成本或战略调整被关闭，转向支持其他隐私组织。",
+      "该事件不涉及AI模型或Agent技术，但网络基础设施变化可能影响AI服务的可用性。",
+      "赞助Quad9表明隐私社区在DNS领域寻求合作，而非自建服务。"
+    ],
+    "category": "网络基础设施"
+  }
+}

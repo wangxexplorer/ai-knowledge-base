@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260905-013",
+  "title": "Can AI design circuit boards yet?",
+  "source_url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+  "source_type": "rss",
+  "summary": "本文探讨AI在电路板设计领域的当前能力与局限。文章可能评估了AI工具在原理图生成、布局布线等环节的表现，并对比人类工程师的效率与质量。内容涉及AI在硬件设计自动化中的应用，属于AI在特定工程领域的落地实践，与LLM和Agent的关联在于可能使用大模型进行设计辅助或自动化决策。",
+  "tags": [
+    "AI硬件设计",
+    "电路板",
+    "自动化",
+    "LLM应用",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-05T19:42:26+08:00",
+  "updated_at": "2026-09-05T19:42:26+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI在电路板设计中的可行性分析",
+      "LLM/Agent在硬件设计中的潜在应用",
+      "AI与人类工程师的协作模式"
+    ],
+    "category": "AI应用"
+  }
+}

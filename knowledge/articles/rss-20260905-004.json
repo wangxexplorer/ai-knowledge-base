@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260905-004",
+  "title": "Nitter has more working instances than before the takedowns",
+  "source_url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+  "source_type": "rss",
+  "summary": "该条目讨论Nitter（一个Twitter替代前端）在遭受封禁后，其可用实例数量反而比封禁前更多。Nitter允许用户无需登录即可浏览Twitter内容，保护隐私。文章来自Codeberg上的Shitter项目，记录了实例列表。此内容与AI、LLM或Agent领域无直接关联，主要涉及开源软件、去中心化网络和隐私保护。",
+  "tags": [
+    "Nitter",
+    "开源软件",
+    "隐私",
+    "去中心化"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-05T19:42:26+08:00",
+  "updated_at": "2026-09-05T19:42:26+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Nitter实例在封禁后数量增加，显示社区韧性。",
+      "该事件反映社交媒体替代工具的需求。",
+      "与AI/LLM/Agent无直接技术关联。"
+    ],
+    "category": "技术新闻"
+  }
+}

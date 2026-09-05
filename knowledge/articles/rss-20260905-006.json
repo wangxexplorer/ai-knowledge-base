@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260905-006",
+  "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+  "source_url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+  "source_type": "rss",
+  "summary": "Spotify工程团队分享了其内部工具Portal，该工具通过优化上下文管理、智能缓存和代码检索，将Claude Code的token使用量降低了90%。这显著减少了AI编程助手的成本，同时提升了开发效率。Portal的设计思路为LLM在代码生成场景中的高效应用提供了实践参考。",
+  "tags": [
+    "AI编程",
+    "Token优化",
+    "Claude Code",
+    "成本控制",
+    "开发工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-05T19:42:26+08:00",
+  "updated_at": "2026-09-05T19:42:26+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "通过上下文压缩和缓存策略可大幅降低LLM调用成本。",
+      "针对特定场景（如代码生成）优化工具设计能显著提升效率。",
+      "Spotify的案例展示了企业级AI工具落地的实际收益。"
+    ],
+    "category": "AI工程实践"
+  }
+}

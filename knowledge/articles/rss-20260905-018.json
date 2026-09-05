@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260905-018",
+  "title": "The Rust React Compiler is now native in Vite",
+  "source_url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+  "source_type": "rss",
+  "summary": "该条目报道了React编译器已用Rust重写并原生集成到Vite构建工具中，属于前端工程化与性能优化领域的技术进展。内容聚焦于构建工具链的改进，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "React",
+    "Rust",
+    "Vite",
+    "前端性能"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-05T19:42:26+08:00",
+  "updated_at": "2026-09-05T19:42:26+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Rust重写编译器可提升构建性能",
+      "Vite集成简化前端工具链",
+      "反映前端工具链向系统级语言演进趋势"
+    ],
+    "category": "前端开发"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260905-008",
+  "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+  "source_url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+  "source_type": "rss",
+  "summary": "该条目报道盖洛普民调显示89%的美国人认为政府腐败普遍，创历史新高。内容涉及公众对政府信任度下降，与AI、LLM或Agent技术无直接关联，但可间接关联AI在政府透明度、反腐败监测或公共舆论分析中的应用潜力。",
+  "tags": [
+    "政府腐败",
+    "公众信任",
+    "民调"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-05T19:42:26+08:00",
+  "updated_at": "2026-09-05T19:42:26+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "公众对政府信任度降至历史低点",
+      "AI可用于反腐败监测和透明度提升",
+      "舆论分析可借助NLP技术"
+    ],
+    "category": "社会政治"
+  }
+}

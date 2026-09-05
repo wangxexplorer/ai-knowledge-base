@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260905-020",
+  "title": "IBM Bob",
+  "source_url": "https://bob.ibm.com/",
+  "source_type": "rss",
+  "summary": "IBM Bob是IBM推出的一个项目，其官网bob.ibm.com在Hacker News上引发讨论，获得277分和293条评论。虽然描述信息有限，但鉴于IBM在AI领域的布局，Bob可能涉及AI或LLM相关技术，如对话式AI或智能助手。具体功能需进一步访问官网或查看评论确认。",
+  "tags": [
+    "IBM",
+    "AI",
+    "LLM",
+    "智能助手",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-05T19:42:26+08:00",
+  "updated_at": "2026-09-05T19:42:26+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "IBM Bob可能是一个AI助手或LLM应用，需进一步验证。",
+      "高关注度表明社区对其兴趣浓厚。",
+      "IBM在AI领域的投入暗示Bob可能集成先进AI技术。"
+    ],
+    "category": "AI产品"
+  }
+}

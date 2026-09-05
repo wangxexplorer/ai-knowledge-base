@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260905-010",
+  "title": "GPT-6 Astra on OpenRouter",
+  "source_url": "https://openrouter.ai/openai/gpt-6-astra",
+  "source_type": "rss",
+  "summary": "该条目报道了OpenRouter平台上出现GPT-6 Astra模型，来自Hacker News，有236个点赞和149条评论，表明社区高度关注。GPT-6 Astra作为OpenAI的新一代模型，其发布对AI、LLM领域具有重大意义，可能带来性能提升和新能力，并影响Agent等下游应用的发展。",
+  "tags": [
+    "GPT-6",
+    "OpenRouter",
+    "OpenAI",
+    "LLM",
+    "模型发布"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-05T19:42:26+08:00",
+  "updated_at": "2026-09-05T19:42:26+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "GPT-6 Astra的发布标志着LLM能力的又一次跃升。",
+      "OpenRouter作为平台，促进了模型的广泛访问和集成。",
+      "社区讨论热度高，反映了业界对前沿模型的密切关注。"
+    ],
+    "category": "模型发布"
+  }
+}

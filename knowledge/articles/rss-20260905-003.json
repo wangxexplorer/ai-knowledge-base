@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260905-003",
+  "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+  "source_url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+  "source_type": "rss",
+  "summary": "本文评估了GPT-6 Astra在代码审查场景中的表现，重点分析了其带来的收益、隐私问题及成本。作为AI模型在软件开发中的应用案例，文章探讨了GPT-6 Astra如何提升代码审查效率与准确性，同时指出企业采用时需考虑的隐私保护和成本因素。内容涉及LLM在专业领域的落地实践，对AI与软件工程结合具有参考价值。",
+  "tags": [
+    "GPT-6",
+    "代码审查",
+    "LLM应用",
+    "隐私",
+    "成本"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-05T19:42:26+08:00",
+  "updated_at": "2026-09-05T19:42:26+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "GPT-6 Astra在代码审查中展现出效率提升，但需权衡隐私与成本。",
+      "LLM在软件开发流程中的集成是当前AI落地的重要方向。",
+      "企业采用高级AI模型时，隐私保护和成本控制是关键考量。"
+    ],
+    "category": "AI应用"
+  }
+}
