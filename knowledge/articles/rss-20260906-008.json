@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260906-008",
+  "title": "AI, Tools and Transformation",
+  "source_url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+  "source_type": "rss",
+  "summary": "本文探讨AI工具与数字化转型的关系，分析AI技术如何从工具层面推动组织变革，涉及LLM和Agent在实际应用中的潜力与挑战，强调技术落地需结合业务流程重构。",
+  "tags": [
+    "AI工具",
+    "数字化转型",
+    "LLM",
+    "Agent",
+    "组织变革"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-06T19:59:56+08:00",
+  "updated_at": "2026-09-06T19:59:56+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "AI工具的价值在于驱动业务流程重构而非单纯自动化",
+      "LLM和Agent需与组织架构适配才能实现转型效果",
+      "技术落地需关注人机协作与变革管理"
+    ],
+    "category": "AI应用与产业影响"
+  }
+}

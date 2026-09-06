@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260906-017",
+  "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+  "source_url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+  "source_type": "rss",
+  "summary": "本文深入探讨Rust中动态分发（dyn Trait）的实现细节，通过可视化方式展示vtable在内存中的布局与工作原理。内容涵盖trait对象的构成、vtable的结构、方法调用的间接寻址机制，以及性能影响。该文对理解底层系统编程语言的内存模型有重要价值，但与AI、LLM或Agent领域无直接关联，仅可作为系统编程背景知识参考。",
+  "tags": [
+    "Rust",
+    "系统编程",
+    "内存布局",
+    "动态分发",
+    "底层实现"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-06T19:59:56+08:00",
+  "updated_at": "2026-09-06T19:59:56+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Rust的dyn Trait通过vtable实现动态分发，vtable存储方法指针和类型信息。",
+      "可视化方法有助于理解trait对象的内存开销和间接调用成本。",
+      "该知识对构建高性能AI系统底层组件（如推理引擎）有间接参考价值。"
+    ],
+    "category": "编程语言"
+  }
+}

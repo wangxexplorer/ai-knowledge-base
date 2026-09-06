@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260906-014",
+  "title": "LLMs as a Cognitive Virus",
+  "source_url": "https://arxiv.org/abs/2609.03344",
+  "source_type": "rss",
+  "summary": "该条目标题为“LLMs as a Cognitive Virus”，来自arXiv预印本，在Hacker News上获得292分和207条评论，引发广泛讨论。文章可能探讨大语言模型（LLMs）对认知的潜在负面影响，如信息操纵、思维同质化或认知依赖，类比为“认知病毒”。内容涉及AI伦理、社会影响及人机交互，与AI、LLM领域高度相关，但缺乏具体摘要，需进一步阅读原文以确认核心论点。",
+  "tags": [
+    "LLM",
+    "AI伦理",
+    "认知影响",
+    "社会影响",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-06T19:59:56+08:00",
+  "updated_at": "2026-09-06T19:59:56+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "LLMs可能被类比为认知病毒，暗示其对人类思维有潜在负面效应。",
+      "高讨论度表明该话题在技术社区引发广泛关注。",
+      "需关注LLM的滥用风险及长期认知影响。"
+    ],
+    "category": "AI伦理与社会影响"
+  }
+}

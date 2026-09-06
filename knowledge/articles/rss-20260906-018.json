@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260906-018",
+  "title": "Nitter has more working instances than before the takedowns",
+  "source_url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+  "source_type": "rss",
+  "summary": "该条目报道Nitter（一个Twitter/X的替代前端）在遭遇下架后，其可用实例数量反而增加。Nitter通过代理访问Twitter数据，无需API密钥，常用于数据抓取和隐私保护。此事件反映了开源社区对集中式平台的反制，以及分布式实例网络的韧性。对AI领域而言，Nitter实例的可用性影响数据采集渠道，但本身不涉及LLM或Agent核心技术。",
+  "tags": [
+    "数据采集",
+    "开源社区",
+    "分布式网络",
+    "隐私工具",
+    "Twitter替代"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-06T19:59:56+08:00",
+  "updated_at": "2026-09-06T19:59:56+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Nitter实例的恢复和增长表明开源替代方案在对抗平台限制时具有韧性。",
+      "对AI数据采集而言，Nitter提供了一种无需官方API的Twitter数据访问途径，但稳定性存疑。",
+      "该事件与LLM或Agent技术无直接关联，但反映了数据源生态的变动。"
+    ],
+    "category": "技术生态"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260906-009",
+  "title": "GPT-6 Astra on robot arms",
+  "source_url": "https://openai.robocurve.org/gpt-6-astra/",
+  "source_type": "rss",
+  "summary": "该条目标题提及GPT-6 Astra应用于机器人手臂，来源为Hacker News上的RSS内容，描述中仅包含文章链接、评论链接及点赞评论数，未提供具体技术细节。标题暗示OpenAI可能将GPT-6 Astra模型与机器人控制结合，涉及多模态AI与具身智能方向，但内容缺乏实质信息，无法确认技术真实性。",
+  "tags": [
+    "GPT-6",
+    "机器人",
+    "具身智能",
+    "OpenAI",
+    "多模态"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-06T19:59:56+08:00",
+  "updated_at": "2026-09-06T19:59:56+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "标题指向GPT-6 Astra与机器人手臂的结合，可能涉及多模态模型在物理世界中的应用。",
+      "来源为Hacker News讨论，但描述无实质内容，需进一步验证信息真实性。",
+      "该方向属于AI与机器人交叉领域，具有潜在研究价值。"
+    ],
+    "category": "AI模型应用"
+  }
+}
