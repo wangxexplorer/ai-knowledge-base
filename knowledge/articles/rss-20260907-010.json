@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260907-010",
+  "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+  "source_url": "https://mathathonchallenge.com/index.html",
+  "source_type": "rss",
+  "summary": "加州理工学院举办首届专注于研究级数学的黑客马拉松Mathathon，旨在通过协作竞赛形式解决前沿数学问题。该活动虽非直接针对AI，但数学是AI和LLM的理论基础，此类竞赛可能推动算法创新，间接促进AI领域发展。",
+  "tags": [
+    "数学",
+    "黑客马拉松",
+    "研究",
+    "算法",
+    "教育"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-07T22:03:07+08:00",
+  "updated_at": "2026-09-07T22:03:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "研究级数学黑客马拉松为罕见形式，可能激发数学新思路。",
+      "数学突破常为AI算法提供理论支撑。",
+      "此类活动或吸引跨学科人才，促进AI与数学交叉创新。"
+    ],
+    "category": "学术活动"
+  }
+}

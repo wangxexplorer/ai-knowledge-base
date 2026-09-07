@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260907-011",
+  "title": "Speculative Decoding in vLLM on AMD GPUs",
+  "source_url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+  "source_type": "rss",
+  "summary": "本文介绍vLLM在AMD GPU上实现投机解码（Speculative Decoding）的技术细节。投机解码通过小模型草稿、大模型验证的方式加速推理，无需降低输出质量。文章重点讨论AMD ROCm平台上的优化策略，包括内核融合、内存管理和调度改进，以充分利用AMD GPU的架构特性。该技术对降低LLM推理延迟、提升吞吐量有重要意义，尤其适用于大规模部署场景。",
+  "tags": [
+    "投机解码",
+    "vLLM",
+    "AMD GPU",
+    "推理加速",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-07T22:03:07+08:00",
+  "updated_at": "2026-09-07T22:03:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "投机解码可显著提升LLM推理速度，且不损失生成质量。",
+      "vLLM在AMD GPU上的优化展示了跨平台推理框架的成熟。",
+      "该技术对降低大规模LLM服务成本具有实际价值。"
+    ],
+    "category": "技术实现"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260907-012",
+  "title": "Live map of public transport in Belgium",
+  "source_url": "https://openbaarvervoerbelgie.be/",
+  "source_type": "rss",
+  "summary": "该条目介绍比利时公共交通的实时地图网站，提供公共交通的实时位置和路线信息。内容与AI、LLM或Agent技术无直接关联，属于交通数据可视化应用。",
+  "tags": [
+    "公共交通",
+    "实时地图",
+    "数据可视化"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-07T22:03:07+08:00",
+  "updated_at": "2026-09-07T22:03:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "实时交通数据展示",
+      "面向公众的信息服务"
+    ],
+    "category": "交通应用"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260907-007",
+  "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+  "source_url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+  "source_type": "rss",
+  "summary": "《经济学人》文章指出，AI对就业的冲击并非末日，反而催生了新的就业热潮。文章认为，AI技术正在创造新的岗位需求，而非大规模取代人类工作。这一观点与当前AI、LLM和Agent领域的发展趋势相符，即技术更多是增强人类能力而非完全替代。文章基于经济数据和案例分析，为理解AI对劳动力市场的影响提供了实证视角。",
+  "tags": [
+    "AI就业影响",
+    "劳动力市场",
+    "经济分析",
+    "技术趋势",
+    "人机协作"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-07T22:03:07+08:00",
+  "updated_at": "2026-09-07T22:03:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI技术短期内不会导致大规模失业，反而可能创造新的就业机会。",
+      "AI和LLM的应用正在改变工作性质，强调人机协作而非简单替代。",
+      "政策制定者和企业需关注AI带来的技能转型需求。"
+    ],
+    "category": "AI社会经济影响"
+  }
+}

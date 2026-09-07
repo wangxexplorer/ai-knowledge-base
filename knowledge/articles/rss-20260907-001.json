@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260907-001",
+  "title": "De-Brainrot Vacations",
+  "source_url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+  "source_type": "rss",
+  "summary": "该条目为一篇个人博客文章，标题为“De-Brainrot Vacations”，内容可能涉及作者在假期中远离网络信息轰炸、恢复专注力的经历。文章在Hacker News上获得120分和30条评论，表明其引发一定讨论。但内容与AI、LLM或Agent技术无直接关联，更多属于个人生活体验或数字健康话题。",
+  "tags": [
+    "数字健康",
+    "信息过载",
+    "个人体验"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-07T22:03:07+08:00",
+  "updated_at": "2026-09-07T22:03:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "文章可能探讨如何应对信息过载，与AI无关。",
+      "在HN上讨论度高，但技术相关性低。",
+      "可作为数字时代人类行为研究的边缘参考。"
+    ],
+    "category": "生活方式"
+  }
+}

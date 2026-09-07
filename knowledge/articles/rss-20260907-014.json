@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260907-014",
+  "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+  "source_url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+  "source_type": "rss",
+  "summary": "该条目报道LG智能电视在屏幕关闭时仍记录音频并扫描本地网络设备，引发隐私担忧。事件涉及智能设备的数据收集行为，与AI语音助手、边缘计算及物联网安全相关，但未直接涉及LLM或Agent技术。",
+  "tags": [
+    "隐私",
+    "智能电视",
+    "物联网",
+    "语音数据",
+    "安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-07T22:03:07+08:00",
+  "updated_at": "2026-09-07T22:03:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "智能设备常驻麦克风监听引发隐私风险",
+      "本地网络扫描可能泄露设备信息",
+      "AI语音功能需平衡便利与数据保护"
+    ],
+    "category": "隐私与安全"
+  }
+}

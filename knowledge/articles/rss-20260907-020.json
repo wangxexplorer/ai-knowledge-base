@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260907-020",
+  "title": "It took a year to ship WebAssembly in Anubis",
+  "source_url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+  "source_type": "rss",
+  "summary": "本文介绍了在Anubis项目中集成WebAssembly（Wasm）所经历的漫长过程，耗时一年。文章可能详细描述了技术挑战、设计决策和实现细节，以及最终成功交付的经验。虽然主题是WebAssembly，但涉及编译器、运行时和性能优化，与AI/LLM/Agent领域关联较弱，可能仅在边缘场景（如AI模型推理加速）有间接联系。",
+  "tags": [
+    "WebAssembly",
+    "系统编程",
+    "性能优化",
+    "技术挑战"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-07T22:03:07+08:00",
+  "updated_at": "2026-09-07T22:03:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "WebAssembly集成需要长期投入和迭代。",
+      "技术实现中可能涉及性能与兼容性的权衡。",
+      "对AI领域影响有限，但可借鉴其工程经验。"
+    ],
+    "category": "系统开发"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260907-013",
+  "title": "Programming is Art",
+  "source_url": "https://orchidfiles.com/programming-is-art/",
+  "source_type": "rss",
+  "summary": "该条目标题为“Programming is Art”，来自Hacker News，讨论编程的艺术性。内容可能涉及编程的创造性、美学价值，以及程序员作为艺术家的视角。虽然未直接提及AI、LLM或Agent，但编程作为AI技术的基础，其艺术性探讨对理解AI开发中的创造性思维有一定启发。条目在HN上获得127分和129条评论，表明社区对此话题有较高关注度。",
+  "tags": [
+    "编程",
+    "艺术",
+    "创造性",
+    "开发者文化"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-07T22:03:07+08:00",
+  "updated_at": "2026-09-07T22:03:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "编程被视为一种艺术形式，强调创造性表达。",
+      "该讨论可能间接影响AI开发中的设计思维。",
+      "HN社区对编程人文层面的兴趣反映了技术社区的多维度思考。"
+    ],
+    "category": "编程哲学"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260907-018",
+  "title": "Making a Python interpreter in 1024 bytes",
+  "source_url": "https://austinhenley.com/blog/python1024.html",
+  "source_type": "rss",
+  "summary": "本文介绍作者如何用1024字节的Python代码实现一个微型Python解释器，展示了极简代码的编程技巧和解释器核心原理。该内容与AI、LLM或Agent无直接关联，但涉及编程语言实现和代码优化，对理解底层执行机制有一定参考价值。",
+  "tags": [
+    "Python",
+    "解释器",
+    "代码优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-07T22:03:07+08:00",
+  "updated_at": "2026-09-07T22:03:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "极简代码实现解释器的可能性",
+      "解释器核心原理的简化演示",
+      "对底层执行机制的启发"
+    ],
+    "category": "编程技术"
+  }
+}

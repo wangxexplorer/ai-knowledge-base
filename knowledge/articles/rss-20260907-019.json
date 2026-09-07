@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260907-019",
+  "title": "Is mathematics about to enter the conservatory?",
+  "source_url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
+  "source_type": "rss",
+  "summary": "文章探讨数学研究是否正变得像音乐学院一样，注重技巧和表演而非创新。作者认为，数学界可能过度强调解决难题和发表论文，而忽视了基础性、概念性的思考。这与AI领域中对算法创新与工程实现的平衡讨论有相似之处，但文章本身不直接涉及AI、LLM或Agent技术。",
+  "tags": [
+    "数学",
+    "学术文化",
+    "创新",
+    "AI类比"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-07T22:03:07+08:00",
+  "updated_at": "2026-09-07T22:03:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "数学研究可能面临创新与技巧的失衡，类似AI领域对算法创新与工程优化的讨论。",
+      "文章观点可类比AI研究中对基础理论突破与工程应用的权衡。",
+      "对AI从业者而言，提醒保持概念性思考，避免过度追求指标优化。"
+    ],
+    "category": "学术文化"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260907-017",
+  "title": "Show HN: GET Together – A social network where you don't need POST to Post",
+  "source_url": "https://gettogether.dev",
+  "source_type": "rss",
+  "summary": "GET Together是一个社交网络项目，其核心创意是仅使用HTTP GET方法进行发帖，以幽默方式调侃RESTful API设计。该项目在Hacker News上获得87分和43条评论，引发技术社区讨论。尽管与AI、LLM或Agent无直接关联，但其对API设计模式的反思可能对AI系统交互设计有间接启发。",
+  "tags": [
+    "社交网络",
+    "HTTP",
+    "API设计",
+    "技术幽默"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-07T22:03:07+08:00",
+  "updated_at": "2026-09-07T22:03:07+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "该项目以反讽方式探讨HTTP方法语义，可能引发对AI接口设计的思考。",
+      "社区讨论热度表明开发者对API设计话题的兴趣。",
+      "与AI核心领域无直接关联，但可视为技术文化的一部分。"
+    ],
+    "category": "技术创意"
+  }
+}
