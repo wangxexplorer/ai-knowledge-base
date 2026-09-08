@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260908-013",
+  "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+  "source_url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+  "source_type": "rss",
+  "summary": "本文作者成功分解了上世纪90年代一家证书颁发机构（CA）的RSA密钥，揭示了早期加密实现中的安全弱点。该事件凸显了密码学算法随时间推移面临的失效风险，以及历史密钥对现代安全基础设施的潜在影响。虽然内容聚焦于传统RSA密码学，但其对安全协议、信任模型和长期数据保护的讨论，与AI系统（尤其是依赖加密通信和身份验证的Agent）的安全基础有间接关联。",
+  "tags": [
+    "密码学",
+    "安全",
+    "RSA",
+    "历史漏洞",
+    "信任模型"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-08T20:41:13+08:00",
+  "updated_at": "2026-09-08T20:41:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "历史加密密钥的破解可能影响现代安全体系，AI系统需关注底层密码学依赖。",
+      "早期CA的密钥管理缺陷为现代PKI（公钥基础设施）设计提供了教训，AI安全可借鉴。",
+      "该事件提醒AI领域，长期运行的系统需考虑算法过时和量子计算威胁。"
+    ],
+    "category": "安全"
+  }
+}

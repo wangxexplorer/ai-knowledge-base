@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260908-015",
+  "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+  "source_url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+  "source_type": "rss",
+  "summary": "该条目报道博通收购VMware后撤下VDDK下载，增加用户迁移难度。内容聚焦虚拟化技术生态与商业策略，未涉及AI、LLM或Agent相关技术、应用或研究。",
+  "tags": [
+    "VMware",
+    "虚拟化",
+    "博通"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-08T20:41:13+08:00",
+  "updated_at": "2026-09-08T20:41:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "博通策略影响VMware用户迁移",
+      "虚拟化生态商业变动"
+    ],
+    "category": "IT基础设施"
+  }
+}

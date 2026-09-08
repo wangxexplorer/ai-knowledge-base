@@ -1,0 +1,26 @@
+{
+  "id": "rss-20260908-006",
+  "title": "My Feed, My Way",
+  "source_url": "https://www.pm.gov.au/media/my-feed-my-way",
+  "source_type": "rss",
+  "summary": "该条目标题为“My Feed, My Way”，来源为澳大利亚总理官网，经Hacker News讨论。内容未明确涉及AI、LLM或Agent技术，可能涉及信息获取或政策话题。相关性极低。",
+  "tags": [
+    "政策",
+    "信息获取"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-08T20:41:13+08:00",
+  "updated_at": "2026-09-08T20:41:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "标题暗示个性化信息流，但无技术细节",
+      "来源为政府网站，非技术社区",
+      "讨论热度高但内容不明确"
+    ],
+    "category": "非技术"
+  }
+}

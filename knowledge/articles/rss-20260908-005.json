@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260908-005",
+  "title": "Multi-Agents LLM Financial Trading Framework",
+  "source_url": "https://github.com/TauricResearch/TradingAgents",
+  "source_type": "rss",
+  "summary": "该项目提出一个基于多智能体LLM的金融交易框架，利用多个大语言模型智能体模拟分析师、研究员和交易员等角色，通过协作与辩论进行投资决策。框架在金融领域展示了LLM在复杂任务中的应用潜力，体现了多智能体系统在专业场景中的价值。",
+  "tags": [
+    "多智能体",
+    "金融交易",
+    "LLM",
+    "投资决策",
+    "协作"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-08T20:41:13+08:00",
+  "updated_at": "2026-09-08T20:41:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "多智能体LLM框架可模拟专业角色协作，提升决策质量。",
+      "金融领域是LLM多智能体应用的重要场景之一。",
+      "该框架展示了LLM在专业任务中的可扩展性和实用性。"
+    ],
+    "category": "应用实践"
+  }
+}

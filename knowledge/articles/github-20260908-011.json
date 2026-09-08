@@ -1,0 +1,31 @@
+{
+  "id": "github-20260908-011",
+  "title": "unsloth",
+  "source_url": "https://github.com/unslothai/unsloth",
+  "source_type": "github",
+  "summary": "unsloth是一个用于本地运行和训练大型语言模型及扩散模型的开源工具，提供用户界面，支持GGUF、MLX等多种格式，以及Qwen、DeepSeek、Gemma、FLUX等模型。它专注于高效微调，在AI和LLM领域具有较高相关性，尤其适用于Agent开发中的模型定制与部署。",
+  "tags": [
+    "LLM",
+    "微调",
+    "本地部署",
+    "开源工具",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-08T20:41:13+08:00",
+  "updated_at": "2026-09-08T20:41:13+08:00",
+  "metadata": {
+    "stars": 75810,
+    "language": "Python",
+    "author": "unslothai"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "支持多种主流模型和格式，降低本地训练与运行门槛。",
+      "高效微调能力有助于定制化Agent行为。",
+      "开源且高星标，社区活跃，生态成熟。"
+    ],
+    "category": "开发工具"
+  }
+}

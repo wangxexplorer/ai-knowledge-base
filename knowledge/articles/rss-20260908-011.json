@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260908-011",
+  "title": "There's a new \"Google Jail\" for independent wikis",
+  "source_url": "https://weirdgloop.org/blog/google-jail",
+  "source_type": "rss",
+  "summary": "本文讨论独立维基网站被谷歌搜索降权或排除的现象，称为“Google Jail”。作者来自Weird Gloop（运营RuneScape Wiki等），指出独立维基在搜索结果中排名下降，流量受损，而大型平台（如Fandom）或AI生成内容更受青睐。文章分析谷歌算法变化对小型、非商业网站的影响，并探讨独立维基的应对策略。该话题与AI相关，因为AI生成内容可能加剧搜索质量下降，影响独立内容生态。",
+  "tags": [
+    "搜索算法",
+    "独立维基",
+    "AI内容",
+    "内容生态",
+    "谷歌"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-08T20:41:13+08:00",
+  "updated_at": "2026-09-08T20:41:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "独立维基面临搜索流量危机，与AI生成内容竞争有关。",
+      "谷歌算法偏向大型平台，可能损害知识共享生态。",
+      "AI技术加剧内容同质化，影响独立网站生存。"
+    ],
+    "category": "技术生态"
+  }
+}

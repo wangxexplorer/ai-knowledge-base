@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260908-004",
+  "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+  "source_url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+  "source_type": "rss",
+  "summary": "该文章报道了在欧洲使用CDN的企业中，近九成选择Cloudflare，凸显其在欧洲市场的绝对主导地位。这一现象反映了CDN市场的集中化趋势，可能引发对基础设施依赖、单点故障风险及竞争格局的讨论。虽然内容本身不直接涉及AI或LLM，但CDN作为AI服务（如模型推理、内容分发）的关键基础设施，其市场格局对AI应用的部署效率、可靠性和成本有间接影响。",
+  "tags": [
+    "CDN",
+    "Cloudflare",
+    "基础设施",
+    "市场集中",
+    "欧洲"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-08T20:41:13+08:00",
+  "updated_at": "2026-09-08T20:41:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Cloudflare在欧洲CDN市场占据近90%份额，显示高度集中。",
+      "CDN是AI服务分发的重要底层支撑，其稳定性影响AI应用体验。",
+      "市场集中可能带来供应链风险，值得AI依赖方关注。"
+    ],
+    "category": "技术基础设施"
+  }
+}

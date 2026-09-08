@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260908-007",
+  "title": "Mistral raises €3B",
+  "source_url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+  "source_type": "rss",
+  "summary": "Mistral AI宣布完成30亿欧元融资，旨在推动主权开放权重AI模型的发展，并迈向前沿水平。该事件反映了欧洲在AI领域的积极布局，以及市场对开放权重模型和主权AI解决方案的强烈需求。融资将用于扩大计算资源、研发和全球扩张，强化其在LLM和Agent领域的竞争力。",
+  "tags": [
+    "Mistral",
+    "融资",
+    "开放权重",
+    "主权AI",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-08T20:41:13+08:00",
+  "updated_at": "2026-09-08T20:41:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "巨额融资凸显开放权重AI模型的商业前景与战略价值。",
+      "主权AI成为欧洲科技战略重点，影响全球AI竞争格局。",
+      "Mistral的扩张将加剧LLM和Agent领域的竞争，推动技术创新。"
+    ],
+    "category": "行业动态"
+  }
+}

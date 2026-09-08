@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260908-003",
+  "title": "Antiquated HTML Snippets and Artefacts",
+  "source_url": "https://vale.rocks/posts/html-relics",
+  "source_type": "rss",
+  "summary": "该文章讨论HTML历史遗留代码片段和人工制品，属于前端开发领域，与AI、LLM或Agent技术无直接关联。文章可能涉及网页技术演进，但未提及人工智能相关应用或模型。",
+  "tags": [
+    "HTML",
+    "前端开发",
+    "技术历史"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-08T20:41:13+08:00",
+  "updated_at": "2026-09-08T20:41:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "HTML历史代码的考古价值",
+      "技术演进中的遗留问题",
+      "对现代开发实践的启示"
+    ],
+    "category": "前端开发"
+  }
+}

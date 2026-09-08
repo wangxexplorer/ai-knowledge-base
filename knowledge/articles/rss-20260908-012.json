@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260908-012",
+  "title": "Jellyfin 12.0",
+  "source_url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+  "source_type": "rss",
+  "summary": "Jellyfin 12.0 是一个开源媒体服务器的主要版本更新，专注于媒体管理、播放和流媒体功能。该版本可能包含性能改进、新客户端支持或用户体验优化。尽管其底层技术可能涉及一些智能推荐或自动化，但整体上属于媒体服务器领域，与AI、LLM或Agent的直接关联较弱。",
+  "tags": [
+    "媒体服务器",
+    "开源软件",
+    "流媒体",
+    "版本发布"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-08T20:41:13+08:00",
+  "updated_at": "2026-09-08T20:41:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Jellyfin 12.0 是媒体服务器领域的常规更新，不涉及AI核心技术。",
+      "该条目可能间接使用AI进行媒体元数据刮削，但非主要功能。",
+      "对于AI领域研究者，此条目参考价值有限。"
+    ],
+    "category": "软件更新"
+  }
+}

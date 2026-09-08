@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260908-010",
+  "title": "How well do agents use test/verification techniques?",
+  "source_url": "https://danluu.com/agentic-testing/",
+  "source_type": "rss",
+  "summary": "该文章探讨AI代理在软件测试与验证技术中的应用效果，分析代理能否有效利用测试手段提升代码质量与可靠性。内容涉及代理的自主决策、测试策略选择及验证流程优化，属于AI代理在工程实践中的具体应用研究。",
+  "tags": [
+    "AI代理",
+    "软件测试",
+    "验证技术",
+    "代码质量",
+    "工程实践"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-08T20:41:13+08:00",
+  "updated_at": "2026-09-08T20:41:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "代理在测试中的有效性取决于其策略选择与执行能力",
+      "验证技术对代理的可靠性至关重要",
+      "实际应用中代理测试仍面临挑战"
+    ],
+    "category": "AI代理应用"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260908-017",
+  "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+  "source_url": "https://lax-skyline.parcelscope.net/",
+  "source_type": "rss",
+  "summary": "该条目展示了一个可视化项目，通过时间序列动画呈现洛杉矶从1880年至2026年的建筑发展过程。其核心是城市天际线的演变，属于数据可视化和城市历史领域，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "数据可视化",
+    "城市发展",
+    "历史演变"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-08T20:41:13+08:00",
+  "updated_at": "2026-09-08T20:41:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "展示城市建筑的时间演变",
+      "利用动画形式呈现历史数据",
+      "属于地理信息可视化应用"
+    ],
+    "category": "数据可视化"
+  }
+}

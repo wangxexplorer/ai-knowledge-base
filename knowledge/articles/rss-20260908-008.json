@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260908-008",
+  "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+  "source_url": "https://rohanadwankar.github.io/posts/platforms.html",
+  "source_type": "rss",
+  "summary": "本文探讨了支撑移动代理（如Instinct、Claude Code）运行的虚拟机平台。内容聚焦于移动Agent执行环境的技术架构，涉及虚拟化、资源隔离和性能优化等关键方面。文章可能分析了不同VM方案对Agent部署、扩展性和安全性的影响，为理解移动AI代理的基础设施提供了技术视角。",
+  "tags": [
+    "移动代理",
+    "虚拟机",
+    "Claude Code",
+    "基础设施",
+    "Agent执行环境"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-08T20:41:13+08:00",
+  "updated_at": "2026-09-08T20:41:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "移动Agent依赖虚拟机提供隔离和可移植的运行环境",
+      "Claude Code等工具展示了Agent在移动场景的实践",
+      "VM选择直接影响Agent的性能、安全与部署效率"
+    ],
+    "category": "Agent基础设施"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260908-016",
+  "title": "Emacs Bedrock 2.0",
+  "source_url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
+  "source_type": "rss",
+  "summary": "Emacs Bedrock 2.0 是 Emacs 编辑器的一个配置发行版更新，旨在提供开箱即用的现代 Emacs 体验。该版本可能包含对 AI 编程助手（如 Copilot、ChatGPT 集成）的支持改进，以及增强的 LSP（语言服务器协议）集成，以提升代码补全和重构能力。作为开发者工具，它与 AI 辅助编程工作流有一定关联，但本身并非 AI 或 LLM 核心组件。",
+  "tags": [
+    "Emacs",
+    "开发者工具",
+    "AI辅助编程",
+    "配置发行版"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-08T20:41:13+08:00",
+  "updated_at": "2026-09-08T20:41:13+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "Emacs Bedrock 2.0 是面向开发者的配置框架，可能集成 AI 编程助手功能",
+      "其更新重点可能在于提升编辑体验和语言支持，与 AI 领域间接相关",
+      "对使用 Emacs 进行 AI 相关开发的用户有参考价值"
+    ],
+    "category": "开发者工具"
+  }
+}
