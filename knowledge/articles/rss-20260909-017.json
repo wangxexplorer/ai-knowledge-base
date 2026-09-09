@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260909-017",
+  "title": "Mercury 2.5",
+  "source_url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+  "source_type": "rss",
+  "summary": "Mercury 2.5是Inception Labs发布的新版本，可能涉及AI模型或技术更新。由于描述信息有限，仅从标题和来源推断其与AI领域相关，可能包含模型性能提升或新功能。具体细节需访问原文确认。",
+  "tags": [
+    "AI",
+    "模型更新",
+    "Inception Labs"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-09T20:47:53+08:00",
+  "updated_at": "2026-09-09T20:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "版本迭代可能带来性能优化",
+      "与AI模型发展相关",
+      "需进一步阅读原文获取细节"
+    ],
+    "category": "AI产品发布"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260909-020",
+  "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+  "source_type": "rss",
+  "summary": "AlphaGenome Atlas是Google DeepMind发布的人类DNA高分辨率图谱，利用AI模型预测基因组功能，揭示基因调控机制。该项目扩展了AlphaFold在生物学领域的应用，通过深度学习解析非编码区变异影响，为疾病研究和精准医学提供新工具。该图谱整合多组学数据，构建全基因组规模的预测模型，有助于理解基因表达调控和遗传变异功能。",
+  "tags": [
+    "基因组学",
+    "AlphaFold",
+    "生物信息学",
+    "深度学习",
+    "精准医学"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-09T20:47:53+08:00",
+  "updated_at": "2026-09-09T20:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "AI模型可预测非编码区变异功能，加速疾病机制研究",
+      "AlphaGenome扩展AlphaFold技术至全基因组尺度",
+      "高分辨率图谱为精准医学提供基础数据资源"
+    ],
+    "category": "AI应用"
+  }
+}

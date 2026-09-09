@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260909-010",
+  "title": "On Really Trying (2009)",
+  "source_url": "https://gwern.net/on-really-trying",
+  "source_type": "rss",
+  "summary": "该条目是Gwern于2009年发表的一篇个人文章，标题为《On Really Trying》，讨论努力、意志力与自我提升等主题。文章在Hacker News上获得74分和43条评论，引发社区讨论。内容不涉及AI、LLM或Agent技术，属于个人成长与哲学思考范畴。",
+  "tags": [
+    "个人成长",
+    "意志力",
+    "自我提升",
+    "哲学"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-09T20:47:53+08:00",
+  "updated_at": "2026-09-09T20:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "文章主题与AI技术无关",
+      "社区讨论热度一般",
+      "属于个人随笔类内容"
+    ],
+    "category": "非技术"
+  }
+}

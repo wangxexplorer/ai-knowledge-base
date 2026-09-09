@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260909-007",
+  "title": "Building a Wall Lamp from Scratch",
+  "source_url": "https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/",
+  "source_type": "rss",
+  "summary": "该条目描述了一篇关于从零开始制作壁灯的技术文章，内容涉及硬件制作、电路设计和DIY项目，与AI、LLM或Agent领域无直接关联。文章可能包含一些技术细节，但主题完全聚焦于物理制造和电子工程，而非人工智能或机器学习。",
+  "tags": [
+    "DIY",
+    "硬件",
+    "电子工程",
+    "壁灯",
+    "制造"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-09T20:47:53+08:00",
+  "updated_at": "2026-09-09T20:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该内容属于传统硬件制造领域，不涉及AI技术。",
+      "无任何LLM或Agent相关讨论。",
+      "对AI知识库无参考价值。"
+    ],
+    "category": "非AI相关"
+  }
+}

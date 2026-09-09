@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260909-005",
+  "title": "Flock Wants a Closely Surveilled World with No Exit",
+  "source_url": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
+  "source_type": "rss",
+  "summary": "该文章讨论Flock公司构建的紧密监控系统，涉及AI在公共安全监控中的应用，引发对隐私、自由和监控资本主义的担忧。文章强调AI驱动的监控技术可能使社会陷入无法退出的监视状态，与AI伦理、治理及Agent系统的社会影响相关。",
+  "tags": [
+    "AI伦理",
+    "监控",
+    "隐私",
+    "AI治理",
+    "社会影响"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-09T20:47:53+08:00",
+  "updated_at": "2026-09-09T20:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI监控技术可能侵蚀个人自由，需警惕其滥用。",
+      "监控系统与Agent技术结合可能形成无退出机制的社会控制。",
+      "AI治理需平衡安全与隐私，避免技术异化。"
+    ],
+    "category": "AI伦理与社会"
+  }
+}

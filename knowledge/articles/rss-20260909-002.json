@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260909-002",
+  "title": "I advertise malicious software on Google Ads",
+  "source_url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+  "source_type": "rss",
+  "summary": "该条目讨论通过Google Ads投放恶意软件广告的技术实践，涉及广告滥用、恶意分发和网络安全对抗。与AI/LLM/Agent领域无直接关联，但可能涉及AI驱动的恶意广告检测或生成对抗样本等边缘话题。",
+  "tags": [
+    "网络安全",
+    "恶意软件",
+    "广告滥用"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-09T20:47:53+08:00",
+  "updated_at": "2026-09-09T20:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "恶意广告是网络攻击的常见载体",
+      "平台需加强广告审核机制",
+      "AI可用于检测恶意广告模式"
+    ],
+    "category": "网络安全"
+  }
+}

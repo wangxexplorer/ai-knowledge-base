@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260909-018",
+  "title": "Muse – Meta’s personal AI agent",
+  "source_url": "https://ai.meta.com/muse/",
+  "source_type": "rss",
+  "summary": "Meta推出个人AI代理Muse，旨在提供个性化智能助手服务。该产品是Meta在AI领域的最新布局，与LLM和Agent技术高度相关，体现了AI代理从通用对话向个性化、主动服务演进的趋势。Muse可能整合了Meta的社交数据和生成式AI能力，为用户提供定制化交互体验。",
+  "tags": [
+    "AI Agent",
+    "Meta",
+    "个性化助手",
+    "LLM应用",
+    "产品发布"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-09T20:47:53+08:00",
+  "updated_at": "2026-09-09T20:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Meta正式进军个人AI代理市场，强化其AI生态。",
+      "Muse代表AI代理向个性化、主动服务方向发展。",
+      "该产品可能利用Meta海量用户数据提升交互体验。"
+    ],
+    "category": "AI产品"
+  }
+}

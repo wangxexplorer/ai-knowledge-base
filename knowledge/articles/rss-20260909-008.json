@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260909-008",
+  "title": "Lotus Notes and the dangers of starting from scratch",
+  "source_url": "https://buttondown.com/blog/lotus-notes-email",
+  "source_type": "rss",
+  "summary": "本文讨论Lotus Notes的历史教训，强调在技术迭代中不应完全从零开始，而应继承已有系统的优势。文章通过Lotus Notes的案例，指出忽视现有用户基础和生态系统的风险，对AI和LLM领域具有借鉴意义，提醒开发者在创新时需考虑兼容性与迁移成本。",
+  "tags": [
+    "技术演进",
+    "系统设计",
+    "兼容性",
+    "创新策略"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-09T20:47:53+08:00",
+  "updated_at": "2026-09-09T20:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "完全重构可能导致用户流失和生态破坏",
+      "AI系统开发应重视与现有工具的集成",
+      "历史案例可为LLM应用设计提供警示"
+    ],
+    "category": "技术反思"
+  }
+}

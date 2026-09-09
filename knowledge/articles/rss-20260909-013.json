@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260909-013",
+  "title": "27.5KB language-agnostic WebGPU syntax highlighter",
+  "source_url": "https://gpu-lexer.vercel.app/",
+  "source_type": "rss",
+  "summary": "该条目介绍了一个体积仅27.5KB、与语言无关的WebGPU语法高亮器，可在GPU上实现高性能代码高亮。虽然其核心是前端渲染技术，但语法高亮器常用于AI代码生成、LLM输出展示及Agent交互界面中，提升代码可读性和用户体验。该工具利用WebGPU并行计算能力，可能对AI驱动的开发工具链有辅助价值，但本身不涉及AI模型或Agent逻辑。",
+  "tags": [
+    "WebGPU",
+    "语法高亮",
+    "前端工具",
+    "代码展示",
+    "AI辅助"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-09T20:47:53+08:00",
+  "updated_at": "2026-09-09T20:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "利用GPU加速语法高亮，性能优于传统CPU方案，适合大规模代码渲染。",
+      "语言无关设计，可灵活适配多种编程语言，便于集成到AI代码生成或Agent输出界面。",
+      "体积小，适合作为轻量级组件嵌入AI工具链，但非AI核心组件。"
+    ],
+    "category": "前端开发工具"
+  }
+}

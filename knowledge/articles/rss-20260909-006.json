@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260909-006",
+  "title": "How An AI math breakthrough ignited a controversy",
+  "source_url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+  "source_type": "rss",
+  "summary": "该条目报道了Science.org上关于AI数学突破引发争议的文章，内容涉及AI在数学推理方面的进展及其引发的学术讨论。文章通过Hacker News平台传播，获得了120个点赞和111条评论，表明社区高度关注。争议可能围绕AI解决数学问题的可靠性、方法论或对数学研究的影响展开，反映了AI与数学交叉领域的前沿动态和伦理考量。",
+  "tags": [
+    "AI数学",
+    "数学推理",
+    "学术争议",
+    "AI进展",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-09T20:47:53+08:00",
+  "updated_at": "2026-09-09T20:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI在数学领域的突破引发广泛学术争议，涉及方法可靠性和影响。",
+      "该事件在技术社区（Hacker News）获得高关注度，反映公众兴趣。",
+      "争议可能推动AI数学推理研究的规范化和伦理讨论。"
+    ],
+    "category": "AI研究动态"
+  }
+}

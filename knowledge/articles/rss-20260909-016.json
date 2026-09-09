@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260909-016",
+  "title": "Tao: Open math problems being non-renewably mined by AI",
+  "source_url": "https://mathstodon.xyz/@tao/117237320796901560",
+  "source_type": "rss",
+  "summary": "陶哲轩在Mathstodon上提出，开放数学问题正被AI以不可再生方式挖掘。这一观点引发广泛讨论，涉及AI在数学研究中的应用及其对问题资源的影响。讨论聚焦于AI如何加速解决经典难题，但也担忧其可能耗尽传统问题库，促使数学界探索新问题生成方式。",
+  "tags": [
+    "AI数学",
+    "开放问题",
+    "陶哲轩",
+    "研究自动化",
+    "问题生成"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-09T20:47:53+08:00",
+  "updated_at": "2026-09-09T20:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI正被用于系统性地解决数学开放问题，改变研究范式。",
+      "存在数学问题资源被过度消耗的风险，需关注新问题生成。",
+      "该讨论反映了AI在科学发现中的双刃剑效应。"
+    ],
+    "category": "AI应用与影响"
+  }
+}

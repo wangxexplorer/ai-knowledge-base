@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260909-004",
+  "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+  "source_url": "https://news.ycombinator.com/item?id=49624603",
+  "source_type": "rss",
+  "summary": "DeepSeek宣布将于2026年9月10日发布V4.1 Flash模型，该模型在性能、成本、速度和任务完成时间等关键指标上全面超越V4 Pro。发布后至V4.1 Pro推出前，Pro请求将自动路由至Flash并按Flash价格计费。同时调整Flash系列定价，低谷时段输入缓存命中$0.003，未命中$0.15，输出$0.6，高峰时段价格翻倍。此举体现DeepSeek在模型迭代和成本控制上的激进策",
+  "tags": [
+    "DeepSeek",
+    "模型发布",
+    "定价策略",
+    "性能提升",
+    "AI竞争"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-09T20:47:53+08:00",
+  "updated_at": "2026-09-09T20:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "V4.1 Flash全面超越V4 Pro，表明模型迭代速度加快，性能与成本优势成为竞争焦点。",
+      "Pro请求自动降级至Flash并按Flash计费，体现用户导向的定价策略，可能重塑用户预期。",
+      "分时段定价机制（高峰翻倍）反映算力成本管理精细化，对AI服务商业模式有参考价值。"
+    ],
+    "category": "AI模型动态"
+  }
+}

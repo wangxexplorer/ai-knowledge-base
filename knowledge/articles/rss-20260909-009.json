@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260909-009",
+  "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+  "source_url": "https://openai.com/index/codex-quantum-computing-experiments/",
+  "source_type": "rss",
+  "summary": "OpenAI发布文章介绍GPT-5.6 Sol（Codex）在量子计算实验中的应用，展示了AI模型辅助科研的潜力。该案例涉及AI与量子计算交叉领域，体现LLM在复杂科学任务中的执行能力，但未涉及Agent自主决策。",
+  "tags": [
+    "GPT-5.6",
+    "量子计算",
+    "AI科研",
+    "Codex",
+    "LLM应用"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-09T20:47:53+08:00",
+  "updated_at": "2026-09-09T20:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "LLM可辅助量子计算实验设计或数据分析，拓展AI在科研中的应用边界。",
+      "GPT-5.6 Sol作为Codex模型，可能具备更强的代码生成与执行能力。",
+      "该案例表明AI与量子计算结合是前沿方向，但具体技术细节需进一步了解。"
+    ],
+    "category": "AI应用"
+  }
+}
