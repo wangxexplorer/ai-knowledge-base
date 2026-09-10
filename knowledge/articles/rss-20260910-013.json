@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260910-013",
+  "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+  "source_url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+  "source_type": "rss",
+  "summary": "该条目讨论Qwen 3.8模型跟随GPT-5.5 Pro的推理预填充（reasoning prefills）技术，涉及大语言模型推理能力优化与模型间技术借鉴，属于AI/LLM领域前沿动态。",
+  "tags": [
+    "Qwen",
+    "GPT-5.5",
+    "推理预填充",
+    "LLM",
+    "模型优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-10T20:45:44+08:00",
+  "updated_at": "2026-09-10T20:45:44+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "推理预填充是提升LLM复杂推理能力的关键技术",
+      "Qwen与GPT系列在推理优化上存在技术跟随与竞争",
+      "该讨论在Hacker News引发高关注，反映社区对推理技术的高度兴趣"
+    ],
+    "category": "大语言模型"
+  }
+}

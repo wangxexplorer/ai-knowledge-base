@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260910-014",
+  "title": "Growing proof that autonomous cars save lives",
+  "source_url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+  "source_type": "rss",
+  "summary": "该条目讨论自动驾驶汽车能挽救生命的证据，属于AI在自动驾驶领域的应用。与LLM和Agent领域无直接关联，但涉及AI决策与感知技术。",
+  "tags": [
+    "自动驾驶",
+    "AI应用",
+    "安全性",
+    "智能交通",
+    "机器学习"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-10T20:45:44+08:00",
+  "updated_at": "2026-09-10T20:45:44+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "自动驾驶技术是AI的重要应用领域，但非LLM或Agent核心方向",
+      "该讨论聚焦安全效益，与AI伦理和可靠性相关",
+      "对LLM/Agent研究者参考价值有限"
+    ],
+    "category": "AI应用"
+  }
+}

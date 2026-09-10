@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260910-015",
+  "title": "No Man's Sky Cosmos",
+  "source_url": "https://www.nomanssky.com/cosmos-update/",
+  "source_type": "rss",
+  "summary": "该条目是《无人深空》游戏Cosmos更新的官方公告页面，来自Hacker News的RSS订阅。内容为游戏版本更新说明，涉及程序化生成宇宙、探索玩法等，与AI、LLM、Agent领域无直接技术关联。",
+  "tags": [
+    "游戏更新",
+    "程序化生成",
+    "Hacker News",
+    "无人深空",
+    "非AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-10T20:45:44+08:00",
+  "updated_at": "2026-09-10T20:45:44+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "该条目为游戏内容更新，不涉及AI或LLM技术",
+      "程序化生成技术虽与AI有交叉，但此处为游戏设计范畴",
+      "对AI技术知识库无实质贡献"
+    ],
+    "category": "游戏/娱乐"
+  }
+}

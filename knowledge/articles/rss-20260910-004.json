@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260910-004",
+  "title": "What algorithm did Windows XP use to choose your initial user picture?",
+  "source_url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+  "source_type": "rss",
+  "summary": "该条目讨论Windows XP如何选择初始用户图片的算法，属于操作系统历史与UI设计话题，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "Windows XP",
+    "算法",
+    "用户界面",
+    "历史",
+    "操作系统"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-10T20:45:44+08:00",
+  "updated_at": "2026-09-10T20:45:44+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "Windows XP的初始用户图片选择算法是操作系统设计细节",
+      "该话题不涉及人工智能或机器学习技术",
+      "与LLM和Agent领域无直接关联"
+    ],
+    "category": "操作系统历史"
+  }
+}

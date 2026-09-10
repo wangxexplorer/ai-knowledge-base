@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260910-011",
+  "title": "AirPods 5",
+  "source_url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+  "source_type": "rss",
+  "summary": "该条目介绍苹果发布AirPods 5，主打开放式主动降噪功能，属于消费电子硬件产品新闻，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "消费电子",
+    "音频硬件",
+    "苹果产品",
+    "主动降噪"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-10T20:45:44+08:00",
+  "updated_at": "2026-09-10T20:45:44+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "AirPods 5是消费级音频硬件，不涉及AI或LLM技术",
+      "开放式主动降噪是音频信号处理技术，与AI Agent无关",
+      "该新闻对AI技术知识库无实质贡献"
+    ],
+    "category": "硬件产品"
+  }
+}

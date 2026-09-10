@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260910-019",
+  "title": "Show HN: Persistent Jupyter kernel execution and live output streaming in VSCode",
+  "source_url": "https://github.com/rnoro/tithon",
+  "source_type": "rss",
+  "summary": "Tithon 是一个 VSCode 扩展，旨在解决 Jupyter Notebook 中长时间训练循环因网络断开或电脑崩溃而丢失内核和输出的问题。它提供持久化的 Jupyter 内核执行和实时输出流，让用户直接在 IDE 中查看训练进度，无需依赖 W&B 或日志文件。该工具提升了 AI 模型训练工作流的可靠性和便利性。",
+  "tags": [
+    "Jupyter",
+    "VSCode",
+    "训练监控",
+    "开发工具",
+    "持久化执行"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-10T20:45:44+08:00",
+  "updated_at": "2026-09-10T20:45:44+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "解决了长时间 AI 训练中内核中断导致输出丢失的痛点",
+      "将实时训练监控集成到 IDE 中，减少对外部工具的依赖",
+      "提升了 AI 开发工作流的容错性和用户体验"
+    ],
+    "category": "开发工具"
+  }
+}

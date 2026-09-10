@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260910-009",
+  "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
+  "source_url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+  "source_type": "rss",
+  "summary": "该条目报道Automattic董事会迫使CEO Matt Mullenweg休假，属于公司治理与人事变动新闻。Automattic旗下WordPress.com、Tumblr等产品虽涉及内容平台，但事件本身与AI、LLM或Agent技术无直接关联，不涉及模型、算法或智能体系统。",
+  "tags": [
+    "公司治理",
+    "人事变动",
+    "Automattic",
+    "WordPress",
+    "科技新闻"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-10T20:45:44+08:00",
+  "updated_at": "2026-09-10T20:45:44+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "事件核心是企业管理层变动，而非技术发布",
+      "Automattic业务与AI/LLM无直接技术交集",
+      "对AI领域从业者的参考价值极低"
+    ],
+    "category": "行业新闻"
+  }
+}

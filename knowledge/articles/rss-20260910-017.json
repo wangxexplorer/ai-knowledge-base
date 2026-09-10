@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260910-017",
+  "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+  "source_url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+  "source_type": "rss",
+  "summary": "本文探讨了GPT-6 Astra、循环Transformer架构以及隐藏推理机制。循环Transformer通过重复使用层来增强模型推理能力，而隐藏推理则指模型在内部进行多步计算而不显式输出中间步骤。这些技术有望提升LLM的复杂推理性能和效率，是当前大模型架构与推理研究的前沿方向。",
+  "tags": [
+    "GPT-6",
+    "循环Transformer",
+    "隐藏推理",
+    "LLM架构",
+    "推理增强"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-10T20:45:44+08:00",
+  "updated_at": "2026-09-10T20:45:44+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "循环Transformer通过权重共享和迭代计算提升模型深度而不增加参数量",
+      "隐藏推理使LLM能在内部进行多步推理，减少对外部思维链的依赖",
+      "GPT-6 Astra可能整合这些技术以实现更强大的推理能力"
+    ],
+    "category": "大语言模型"
+  }
+}

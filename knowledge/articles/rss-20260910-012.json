@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260910-012",
+  "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+  "source_url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+  "source_type": "rss",
+  "summary": "该条目为苹果发布 iPhone 18 Pro 与 iPhone 18 Pro Max 的新闻稿链接，来自 Hacker News 的 RSS 聚合，内容仅包含标题、URL 与评论数，未涉及任何 AI、LLM 或 Agent 技术细节。虽然新款 iPhone 通常搭载更强的神经网络引擎并可能支持端侧大模型，但本条信息本身并未提供相关技术说明，因此与 AI/LLM/Agent 领域的直接相关性极低。",
+  "tags": [
+    "Apple",
+    "iPhone",
+    "硬件发布",
+    "Hacker News",
+    "端侧AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-10T20:45:44+08:00",
+  "updated_at": "2026-09-10T20:45:44+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "条目仅为产品发布链接，未包含AI或LLM技术内容",
+      "iPhone新品可能间接影响端侧AI推理能力，但需更多信息佐证",
+      "对Agent领域无直接技术贡献"
+    ],
+    "category": "消费电子硬件"
+  }
+}
