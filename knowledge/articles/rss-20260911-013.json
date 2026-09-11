@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260911-013",
+  "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+  "source_url": "https://merybenavente.me/blog/proof-of-capture",
+  "source_type": "rss",
+  "summary": "该条目介绍了一种名为Proof of Capture的开源技术，类似苹果的参考图像功能，但利用隐写术在图像中嵌入不可见信息以证明图像来源或捕获真实性。该技术主要涉及图像安全与版权保护，与AI、LLM、Agent领域无直接关联，但可能间接用于AI生成内容的溯源。",
+  "tags": [
+    "隐写术",
+    "图像溯源",
+    "开源",
+    "内容真实性",
+    "苹果参考图像"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-11T20:40:10+08:00",
+  "updated_at": "2026-09-11T20:40:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "利用隐写术实现图像捕获证明，可对抗深度伪造和虚假信息",
+      "开源替代苹果参考图像，降低技术门槛",
+      "可能为AI生成内容提供溯源机制，但当前与LLM/Agent无直接关系"
+    ],
+    "category": "安全与隐私"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260911-014",
+  "title": "OpenAI Agents API",
+  "source_url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+  "source_type": "rss",
+  "summary": "OpenAI Agents API 是 OpenAI 官方推出的智能体开发接口，旨在帮助开发者构建基于大语言模型的自主代理系统。该 API 提供了工具调用、任务规划、多步推理等核心能力，使 LLM 能够自主执行复杂任务。作为 OpenAI 生态的重要扩展，它降低了 Agent 开发门槛，推动了 AI 从对话式交互向自主行动演进。该条目在 Hacker News 上获得 281 分和 157 条评论",
+  "tags": [
+    "OpenAI",
+    "Agent",
+    "LLM",
+    "API",
+    "智能体"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-11T20:40:10+08:00",
+  "updated_at": "2026-09-11T20:40:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 1.0,
+    "key_insights": [
+      "OpenAI 官方推出 Agents API，标志着 LLM 从对话模型向自主智能体演进的重要一步",
+      "该 API 提供工具调用、任务规划等核心能力，大幅降低 Agent 开发门槛",
+      "社区高热度讨论反映开发者对标准化 Agent 开发接口的强烈需求"
+    ],
+    "category": "AI Agent 框架与平台"
+  }
+}

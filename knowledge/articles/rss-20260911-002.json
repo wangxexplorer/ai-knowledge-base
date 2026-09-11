@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260911-002",
+  "title": "Instagram's head says engagement falls by half without the algorithm",
+  "source_url": "https://thenextweb.com/news/mosseri-instagram-algorithm-opt-out-engagement-australia",
+  "source_type": "rss",
+  "summary": "Instagram负责人Adam Mosseri表示，若用户选择退出算法推荐，互动量将下降一半。这凸显了推荐算法对社交媒体平台用户参与度的核心作用，也引发了关于算法透明度、用户选择权以及AI推荐系统社会影响的讨论。",
+  "tags": [
+    "推荐算法",
+    "社交媒体",
+    "用户参与度",
+    "算法透明度",
+    "AI伦理"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-11T20:40:10+08:00",
+  "updated_at": "2026-09-11T20:40:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.35,
+    "key_insights": [
+      "推荐算法对社交媒体平台用户互动量有决定性影响，退出算法导致互动减半。",
+      "算法透明度与用户选择权成为平台治理的重要议题。",
+      "AI推荐系统的社会影响引发广泛讨论，涉及信息茧房和用户自主性。"
+    ],
+    "category": "AI应用"
+  }
+}

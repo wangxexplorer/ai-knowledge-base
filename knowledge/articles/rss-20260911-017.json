@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260911-017",
+  "title": "Forgejo <=16.0.3 Critical RCE",
+  "source_url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+  "source_type": "rss",
+  "summary": "Forgejo 16.0.3及之前版本存在严重远程代码执行漏洞（RCE），攻击者可利用该漏洞在服务器上执行任意代码。该漏洞影响自托管Git服务Forgejo，可能被用于供应链攻击或数据窃取。虽然Forgejo本身不是AI/LLM/Agent技术，但作为代码托管平台，其安全性对AI项目的开发与部署有间接影响。",
+  "tags": [
+    "安全漏洞",
+    "远程代码执行",
+    "Forgejo",
+    "Git服务",
+    "供应链安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-11T20:40:10+08:00",
+  "updated_at": "2026-09-11T20:40:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Forgejo是自托管Git服务，常用于托管AI/LLM项目代码，漏洞可能导致代码泄露或篡改。",
+      "该RCE漏洞可能被用于攻击AI开发基础设施，影响模型训练与部署流程。",
+      "及时升级到16.0.4版本是修复该漏洞的关键措施。"
+    ],
+    "category": "安全"
+  }
+}

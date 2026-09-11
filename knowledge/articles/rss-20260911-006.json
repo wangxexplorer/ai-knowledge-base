@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260911-006",
+  "title": "Cherenkov Radiation - traveling faster than light",
+  "source_url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+  "source_type": "rss",
+  "summary": "该条目介绍切伦科夫辐射，即带电粒子在介质中运动速度超过光速时发出的蓝光，属于核物理与粒子物理基础现象，常见于反应堆和粒子探测器。内容与AI、LLM、Agent领域无直接关联，不涉及机器学习、神经网络或智能体技术。",
+  "tags": [
+    "切伦科夫辐射",
+    "核物理",
+    "粒子探测",
+    "IAEA",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-11T20:40:10+08:00",
+  "updated_at": "2026-09-11T20:40:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.02,
+    "key_insights": [
+      "切伦科夫辐射是粒子超光速运动产生的光学现象",
+      "该现象主要用于核反应堆监测和粒子物理探测",
+      "与AI、LLM、Agent技术栈无直接关联"
+    ],
+    "category": "物理学"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260911-008",
+  "title": "CSS Curiosities of the Past",
+  "source_url": "https://vale.rocks/posts/css-relics",
+  "source_type": "rss",
+  "summary": "该条目介绍了一篇关于CSS历史趣闻的文章，回顾了早期CSS中一些已被废弃或鲜为人知的特性。内容属于前端开发与Web技术史范畴，与AI、LLM或Agent技术没有直接关联。",
+  "tags": [
+    "CSS",
+    "Web开发",
+    "前端技术",
+    "技术史"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-11T20:40:10+08:00",
+  "updated_at": "2026-09-11T20:40:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "内容聚焦CSS历史特性，与AI技术栈无关",
+      "属于Web前端领域的技术回顾",
+      "对LLM或Agent开发无直接参考价值"
+    ],
+    "category": "前端开发"
+  }
+}

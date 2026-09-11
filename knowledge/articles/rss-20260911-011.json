@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260911-011",
+  "title": "Nine coding harnesses vs. your laptop",
+  "source_url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+  "source_type": "rss",
+  "summary": "该条目标题为“Nine coding harnesses vs. your laptop”，来自Hacker News，讨论九种编码测试工具（coding harnesses）与本地笔记本电脑的对比。编码测试工具常用于评估AI代码生成模型（如LLM）的性能，因此该内容与AI、LLM领域高度相关，尤其涉及模型评估和基准测试。但缺乏具体描述，相关性需结合上下文判断。",
+  "tags": [
+    "编码测试工具",
+    "LLM评估",
+    "基准测试",
+    "AI代码生成",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-11T20:40:10+08:00",
+  "updated_at": "2026-09-11T20:40:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "编码测试工具是评估LLM代码生成能力的关键手段",
+      "本地硬件与云端测试环境的对比影响AI开发效率",
+      "该讨论可能涉及AI Agent在编码任务中的实际表现"
+    ],
+    "category": "AI评估与基准"
+  }
+}

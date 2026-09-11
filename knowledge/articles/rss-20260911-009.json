@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260911-009",
+  "title": "GPT‑Live‑1 in the API",
+  "source_url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+  "source_type": "rss",
+  "summary": "OpenAI 在 API 中推出 GPT-Live-1，这是一个新的模型接口，可能支持实时交互或流式处理。该条目来自 Hacker News，引发社区讨论，表明该模型在开发者中受到关注。作为 OpenAI 的 API 更新，它可能为 LLM 应用提供更高效的实时能力，推动 Agent 和对话系统的发展。",
+  "tags": [
+    "OpenAI",
+    "API",
+    "LLM",
+    "实时交互",
+    "模型发布"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-11T20:40:10+08:00",
+  "updated_at": "2026-09-11T20:40:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "GPT-Live-1 可能专注于实时或低延迟的 LLM 交互，适合 Agent 和对话应用。",
+      "通过 API 提供，开发者可轻松集成到现有系统中，扩展 LLM 应用场景。",
+      "Hacker News 上的讨论热度表明该模型在技术社区中具有较高关注度。"
+    ],
+    "category": "LLM 模型与 API"
+  }
+}

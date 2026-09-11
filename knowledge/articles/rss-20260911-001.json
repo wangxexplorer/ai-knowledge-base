@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260911-001",
+  "title": "Moonshot serves Claude instead of Kimi and collects exchanges for model training",
+  "source_url": "https://twitter.com/DavidAgranovich/status/2098168522862215449",
+  "source_type": "rss",
+  "summary": "该条目报道Moonshot（月之暗面）在其服务中提供Claude模型而非自研Kimi，并收集用户交互数据用于模型训练。这涉及AI公司使用竞品模型、数据收集与模型训练策略，与LLM领域直接相关，但缺乏技术细节。",
+  "tags": [
+    "Moonshot",
+    "Claude",
+    "Kimi",
+    "模型训练",
+    "数据收集"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-11T20:40:10+08:00",
+  "updated_at": "2026-09-11T20:40:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "Moonshot可能通过提供Claude服务获取高质量对话数据，用于改进自研Kimi模型。",
+      "该策略反映了LLM领域数据竞争与模型迭代的常见做法。",
+      "事件引发对用户数据使用和模型训练伦理的关注。"
+    ],
+    "category": "AI行业动态"
+  }
+}

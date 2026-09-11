@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260911-007",
+  "title": "Neijuan",
+  "source_url": "https://en.wikipedia.org/wiki/Neijuan",
+  "source_type": "rss",
+  "summary": "该条目为维基百科关于“内卷”（Neijuan）的词条，源自Hacker News讨论。内卷指过度竞争导致收益递减的社会现象，与AI、LLM、Agent领域无直接技术关联。",
+  "tags": [
+    "内卷",
+    "社会现象",
+    "Hacker News",
+    "维基百科",
+    "竞争"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-11T20:40:10+08:00",
+  "updated_at": "2026-09-11T20:40:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "内卷描述过度竞争与边际收益递减",
+      "与AI技术无直接关联",
+      "在Hacker News引发讨论反映科技社区对社会议题的关注"
+    ],
+    "category": "社会文化"
+  }
+}

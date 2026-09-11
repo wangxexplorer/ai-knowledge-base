@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260911-005",
+  "title": "Claude is no longer available for minors",
+  "source_url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+  "source_type": "rss",
+  "summary": "Anthropic宣布Claude不再向未成年人开放，并实施年龄验证机制。该政策涉及AI产品的合规与伦理，反映了LLM服务在用户准入、隐私保护和监管适应方面的挑战，对AI Agent的部署和用户管理有参考意义。",
+  "tags": [
+    "AI伦理",
+    "LLM政策",
+    "年龄验证",
+    "合规",
+    "Anthropic"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-11T20:40:10+08:00",
+  "updated_at": "2026-09-11T20:40:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI服务提供商需应对未成年人保护等监管要求",
+      "年龄验证机制可能影响LLM的用户增长与数据收集",
+      "此类政策为AI Agent的合规部署提供先例"
+    ],
+    "category": "AI政策与伦理"
+  }
+}

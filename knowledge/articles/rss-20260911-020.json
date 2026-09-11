@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260911-020",
+  "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+  "source_url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+  "source_type": "rss",
+  "summary": "该条目介绍NASA开发的一种用于处理卫星照片的图像增强技术（去相关拉伸），现被应用于揭示古代隐藏图像。该技术属于图像处理领域，与AI、LLM、Agent无直接关联，但图像增强算法可间接用于AI训练数据预处理。",
+  "tags": [
+    "图像处理",
+    "NASA技术",
+    "遥感",
+    "古代图像",
+    "技术转移"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-11T20:40:10+08:00",
+  "updated_at": "2026-09-11T20:40:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "该技术是图像处理领域的经典算法，并非AI技术",
+      "与LLM和Agent领域无直接关系",
+      "图像增强技术可间接用于AI训练数据预处理"
+    ],
+    "category": "计算机视觉"
+  }
+}

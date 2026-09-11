@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260911-018",
+  "title": "Neki – Sharded Postgres",
+  "source_url": "https://planetscale.com/blog/introducing-neki",
+  "source_type": "rss",
+  "summary": "Neki 是 PlanetScale 推出的分片 Postgres 方案，旨在解决单机 Postgres 在数据量增长下的扩展瓶颈。它通过自动分片、路由和分布式事务管理，让开发者无需大幅改造应用即可获得水平扩展能力。该条目属于数据库基础设施领域，与 AI、LLM、Agent 无直接技术关联，但可作为 AI 应用后端存储层，支撑大规模训练数据、向量索引或 Agent 状态持久化。",
+  "tags": [
+    "Postgres",
+    "数据库分片",
+    "水平扩展",
+    "基础设施",
+    "PlanetScale"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-11T20:40:10+08:00",
+  "updated_at": "2026-09-11T20:40:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.15,
+    "key_insights": [
+      "Neki 通过自动分片降低 Postgres 水平扩展的运维复杂度",
+      "与 AI/LLM/Agent 无直接算法关联，但可作为其底层存储支撑",
+      "对需要大规模持久化状态的 Agent 系统具有潜在基础设施价值"
+    ],
+    "category": "数据库与基础设施"
+  }
+}

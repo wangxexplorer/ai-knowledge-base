@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260911-012",
+  "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
+  "source_url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
+  "source_type": "rss",
+  "summary": "该条目为美国国家运输安全委员会（NTSB）关于迈阿密一架波音767客机冲出跑道事故的调查进展通报，属于航空安全与事故调查领域，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "航空安全",
+    "事故调查",
+    "NTSB",
+    "波音767",
+    "非AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-11T20:40:10+08:00",
+  "updated_at": "2026-09-11T20:40:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "内容聚焦航空事故调查，不涉及人工智能技术",
+      "与LLM、Agent领域无任何技术交集",
+      "属于传统交通运输安全监管范畴"
+    ],
+    "category": "航空安全"
+  }
+}

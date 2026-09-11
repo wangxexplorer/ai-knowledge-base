@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260911-019",
+  "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+  "source_url": "https://cognition.com/blog/swe-2",
+  "source_type": "rss",
+  "summary": "Cognition公司发布新一代SWE-2模型，宣称在软件工程任务上媲美Fable 5.1和GPT-Astra。该模型可能专注于代码生成、调试和自动化开发，标志着AI编程助手竞争加剧。Hacker News上获得426点热度，引发176条讨论，反映社区对AI驱动软件开发工具的高度关注。",
+  "tags": [
+    "AI编程",
+    "代码生成",
+    "LLM",
+    "软件工程",
+    "模型发布"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-11T20:40:10+08:00",
+  "updated_at": "2026-09-11T20:40:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "SWE-2模型直接对标Fable 5.1和GPT-Astra，显示AI编程助手领域竞争白热化",
+      "模型名称'SWE'暗示专注于软件工程任务，可能推动自动化开发工具进步",
+      "Hacker News高热度表明开发者社区对AI编程工具的实际应用高度期待"
+    ],
+    "category": "AI模型发布"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260911-004",
+  "title": "RTK reports token savings, but our cost benchmarks disagree",
+  "source_url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+  "source_type": "rss",
+  "summary": "该文章质疑RTK（可能指某AI编码工具）宣称的token节省效果，通过成本基准测试发现实际成本并未降低。文章探讨了AI编码助手在token消耗与成本效益方面的真实表现，对LLM应用的经济性评估具有参考价值。",
+  "tags": [
+    "LLM成本",
+    "AI编码",
+    "Token效率",
+    "基准测试",
+    "经济性"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-11T20:40:10+08:00",
+  "updated_at": "2026-09-11T20:40:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.75,
+    "key_insights": [
+      "RTK宣称的token节省与实际成本基准测试结果不一致",
+      "AI编码工具的成本效益需通过独立基准验证",
+      "token节省不一定直接转化为成本降低"
+    ],
+    "category": "AI应用评估"
+  }
+}
