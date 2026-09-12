@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260912-008",
+  "title": "Navier-Stokes Announcement",
+  "source_url": "https://www.claymath.org/news/navier-stokes-announcement/",
+  "source_type": "rss",
+  "summary": "该条目是克雷数学研究所关于纳维-斯托克斯方程千禧年大奖难题的公告，属于纯数学与流体力学领域，与AI、LLM、Agent无直接关联。仅在AI用于科学计算（如物理信息神经网络求解偏微分方程）时存在间接联系，但公告本身未涉及任何AI技术。",
+  "tags": [
+    "数学",
+    "流体力学",
+    "千禧年难题",
+    "偏微分方程",
+    "科学计算"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-12T20:00:57+08:00",
+  "updated_at": "2026-09-12T20:00:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "纳维-斯托克斯方程是流体力学核心，其解的存在性与光滑性是千禧年难题之一。",
+      "该公告与AI/LLM/Agent无直接技术关联，仅可能作为AI for Science的间接应用场景。",
+      "对AI领域从业者而言，除非研究物理信息神经网络或科学机器学习，否则相关性极低。"
+    ],
+    "category": "数学与基础科学"
+  }
+}

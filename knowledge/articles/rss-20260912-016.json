@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260912-016",
+  "title": "A misalignment of AI in mathematics",
+  "source_url": "https://mathandai.org/",
+  "source_type": "rss",
+  "summary": "该条目讨论AI在数学领域中的错位问题，引用了陶哲轩的博客和《经济学人》文章，并在Hacker News上引发近千点热度与近千条评论。核心关注AI（尤其是LLM）在数学研究、证明辅助与形式化推理中的能力边界、对齐风险及对数学实践的影响，属于AI与数学交叉的前沿讨论。",
+  "tags": [
+    "AI数学",
+    "LLM推理",
+    "AI对齐",
+    "形式化证明",
+    "陶哲轩"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-12T20:00:57+08:00",
+  "updated_at": "2026-09-12T20:00:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "AI在数学中的错位可能源于模型能力与数学严谨性要求之间的不匹配",
+      "陶哲轩等数学家的观点表明LLM在证明辅助与猜想生成上存在潜力与风险并存",
+      "该讨论在Hacker News高热度反映社区对AI数学应用及对齐问题的广泛关注"
+    ],
+    "category": "AI与数学交叉"
+  }
+}

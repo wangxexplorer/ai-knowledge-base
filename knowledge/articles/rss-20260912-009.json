@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260912-009",
+  "title": "google.com/goto: Google's anti-scraping update",
+  "source_url": "https://www.autom.dev/blog/google-search-goto-links",
+  "source_type": "rss",
+  "summary": "该条目讨论Google搜索反爬虫更新，涉及goto链接机制，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "反爬虫",
+    "Google搜索",
+    "网络爬虫"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-12T20:00:57+08:00",
+  "updated_at": "2026-09-12T20:00:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "Google更新反爬虫机制可能影响数据采集",
+      "对依赖搜索数据的AI训练有间接影响",
+      "与LLM和Agent技术无直接关系"
+    ],
+    "category": "网络技术"
+  }
+}

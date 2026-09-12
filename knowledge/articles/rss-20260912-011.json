@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260912-011",
+  "title": "Project Blinkenlights",
+  "source_url": "https://blinkenlights.de/en/",
+  "source_type": "rss",
+  "summary": "Project Blinkenlights 是2001年柏林一项著名的灯光艺术装置，将一栋建筑的外墙变成可编程的像素显示屏，公众可通过手机或网络控制灯光图案，是早期交互式媒体艺术的代表。该条目与AI、LLM、Agent领域无直接关联，不涉及机器学习、大语言模型或智能体技术，仅属于创意计算与数字艺术范畴。",
+  "tags": [
+    "数字艺术",
+    "交互装置",
+    "创意计算",
+    "Hacker News",
+    "非AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-12T20:00:57+08:00",
+  "updated_at": "2026-09-12T20:00:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "该项目是交互式媒体艺术的早期经典案例，与AI技术无直接关系",
+      "公众参与控制灯光的模式体现了人机交互思想，但未使用智能算法",
+      "对LLM/Agent领域研究无实质参考价值"
+    ],
+    "category": "其他"
+  }
+}

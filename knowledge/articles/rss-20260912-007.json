@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260912-007",
+  "title": "Usenet rewind archive search engine",
+  "source_url": "https://www.usenet-rewind.com/",
+  "source_type": "rss",
+  "summary": "Usenet Rewind 是一个针对 Usenet 历史存档的搜索引擎，允许用户检索早期网络论坛内容。该条目来自 Hacker News，主要讨论其搜索功能与存档价值。与 AI、LLM 或 Agent 领域无直接关联，不涉及模型训练、推理、智能体架构或自然语言处理技术。",
+  "tags": [
+    "Usenet",
+    "搜索引擎",
+    "历史存档",
+    "Hacker News",
+    "信息检索"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-12T20:00:57+08:00",
+  "updated_at": "2026-09-12T20:00:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "Usenet Rewind 是历史文本存档检索工具，非 AI 系统",
+      "与 LLM 训练数据或 Agent 技术无直接关系",
+      "仅可视为信息检索领域的传统应用案例"
+    ],
+    "category": "其他"
+  }
+}

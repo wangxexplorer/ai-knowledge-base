@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260912-014",
+  "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+  "source_url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+  "source_type": "rss",
+  "summary": "文章讲述作者花费220美元在Google应用广告上，结果60%的安装量来自机器人。这揭示了广告欺诈问题，与AI领域无直接关联，但涉及自动化机器人技术。",
+  "tags": [
+    "广告欺诈",
+    "机器人",
+    "Google Ads",
+    "移动应用",
+    "自动化"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-12T20:00:57+08:00",
+  "updated_at": "2026-09-12T20:00:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "广告平台存在大量机器人流量，导致广告预算浪费",
+      "自动化机器人技术可被用于欺诈性点击和安装",
+      "该问题与AI/LLM/Agent领域无直接技术关联"
+    ],
+    "category": "广告技术"
+  }
+}

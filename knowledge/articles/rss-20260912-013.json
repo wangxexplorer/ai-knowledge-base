@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260912-013",
+  "title": "GrapheneOS' rewritten Messages app is released",
+  "source_url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+  "source_type": "rss",
+  "summary": "GrapheneOS 发布了重写的 Messages 应用，这是一个注重隐私和安全的开源短信应用。该条目来自 Hacker News，主要讨论应用的功能更新和隐私改进，与 AI、LLM 或 Agent 领域没有直接关联。",
+  "tags": [
+    "GrapheneOS",
+    "隐私",
+    "短信应用",
+    "开源",
+    "移动安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-12T20:00:57+08:00",
+  "updated_at": "2026-09-12T20:00:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "GrapheneOS 是注重隐私的 Android 分支，其 Messages 应用重写强调安全通信。",
+      "该发布与 AI、LLM 或 Agent 技术无关，属于移动应用开发领域。",
+      "Hacker News 上的高讨论度反映了对隐私工具的关注。"
+    ],
+    "category": "移动操作系统"
+  }
+}

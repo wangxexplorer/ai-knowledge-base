@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260912-006",
+  "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+  "source_url": "https://eiln.github.io/posts/ane.html",
+  "source_type": "rss",
+  "summary": "该文章对苹果神经引擎（ANE）进行逆向工程分析，揭示其硬件架构、指令集与运行机制。ANE是苹果设备端AI推理的核心加速器，支撑Core ML及各类端侧模型。逆向工作有助于理解端侧LLM与Agent的硬件约束、性能边界及优化空间，对在苹果生态部署AI应用具有参考价值。",
+  "tags": [
+    "Apple Neural Engine",
+    "端侧AI",
+    "逆向工程",
+    "硬件加速",
+    "Core ML"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-12T20:00:57+08:00",
+  "updated_at": "2026-09-12T20:00:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.72,
+    "key_insights": [
+      "ANE是苹果端侧AI推理的关键硬件，逆向分析可揭示其指令集与调度机制",
+      "理解ANE架构有助于优化端侧LLM和Agent的部署与性能",
+      "端侧AI硬件限制直接影响苹果生态中AI应用的可行性与设计选择"
+    ],
+    "category": "AI硬件与端侧推理"
+  }
+}

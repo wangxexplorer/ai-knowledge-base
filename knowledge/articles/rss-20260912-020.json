@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260912-020",
+  "title": "Show HN: Bodily Oddities",
+  "source_url": "https://vester.si/bodily-oddities/",
+  "source_type": "rss",
+  "summary": "该条目介绍了一个名为“Bodily Oddities”的网页，作者分享了自己童年经历的一种常见生理现象——心前区捕捉综合征，并收集了各种人体奇怪现象。内容与AI、LLM、Agent领域完全无关，属于个人健康科普和趣味分享。",
+  "tags": [
+    "人体现象",
+    "健康科普",
+    "个人项目",
+    "Hacker News",
+    "非技术"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-12T20:00:57+08:00",
+  "updated_at": "2026-09-12T20:00:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该条目与AI、LLM、Agent领域无任何关联",
+      "内容属于个人健康经历和生理现象收集",
+      "来源为Hacker News的Show HN板块，但主题非技术"
+    ],
+    "category": "其他"
+  }
+}

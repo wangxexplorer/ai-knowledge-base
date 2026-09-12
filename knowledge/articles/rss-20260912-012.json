@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260912-012",
+  "title": "Another way to leak traffic on Android has been discovered",
+  "source_url": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
+  "source_type": "rss",
+  "summary": "该条目报道了Android系统新发现的流量泄露漏洞，可能导致用户数据被窃取。虽然与AI、LLM、Agent领域无直接关联，但AI应用在移动端运行时可能受此漏洞影响，导致模型数据或用户隐私泄露。",
+  "tags": [
+    "Android安全",
+    "流量泄露",
+    "隐私",
+    "移动安全",
+    "漏洞"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-12T20:00:57+08:00",
+  "updated_at": "2026-09-12T20:00:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Android新流量泄露漏洞可能影响AI应用的隐私安全",
+      "AI Agent在移动端部署时需关注底层系统安全风险",
+      "该漏洞与AI技术本身无直接关系，但间接影响AI应用生态"
+    ],
+    "category": "安全"
+  }
+}
