@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260913-018",
+  "title": "Nvidia is the central bank of AI",
+  "source_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+  "source_type": "rss",
+  "summary": "《经济学人》文章将英伟达比作AI的中央银行，指出其在AI算力供应和生态中的核心地位，类似央行对货币流动性的调控。文章探讨了英伟达对AI产业发展的关键影响，以及其市场支配力可能带来的风险与监管讨论。",
+  "tags": [
+    "英伟达",
+    "AI算力",
+    "AI产业",
+    "市场垄断",
+    "监管"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-13T21:09:40+08:00",
+  "updated_at": "2026-09-13T21:09:40+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "英伟达在AI算力市场占据主导地位，类似中央银行对货币供应的控制。",
+      "其市场力量可能影响AI创新速度和产业格局，引发监管关注。",
+      "AI发展高度依赖英伟达的GPU和软件生态，形成结构性依赖。"
+    ],
+    "category": "AI产业与生态"
+  }
+}

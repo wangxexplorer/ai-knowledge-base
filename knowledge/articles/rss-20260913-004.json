@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260913-004",
+  "title": "Revolut confirms customer data breach through fake government requests",
+  "source_url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+  "source_type": "rss",
+  "summary": "Revolut确认客户数据泄露，攻击者通过伪造政府请求获取信息。该事件暴露了基于社会工程学的安全漏洞，与AI、LLM、Agent领域无直接技术关联，但可能引发对AI辅助身份验证和自动化安全防御的讨论。",
+  "tags": [
+    "数据泄露",
+    "社会工程",
+    "金融安全",
+    "身份验证",
+    "网络安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-13T21:09:40+08:00",
+  "updated_at": "2026-09-13T21:09:40+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "攻击者利用伪造政府请求绕过人工审核，凸显自动化验证的不足",
+      "事件可能推动AI在异常请求检测中的应用",
+      "LLM可被用于生成更逼真的钓鱼请求，增加防御难度"
+    ],
+    "category": "安全事件"
+  }
+}

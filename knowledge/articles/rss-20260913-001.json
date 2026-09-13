@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260913-001",
+  "title": "Matt Mullenweg reportedly returns as Automattic CEO 2 days after getting booted",
+  "source_url": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
+  "source_type": "rss",
+  "summary": "文章报道了Matt Mullenweg在被解雇两天后重新担任Automattic CEO的事件。Automattic是WordPress的母公司，该事件属于公司人事变动，与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "Automattic",
+    "CEO变动",
+    "WordPress",
+    "公司新闻"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-13T21:09:40+08:00",
+  "updated_at": "2026-09-13T21:09:40+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该条目涉及公司管理层变动，与AI技术无关",
+      "Automattic是WordPress母公司，但新闻内容不涉及AI",
+      "对AI、LLM或Agent领域没有直接参考价值"
+    ],
+    "category": "其他"
+  }
+}

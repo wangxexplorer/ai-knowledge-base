@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260913-014",
+  "title": "AgentsDock: An IDE designed for agentic AI research",
+  "source_url": "https://agentsdock.net/",
+  "source_type": "rss",
+  "summary": "AgentsDock 是一款专为智能体 AI 研究设计的集成开发环境（IDE），旨在为 AI 智能体（Agent）的研发提供专门的工具支持。该条目来自 Hacker News，获得 70 点热度与 29 条评论，表明社区对其有一定关注。作为面向 agentic AI 的 IDE，它可能集成智能体调试、编排、监控等功能，降低智能体开发门槛，推动 LLM Agent 领域的工程化实践。",
+  "tags": [
+    "Agent",
+    "IDE",
+    "AI研究工具",
+    "LLM",
+    "开发环境"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-13T21:09:40+08:00",
+  "updated_at": "2026-09-13T21:09:40+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "AgentsDock 是首个专门面向智能体 AI 研究的 IDE，填补了 Agent 开发工具链的空白。",
+      "该工具可能集成智能体调试、编排与监控能力，提升 LLM Agent 的开发效率。",
+      "Hacker News 上的高关注度表明社区对 Agent 专用开发环境有强烈需求。"
+    ],
+    "category": "AI开发工具"
+  }
+}

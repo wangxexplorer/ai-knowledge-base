@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260913-006",
+  "title": "JetKVM Mini",
+  "source_url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+  "source_type": "rss",
+  "summary": "JetKVM Mini 是一款基于 IP 的 KVM over IP 设备，允许用户通过网络远程访问和控制计算机的键盘、视频和鼠标。该产品主要面向服务器管理、远程办公和硬件调试场景，与 AI、LLM 或 Agent 技术没有直接关联。",
+  "tags": [
+    "KVM",
+    "远程控制",
+    "硬件",
+    "网络设备",
+    "服务器管理"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-13T21:09:40+08:00",
+  "updated_at": "2026-09-13T21:09:40+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "JetKVM Mini 是远程硬件管理工具，不涉及 AI 或 LLM 技术。",
+      "该设备可用于远程访问服务器，但本身不包含智能代理功能。",
+      "与 AI 领域的相关性极低，仅可能作为基础设施组件间接相关。"
+    ],
+    "category": "硬件设备"
+  }
+}

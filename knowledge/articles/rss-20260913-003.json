@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260913-003",
+  "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
+  "source_url": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
+  "source_type": "rss",
+  "summary": "该条目报道英伟达否认“循环融资”质疑，声称每投资1美元可带来100美元回报，但股价仍持续下跌。内容聚焦英伟达的投资回报与市场反应，属于AI芯片龙头企业的财务与资本市场动态，与AI、LLM、Agent技术本身无直接关联，仅间接反映AI算力基础设施的商业生态。",
+  "tags": [
+    "英伟达",
+    "AI芯片",
+    "资本市场",
+    "循环融资",
+    "算力基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-13T21:09:40+08:00",
+  "updated_at": "2026-09-13T21:09:40+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.25,
+    "key_insights": [
+      "英伟达作为AI算力核心供应商，其投资回报声明反映AI基础设施领域的资本运作逻辑",
+      "市场对英伟达“循环融资”的担忧可能影响AI产业链投资信心",
+      "该新闻属于AI产业商业动态，不涉及LLM或Agent技术进展"
+    ],
+    "category": "AI产业与商业"
+  }
+}

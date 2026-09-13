@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260913-020",
+  "title": "We must pace the frontier",
+  "source_url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+  "source_type": "rss",
+  "summary": "本文是Anthropic CEO Dario Amodei关于AI前沿发展节奏的论述，主张在推进强大AI系统的同时必须审慎控制速度，平衡创新与安全。文章引发广泛讨论，涉及AI治理、风险管控和行业自律等核心议题，对理解当前大模型和Agent领域的发展策略具有重要参考价值。",
+  "tags": [
+    "AI治理",
+    "AI安全",
+    "大模型",
+    "技术伦理",
+    "发展节奏"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-13T21:09:40+08:00",
+  "updated_at": "2026-09-13T21:09:40+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "前沿AI发展需要在创新速度与安全风险之间取得平衡",
+      "行业领袖对AI发展节奏的公开表态影响政策与公众认知",
+      "AI Agent等强大系统的部署需配套治理框架"
+    ],
+    "category": "AI政策与伦理"
+  }
+}

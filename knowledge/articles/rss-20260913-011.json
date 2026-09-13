@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260913-011",
+  "title": "The Interim Computer Museum",
+  "source_url": "https://icm.museum/",
+  "source_type": "rss",
+  "summary": "该条目介绍临时计算机博物馆（ICM），一个展示计算机历史与复古硬件的博物馆网站，来自Hacker News。内容与AI、LLM、Agent领域无直接关联，属于计算机历史与文化遗产范畴，不涉及人工智能技术、模型或智能体应用。",
+  "tags": [
+    "计算机历史",
+    "博物馆",
+    "复古计算",
+    "Hacker News",
+    "非AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-13T21:09:40+08:00",
+  "updated_at": "2026-09-13T21:09:40+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "该条目聚焦计算机历史遗产，与AI/LLM/Agent技术无直接关系",
+      "可作为AI发展史的背景参考，但本身不涉及智能技术",
+      "来源为Hacker News，属于技术社区兴趣内容而非AI专业内容"
+    ],
+    "category": "计算机历史与文化"
+  }
+}
