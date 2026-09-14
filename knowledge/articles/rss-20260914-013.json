@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260914-013",
+  "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+  "source_url": "https://xcancel.com/twitter",
+  "source_type": "rss",
+  "summary": "该条目报道XCancel因正在进行的法律程序出现新进展而被暂停，内容来自Hacker News的RSS聚合，仅包含标题、链接和评论数等元信息，未涉及任何AI、LLM或Agent技术细节。其主题属于法律与平台运营范畴，与人工智能领域无直接关联，因此对AI技术知识库的参考价值极低。",
+  "tags": [
+    "法律诉讼",
+    "平台暂停",
+    "社交媒体",
+    "Hacker News",
+    "非AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-14T22:47:53+08:00",
+  "updated_at": "2026-09-14T22:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "条目内容为法律程序导致的平台暂停事件，与AI技术无关",
+      "仅提供链接和评论元数据，缺乏技术实质内容",
+      "对AI、LLM或Agent领域无参考价值"
+    ],
+    "category": "其他"
+  }
+}

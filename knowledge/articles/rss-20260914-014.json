@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260914-014",
+  "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+  "source_url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+  "source_type": "rss",
+  "summary": "苹果Siri的代码显示其AI后端可被替换为Claude或ChatGPT，表明苹果可能开放Siri接入第三方大语言模型，而非仅依赖自研模型。这反映了AI助手领域模型可插拔的趋势，对LLM生态和Agent集成有重要影响。",
+  "tags": [
+    "Siri",
+    "ChatGPT",
+    "Claude",
+    "LLM集成",
+    "AI助手"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-14T22:47:53+08:00",
+  "updated_at": "2026-09-14T22:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "苹果可能允许Siri切换至第三方LLM，打破自研模型垄断",
+      "模型可插拔设计成为AI助手发展趋势，提升灵活性与竞争力",
+      "此举将加速LLM在终端设备上的集成与Agent化应用"
+    ],
+    "category": "AI应用"
+  }
+}

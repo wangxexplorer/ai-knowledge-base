@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260914-001",
+  "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+  "source_url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+  "source_type": "rss",
+  "summary": "本文记录了将35KB的大型预提示词从Anthropic Opus迁移到自托管Ollama时遇到的陷阱与经验。内容涉及提示词兼容性、模型行为差异、性能调优等实际问题，为LLM应用从商业API转向本地部署提供了实用参考。",
+  "tags": [
+    "LLM",
+    "Ollama",
+    "提示词迁移",
+    "自托管",
+    "模型部署"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-14T22:47:53+08:00",
+  "updated_at": "2026-09-14T22:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "大型提示词在不同LLM间的迁移需注意模型特定的格式与行为差异",
+      "自托管Ollama可替代商业API，但需处理性能与兼容性陷阱",
+      "提示词工程在模型切换时需重新验证与调优"
+    ],
+    "category": "LLM应用与部署"
+  }
+}

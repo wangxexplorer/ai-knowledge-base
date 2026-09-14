@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260914-004",
+  "title": "Temporal raises $550M at a $12.55B valuation",
+  "source_url": "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai",
+  "source_type": "rss",
+  "summary": "Temporal 在 E 轮融资中筹集 5.5 亿美元，估值达 125.5 亿美元。Temporal 提供持久化执行平台，用于构建可靠的工作流和分布式应用，其技术被广泛用于 AI Agent 的编排、状态管理和容错执行，因此该融资事件与 AI Agent 领域高度相关。",
+  "tags": [
+    "Temporal",
+    "融资",
+    "AI Agent",
+    "工作流编排",
+    "持久化执行"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-14T22:47:53+08:00",
+  "updated_at": "2026-09-14T22:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "Temporal 的持久化执行能力为 AI Agent 提供可靠的状态管理和故障恢复，是构建生产级 Agent 的关键基础设施。",
+      "高额融资表明市场对 AI 时代工作流编排和分布式系统可靠性的强烈需求。",
+      "Temporal 常被用于协调 LLM 调用、工具使用和多步骤 Agent 任务，其估值增长反映了 AI Agent 生态的成熟。"
+    ],
+    "category": "AI基础设施"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260914-009",
+  "title": "Texas judge rules TikTok misled users on child safety feature",
+  "source_url": "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/",
+  "source_type": "rss",
+  "summary": "该条目报道了德克萨斯州法官裁定TikTok在儿童安全功能上误导用户，属于法律与社交媒体监管新闻，与AI、LLM、Agent领域无直接技术关联。",
+  "tags": [
+    "TikTok",
+    "儿童安全",
+    "法律诉讼",
+    "社交媒体",
+    "内容审核"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-14T22:47:53+08:00",
+  "updated_at": "2026-09-14T22:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "TikTok因儿童安全功能宣传不实被裁定误导用户",
+      "该事件反映社交媒体平台在未成年人保护方面的合规压力",
+      "与AI/LLM/Agent技术无直接关联，但涉及内容推荐算法的伦理问题"
+    ],
+    "category": "法律与政策"
+  }
+}

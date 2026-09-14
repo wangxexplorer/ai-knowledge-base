@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260914-015",
+  "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
+  "source_url": "https://github.com/callbacked/kinesis",
+  "source_type": "rss",
+  "summary": "Kinesis 是一个开源项目，通过 Meta Neural Band 独立读取 sEMG 数据，实现手势控制 Mac 电脑，如滑动切换桌面、打开 Mission Control、调节音量等。项目由开发者利用 AI 代理 Astra 在 10 个月前的旧仓库基础上快速构建，展示了神经带在眼镜之外的创新应用。",
+  "tags": [
+    "sEMG",
+    "手势控制",
+    "Meta Neural Band",
+    "Mac 控制",
+    "开源项目"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-14T22:47:53+08:00",
+  "updated_at": "2026-09-14T22:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "Meta Neural Band 可独立于眼镜使用，读取 sEMG 数据实现手势控制。",
+      "AI 代理 Astra 被用于加速旧仓库的代码开发与重构。",
+      "该项目展示了神经接口在消费级设备控制中的潜力。"
+    ],
+    "category": "人机交互"
+  }
+}

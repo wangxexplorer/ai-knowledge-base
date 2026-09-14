@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260914-018",
+  "title": "EuroBirdPortal – Live bird movements across Europe",
+  "source_url": "https://www.eurobirdportal.org/ebp/en/",
+  "source_type": "rss",
+  "summary": "EuroBirdPortal是一个展示欧洲鸟类实时移动数据的平台，通过整合多个鸟类观测站的数据，以可视化方式呈现鸟类的迁徙和活动模式。该条目来自Hacker News，与AI、LLM或Agent技术无直接关联，属于生态学和公民科学领域。",
+  "tags": [
+    "鸟类监测",
+    "生态数据",
+    "公民科学",
+    "数据可视化",
+    "欧洲"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-14T22:47:53+08:00",
+  "updated_at": "2026-09-14T22:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该平台是生态数据可视化工具，不涉及AI技术",
+      "与LLM或Agent领域无任何交集",
+      "属于公民科学和生物多样性监测范畴"
+    ],
+    "category": "生态学"
+  }
+}

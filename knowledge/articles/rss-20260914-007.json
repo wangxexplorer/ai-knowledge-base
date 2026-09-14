@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260914-007",
+  "title": "Show HN: I built Otis, a minimal AI agent that runs local models out of the box",
+  "source_url": "https://triangllabs.ai/otis",
+  "source_type": "rss",
+  "summary": "Otis是一个开源AI代理，提供跨本地和托管开放权重模型的统一体验，注重隐私。它根据硬件推荐本地模型，通过llama.cpp运行，并支持Ollama、LM Studio和Nvidia PAIR。",
+  "tags": [
+    "AI Agent",
+    "本地模型",
+    "开源",
+    "隐私",
+    "llama.cpp"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-14T22:47:53+08:00",
+  "updated_at": "2026-09-14T22:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Otis是一个最小化的AI代理，支持本地模型开箱即用",
+      "根据硬件自动推荐并下载本地模型，通过llama.cpp运行",
+      "支持多种本地模型工具如Ollama、LM Studio和Nvidia PAIR"
+    ],
+    "category": "AI Agent"
+  }
+}

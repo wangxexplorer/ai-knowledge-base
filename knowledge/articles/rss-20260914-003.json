@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260914-003",
+  "title": "Show HN: Pelican-bicycle alternatives (updated for 2026)",
+  "source_url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+  "source_type": "rss",
+  "summary": "该条目是作者受Simon Willison的'骑自行车的鹈鹕'基准启发，用30个类似提示（如'生成章鱼操作管风琴的SVG'）测试当时LLM生成SVG的能力。九个月后，作者用更强模型重新实验，通过OpenRouter运行10个提示、6个模型，花费约20美元。结果展示了LLM在SVG生成任务上的进步，属于LLM能力评估的实践。",
+  "tags": [
+    "LLM评估",
+    "SVG生成",
+    "基准测试",
+    "多模型对比",
+    "生成式AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-14T22:47:53+08:00",
+  "updated_at": "2026-09-14T22:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "该实验是LLM生成SVG能力的非正式基准，延续了Simon Willison的创意测试方法。",
+      "通过OpenRouter多模型对比，展示了九个月内LLM在复杂视觉生成任务上的显著进步。",
+      "低成本（约20美元）即可进行多模型多提示的对比实验，体现了LLM API的易用性。"
+    ],
+    "category": "LLM评测与基准"
+  }
+}

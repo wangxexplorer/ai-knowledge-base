@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260914-010",
+  "title": "SDR–; open source SDR with a patchable signal graph, Rust DSP, web UI",
+  "source_url": "https://github.com/Newspicel/sdrminusminus",
+  "source_type": "rss",
+  "summary": "SDR-- 是一个开源软件定义无线电项目，提供可修补的信号图、基于 Rust 的数字信号处理以及 Web 用户界面。该项目与 AI、LLM 或 Agent 领域没有直接关联，属于传统 DSP 和无线电工程范畴。",
+  "tags": [
+    "SDR",
+    "Rust",
+    "DSP",
+    "开源",
+    "Web UI"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-14T22:47:53+08:00",
+  "updated_at": "2026-09-14T22:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "项目核心是信号处理与无线电，而非 AI/LLM/Agent",
+      "Rust 用于高性能 DSP，与 AI 基础设施无直接关系",
+      "可修补信号图可能为 AI 辅助优化提供潜在接口，但当前未涉及"
+    ],
+    "category": "软件定义无线电"
+  }
+}

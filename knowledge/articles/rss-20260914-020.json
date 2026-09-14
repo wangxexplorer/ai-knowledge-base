@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260914-020",
+  "title": "The case against JPEG XL",
+  "source_url": "https://giannirosato.com/blog/post/case-against-jxl/",
+  "source_type": "rss",
+  "summary": "该条目讨论反对JPEG XL图像格式的技术观点，属于图像压缩与Web标准领域，与AI、LLM、Agent无直接关联。",
+  "tags": [
+    "图像压缩",
+    "JPEG XL",
+    "Web标准",
+    "多媒体格式"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-14T22:47:53+08:00",
+  "updated_at": "2026-09-14T22:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "JPEG XL是图像压缩格式，不涉及AI或机器学习技术",
+      "该讨论聚焦于格式采用与浏览器支持，与LLM/Agent无关",
+      "对AI技术知识库的贡献极低"
+    ],
+    "category": "图像处理"
+  }
+}

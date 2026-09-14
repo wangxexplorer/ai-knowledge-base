@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260914-017",
+  "title": "A 386 PC for Your RP2350",
+  "source_url": "https://github.com/rh1tech/frank-386",
+  "source_type": "rss",
+  "summary": "该项目在RP2350微控制器上模拟Intel 386 PC，属于嵌入式系统与复古计算领域，与AI、LLM、Agent无直接关联。",
+  "tags": [
+    "嵌入式系统",
+    "复古计算",
+    "RP2350",
+    "386模拟",
+    "硬件"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-14T22:47:53+08:00",
+  "updated_at": "2026-09-14T22:47:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "项目聚焦于在微控制器上模拟经典PC硬件",
+      "与AI/LLM/Agent技术栈无直接联系",
+      "体现了嵌入式系统与复古计算的结合"
+    ],
+    "category": "硬件与嵌入式"
+  }
+}
