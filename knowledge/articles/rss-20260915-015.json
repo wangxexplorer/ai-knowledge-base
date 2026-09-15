@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260915-015",
+  "title": "Pion, an agent designed to run any company autonomously",
+  "source_url": "https://andonlabs.com/blog/why-we-built-pion",
+  "source_type": "rss",
+  "summary": "Pion是Andon Labs开发的自主AI代理，旨在自主运营任何公司。该条目来自Hacker News，获得436点热度，引发537条评论，表明业界对自主代理在商业运营中应用的高度关注。Pion代表了AI代理从辅助工具向自主决策者演进的前沿方向，涉及多步骤规划、工具调用、长期记忆等LLM代理核心技术，同时引发关于AI自主性、安全性和商业影响的讨论。",
+  "tags": [
+    "自主代理",
+    "LLM应用",
+    "商业自动化",
+    "AI安全",
+    "多步骤规划"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-15T21:11:54+08:00",
+  "updated_at": "2026-09-15T21:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Pion展示了LLM代理在复杂商业运营中实现端到端自主决策的潜力",
+      "自主代理的落地需要解决长期规划、工具集成和安全性等核心挑战",
+      "高社区热度反映业界对AI自主性商业应用的强烈兴趣与争议"
+    ],
+    "category": "AI Agent"
+  }
+}

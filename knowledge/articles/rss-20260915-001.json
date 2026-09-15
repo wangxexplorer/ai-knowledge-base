@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260915-001",
+  "title": "25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]",
+  "source_url": "https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough",
+  "source_type": "rss",
+  "summary": "本文由Cindy Cohn和Bruce Schneier撰写，呼吁结束长达25年的大规模监控。文章可能讨论监控对隐私和民主的威胁，并主张改革。与AI、LLM、Agent领域无直接关联，但涉及数据收集和隐私问题，这些是AI伦理和治理的重要背景。",
+  "tags": [
+    "监控",
+    "隐私",
+    "政策",
+    "安全",
+    "伦理"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-15T21:11:54+08:00",
+  "updated_at": "2026-09-15T21:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "大规模监控已持续25年，对公民自由构成威胁",
+      "AI技术可能加剧监控能力，需政策约束",
+      "隐私保护是AI伦理和治理的关键议题"
+    ],
+    "category": "隐私与安全"
+  }
+}

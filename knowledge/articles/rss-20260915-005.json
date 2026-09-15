@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260915-005",
+  "title": "Suspected sabotage causes major Netherlands rail disruption",
+  "source_url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+  "source_type": "rss",
+  "summary": "该条目报道荷兰铁路系统因疑似破坏活动而出现重大中断，属于社会安全与交通基础设施新闻，与AI、LLM或Agent技术领域无直接关联。",
+  "tags": [
+    "铁路中断",
+    "破坏活动",
+    "荷兰",
+    "社会新闻",
+    "基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-15T21:11:54+08:00",
+  "updated_at": "2026-09-15T21:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "事件为交通基础设施安全事件，不涉及AI技术",
+      "与LLM或Agent领域无任何技术交集",
+      "对AI技术知识库无参考价值"
+    ],
+    "category": "社会新闻"
+  }
+}

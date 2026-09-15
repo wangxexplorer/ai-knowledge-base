@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260915-013",
+  "title": "Charts built for Chat",
+  "source_url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+  "source_type": "rss",
+  "summary": "该条目介绍了一种专为聊天场景设计的图表工具，旨在优化对话式界面中的数据可视化呈现。它关注在聊天机器人或对话式AI中如何更自然地嵌入和展示图表，提升信息传达效率。与LLM和Agent领域有一定关联，因为对话式AI常需输出结构化数据，而图表是重要补充。但核心仍是前端可视化与交互设计，AI技术本身涉及较少。",
+  "tags": [
+    "对话式AI",
+    "数据可视化",
+    "聊天界面",
+    "图表生成",
+    "人机交互"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-15T21:11:54+08:00",
+  "updated_at": "2026-09-15T21:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.45,
+    "key_insights": [
+      "聊天场景需要专门优化的图表呈现方式，而非简单复用传统图表库",
+      "对话式AI输出结构化数据时，图表可显著提升信息传达效率",
+      "该方向属于AI应用层交互设计，与LLM/Agent集成有潜在结合点"
+    ],
+    "category": "AI应用与交互"
+  }
+}

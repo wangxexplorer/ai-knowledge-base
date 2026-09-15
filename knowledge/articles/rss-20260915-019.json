@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260915-019",
+  "title": "A rough guide for going back to the Moon",
+  "source_url": "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model",
+  "source_type": "rss",
+  "summary": "该条目介绍IBM与NASA合作开发月球基础模型，用于支持重返月球任务。基础模型属于AI大模型技术，可处理多模态数据，辅助月球探索中的科学分析与决策。与LLM和Agent领域相关，但更偏向特定领域应用。",
+  "tags": [
+    "基础模型",
+    "AI",
+    "NASA",
+    "月球探索",
+    "多模态"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-15T21:11:54+08:00",
+  "updated_at": "2026-09-15T21:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "基础模型技术正被应用于太空探索领域",
+      "IBM与NASA合作开发月球基础模型",
+      "该模型可能涉及多模态数据处理和科学分析"
+    ],
+    "category": "AI应用"
+  }
+}

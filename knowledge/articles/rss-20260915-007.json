@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260915-007",
+  "title": "The k-server conjecture is true",
+  "source_url": "https://arxiv.org/abs/2609.15979",
+  "source_type": "rss",
+  "summary": "该条目报道了k-server猜想被证明为真的理论计算机科学突破。k-server问题是最经典的在线算法问题之一，涉及在度量空间中调度服务器以最小化总移动成本。该猜想自1990年代提出以来一直是竞争分析领域的核心开放问题。虽然该成果本身不直接涉及AI或LLM，但其在线决策与竞争分析框架对AI Agent的在线规划、资源调度和不确定性环境下的决策具有潜在的理论启发意义。",
+  "tags": [
+    "在线算法",
+    "竞争分析",
+    "理论计算机科学",
+    "决策优化",
+    "k-server问题"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-15T21:11:54+08:00",
+  "updated_at": "2026-09-15T21:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.15,
+    "key_insights": [
+      "k-server猜想是在线算法领域最著名的开放问题之一，其证明具有重大理论意义",
+      "在线决策与竞争分析框架可为AI Agent在不确定环境下的规划提供理论工具",
+      "该成果与LLM、深度学习等主流AI技术无直接关联，属于基础算法理论范畴"
+    ],
+    "category": "理论计算机科学"
+  }
+}

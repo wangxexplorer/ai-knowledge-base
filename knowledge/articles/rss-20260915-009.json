@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260915-009",
+  "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+  "source_url": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+  "source_type": "rss",
+  "summary": "该条目是Lingo.dev（YC F24）招聘高级内容工程师的职位信息，工作地点远程、面向全球。Lingo.dev是一家提供本地化/翻译服务的公司，可能利用AI技术，但招聘内容工程师本身与AI、LLM、Agent领域无直接技术关联。",
+  "tags": [
+    "招聘",
+    "本地化",
+    "内容工程",
+    "YC",
+    "远程"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-15T21:11:54+08:00",
+  "updated_at": "2026-09-15T21:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "该条目为招聘信息，不涉及AI/LLM/Agent技术内容",
+      "Lingo.dev可能涉及AI翻译，但招聘职位本身与AI无直接关联",
+      "对AI技术知识库而言，相关性极低"
+    ],
+    "category": "招聘信息"
+  }
+}

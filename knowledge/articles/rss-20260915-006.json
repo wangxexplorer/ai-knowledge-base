@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260915-006",
+  "title": "Alternatives to MinIO for single-node local S3",
+  "source_url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+  "source_type": "rss",
+  "summary": "本文探讨了在单节点本地环境中替代MinIO的S3兼容存储方案，可能涉及轻量级对象存储工具如SeaweedFS、Garage等。这些方案常用于本地开发、测试或边缘计算场景，为AI/LLM应用提供数据存储支持，但本身不直接涉及AI技术。",
+  "tags": [
+    "S3",
+    "对象存储",
+    "本地部署",
+    "MinIO",
+    "基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-15T21:11:54+08:00",
+  "updated_at": "2026-09-15T21:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "单节点S3替代方案适合本地AI开发环境的数据存储",
+      "轻量级存储工具可降低LLM应用部署复杂度",
+      "存储选择影响AI工作流的可扩展性和成本"
+    ],
+    "category": "基础设施"
+  }
+}

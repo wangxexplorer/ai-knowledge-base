@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260915-018",
+  "title": "Principles for Fast Tokio Applications",
+  "source_url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+  "source_type": "rss",
+  "summary": "本文探讨了构建高性能Tokio异步应用的原则，Tokio是Rust语言的异步运行时。内容涉及任务调度、I/O处理、并发模型等优化技巧，旨在提升应用吞吐量和响应速度。虽然与AI、LLM或Agent领域无直接关联，但高性能异步运行时是构建高效AI推理服务、Agent系统等底层基础设施的潜在支撑技术。",
+  "tags": [
+    "Tokio",
+    "Rust",
+    "异步编程",
+    "性能优化",
+    "系统编程"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-15T21:11:54+08:00",
+  "updated_at": "2026-09-15T21:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.15,
+    "key_insights": [
+      "Tokio是Rust生态中广泛使用的异步运行时，对构建高性能网络服务至关重要。",
+      "优化Tokio应用可提升AI推理服务、Agent系统等底层基础设施的吞吐量。",
+      "该内容属于系统编程领域，与AI/LLM/Agent的直接算法或模型无关。"
+    ],
+    "category": "系统编程"
+  }
+}

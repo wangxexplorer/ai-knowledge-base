@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260915-012",
+  "title": "US confirms for first time it has deployed space weapons",
+  "source_url": "https://www.bbc.com/news/articles/ck790xg41ygro",
+  "source_type": "rss",
+  "summary": "该条目报道美国首次确认已部署太空武器，内容涉及军事太空技术，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "太空武器",
+    "军事技术",
+    "美国",
+    "国际安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-15T21:11:54+08:00",
+  "updated_at": "2026-09-15T21:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "美国首次公开承认部署太空武器，可能引发太空军备竞赛",
+      "该新闻属于国防与地缘政治范畴，不涉及人工智能技术",
+      "对AI、LLM或Agent领域的研究与应用无直接影响"
+    ],
+    "category": "军事科技"
+  }
+}

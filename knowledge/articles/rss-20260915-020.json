@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260915-020",
+  "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+  "source_url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+  "source_type": "rss",
+  "summary": "本文介绍通过记忆化技术将eBPF程序的CPU开销降低约90%，作者强调并非AI生成。eBPF是Linux内核的高效跟踪与网络工具，记忆化通过缓存重复计算结果减少CPU消耗。该技术虽不直接涉及AI或LLM，但为AI Agent的底层监控、性能优化提供了基础设施支持，可提升Agent运行效率。",
+  "tags": [
+    "eBPF",
+    "性能优化",
+    "记忆化",
+    "系统监控",
+    "AI基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-15T21:11:54+08:00",
+  "updated_at": "2026-09-15T21:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "记忆化可大幅降低eBPF程序CPU开销，提升系统监控效率",
+      "eBPF优化间接支持AI Agent的底层性能与可观测性",
+      "该技术非AI生成，但属于AI基础设施相关优化"
+    ],
+    "category": "系统优化"
+  }
+}

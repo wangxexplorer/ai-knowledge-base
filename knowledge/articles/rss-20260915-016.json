@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260915-016",
+  "title": "Distributed Systems Classics (2017)",
+  "source_url": "https://nvartolomei.com/dist-sys-classics/",
+  "source_type": "rss",
+  "summary": "该条目是分布式系统经典论文的合集，发布于2017年，在Hacker News上获得323点热度。内容涵盖分布式系统核心理论，如一致性、容错、共识算法等。这些基础理论对构建大规模AI训练集群、分布式LLM推理服务以及多智能体系统至关重要，但条目本身不直接涉及AI或LLM技术。",
+  "tags": [
+    "分布式系统",
+    "共识算法",
+    "容错",
+    "AI基础设施",
+    "多智能体系统"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-15T21:11:54+08:00",
+  "updated_at": "2026-09-15T21:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.4,
+    "key_insights": [
+      "分布式系统经典理论是构建大规模AI训练和推理基础设施的基石",
+      "共识算法和容错机制对多智能体系统的协调与可靠性有直接借鉴意义",
+      "该资源不直接涉及AI/LLM，但为理解AI系统底层架构提供必要背景"
+    ],
+    "category": "分布式系统"
+  }
+}

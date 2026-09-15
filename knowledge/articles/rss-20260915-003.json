@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260915-003",
+  "title": "25 Years of Mass Surveillance Is Enough",
+  "source_url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+  "source_type": "rss",
+  "summary": "该条目是布鲁斯·施奈尔关于反对大规模监控的博客文章，讨论25年来监控体系的危害与改革呼吁。内容聚焦隐私、公民自由与政策监管，未涉及AI、LLM或Agent技术，因此与AI领域相关性极低。",
+  "tags": [
+    "隐私",
+    "监控",
+    "公民自由",
+    "政策",
+    "安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-15T21:11:54+08:00",
+  "updated_at": "2026-09-15T21:11:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "文章主题为大规模监控与隐私权，而非AI技术",
+      "未讨论LLM、Agent或机器学习方法",
+      "与AI的相关性仅停留在安全与伦理的间接层面"
+    ],
+    "category": "隐私与安全"
+  }
+}
