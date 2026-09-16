@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260916-012",
+  "title": "Saving Jet Fuel",
+  "source_url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
+  "source_type": "rss",
+  "summary": "该条目介绍利用scikit-decide和OpenAP进行最优飞行规划以节省喷气燃料。scikit-decide是强化学习框架，OpenAP是飞机性能模型。文章展示了如何将强化学习应用于航空燃油优化，属于AI在传统行业的应用案例，与LLM和Agent领域无直接关联。",
+  "tags": [
+    "强化学习",
+    "scikit-decide",
+    "飞行规划",
+    "燃油优化",
+    "AI应用"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-16T21:12:41+08:00",
+  "updated_at": "2026-09-16T21:12:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "scikit-decide是用于强化学习的Python库，支持决策优化",
+      "OpenAP提供飞机性能建模，可与RL结合优化飞行轨迹",
+      "该案例展示了AI在航空燃油效率方面的实际应用"
+    ],
+    "category": "AI应用"
+  }
+}

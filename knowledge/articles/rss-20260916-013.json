@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260916-013",
+  "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+  "source_url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+  "source_type": "rss",
+  "summary": "该条目介绍在FPGA上重现Voodoo Graphics显卡和1990年代末游戏PC，属于硬件仿真和复古计算领域，与AI、LLM、Agent无直接关联。",
+  "tags": [
+    "FPGA",
+    "硬件仿真",
+    "复古计算",
+    "Voodoo Graphics",
+    "游戏PC"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-16T21:12:41+08:00",
+  "updated_at": "2026-09-16T21:12:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "FPGA可用于精确模拟历史硬件",
+      "复古计算社区对硬件重现兴趣浓厚",
+      "该技术不涉及AI或LLM"
+    ],
+    "category": "硬件与嵌入式"
+  }
+}

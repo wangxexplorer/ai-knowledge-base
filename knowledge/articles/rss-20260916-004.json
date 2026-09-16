@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260916-004",
+  "title": "Salesforce Global Outage",
+  "source_url": "https://status.salesforce.com/products/all",
+  "source_type": "rss",
+  "summary": "该条目报道了Salesforce全球服务中断事件，来源为Hacker News，包含状态页面链接和讨论链接。Salesforce是全球领先的CRM平台，其服务中断可能影响企业运营，但条目本身未涉及AI、LLM或Agent技术。因此，与AI领域相关性极低，仅作为一般科技新闻。",
+  "tags": [
+    "Salesforce",
+    "服务中断",
+    "云计算",
+    "企业软件",
+    "科技新闻"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-16T21:12:41+08:00",
+  "updated_at": "2026-09-16T21:12:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "Salesforce全球中断可能影响依赖其服务的企业，但与AI技术无直接关联。",
+      "该事件在Hacker News上引发讨论，反映业界对云服务可靠性的关注。",
+      "条目内容未提及AI、LLM或Agent，因此对AI知识库价值有限。"
+    ],
+    "category": "科技新闻"
+  }
+}

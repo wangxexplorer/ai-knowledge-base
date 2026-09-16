@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260916-014",
+  "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+  "source_url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+  "source_type": "rss",
+  "summary": "德国莱茵金属公司开源了其Battlesuite连接武器系统的协议，该协议用于武器系统的互联与数据交换。开源行为可能旨在促进技术标准化或社区协作，但内容本身聚焦于军事硬件通信，与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "军事科技",
+    "开源协议",
+    "武器系统",
+    "通信协议",
+    "莱茵金属"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-16T21:12:41+08:00",
+  "updated_at": "2026-09-16T21:12:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "该条目涉及军事武器系统的通信协议，与AI核心技术无关。",
+      "开源协议可能间接影响AI在军事领域的集成，但非直接相关。",
+      "对LLM或Agent领域无实质贡献或启示。"
+    ],
+    "category": "军事科技"
+  }
+}

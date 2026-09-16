@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260916-020",
+  "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+  "source_type": "rss",
+  "summary": "Google发布Gemini 3.8 Live及Gemini 3.8 Live Extended Thinking，属于Gemini系列大模型更新。该条目来自Google官方博客，并在Hacker News引发439点、298条评论的热议。Extended Thinking暗示模型具备更长的推理链或深度思考能力，与LLM推理增强、实时交互等前沿方向直接相关，是AI大模型领域的重要产品动态。",
+  "tags": [
+    "Gemini",
+    "LLM",
+    "Google",
+    "推理增强",
+    "模型发布"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-16T21:12:41+08:00",
+  "updated_at": "2026-09-16T21:12:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Gemini 3.8 Live系列是Google大模型的最新迭代，Extended Thinking表明其在长链推理能力上有增强",
+      "该发布在Hacker News获得高热度，反映业界对LLM推理能力提升的强烈关注",
+      "实时（Live）与扩展思考（Extended Thinking）结合，可能推动Agent与实时交互场景的应用"
+    ],
+    "category": "大语言模型"
+  }
+}

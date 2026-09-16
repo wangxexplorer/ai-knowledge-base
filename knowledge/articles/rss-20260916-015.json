@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260916-015",
+  "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+  "source_url": "https://codyho.dev/blog/gpu-driver/",
+  "source_type": "rss",
+  "summary": "本文讲述了作者在一个月内为M4 Mac Mini开发Linux GPU驱动的经历，涉及逆向工程、硬件接口和驱动开发。该内容与AI、LLM、Agent领域无直接关联，属于系统底层和硬件驱动开发范畴。",
+  "tags": [
+    "GPU驱动",
+    "Linux",
+    "逆向工程",
+    "硬件",
+    "Mac Mini"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-16T21:12:41+08:00",
+  "updated_at": "2026-09-16T21:12:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "GPU驱动开发需要深入理解硬件架构和操作系统内核",
+      "逆向工程是开发非官方驱动的重要手段",
+      "该工作为Linux在Apple Silicon上的支持提供了参考"
+    ],
+    "category": "系统与硬件"
+  }
+}

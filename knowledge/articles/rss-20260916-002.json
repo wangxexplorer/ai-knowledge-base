@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260916-002",
+  "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
+  "source_url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+  "source_type": "rss",
+  "summary": "该条目报道了索尼PlayStation 2安全芯片CXP102064在发布26年后被逆向工程破解，爱好者耗时四年成功解锁。内容涉及硬件安全、逆向工程和游戏主机破解，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "硬件安全",
+    "逆向工程",
+    "游戏主机",
+    "PlayStation 2",
+    "芯片破解"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-16T21:12:41+08:00",
+  "updated_at": "2026-09-16T21:12:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "PS2安全芯片被破解，可能影响模拟器开发和自制软件",
+      "逆向工程耗时四年，体现硬件安全防护的持久性",
+      "与AI/LLM/Agent领域无关，属于传统硬件安全事件"
+    ],
+    "category": "硬件安全"
+  }
+}

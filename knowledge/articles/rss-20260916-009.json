@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260916-009",
+  "title": "Datamimic – don't let your coding agent invent its own test world",
+  "source_url": "https://github.com/rapiddweller/datamimic",
+  "source_type": "rss",
+  "summary": "Datamimic 是一个开源数据生成工具，旨在为编码代理（coding agent）提供可控、真实的测试数据环境，避免代理自行虚构测试世界。它支持生成结构化、关系型数据，适用于软件测试和开发。该工具与 AI 代理领域相关，因为它解决了代理在测试时数据不可靠的问题，提升了代理的实用性和可靠性。",
+  "tags": [
+    "测试数据生成",
+    "编码代理",
+    "AI Agent",
+    "开发工具",
+    "数据模拟"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-16T21:12:41+08:00",
+  "updated_at": "2026-09-16T21:12:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "Datamimic 帮助编码代理避免虚构测试数据，提高测试真实性。",
+      "该工具可生成结构化数据，支持代理在开发中的自动化测试。",
+      "与 AI Agent 领域相关，但主要聚焦于数据生成而非核心 AI 技术。"
+    ],
+    "category": "AI Agent 工具"
+  }
+}

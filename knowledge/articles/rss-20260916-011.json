@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260916-011",
+  "title": "Apple Reference Image: A New Approach for Verified Photography",
+  "source_url": "https://security.apple.com/blog/apple-reference-image/",
+  "source_type": "rss",
+  "summary": "苹果发布参考图像（Apple Reference Image）技术，用于验证摄影真实性，通过安全硬件和加密签名确保照片未被篡改。该技术主要面向新闻摄影和证据保全，与AI、LLM、Agent领域无直接关联，但涉及内容真实性验证，可能间接影响AI生成内容的检测与溯源。",
+  "tags": [
+    "图像验证",
+    "内容真实性",
+    "安全",
+    "苹果",
+    "摄影"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-16T21:12:41+08:00",
+  "updated_at": "2026-09-16T21:12:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "苹果参考图像技术通过硬件级签名验证照片真实性，对抗深度伪造和篡改。",
+      "该技术可能为AI生成内容的检测提供参考，但本身不涉及AI或LLM。",
+      "与Agent领域无关，但内容溯源机制可启发AI生成内容的可信标识。"
+    ],
+    "category": "安全与隐私"
+  }
+}

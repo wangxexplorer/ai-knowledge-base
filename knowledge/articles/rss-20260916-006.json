@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260916-006",
+  "title": "Learning Programming in an Age of LLMs",
+  "source_url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+  "source_type": "rss",
+  "summary": "文章探讨在LLM时代学习编程的意义与方法，认为AI辅助工具改变了传统学习路径，但基础编程能力与理解力仍不可替代。",
+  "tags": [
+    "LLM",
+    "编程教育",
+    "AI辅助编程",
+    "技能学习",
+    "开发者"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-16T21:12:41+08:00",
+  "updated_at": "2026-09-16T21:12:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "LLM正在重塑编程学习方式，但基础概念理解依然关键",
+      "AI工具可能降低入门门槛，却也可能削弱深度调试与问题解决能力",
+      "教育者需重新设计课程，平衡AI辅助与独立编程训练"
+    ],
+    "category": "AI与教育"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260916-016",
+  "title": "Introducing System One Models and Jev",
+  "source_url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+  "source_type": "rss",
+  "summary": "该条目介绍System One Models和Jev，来自typesafe.ai博客，在Hacker News上获得高热度。System One Models可能指代一种新型AI模型架构，Jev可能是配套工具或语言。由于缺乏详细描述，具体技术细节不明，但标题暗示与AI模型系统相关，可能涉及LLM或Agent领域。",
+  "tags": [
+    "System One Models",
+    "Jev",
+    "AI模型",
+    "LLM",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-16T21:12:41+08:00",
+  "updated_at": "2026-09-16T21:12:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "System One Models可能是一种新型AI模型架构，与LLM或Agent相关",
+      "Jev可能是配套的编程语言或工具，用于构建AI系统",
+      "该条目在Hacker News上获得高关注度，表明技术社区对此感兴趣"
+    ],
+    "category": "AI模型与工具"
+  }
+}
