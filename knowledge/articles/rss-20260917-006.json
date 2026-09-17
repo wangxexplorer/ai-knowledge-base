@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260917-006",
+  "title": "CCC invites all model citizens to 40C3",
+  "source_url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+  "source_type": "rss",
+  "summary": "该条目是CCC（混沌计算机俱乐部）关于40C3活动的邀请公告，标题提及'模型公民'，但描述仅包含链接和HN评论信息，未涉及具体AI、LLM或Agent技术内容。",
+  "tags": [
+    "CCC",
+    "活动公告",
+    "Hacker News",
+    "模型公民",
+    "40C3"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-17T21:06:33+08:00",
+  "updated_at": "2026-09-17T21:06:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "条目为活动邀请，非技术内容",
+      "标题中的'模型公民'可能隐喻AI，但无实质技术讨论",
+      "与AI/LLM/Agent领域相关性极低"
+    ],
+    "category": "其他"
+  }
+}

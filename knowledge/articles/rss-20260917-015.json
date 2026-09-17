@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260917-015",
+  "title": "Small programming tricks",
+  "source_url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+  "source_type": "rss",
+  "summary": "该条目是Hacker News上关于编程小技巧的讨论帖，标题为“Small programming tricks”，指向一篇博客文章。内容聚焦于通用编程实践中的小技巧，未涉及AI、LLM或Agent相关技术。因此，与AI领域的相关性极低。",
+  "tags": [
+    "编程技巧",
+    "软件开发",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-17T21:06:33+08:00",
+  "updated_at": "2026-09-17T21:06:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "编程小技巧可提升开发效率，但与AI技术无直接关联",
+      "该讨论在Hacker News上获得较高关注，反映通用编程话题的社区热度",
+      "未涉及LLM或Agent等AI核心技术"
+    ],
+    "category": "编程实践"
+  }
+}

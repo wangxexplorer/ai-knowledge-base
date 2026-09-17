@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260917-005",
+  "title": "One Year of Sponsored Servo Development",
+  "source_url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+  "source_type": "rss",
+  "summary": "该条目介绍Servo浏览器引擎在赞助支持下一年来的开发进展。Servo是用Rust编写的并行渲染引擎，与AI、LLM或Agent领域无直接关联。其技术贡献主要在系统编程、浏览器渲染和内存安全方面，不涉及机器学习模型、自然语言处理或智能体系统。因此对AI技术知识库的相关性极低。",
+  "tags": [
+    "Servo",
+    "浏览器引擎",
+    "Rust",
+    "开源开发",
+    "系统编程"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-17T21:06:33+08:00",
+  "updated_at": "2026-09-17T21:06:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "Servo是Rust编写的浏览器渲染引擎，与AI/LLM/Agent无直接关系",
+      "该条目属于系统编程和Web基础设施领域",
+      "对AI技术知识库的贡献有限，仅可作为技术生态背景参考"
+    ],
+    "category": "非AI技术"
+  }
+}

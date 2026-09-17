@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260917-017",
+  "title": "A 32-year-old bug walks into a Telnet server",
+  "source_url": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
+  "source_type": "rss",
+  "summary": "该条目讨论GNU inetutils telnetd中一个存在32年的漏洞（CVE-2026-32746），属于传统网络服务安全漏洞分析。内容与AI、LLM、Agent领域无直接关联，不涉及机器学习、大语言模型或智能体技术。",
+  "tags": [
+    "网络安全",
+    "漏洞分析",
+    "Telnet",
+    "CVE",
+    "传统协议"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-17T21:06:33+08:00",
+  "updated_at": "2026-09-17T21:06:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该漏洞是传统网络服务中的长期遗留问题，与AI技术栈无关",
+      "AI/LLM/Agent领域关注模型、算法与智能体，不涉及此类底层协议漏洞",
+      "对AI安全有间接参考价值，但非核心相关"
+    ],
+    "category": "网络安全"
+  }
+}

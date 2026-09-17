@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260917-003",
+  "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+  "source_url": "https://manticoresearch.com/blog/auto-chunking/",
+  "source_type": "rss",
+  "summary": "Manticore Search 博客介绍了针对长文档的向量搜索优化，通过自动分块（auto-chunking）技术将长文档切分为语义片段，再分别生成向量并索引，从而提升检索准确性和效率。该技术直接服务于 RAG 和 LLM 应用中的文档检索环节，是向量数据库与搜索系统结合的重要实践。",
+  "tags": [
+    "向量搜索",
+    "文档分块",
+    "RAG",
+    "Manticore Search",
+    "长文档处理"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-17T21:06:33+08:00",
+  "updated_at": "2026-09-17T21:06:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "长文档直接向量化会稀释语义，分块后分别嵌入可显著提升检索精度。",
+      "自动分块技术降低了 RAG 系统构建中预处理文档的工程复杂度。",
+      "Manticore Search 将分块与向量索引集成，为 LLM 应用提供端到端检索方案。"
+    ],
+    "category": "向量数据库与检索"
+  }
+}

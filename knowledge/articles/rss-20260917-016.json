@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260917-016",
+  "title": "Nvidia announces native GPU programming in Rust",
+  "source_url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+  "source_type": "rss",
+  "summary": "Nvidia宣布在Rust中支持原生GPU编程，推出CUDA Rust两条技术路线，允许开发者用Rust编写GPU内核。这降低了GPU编程门槛，提升了内存安全性和开发效率，对AI和LLM领域的高性能计算基础设施有积极影响。",
+  "tags": [
+    "GPU编程",
+    "Rust",
+    "CUDA",
+    "AI基础设施",
+    "高性能计算"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-17T21:06:33+08:00",
+  "updated_at": "2026-09-17T21:06:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "Rust的内存安全特性可减少GPU编程中的常见错误，提升AI系统稳定性",
+      "原生Rust支持可能吸引更多开发者进入GPU加速计算领域，加速AI模型训练与推理优化",
+      "CUDA Rust的成熟将影响LLM等大规模AI应用的底层性能与开发效率"
+    ],
+    "category": "AI基础设施"
+  }
+}

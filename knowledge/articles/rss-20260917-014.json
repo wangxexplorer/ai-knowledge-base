@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260917-014",
+  "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+  "source_url": "https://rohanbansal.com/qorl",
+  "source_type": "rss",
+  "summary": "该条目介绍了一个4B参数模型，用于生成比Postgres快81%的查询计划，属于AI在数据库查询优化领域的应用。它展示了LLM在结构化任务中的潜力，与AI、LLM领域高度相关，但未涉及Agent。",
+  "tags": [
+    "LLM",
+    "查询优化",
+    "数据库",
+    "模型训练",
+    "Postgres"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-17T21:06:33+08:00",
+  "updated_at": "2026-09-17T21:06:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "4B模型在查询计划生成上显著优于传统数据库优化器",
+      "展示了LLM在结构化任务中的潜力",
+      "为数据库性能优化提供了新思路"
+    ],
+    "category": "AI应用"
+  }
+}

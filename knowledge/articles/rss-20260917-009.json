@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260917-009",
+  "title": "OpenSpec – A lightweight and configurable AI spec framework",
+  "source_url": "https://openspec.dev/",
+  "source_type": "rss",
+  "summary": "OpenSpec 是一个轻量级、可配置的 AI 规范框架，旨在为 AI 系统提供结构化的行为规范与约束定义。它可能用于指导 LLM 或 Agent 的输出行为，提升可控性与一致性。该条目来自 Hacker News，获得 162 分和 75 条评论，说明社区对其有较高关注度。其核心价值在于以轻量方式实现 AI 规范管理，适合需要定制化规则约束的 AI 应用场景。",
+  "tags": [
+    "AI规范框架",
+    "LLM可控性",
+    "Agent行为约束",
+    "轻量级框架",
+    "可配置"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-17T21:06:33+08:00",
+  "updated_at": "2026-09-17T21:06:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.82,
+    "key_insights": [
+      "提供轻量可配置的 AI 规范定义方式，降低约束管理成本",
+      "可用于 LLM 与 Agent 的行为规范与输出控制",
+      "社区关注度高，具备实际应用与集成潜力"
+    ],
+    "category": "AI开发框架"
+  }
+}

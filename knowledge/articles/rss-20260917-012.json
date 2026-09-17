@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260917-012",
+  "title": "Backups Aren't Simple",
+  "source_url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+  "source_type": "rss",
+  "summary": "本文讨论备份系统的复杂性，指出备份并非简单任务，涉及数据一致性、存储管理、恢复策略等挑战。与AI、LLM、Agent领域无直接关联，属于通用软件工程话题。",
+  "tags": [
+    "备份",
+    "软件工程",
+    "数据管理"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-17T21:06:33+08:00",
+  "updated_at": "2026-09-17T21:06:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "备份系统设计复杂，需考虑多种失败场景",
+      "与AI/LLM/Agent无直接技术关联",
+      "属于基础设施运维范畴"
+    ],
+    "category": "其他"
+  }
+}

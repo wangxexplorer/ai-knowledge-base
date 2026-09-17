@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260917-004",
+  "title": "GLM Built Its Own Inference Infrastructure",
+  "source_url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+  "source_type": "rss",
+  "summary": "GLM团队自建推理基础设施，以优化大语言模型（LLM）的推理性能。该文章介绍了其自研推理系统的架构与实现，可能涉及模型部署、计算优化、延迟降低等关键技术。作为LLM领域的重要实践，它展示了从模型训练到推理落地的全栈能力，对AI Agent等依赖高效推理的应用具有支撑意义。",
+  "tags": [
+    "LLM推理",
+    "基础设施",
+    "GLM",
+    "模型部署",
+    "性能优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-17T21:06:33+08:00",
+  "updated_at": "2026-09-17T21:06:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "自建推理基础设施可针对特定模型（如GLM）深度优化，提升推理效率与成本效益。",
+      "推理基础设施是LLM应用落地的关键环节，直接影响Agent等实时交互系统的响应速度与稳定性。",
+      "该实践反映了AI公司向全栈技术栈延伸的趋势，以增强对模型服务能力的控制。"
+    ],
+    "category": "AI基础设施"
+  }
+}

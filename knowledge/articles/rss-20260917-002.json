@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260917-002",
+  "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+  "source_url": "https://news.ycombinator.com/item?id=49738879",
+  "source_type": "rss",
+  "summary": "该条目讨论Neovim项目收到的一笔价值约80万美元的比特币捐赠自2023年起未被使用，引发社区关注。内容涉及开源项目资金管理，与AI、LLM、Agent领域无直接技术关联。",
+  "tags": [
+    "开源项目",
+    "比特币捐赠",
+    "Neovim",
+    "资金管理",
+    "社区讨论"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-17T21:06:33+08:00",
+  "updated_at": "2026-09-17T21:06:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "开源项目可能面临未使用的大额加密货币捐赠管理问题",
+      "该事件与AI/LLM/Agent技术无直接关联",
+      "社区对开源项目资金透明度和使用效率的关注"
+    ],
+    "category": "开源社区"
+  }
+}
