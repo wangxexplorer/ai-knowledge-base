@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260918-006",
+  "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+  "source_url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+  "source_type": "rss",
+  "summary": "微软高管在未删节法庭文件中将AI数据抓取称为“人类历史上最大的劳动力盗窃”，引发对AI训练数据版权与伦理的广泛讨论。该条目涉及大模型数据来源合法性、创作者权益及行业监管争议，与LLM和AI领域高度相关。",
+  "tags": [
+    "AI伦理",
+    "数据抓取",
+    "版权争议",
+    "LLM训练",
+    "法律监管"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-18T20:46:43+08:00",
+  "updated_at": "2026-09-18T20:46:43+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "AI训练数据抓取被定性为大规模劳动力盗窃，凸显数据版权与创作者权益冲突。",
+      "未删节法庭文件披露行业内部对数据来源合法性的认知与争议。",
+      "该事件可能推动AI数据使用规范与法律监管的进一步明确。"
+    ],
+    "category": "AI伦理与法律"
+  }
+}

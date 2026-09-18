@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260918-014",
+  "title": "Telstra outage: The night a network decided the year was 2006",
+  "source_url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
+  "source_type": "rss",
+  "summary": "本文分析了Telstra网络中断事件，因设备时间错误地回退到2006年，导致BGP路由异常和网络瘫痪。事件凸显了时间同步、配置管理和协议健壮性在关键基础设施中的重要性。虽然与AI/LLM/Agent无直接关联，但其对分布式系统可靠性和故障诊断的启示，可间接应用于AI基础设施的运维与容错设计。",
+  "tags": [
+    "网络中断",
+    "BGP",
+    "时间同步",
+    "基础设施",
+    "可靠性"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-18T20:46:43+08:00",
+  "updated_at": "2026-09-18T20:46:43+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "时间同步错误可引发大规模网络故障，对分布式AI系统的基础设施同样构成风险。",
+      "配置管理和协议实现中的微小缺陷可能被放大为系统性故障。",
+      "故障诊断与恢复策略对AI Agent的自主运维具有参考价值。"
+    ],
+    "category": "网络运维"
+  }
+}

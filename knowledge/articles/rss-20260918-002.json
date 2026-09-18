@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260918-002",
+  "title": "Bend 2 and the Vibe-Coding Trap",
+  "source_url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+  "source_type": "rss",
+  "summary": "本文探讨了Bend 2编程语言与“氛围编程”（vibe-coding）的陷阱，即过度依赖AI生成代码而忽视底层逻辑。文章可能批评了在AI辅助编程中盲目追求快速产出而牺牲代码质量和可维护性的现象，并讨论了Bend 2作为并行语言如何应对这些挑战。",
+  "tags": [
+    "AI编程",
+    "vibe-coding",
+    "Bend语言",
+    "代码质量",
+    "LLM辅助开发"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-18T20:46:43+08:00",
+  "updated_at": "2026-09-18T20:46:43+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "vibe-coding可能导致代码质量下降，需警惕过度依赖AI生成代码。",
+      "Bend 2作为并行语言，可能提供更结构化的AI辅助编程方法。",
+      "平衡AI效率与代码可维护性是当前LLM辅助开发的关键挑战。"
+    ],
+    "category": "AI与软件开发"
+  }
+}

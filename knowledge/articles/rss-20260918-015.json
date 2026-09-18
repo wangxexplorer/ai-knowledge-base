@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260918-015",
+  "title": "Qwen 3.8 Omni Flash",
+  "source_url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+  "source_type": "rss",
+  "summary": "该条目为Qwen团队发布的Qwen 3.8 Omni Flash模型博客，来自Hacker News，获259点、91条评论，属于高关注度AI模型发布。Omni暗示多模态统一能力，Flash暗示轻量高效推理，与LLM及多模态Agent领域高度相关，可能影响开源模型生态与端侧部署。",
+  "tags": [
+    "Qwen",
+    "多模态模型",
+    "LLM",
+    "模型发布",
+    "开源AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-18T20:46:43+08:00",
+  "updated_at": "2026-09-18T20:46:43+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Qwen 3.8 Omni Flash是阿里Qwen系列的新一代多模态模型，强调统一感知与生成能力",
+      "Flash命名暗示轻量化与高效推理，适合端侧或低成本Agent部署",
+      "Hacker News高热度反映社区对开源多模态LLM的强烈关注"
+    ],
+    "category": "大语言模型与多模态"
+  }
+}

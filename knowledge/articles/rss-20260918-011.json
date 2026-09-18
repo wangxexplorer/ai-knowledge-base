@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260918-011",
+  "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+  "source_url": "https://www.hacktron.ai/blog/hacking-openai",
+  "source_type": "rss",
+  "summary": "该文章披露了通过堆溢出漏洞和SSO配置错误入侵OpenAI内部代码仓库的攻击链。攻击者利用堆溢出实现初始访问，再借助SSO配置缺陷横向移动，最终获取内部仓库权限。事件凸显了AI头部企业在基础设施安全、身份认证配置和漏洞管理方面的风险，对AI/LLM/Agent领域的安全实践具有警示意义。",
+  "tags": [
+    "AI安全",
+    "OpenAI",
+    "漏洞利用",
+    "SSO",
+    "供应链安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-18T20:46:43+08:00",
+  "updated_at": "2026-09-18T20:46:43+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.75,
+    "key_insights": [
+      "AI公司的内部代码仓库是攻击高价值目标，一旦失陷可能导致模型权重、训练数据或API密钥泄露。",
+      "堆溢出与SSO配置错误组合利用，说明基础安全漏洞和身份管理缺陷仍是AI基础设施的主要威胁。",
+      "该事件提醒LLM/Agent开发者需加强代码托管平台和单点登录系统的安全审计与隔离。"
+    ],
+    "category": "AI安全与隐私"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260918-018",
+  "title": "The most important product decision is what you don't build",
+  "source_url": "https://liamnugent.me/posts/what-you-dont-build/",
+  "source_type": "rss",
+  "summary": "文章强调产品决策中最关键的是决定不构建什么，即通过战略取舍聚焦核心价值。这一原则同样适用于AI和LLM产品开发，因为资源有限、技术复杂，盲目扩展功能会导致产品臃肿、用户体验下降。对于AI Agent设计，明确不实现的能力有助于界定自主边界、降低风险并提升可靠性。该观点虽非AI专有，但对AI产品管理具有重要指导意义。",
+  "tags": [
+    "产品决策",
+    "AI产品管理",
+    "LLM应用",
+    "Agent设计",
+    "战略取舍"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-18T20:46:43+08:00",
+  "updated_at": "2026-09-18T20:46:43+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI产品开发中，明确不构建的功能比堆砌功能更能体现战略聚焦。",
+      "LLM应用需通过取舍避免过度承诺，确保核心场景的可靠性与用户体验。",
+      "Agent设计应界定能力边界，不实现的功能可降低自主行为风险并简化系统。"
+    ],
+    "category": "产品管理"
+  }
+}

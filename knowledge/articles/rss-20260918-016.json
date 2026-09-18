@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260918-016",
+  "title": "How to Write with an LLM",
+  "source_url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+  "source_type": "rss",
+  "summary": "本文探讨如何利用大语言模型（LLM）辅助写作，强调将LLM视为协作工具而非替代品。作者可能分享具体技巧，如提示设计、迭代修改、保持个人风格，并讨论伦理与效率问题。该内容直接关联LLM应用实践，对AI写作助手、人机协作有参考价值。",
+  "tags": [
+    "LLM",
+    "写作",
+    "人机协作",
+    "提示工程",
+    "AI应用"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-18T20:46:43+08:00",
+  "updated_at": "2026-09-18T20:46:43+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "LLM可作为写作协作工具，提升效率但需保持作者主导",
+      "有效使用LLM需要迭代提示和编辑，而非一次性生成",
+      "人机协作写作涉及风格保持与伦理考量"
+    ],
+    "category": "AI应用"
+  }
+}

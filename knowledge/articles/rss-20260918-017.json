@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260918-017",
+  "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+  "source_url": "https://prismml.com/news/bonsai-2-27b",
+  "source_type": "rss",
+  "summary": "Bonsai 2 27B 是一种针对 270 亿参数大语言模型的高效压缩技术，能在缩小 9 倍体积的情况下实现近乎无损的性能。该技术通过先进的量化或剪枝方法，显著降低模型存储和推理成本，使大模型更易于在资源受限环境中部署。作为 Hacker News 热门条目，它反映了 LLM 轻量化与边缘部署的重要趋势，对 AI 工程化落地具有实用价值。",
+  "tags": [
+    "LLM压缩",
+    "模型量化",
+    "高效推理",
+    "边缘部署",
+    "模型轻量化"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-18T20:46:43+08:00",
+  "updated_at": "2026-09-18T20:46:43+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "9倍压缩下保持近乎无损性能，大幅降低LLM部署门槛",
+      "推动大模型在资源受限设备上的实际应用",
+      "反映LLM效率优化成为当前AI工程的关键方向"
+    ],
+    "category": "AI技术"
+  }
+}

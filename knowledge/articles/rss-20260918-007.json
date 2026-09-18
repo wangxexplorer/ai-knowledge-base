@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260918-007",
+  "title": "OpenJev",
+  "source_url": "https://openjev.com/",
+  "source_type": "rss",
+  "summary": "OpenJev 是 Hacker News 上获得 206 点、117 条评论的热门条目，但给定信息仅包含链接与讨论数据，缺少项目描述、技术细节或功能说明，无法确认其与 AI、LLM 或 Agent 领域的具体关联。从名称和现有元数据看，它可能是一个开源项目或工具，但尚无证据表明其涉及大模型、智能体或机器学习技术。因此当前相关性判定为低，需补充正文内容才能进一步评估。",
+  "tags": [
+    "OpenJev",
+    "Hacker News",
+    "开源项目",
+    "信息不足",
+    "待验证"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-18T20:46:43+08:00",
+  "updated_at": "2026-09-18T20:46:43+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "条目仅有链接和讨论热度，缺少可判断技术方向的内容",
+      "名称暗示开源项目，但无法确认是否涉及 AI/LLM/Agent",
+      "需抓取正文或项目主页才能进行有效相关性评估"
+    ],
+    "category": "其他"
+  }
+}

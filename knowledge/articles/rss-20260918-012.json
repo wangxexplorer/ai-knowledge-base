@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260918-012",
+  "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
+  "source_url": "https://byteshape.com/blogs/Qwen3.8-27B/",
+  "source_type": "rss",
+  "summary": "该条目介绍Shapelearn发布的Qwen 3.8 27B模型，强调其仅需13.1 GB VRAM即可运行，属于大语言模型（LLM）的本地部署优化实践。内容涉及模型量化、显存压缩或高效推理技术，旨在降低硬件门槛，使27B参数模型能在消费级GPU上运行。与AI、LLM领域高度相关，对Agent的本地化部署也有潜在价值。",
+  "tags": [
+    "LLM",
+    "模型部署",
+    "显存优化",
+    "Qwen",
+    "本地推理"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-18T20:46:43+08:00",
+  "updated_at": "2026-09-18T20:46:43+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "27B参数模型仅需13.1 GB VRAM，表明量化或内存优化技术显著降低了LLM部署门槛。",
+      "该技术使消费级GPU能够运行中等规模LLM，推动本地AI应用和Agent发展。",
+      "Qwen系列模型持续优化，在开源社区中具有较高关注度。"
+    ],
+    "category": "大语言模型"
+  }
+}
