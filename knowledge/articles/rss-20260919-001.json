@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260919-001",
+  "title": "Laya the open source version of Jev",
+  "source_url": "https://laya.convaiinnovations.com/",
+  "source_type": "rss",
+  "summary": "Laya 是 Jev 的开源版本，发布在 Hacker News 上，获得 26 分和 4 条评论。Jev 可能是一个 AI 对话或代理工具，但条目信息有限，仅包含链接和评论地址，缺乏具体技术细节。其与 AI、LLM、Agent 领域的相关性需进一步确认，目前可视为潜在相关。",
+  "tags": [
+    "开源",
+    "AI工具",
+    "对话系统",
+    "Hacker News",
+    "Jev"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-19T20:19:53+08:00",
+  "updated_at": "2026-09-19T20:19:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "Laya 作为 Jev 的开源版本，可能涉及对话式 AI 或代理技术",
+      "条目信息有限，需访问源链接获取更多细节",
+      "Hacker News 上的讨论热度较低，但开源属性可能吸引开发者关注"
+    ],
+    "category": "AI工具"
+  }
+}

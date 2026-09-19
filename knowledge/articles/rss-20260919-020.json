@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260919-020",
+  "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+  "source_url": "https://cactuscompute.com/needle",
+  "source_type": "rss",
+  "summary": "Cactus Needle 3 是面向自动化任务（工具调用与结构化 JSON 输出）的极小模型，2-bit 量化下仅 8-29MB，参数 25-121M，可在 Raspberry Pi 5 等边缘设备运行。其采用 Monarch Hadamard MLP 降低计算复杂度，支持智能阶梯（2-20 层可部署子网络）、多语言、微调、正则触发器与置信度评分。在 Mobile Actions 基准上，20",
+  "tags": [
+    "边缘AI",
+    "工具调用",
+    "小模型",
+    "模型量化",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-19T20:19:53+08:00",
+  "updated_at": "2026-09-19T20:19:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "极小模型（8-29MB）通过专用架构（Monarch Hadamard MLP）和 2-bit 量化，在工具调用任务上可超越更大模型，适合边缘部署。",
+      "智能阶梯设计允许同一权重集在不同层数下部署，实现参数与性能的灵活权衡。",
+      "置信度评分与正则触发器增强了工具调用的可靠性和可控性，支持按阈值升级到更大模型。"
+    ],
+    "category": "AI模型与架构"
+  }
+}

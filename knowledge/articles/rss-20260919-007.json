@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260919-007",
+  "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+  "source_url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+  "source_type": "rss",
+  "summary": "NASA与IBM联合发布开源月球地理空间基础模型，USRA提供行星科学专业知识。该模型属于面向遥感与行星科学的基础模型，利用AI技术处理月球地理空间数据，可支持月球表面特征识别、资源勘探和任务规划等应用。作为基础模型，其架构与训练方法可能借鉴LLM和视觉基础模型技术，但并非直接面向语言或Agent领域。",
+  "tags": [
+    "基础模型",
+    "地理空间AI",
+    "月球科学",
+    "开源模型",
+    "NASA-IBM"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-19T20:19:53+08:00",
+  "updated_at": "2026-09-19T20:19:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.55,
+    "key_insights": [
+      "该模型是基础模型在行星科学和地理空间领域的垂直应用，体现AI向科学发现场景扩展的趋势",
+      "开源策略有助于推动月球与行星科学研究的协作与复用",
+      "虽与LLM/Agent无直接关系，但其基础模型方法论与多模态AI技术存在潜在交叉"
+    ],
+    "category": "AI基础模型应用"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260919-011",
+  "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+  "source_url": "https://spectrum.ieee.org/llms-for-chip-design",
+  "source_type": "rss",
+  "summary": "OpenAI利用其自研LLM设计Jalapeño芯片，展示了LLM在硬件设计领域的应用潜力。该案例表明LLM可辅助芯片架构探索、代码生成与优化，降低设计门槛，加速迭代。这标志着LLM从文本生成向工程自动化延伸，为AI驱动的芯片设计（如Agent自动优化）提供新范式，也引发对AI自我改进与硬件协同的讨论。",
+  "tags": [
+    "LLM应用",
+    "芯片设计",
+    "AI自动化",
+    "OpenAI",
+    "硬件优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-19T20:19:53+08:00",
+  "updated_at": "2026-09-19T20:19:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "LLM可辅助芯片设计，实现从软件到硬件的跨域自动化",
+      "OpenAI自用LLM设计芯片，体现AI自我改进与工具化趋势",
+      "为Agent在EDA领域应用提供案例，推动AI驱动硬件创新"
+    ],
+    "category": "AI应用"
+  }
+}

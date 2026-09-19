@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260919-002",
+  "title": "AI-generated posters don’t have to be horrible",
+  "source_url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+  "source_type": "rss",
+  "summary": "该文章探讨AI生成活动海报的设计质量，主张通过优化提示词和设计原则，AI生成的海报可以摆脱粗糙感，达到专业水准。文章来自Hacker News，引发广泛讨论，涉及AI在创意设计领域的应用与局限。",
+  "tags": [
+    "AI生成内容",
+    "设计",
+    "提示工程",
+    "创意工具",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-19T20:19:53+08:00",
+  "updated_at": "2026-09-19T20:19:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI生成海报的质量取决于提示词设计和人类审美引导",
+      "生成式AI在创意设计领域具有实用价值但需人工干预",
+      "社区讨论反映对AI生成内容质量与原创性的关注"
+    ],
+    "category": "AI应用"
+  }
+}

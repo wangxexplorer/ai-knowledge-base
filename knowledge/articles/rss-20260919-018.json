@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260919-018",
+  "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+  "source_url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+  "source_type": "rss",
+  "summary": "文章揭露ZCode工具在用户不知情的情况下，将本地Git历史静默上传至云端，引发对AI编程助手隐私与数据安全的担忧。该事件与AI、LLM、Agent领域高度相关，因为此类工具常集成AI能力，其数据收集行为可能涉及训练数据获取、用户隐私泄露及合规风险，对AI辅助开发工具的信任与监管提出挑战。",
+  "tags": [
+    "AI编程助手",
+    "隐私安全",
+    "数据上传",
+    "Git历史",
+    "AI Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-19T20:19:53+08:00",
+  "updated_at": "2026-09-19T20:19:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.75,
+    "key_insights": [
+      "AI编程工具可能未经用户同意收集代码数据，用于模型训练或分析，威胁知识产权与隐私。",
+      "静默上传行为暴露了AI Agent在数据采集透明度上的缺失，可能违反GDPR等法规。",
+      "开发者需警惕集成AI功能的工具，其数据实践可能成为供应链安全的新风险点。"
+    ],
+    "category": "AI安全与隐私"
+  }
+}

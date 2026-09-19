@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260919-012",
+  "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+  "source_url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+  "source_type": "rss",
+  "summary": "该条目讨论Android 17成为自Android 3.x以来首个在未向AOSP发布的情况下添加新API的版本，涉及GrapheneOS的评论。内容聚焦移动操作系统开发流程与开源策略，未涉及AI、LLM或Agent技术，因此与AI领域相关性极低。",
+  "tags": [
+    "Android",
+    "AOSP",
+    "移动操作系统",
+    "开源",
+    "GrapheneOS"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-19T20:19:53+08:00",
+  "updated_at": "2026-09-19T20:19:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "Android 17打破惯例，未先发布AOSP即添加新API",
+      "该变化可能影响开源社区与第三方ROM开发",
+      "条目内容与AI、LLM、Agent领域无直接关联"
+    ],
+    "category": "移动操作系统"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260919-004",
+  "title": "If math is more than proof, we need to better celebrate the rest of it",
+  "source_url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+  "source_type": "rss",
+  "summary": "陶哲轩（Terry Tao）在其博客中撰文指出，数学的价值远不止于形式化证明，还包括直觉、探索、猜想、合作、教学、应用等丰富维度。他呼吁数学界应更全面地认可和庆祝这些非证明性贡献，以促进数学的健康发展。该观点对AI/LLM领域具有启发意义：当前AI在数学推理上多聚焦于自动定理证明，而忽视了数学发现中更广泛的认知过程。",
+  "tags": [
+    "数学推理",
+    "AI for Math",
+    "自动定理证明",
+    "认知科学",
+    "科学发现"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-19T20:19:53+08:00",
+  "updated_at": "2026-09-19T20:19:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.55,
+    "key_insights": [
+      "数学的完整实践包含证明之外的直觉、猜想与探索，这对设计更全面的AI数学推理系统具有指导意义。",
+      "当前LLM在数学任务上过度强调形式化证明，可能忽略了人类数学发现中非形式化的认知过程。",
+      "该观点可推动AI研究关注数学发现的全流程，而不仅是验证环节，从而提升AI的数学创造力。"
+    ],
+    "category": "AI与数学交叉"
+  }
+}

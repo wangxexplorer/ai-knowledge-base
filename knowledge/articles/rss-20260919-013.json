@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260919-013",
+  "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+  "source_url": "https://arxiv.org/abs/2510.03215",
+  "source_type": "rss",
+  "summary": "该论文提出Cache-to-Cache方法，实现LLM之间直接通过KV缓存进行语义通信，绕过文本生成与重新编码，提升多模型协作效率。",
+  "tags": [
+    "LLM",
+    "KV缓存",
+    "语义通信",
+    "多模型协作",
+    "推理优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-19T20:19:53+08:00",
+  "updated_at": "2026-09-19T20:19:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "KV缓存可作为LLM间直接通信的语义载体",
+      "绕过文本生成与编码可降低多模型协作延迟",
+      "为Agent间高效知识传递提供新范式"
+    ],
+    "category": "LLM技术"
+  }
+}

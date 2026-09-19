@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260919-015",
+  "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+  "source_url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+  "source_type": "rss",
+  "summary": "该条目介绍了一种利用光子发射引导激光故障注入的技术，成功绕过RP2350微控制器的安全调试保护。RP2350是树莓派基金会推出的微控制器，具有安全启动和调试锁定功能。攻击者通过监测芯片运行时的光子发射，精确定位激光注入点，从而触发故障并解锁安全调试接口。该研究属于硬件安全与侧信道攻击领域，展示了物理攻击对嵌入式安全机制的威胁。与AI、LLM或Agent技术无直接关联，但可能对AI硬件安全（如边缘设",
+  "tags": [
+    "硬件安全",
+    "故障注入",
+    "侧信道攻击",
+    "嵌入式系统",
+    "RP2350"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-19T20:19:53+08:00",
+  "updated_at": "2026-09-19T20:19:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "光子发射引导可精确定位激光故障注入点，提高攻击成功率。",
+      "RP2350的安全调试保护可被物理故障注入绕过，暴露硬件安全风险。",
+      "该技术对AI边缘设备的安全防护具有潜在警示意义。"
+    ],
+    "category": "硬件安全"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260919-003",
+  "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+  "source_url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+  "source_type": "rss",
+  "summary": "该条目报道了GPT-6 Astra成功破解一战德国无线电密码，展示了先进LLM在密码分析领域的应用潜力。文章来自Hacker News，引发广泛讨论，表明大模型正从通用任务向专业领域渗透，可能对密码学、历史研究和安全分析产生深远影响。",
+  "tags": [
+    "GPT-6",
+    "LLM",
+    "密码分析",
+    "AI应用",
+    "安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-19T20:19:53+08:00",
+  "updated_at": "2026-09-19T20:19:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "LLM已具备解决复杂历史密码的能力，体现推理与模式识别进步",
+      "AI在密码学领域的应用可能重塑安全攻防格局",
+      "该案例显示大模型正从通用向专业领域快速扩展"
+    ],
+    "category": "AI应用"
+  }
+}

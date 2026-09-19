@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260919-010",
+  "title": "Science Is Open Software",
+  "source_url": "https://jepedersen.dk/blog/202505_research/",
+  "source_type": "rss",
+  "summary": "该条目标题为《Science Is Open Software》，来自Hacker News，讨论科学研究应作为开放软件进行开发与共享。文章可能涉及开源科学工具、可复现研究、开放数据与协作平台。与AI、LLM、Agent领域无直接技术关联，但开放科学理念可间接促进AI研究的透明性与可复现性。",
+  "tags": [
+    "开放科学",
+    "开源软件",
+    "可复现研究",
+    "科研协作",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-19T20:19:53+08:00",
+  "updated_at": "2026-09-19T20:19:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.15,
+    "key_insights": [
+      "科学研究可借鉴开源软件开发模式，提升透明度与协作效率",
+      "开放科学实践有助于AI研究的可复现性和基准共享",
+      "该条目本身不涉及AI/LLM/Agent具体技术，相关性较低"
+    ],
+    "category": "开放科学/开源文化"
+  }
+}

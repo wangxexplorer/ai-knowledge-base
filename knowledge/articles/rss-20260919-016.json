@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260919-016",
+  "title": "Cloudflare Quick Tunnels",
+  "source_url": "https://try.cloudflare.com/",
+  "source_type": "rss",
+  "summary": "Cloudflare Quick Tunnels 是 Cloudflare 提供的快速隧道服务，可将本地服务通过临时公网 URL 暴露到互联网，无需配置 DNS 或防火墙。该条目来自 Hacker News，主要讨论其使用方式与体验。它与 AI、LLM、Agent 领域没有直接关系，但可作为 AI Agent 开发中本地服务调试、Webhook 回调测试和远程访问的辅助工具，属于基础设施类技术。",
+  "tags": [
+    "Cloudflare",
+    "内网穿透",
+    "开发工具",
+    "Webhook",
+    "基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-19T20:19:53+08:00",
+  "updated_at": "2026-09-19T20:19:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.15,
+    "key_insights": [
+      "Quick Tunnels 可快速暴露本地服务，适合 AI Agent 开发中的回调与调试场景。",
+      "该工具本身不涉及 AI/LLM 算法或模型能力，相关性主要来自工程辅助。",
+      "对需要公网 Webhook 的 Agent 集成测试有一定实用价值。"
+    ],
+    "category": "网络与基础设施"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260919-005",
+  "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
+  "source_url": "https://browser.geekbench.com/v7/cpu/389219",
+  "source_type": "rss",
+  "summary": "该条目报道Apple M6 Pro在Geekbench 7中取得最高单核CPU分数，属于硬件性能基准测试新闻。与AI、LLM、Agent领域无直接关联，但高性能CPU可能间接影响AI推理效率。",
+  "tags": [
+    "Apple M6 Pro",
+    "Geekbench",
+    "CPU性能",
+    "硬件基准",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-19T20:19:53+08:00",
+  "updated_at": "2026-09-19T20:19:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "M6 Pro单核性能创Geekbench 7纪录，反映苹果芯片持续进步",
+      "高性能CPU可加速边缘AI推理，但非AI专用硬件",
+      "该新闻未涉及AI、LLM或Agent技术"
+    ],
+    "category": "硬件新闻"
+  }
+}
