@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260920-006",
+  "title": "RSA-896",
+  "source_url": "https://saweis.net/posts/rsa-896.html",
+  "source_type": "rss",
+  "summary": "该条目为Hacker News上关于RSA-896的讨论帖，RSA-896是896位RSA模数，属于密码学与整数分解领域。内容与AI、LLM、Agent无直接关联，仅可能间接涉及AI安全中的密码学基础。",
+  "tags": [
+    "密码学",
+    "RSA",
+    "整数分解",
+    "网络安全",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-20T20:54:59+08:00",
+  "updated_at": "2026-09-20T20:54:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "RSA-896是密码学中的大整数分解挑战，与AI技术无直接关系",
+      "该内容可能对理解AI安全中的加密基础有间接参考价值",
+      "Hacker News讨论反映技术社区对密码学难题的关注"
+    ],
+    "category": "密码学与安全"
+  }
+}

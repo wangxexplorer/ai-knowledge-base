@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260920-020",
+  "title": "If math is more than proof, we need to better celebrate the rest of it",
+  "source_url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+  "source_type": "rss",
+  "summary": "陶哲轩在博文中指出数学的价值远不止于证明，还包括直觉、猜想、实验、计算、合作等被忽视的环节。他呼吁数学界更全面地认可和庆祝这些非证明性工作，以促进数学的健康发展。该观点对AI和LLM领域有间接启发：当前AI在数学证明自动化上进展显著，但数学创造力的完整图景仍需人类与AI共同探索，也提示AI辅助数学研究应关注更广泛的认知活动。",
+  "tags": [
+    "数学",
+    "AI辅助证明",
+    "科学发现",
+    "人机协作",
+    "认知"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-20T20:54:59+08:00",
+  "updated_at": "2026-09-20T20:54:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.35,
+    "key_insights": [
+      "数学的价值不仅在于形式化证明，还包括直觉、猜想和实验等过程，这对AI数学推理的评估维度有启示。",
+      "AI在自动定理证明上取得进展，但数学创造力的完整图景仍需人类与AI协作探索。",
+      "该讨论间接影响LLM在数学领域的应用方向，如辅助猜想生成和实验设计。"
+    ],
+    "category": "AI与数学交叉"
+  }
+}

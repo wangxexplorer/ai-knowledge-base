@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260920-015",
+  "title": "What Zig felt like, coming from Rust",
+  "source_url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+  "source_type": "rss",
+  "summary": "本文是一位开发者从Rust转向Zig的体验分享，比较了两种系统编程语言在语法、工具链、内存管理和开发哲学上的差异。文章属于编程语言实践讨论，未涉及人工智能、大语言模型或智能体技术。",
+  "tags": [
+    "Zig",
+    "Rust",
+    "编程语言",
+    "系统编程",
+    "开发者体验"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-20T20:54:59+08:00",
+  "updated_at": "2026-09-20T20:54:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "文章聚焦于Zig与Rust的开发者体验对比，与AI/LLM/Agent无直接关联",
+      "系统编程语言的选择可能间接影响AI基础设施的性能与开发效率",
+      "该内容属于通用软件工程话题，不涉及AI算法或模型技术"
+    ],
+    "category": "编程语言"
+  }
+}

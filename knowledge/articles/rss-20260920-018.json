@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260920-018",
+  "title": "Cube",
+  "source_url": "https://www.cube-motion.dev/",
+  "source_type": "rss",
+  "summary": "该条目来自Hacker News，标题为Cube，链接指向cube-motion.dev，但描述仅包含文章与评论链接及少量互动数据，未提供具体技术内容。从域名推测可能与运动控制或3D动画相关，无法确认是否涉及AI、LLM或Agent技术。因此与AI领域相关性极低，缺乏可分析的技术细节。",
+  "tags": [
+    "Hacker News",
+    "Cube",
+    "motion",
+    "未知领域",
+    "低相关性"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-20T20:54:59+08:00",
+  "updated_at": "2026-09-20T20:54:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "条目信息严重不足，仅有标题和链接，无法判断技术实质",
+      "域名暗示可能涉及运动或动画，但与AI/LLM/Agent无明显关联",
+      "互动数据极少（17分1评论），可能为小众或新发布项目"
+    ],
+    "category": "其他"
+  }
+}

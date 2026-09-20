@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260920-004",
+  "title": "Telling a Computer to Do Things",
+  "source_url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+  "source_type": "rss",
+  "summary": "本文探讨如何让计算机执行任务，可能涉及自然语言指令、编程范式或人机交互方式。与AI、LLM和Agent领域相关，因为LLM可作为自然语言接口，Agent可自主执行任务。但具体内容未知，相关性中等。",
+  "tags": [
+    "人机交互",
+    "自然语言处理",
+    "任务自动化",
+    "LLM应用",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-20T20:54:59+08:00",
+  "updated_at": "2026-09-20T20:54:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "自然语言指令是让计算机执行任务的重要方式",
+      "LLM可作为理解自然语言指令的接口",
+      "Agent可自主执行任务，减少人工干预"
+    ],
+    "category": "人机交互"
+  }
+}

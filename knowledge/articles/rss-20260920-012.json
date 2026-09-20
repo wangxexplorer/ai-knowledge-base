@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260920-012",
+  "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+  "source_url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+  "source_type": "rss",
+  "summary": "该条目是对Btrfs、ZFS和bcachefs三种现代文件系统在经典基准测试工作负载下的性能对比分析。文章通过实际测试评估了它们在读写、并发等场景下的表现，属于系统存储与文件系统领域的技术评测，与AI、LLM、Agent无直接关联。",
+  "tags": [
+    "文件系统",
+    "基准测试",
+    "存储性能",
+    "Btrfs",
+    "ZFS"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-20T20:54:59+08:00",
+  "updated_at": "2026-09-20T20:54:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "现代文件系统在经典工作负载下的性能差异显著",
+      "bcachefs作为新兴文件系统与成熟方案存在可比性",
+      "文件系统选择对存储密集型应用有重要影响"
+    ],
+    "category": "系统与存储"
+  }
+}

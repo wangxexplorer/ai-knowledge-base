@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260920-011",
+  "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+  "source_url": "https://eprint.iacr.org/2026/2039",
+  "source_type": "rss",
+  "summary": "ZK-JPEG 提出一种零知识图像编辑与压缩方案，允许在不泄露原始图像内容的前提下进行编辑和压缩，并生成可验证的证明。该技术结合了零知识证明与图像处理，主要面向隐私保护场景，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "零知识证明",
+    "图像压缩",
+    "隐私保护",
+    "密码学",
+    "图像编辑"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-20T20:54:59+08:00",
+  "updated_at": "2026-09-20T20:54:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "零知识证明可应用于图像编辑与压缩，实现隐私保护的可验证计算。",
+      "该技术不涉及AI、LLM或Agent，属于密码学与多媒体处理的交叉领域。",
+      "潜在应用包括隐私敏感的云图像处理与去中心化存储验证。"
+    ],
+    "category": "密码学与隐私技术"
+  }
+}

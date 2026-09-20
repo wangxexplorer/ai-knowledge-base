@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260920-001",
+  "title": "If AI coding is lowering your code quality, you're not managing quality right",
+  "source_url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+  "source_type": "rss",
+  "summary": "文章探讨AI编码工具对代码质量的影响，指出质量下降并非AI本身问题，而是团队质量管理不当。强调需建立严格的质量管理流程，如代码审查、测试和规范，以有效利用AI编码助手。",
+  "tags": [
+    "AI编码",
+    "代码质量",
+    "软件工程",
+    "LLM应用",
+    "开发流程"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-20T20:54:59+08:00",
+  "updated_at": "2026-09-20T20:54:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "AI编码工具可能降低代码质量，但根源在于质量管理缺失",
+      "有效的质量管理流程是发挥AI编码优势的关键",
+      "需重新审视代码审查和测试策略以适应AI辅助开发"
+    ],
+    "category": "AI应用"
+  }
+}
