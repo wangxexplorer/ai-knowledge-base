@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260921-007",
+  "title": "We Write Code by Hand",
+  "source_url": "https://handcraftedcode.org/",
+  "source_type": "rss",
+  "summary": "该条目标题为《We Write Code by Hand》，来自Hacker News，讨论手工编写代码的理念。内容本身未直接涉及AI、LLM或Agent技术，但手工编码与AI辅助编程（如Copilot、代码生成模型）形成对比，反映了对AI编程工具依赖的反思。相关性较低，属于软件开发文化讨论。",
+  "tags": [
+    "手工编码",
+    "AI辅助编程",
+    "软件开发",
+    "Hacker News",
+    "编程文化"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-21T22:54:27+08:00",
+  "updated_at": "2026-09-21T22:54:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.15,
+    "key_insights": [
+      "手工编码理念与AI代码生成工具形成对比",
+      "反映开发者对AI编程依赖的反思",
+      "与LLM代码助手应用场景间接相关"
+    ],
+    "category": "软件开发文化"
+  }
+}

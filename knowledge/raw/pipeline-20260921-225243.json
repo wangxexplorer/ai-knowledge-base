@@ -1,0 +1,579 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-09-21T22:52:43+08:00",
+  "query": "AI LLM Agent",
+  "items": [
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "hermes-agent",
+      "title": "hermes-agent",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 247681,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "NousResearch/hermes-agent",
+      "author": "NousResearch"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "dify",
+      "title": "dify",
+      "source_url": "https://github.com/langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "stars": 156732,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "full_name": "langgenius/dify",
+      "author": "langgenius"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "langchain",
+      "title": "langchain",
+      "source_url": "https://github.com/langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform.",
+      "stars": 146789,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "langchain-ai/langchain",
+      "author": "langchain-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ponytail",
+      "title": "ponytail",
+      "source_url": "https://github.com/DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 143548,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin"
+      ],
+      "full_name": "DietrichGebert/ponytail",
+      "author": "DietrichGebert"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "awesome-llm-apps",
+      "title": "awesome-llm-apps",
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "stars": 139278,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "llms",
+        "python",
+        "rag"
+      ],
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "author": "Shubhamsaboo"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "pi",
+      "title": "pi",
+      "source_url": "https://github.com/earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 108056,
+      "language": "TypeScript",
+      "topics": [],
+      "full_name": "earendil-works/pi",
+      "author": "earendil-works"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "caveman",
+      "title": "caveman",
+      "source_url": "https://github.com/JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 107105,
+      "language": "Go",
+      "topics": [
+        "ai",
+        "anthropic",
+        "caveman",
+        "claude",
+        "claude-code"
+      ],
+      "full_name": "JuliusBrussee/caveman",
+      "author": "JuliusBrussee"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ragflow",
+      "title": "ragflow",
+      "source_url": "https://github.com/infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 91101,
+      "language": "Go",
+      "topics": [
+        "agent-harness",
+        "agentic-ai",
+        "agentic-nagive",
+        "agentic-retrieval",
+        "agentic-search"
+      ],
+      "full_name": "infiniflow/ragflow",
+      "author": "infiniflow"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "OpenHands",
+      "title": "OpenHands",
+      "source_url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "stars": 88715,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli"
+      ],
+      "full_name": "OpenHands/OpenHands",
+      "author": "OpenHands"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "deer-flow",
+      "title": "deer-flow",
+      "source_url": "https://github.com/bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 82801,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "full_name": "bytedance/deer-flow",
+      "author": "bytedance"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "unsloth",
+      "title": "unsloth",
+      "source_url": "https://github.com/unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.",
+      "stars": 76529,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "chatgpt",
+        "deepseek",
+        "fine-tuning"
+      ],
+      "full_name": "unslothai/unsloth",
+      "author": "unslothai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "LlamaFactory",
+      "title": "LlamaFactory",
+      "source_url": "https://github.com/hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars": 74957,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "deepseek",
+        "fine-tuning",
+        "gemma"
+      ],
+      "full_name": "hiyouga/LlamaFactory",
+      "author": "hiyouga"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "headroom",
+      "title": "headroom",
+      "source_url": "https://github.com/headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "stars": 73365,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "anthropic",
+        "claude-code",
+        "compression"
+      ],
+      "full_name": "headroomlabs-ai/headroom",
+      "author": "headroomlabs-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "MetaGPT",
+      "title": "MetaGPT",
+      "source_url": "https://github.com/FoundationAgents/MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "stars": 70537,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "gpt",
+        "llm",
+        "metagpt",
+        "multi-agent"
+      ],
+      "full_name": "FoundationAgents/MetaGPT",
+      "author": "FoundationAgents"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "mem0",
+      "title": "mem0",
+      "source_url": "https://github.com/mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
+      "stars": 65769,
+      "language": "Python",
+      "topics": [
+        "agentic-memory",
+        "agentic-memory-system",
+        "agents",
+        "ai",
+        "ai-agents"
+      ],
+      "full_name": "mem0ai/mem0",
+      "author": "mem0ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "goose",
+      "title": "goose",
+      "source_url": "https://github.com/aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 54531,
+      "language": "Rust",
+      "topics": [
+        "acp",
+        "ai",
+        "ai-agents",
+        "mcp"
+      ],
+      "full_name": "aaif-goose/goose",
+      "author": "aaif-goose"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "cherry-studio",
+      "title": "cherry-studio",
+      "source_url": "https://github.com/CherryHQ/cherry-studio",
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 52047,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "claude-code",
+        "codex",
+        "deepseek"
+      ],
+      "full_name": "CherryHQ/cherry-studio",
+      "author": "CherryHQ"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ai-agent-book",
+      "title": "ai-agent-book",
+      "source_url": "https://github.com/bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "stars": 49645,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agent-memory",
+        "ai-agent",
+        "book",
+        "coding-agent"
+      ],
+      "full_name": "bojieli/ai-agent-book",
+      "author": "bojieli"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "JeecgBoot",
+      "title": "JeecgBoot",
+      "source_url": "https://github.com/jeecgboot/JeecgBoot",
+      "url": "https://github.com/jeecgboot/JeecgBoot",
+      "description": "【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+      "stars": 47928,
+      "language": "Java",
+      "topics": [
+        "activiti",
+        "agent",
+        "ai",
+        "antd",
+        "claude-code"
+      ],
+      "full_name": "jeecgboot/JeecgBoot",
+      "author": "jeecgboot"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "CowAgent",
+      "title": "CowAgent",
+      "source_url": "https://github.com/zhayujie/CowAgent",
+      "url": "https://github.com/zhayujie/CowAgent",
+      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install.",
+      "stars": 47061,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "chatgpt-on-wechat",
+        "claude"
+      ],
+      "full_name": "zhayujie/CowAgent",
+      "author": "zhayujie"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Meta bans ads for Virginia Woolf play in Spain",
+      "source_url": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
+      "url": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
+      "description": "Article URL: https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval Comments URL: https://news.ycombinator.com/item?id=49787767 Points: 9 # Comments: 0",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Ars Technica's Mac Mini review: The new M6 impresses but the price hike is rough",
+      "source_url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
+      "url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
+      "description": "Article URL: https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/ Comments URL: https://news.ycombinator.com/item?id=49787548 Points: 10 # Comments: 0",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "source_url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+      "description": "Article URL: https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/ Comments URL: https://news.ycombinator.com/item?id=49787535 Points: 5 # Comments: 0",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Uber arbitration award over Emily Normandin-Parker's death",
+      "source_url": "https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death",
+      "url": "https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death",
+      "description": "Article URL: https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death Comments URL: https://news.ycombinator.com/item?id=49787523 Points: 44 # Comments: 12",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "What Sun Got Wrong",
+      "source_url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "description": "Article URL: https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/ Comments URL: https://news.ycombinator.com/item?id=49787436 Points: 73 # Comments: 31",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+      "source_url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+      "description": "Article URL: https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=49787313 Points: 31 # Comments: 10",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "We Write Code by Hand",
+      "source_url": "https://handcraftedcode.org/",
+      "url": "https://handcraftedcode.org/",
+      "description": "Article URL: https://handcraftedcode.org/ Comments URL: https://news.ycombinator.com/item?id=49787039 Points: 21 # Comments: 22",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Raspberry Pi blocks changing RAM chips",
+      "source_url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
+      "url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
+      "description": "Article URL: https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888 Comments URL: https://news.ycombinator.com/item?id=49786689 Points: 94 # Comments: 81",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
+      "source_url": "https://news.ycombinator.com/item?id=49786609",
+      "url": "https://news.ycombinator.com/item?id=49786609",
+      "description": "I disabled Siri in the Settings app, and then further disabled Siri and its extensions in Settings > Screen Time. Next, I disabled all Siri-related and Apple Intelligence-related services as per https://github.com/OleksandrKrupko/mac-os-debloat But after restarting, I could still see a \"Siri\" process running in Activity Monitor. Upon further inspection, I found that it is the \"Siri AI.app\". These \"features\", together with Apple's Personal Context sound very similar to Microsoft's Recall. Does anyone have the same experience? Is it really impossible to fully turn off Siri, Siri AI, Apple Intelligence and all related services and features on macOS 27? Comments URL: https://news.ycombinator.com/item?id=49786609 Points: 49 # Comments: 20",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+      "source_url": "https://github.com/aru-labs/lossless-memory",
+      "url": "https://github.com/aru-labs/lossless-memory",
+      "description": "Article URL: https://github.com/aru-labs/lossless-memory Comments URL: https://news.ycombinator.com/item?id=49786419 Points: 23 # Comments: 9",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Show HN: SQLBraid – Write SQL directly in TypeScript without a query-builder DSL",
+      "source_url": "https://github.com/Clickin/SQLBraid",
+      "url": "https://github.com/Clickin/SQLBraid",
+      "description": "Article URL: https://github.com/Clickin/SQLBraid Comments URL: https://news.ycombinator.com/item?id=49786401 Points: 8 # Comments: 3",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "ZuckOff Know when a camera is in the room",
+      "source_url": "https://zuckoff.app/",
+      "url": "https://zuckoff.app/",
+      "description": "Article URL: https://zuckoff.app/ Comments URL: https://news.ycombinator.com/item?id=49785429 Points: 550 # Comments: 231",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+      "source_url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+      "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+      "description": "Article URL: https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff Comments URL: https://news.ycombinator.com/item?id=49785397 Points: 274 # Comments: 35",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Don't Use AI to Write",
+      "source_url": "https://paulbakker.io/writing/no-ai-for-writing/",
+      "url": "https://paulbakker.io/writing/no-ai-for-writing/",
+      "description": "Article URL: https://paulbakker.io/writing/no-ai-for-writing/ Comments URL: https://news.ycombinator.com/item?id=49784816 Points: 32 # Comments: 9",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Jev-Leftpad",
+      "source_url": "https://github.com/f/jev-leftpad",
+      "url": "https://github.com/f/jev-leftpad",
+      "description": "Article URL: https://github.com/f/jev-leftpad Comments URL: https://news.ycombinator.com/item?id=49784706 Points: 182 # Comments: 69",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
+      "source_url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+      "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+      "description": "Article URL: https://consumerrights.wiki/w/Disney%2B_ad_policy_change Comments URL: https://news.ycombinator.com/item?id=49784336 Points: 322 # Comments: 211",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "source_url": "https://github.com/jaredpalmer/kev/tree/main",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "description": "Article URL: https://github.com/jaredpalmer/kev/tree/main Comments URL: https://news.ycombinator.com/item?id=49783999 Points: 246 # Comments: 105",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+      "source_url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "description": "Article URL: http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf Comments URL: https://news.ycombinator.com/item?id=49783495 Points: 281 # Comments: 63",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "source_url": "https://github.com/volotat/mini-AGI/",
+      "url": "https://github.com/volotat/mini-AGI/",
+      "description": "Sorry for the pretentious name, I know, I know.. It just contains all the pieces I would like to see a AGI model to have, and I can't stand the temptation. Before throwing rocks at me, please take a glance at the Readme, and I hope it will cover your mood a little bit. So, first of all it does work and you can see the sample from the whole training run here: https://raw.githubusercontent.com/volotat/mini-AGI/refs/head... Here is the scaling law graph I have so far, and it looks very promising: https://github.com/volotat/mini-AGI/blob/main/assets/scaling... The model was built under my deep dissatisfaction so we cannot really train even moderately big models (1B+ scale) on the consumer's hardware. We can inference and fine-tune them for sure, but I would like to have full control over what the model sees over the training run, so it is fully aligned with my interests, not some corporations. I was thinking about for some time and come up with two interesting ideas I thought worth pursuing: MoE with a lot of experts that gets added and pruned from the model while it trains, where only a small subset of of experts are actually in use at any particular moment + batch 1 training on the single continuous stream of data. First allows us to be bounded only by the disk space in terms of number of parameters and load and unload experts only when they are needed. The second (if figured out and it turns out to be doable) allows us to get aways with small VRAM capacity because we do not need to store big randomized batches and their respective gradients. I started brainstorming with Claude and after some time we found an approach that seems to be promising, and low and behold, a few weeks pass and you can see the results yourself. Obviously, I did use AI in the process of making this project and I am pretty sure it would be completely impossible for me to do something like this without it, so I hope it is more than justified. The model is still running over the first of 7.8B characters corpus I selected for training, so the weights are not out yet, and it's about a couple weeks of waiting until they are cooked at the current reading speed. And yeah, the model just read continuous interleaved passages from the dataset, each by 32K characters long each as a single stream. Just as you or I would do. The set up seems to be really simple so you can git clone the project, run it and observe everything for yourself. Thanks for your attention. Comments URL: https://news.ycombinator.com/item?id=49783133 Points: 196 # Comments: 41",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Heretic removes restrictions from language models",
+      "source_url": "https://heretic-project.org/",
+      "url": "https://heretic-project.org/",
+      "description": "Article URL: https://heretic-project.org/ Comments URL: https://news.ycombinator.com/item?id=49783101 Points: 133 # Comments: 61",
+      "feed_name": "Hacker News"
+    }
+  ]
+}

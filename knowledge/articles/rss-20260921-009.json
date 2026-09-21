@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260921-009",
+  "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
+  "source_url": "https://news.ycombinator.com/item?id=49786609",
+  "source_type": "rss",
+  "summary": "该条目讨论macOS 27中无法完全禁用Siri和Apple Intelligence的问题，用户尝试多种方法后仍发现Siri AI进程运行。这反映了AI助手深度集成带来的用户控制权挑战，与LLM和Agent领域相关，涉及隐私、系统级AI代理的自主性及用户对AI功能的控制。",
+  "tags": [
+    "Siri",
+    "Apple Intelligence",
+    "隐私",
+    "系统集成",
+    "AI代理"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-21T22:54:27+08:00",
+  "updated_at": "2026-09-21T22:54:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI助手深度集成导致用户难以完全禁用，引发控制权问题",
+      "系统级AI代理的自主运行可能带来隐私风险",
+      "用户对AI功能的透明度和可控性需求日益增长"
+    ],
+    "category": "AI系统与隐私"
+  }
+}

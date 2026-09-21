@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260921-001",
+  "title": "Meta bans ads for Virginia Woolf play in Spain",
+  "source_url": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
+  "source_type": "rss",
+  "summary": "该条目报道Meta禁止西班牙巴塞罗那Teatre Raval剧院为弗吉尼亚·伍尔夫戏剧《一间自己的房间》投放广告，属于科技平台内容审核与言论自由议题，与AI、LLM、Agent领域无直接技术关联。",
+  "tags": [
+    "内容审核",
+    "平台治理",
+    "Meta",
+    "言论自由",
+    "广告政策"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-21T22:54:27+08:00",
+  "updated_at": "2026-09-21T22:54:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "Meta的广告审核政策可能对文化内容产生意外限制",
+      "该事件反映平台自动化审核系统的争议性",
+      "与AI/LLM/Agent技术无直接关联，仅涉及平台治理"
+    ],
+    "category": "科技与社会"
+  }
+}

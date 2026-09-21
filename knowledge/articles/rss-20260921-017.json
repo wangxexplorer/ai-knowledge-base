@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260921-017",
+  "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+  "source_url": "https://github.com/jaredpalmer/kev/tree/main",
+  "source_type": "rss",
+  "summary": "Kev 是一个基于 Qwen3.5 构建的微型决策模型家族，类似 Jev 风格，旨在提供轻量级决策能力。该项目在 Hacker News 上获得 246 分和 105 条评论，表明社区关注度较高。它属于 LLM 应用与 Agent 决策领域，可能通过微调或提示工程实现高效决策，适合资源受限场景。",
+  "tags": [
+    "Qwen3.5",
+    "决策模型",
+    "LLM应用",
+    "Agent",
+    "轻量级模型"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-21T22:54:27+08:00",
+  "updated_at": "2026-09-21T22:54:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "基于 Qwen3.5 构建，利用现有大模型能力进行轻量化决策",
+      "类似 Jev 的微型决策模型家族，可能专注于特定决策任务",
+      "在 Hacker News 上引发热议，反映社区对高效决策模型的兴趣"
+    ],
+    "category": "LLM应用与Agent"
+  }
+}

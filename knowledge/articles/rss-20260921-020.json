@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260921-020",
+  "title": "Heretic removes restrictions from language models",
+  "source_url": "https://heretic-project.org/",
+  "source_type": "rss",
+  "summary": "Heretic 是一个旨在移除语言模型限制的项目，通过技术手段绕过或解除 LLM 的安全对齐与内容过滤机制，使模型能够生成原本被禁止的内容。该项目在 Hacker News 上引发讨论，反映出社区对模型限制、开源模型自由度以及 AI 安全边界的持续关注。其核心涉及对模型权重或推理过程的修改，属于 LLM 越狱与去对齐（unalignment）范畴，与 AI 安全、模型可控性及伦理治理高度相关。",
+  "tags": [
+    "LLM安全",
+    "越狱",
+    "模型对齐",
+    "AI伦理",
+    "开源模型"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-21T22:54:27+08:00",
+  "updated_at": "2026-09-21T22:54:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.92,
+    "key_insights": [
+      "Heretic 代表了对 LLM 安全限制进行移除或绕过的技术实践，属于越狱与去对齐方向。",
+      "该项目凸显了开源模型在安全可控性与用户自由之间的张力。",
+      "此类工具的出现推动了对 AI 安全治理、模型责任与监管边界的讨论。"
+    ],
+    "category": "AI安全与对齐"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260921-006",
+  "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+  "source_url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+  "source_type": "rss",
+  "summary": "本文是对M5 Ultra Mac Studio的评测，重点探讨其作为本地AI代理运行平台的性能表现。文章认为该设备凭借强大的M5 Ultra芯片、大容量统一内存和高效散热，能够流畅运行本地大语言模型和AI代理，是开发者和研究者进行本地AI实验的理想选择。评测还对比了云端方案，强调了本地部署在隐私、延迟和成本上的优势。",
+  "tags": [
+    "本地AI",
+    "Mac Studio",
+    "AI代理",
+    "硬件评测",
+    "LLM部署"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-21T22:54:27+08:00",
+  "updated_at": "2026-09-21T22:54:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "M5 Ultra芯片的神经网络引擎和统一内存架构显著提升了本地LLM推理效率",
+      "本地AI代理部署在隐私保护和响应延迟方面优于云端方案",
+      "Mac Studio的散热设计支持长时间高负载AI工作负载"
+    ],
+    "category": "AI硬件"
+  }
+}

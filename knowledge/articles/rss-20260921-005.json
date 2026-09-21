@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260921-005",
+  "title": "What Sun Got Wrong",
+  "source_url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+  "source_type": "rss",
+  "summary": "该条目是Bryan Cantrill关于Sun Microsystems失败原因的回顾文章，讨论工程文化、商业决策与技术创新。内容聚焦计算机历史与企业管理，未涉及AI、LLM或Agent技术，与AI领域无直接关联。",
+  "tags": [
+    "Sun Microsystems",
+    "技术史",
+    "工程文化",
+    "企业管理",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-21T22:54:27+08:00",
+  "updated_at": "2026-09-21T22:54:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "文章主题为Sun公司的战略失误，属于计算机产业史范畴",
+      "未讨论人工智能、大语言模型或智能体相关技术",
+      "对AI从业者的间接价值仅在于组织与创新管理经验借鉴"
+    ],
+    "category": "技术历史与产业评论"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260921-013",
+  "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+  "source_url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+  "source_type": "rss",
+  "summary": "ZuckOff是一款免费应用，旨在检测Meta智能眼镜的拍摄行为，让用户在他人佩戴Meta眼镜时提前获知，从而保护隐私。该应用利用无线信号或视觉识别技术，识别附近正在工作的Meta眼镜，并发出提醒。文章讨论了智能眼镜普及带来的隐私挑战，以及技术社区对此类反制工具的关注。",
+  "tags": [
+    "隐私保护",
+    "智能眼镜",
+    "Meta",
+    "检测应用",
+    "反制技术"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-21T22:54:27+08:00",
+  "updated_at": "2026-09-21T22:54:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "智能眼镜的隐蔽拍摄能力引发隐私担忧，催生反制工具",
+      "ZuckOff通过检测Meta眼镜的无线信号或视觉特征实现预警",
+      "该应用反映了技术社区对隐私保护与AI硬件监控的博弈"
+    ],
+    "category": "隐私与安全"
+  }
+}

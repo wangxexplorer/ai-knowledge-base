@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260921-010",
+  "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+  "source_url": "https://github.com/aru-labs/lossless-memory",
+  "source_type": "rss",
+  "summary": "该项目提出了一种个人AI记忆系统，强调无损存储，即不对记忆内容进行摘要或压缩，从而保留完整信息。这有助于提升AI助手在长期对话中的上下文连贯性和个性化服务能力，是LLM记忆管理领域的一个创新尝试。",
+  "tags": [
+    "AI记忆",
+    "LLM",
+    "无损存储",
+    "个人助手",
+    "上下文管理"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-21T22:54:27+08:00",
+  "updated_at": "2026-09-21T22:54:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "无损记忆可避免摘要导致的信息丢失，提升AI长期交互质量。",
+      "个人AI记忆系统是LLM智能体实现持续学习与个性化的关键组件。",
+      "该方案可能面临存储与检索效率的挑战，需平衡性能与完整性。"
+    ],
+    "category": "AI应用"
+  }
+}

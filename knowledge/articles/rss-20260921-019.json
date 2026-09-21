@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260921-019",
+  "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+  "source_url": "https://github.com/volotat/mini-AGI/",
+  "source_type": "rss",
+  "summary": "Mini-AGI是一个在8GB显存上训练的持续学习模型，采用动态MoE架构（专家随训练添加和剪枝）和单流批量1训练，旨在让个人在消费级硬件上完全控制大模型训练。项目借助Claude辅助开发，目前仍在训练中，权重未发布。",
+  "tags": [
+    "持续学习",
+    "MoE",
+    "消费级硬件训练",
+    "AGI",
+    "LLM训练"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-21T22:54:27+08:00",
+  "updated_at": "2026-09-21T22:54:27+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "动态MoE架构允许模型参数仅受磁盘空间限制，训练时按需加载专家，大幅降低显存需求。",
+      "单流批量1训练避免存储大批量梯度，使消费级硬件训练大模型成为可能。",
+      "项目展示了AI辅助开发（Claude）在复杂AI系统构建中的关键作用。"
+    ],
+    "category": "AI模型训练"
+  }
+}
