@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260922-019",
+  "title": "NASA’s Mars Sample Return mission is dead",
+  "source_url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+  "source_type": "rss",
+  "summary": "该条目报道NASA火星样本返回任务终止，属于航天与行星科学领域的新闻，与AI、LLM或Agent技术无直接关联。内容不涉及机器学习、大语言模型、智能体架构或相关算法，因此对AI技术知识库的参考价值极低。",
+  "tags": [
+    "航天",
+    "火星探测",
+    "NASA",
+    "科学新闻",
+    "非AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-22T21:10:10+08:00",
+  "updated_at": "2026-09-22T21:10:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.02,
+    "key_insights": [
+      "该条目主题为航天任务终止，与AI/LLM/Agent领域无关",
+      "不包含任何AI技术、模型或智能体相关内容",
+      "对AI技术知识库无实质贡献"
+    ],
+    "category": "其他"
+  }
+}

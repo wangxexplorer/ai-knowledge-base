@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260922-013",
+  "title": "Spymarks, Not Watermarks",
+  "source_url": "https://brand.io/article/spymarks/",
+  "source_type": "rss",
+  "summary": "该条目标题为《Spymarks, Not Watermarks》，来自Hacker News，讨论水印与间谍标记的概念。内容未提供具体细节，但可能涉及内容溯源、AI生成内容检测或数据追踪技术。与AI、LLM、Agent领域存在一定关联，尤其在水印技术用于大模型输出标识方面，但直接相关性有限。",
+  "tags": [
+    "水印",
+    "内容溯源",
+    "AI检测",
+    "隐私",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-22T21:10:10+08:00",
+  "updated_at": "2026-09-22T21:10:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.35,
+    "key_insights": [
+      "水印技术常用于AI生成内容标识，但该文可能提出替代或批判视角",
+      "间谍标记可能涉及隐蔽追踪，与AI数据隐私和伦理相关",
+      "对LLM输出溯源和版权保护有潜在启发"
+    ],
+    "category": "AI安全与隐私"
+  }
+}

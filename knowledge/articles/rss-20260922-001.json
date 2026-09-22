@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260922-001",
+  "title": "AI Has No Wisdom and Neither Will You",
+  "source_url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+  "source_type": "rss",
+  "summary": "该文章标题为《AI没有智慧，你也不会有》，探讨AI与人类智慧的局限性，可能涉及LLM的能力边界、认知依赖等议题。作为Hacker News热门讨论，它引发对AI本质的反思，与AI、LLM领域高度相关，尤其关注智能体决策中的智慧缺失问题。",
+  "tags": [
+    "AI哲学",
+    "LLM局限性",
+    "智能体",
+    "认知科学",
+    "技术批判"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-22T21:10:10+08:00",
+  "updated_at": "2026-09-22T21:10:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "AI系统缺乏真正的智慧，仅能模拟模式识别",
+      "人类过度依赖AI可能导致自身智慧退化",
+      "LLM和Agent的决策边界需要哲学层面的审视"
+    ],
+    "category": "AI伦理与哲学"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260922-015",
+  "title": "MiMo v2.6",
+  "source_url": "https://mimo.xiaomi.com/mimo-v2-6",
+  "source_type": "rss",
+  "summary": "小米发布MiMo v2.6，在Hacker News上引发952点、430条评论的热议。MiMo是小米自研的大模型系列，v2.6为其新版本，可能涉及模型能力、推理效率或多模态方面的升级。该条目属于LLM领域的重要产品动态，反映出国产大模型持续迭代并受到开发者社区高度关注。",
+  "tags": [
+    "小米MiMo",
+    "大语言模型",
+    "模型发布",
+    "国产大模型",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-22T21:10:10+08:00",
+  "updated_at": "2026-09-22T21:10:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "小米MiMo v2.6是国产大模型的重要版本更新，体现厂商持续投入LLM研发",
+      "Hacker News高热度讨论表明该模型在开发者社区具有较高关注度",
+      "MiMo系列可能面向端侧或Agent场景，与小米生态结合具备应用潜力"
+    ],
+    "category": "大语言模型"
+  }
+}

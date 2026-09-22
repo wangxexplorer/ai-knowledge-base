@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260922-009",
+  "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+  "source_url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+  "source_type": "rss",
+  "summary": "该条目介绍MiMo-v2.6-Pro模型，来自Artificial Analysis的模型分析页面，涵盖其智能水平、性能表现和定价分析。MiMo-v2.6-Pro属于大语言模型（LLM）范畴，与AI领域高度相关。条目在Hacker News上获得102分和38条评论，表明社区关注度较高。分析内容可能涉及模型基准测试、推理成本、与其他模型的对比等，对LLM选型和部署具有参考价值。",
+  "tags": [
+    "LLM",
+    "模型评估",
+    "性能分析",
+    "定价",
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-22T21:10:10+08:00",
+  "updated_at": "2026-09-22T21:10:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "MiMo-v2.6-Pro是LLM领域的新模型，其智能、性能和价格分析有助于模型选型。",
+      "Artificial Analysis提供标准化评估，可对比不同LLM的性价比。",
+      "Hacker News的高关注度反映社区对高效能LLM的持续兴趣。"
+    ],
+    "category": "大语言模型"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260922-002",
+  "title": "Will Open Source Survive the Agents That Replaced It?",
+  "source_url": "https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/",
+  "source_type": "rss",
+  "summary": "文章探讨AI Agent取代传统开源软件后开源生态的存续问题。作者认为Agent能自动生成、组合与维护代码，降低对人工开源库的依赖，可能削弱开源协作与许可模式的根基，但开源的数据、模型与治理仍具价值，未来或形成Agent驱动的新型开源形态。",
+  "tags": [
+    "开源生态",
+    "AI Agent",
+    "软件工程",
+    "许可模式",
+    "代码生成"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-22T21:10:10+08:00",
+  "updated_at": "2026-09-22T21:10:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "AI Agent可自动生成和维护代码，可能减少对传统开源库的依赖",
+      "开源协作与许可模式面临Agent自动化带来的结构性挑战",
+      "开源数据、模型与治理机制仍是Agent时代的重要基础"
+    ],
+    "category": "AI与开源生态"
+  }
+}

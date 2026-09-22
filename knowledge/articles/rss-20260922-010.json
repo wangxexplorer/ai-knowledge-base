@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260922-010",
+  "title": "Claude Status – Elevated errors for multiple models",
+  "source_url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+  "source_type": "rss",
+  "summary": "该条目为Claude官方状态页面发布的故障通告，指出多个模型出现错误率升高。Claude是Anthropic开发的大语言模型，属于LLM领域。该事件反映LLM服务在可用性和稳定性方面面临的挑战，对依赖Claude API的Agent应用和开发者有直接影响，可能引发服务降级或中断。",
+  "tags": [
+    "Claude",
+    "LLM",
+    "服务故障",
+    "Anthropic",
+    "API可用性"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-22T21:10:10+08:00",
+  "updated_at": "2026-09-22T21:10:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "Claude作为主流LLM，其服务稳定性直接影响下游AI应用和Agent的可靠性。",
+      "多模型同时出现错误表明基础设施或平台层面可能存在共性问题。",
+      "此类状态事件提醒开发者需为LLM API设计降级和容错机制。"
+    ],
+    "category": "LLM服务运维"
+  }
+}

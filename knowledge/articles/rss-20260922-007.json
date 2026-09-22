@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260922-007",
+  "title": "I said no and Apple said yes",
+  "source_url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+  "source_type": "rss",
+  "summary": "该条目是Hacker News上的一篇个人博客文章，标题为《I said no and Apple said yes》，讨论作者与Apple Intelligence相关的个人经历。从标题和来源看，内容可能涉及用户对苹果AI功能的选择权、隐私政策或产品体验的争议。由于缺乏正文细节，无法确认其具体技术深度，但主题与AI产品落地、用户隐私和科技公司AI策略相关，属于AI应用与伦理讨论范畴，而非LLM或",
+  "tags": [
+    "Apple Intelligence",
+    "AI隐私",
+    "用户选择权",
+    "AI产品",
+    "科技伦理"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-22T21:10:10+08:00",
+  "updated_at": "2026-09-22T21:10:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.35,
+    "key_insights": [
+      "涉及苹果AI功能与用户同意/隐私的交互",
+      "反映科技公司AI策略与用户自主权的张力",
+      "属于AI产品落地层面的讨论，非LLM/Agent技术核心"
+    ],
+    "category": "AI应用与伦理"
+  }
+}

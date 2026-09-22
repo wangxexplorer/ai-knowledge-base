@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260922-006",
+  "title": "AMD's random number generator can't generate a 0?",
+  "source_url": "https://board.flatassembler.net/topic.php?t=24261",
+  "source_type": "rss",
+  "summary": "该条目讨论AMD随机数生成器（RNG）可能无法生成0的问题，属于硬件安全与随机性领域。与AI、LLM、Agent无直接关联，但随机数在AI训练初始化、采样、强化学习探索中至关重要。",
+  "tags": [
+    "随机数生成",
+    "硬件安全",
+    "AMD",
+    "AI基础设施",
+    "采样"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-22T21:10:10+08:00",
+  "updated_at": "2026-09-22T21:10:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.15,
+    "key_insights": [
+      "随机数生成器缺陷可能影响AI模型初始化和采样质量",
+      "硬件RNG问题对安全敏感AI应用有潜在风险",
+      "该讨论属于底层系统问题，与LLM/Agent直接关联弱"
+    ],
+    "category": "硬件与系统"
+  }
+}

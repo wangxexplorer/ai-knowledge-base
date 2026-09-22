@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260922-003",
+  "title": "Type Punning in C and C++",
+  "source_url": "https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html",
+  "source_type": "rss",
+  "summary": "该条目讨论C和C++中的类型双关（Type Punning）技术，即通过联合体、指针转换或memcpy等方式将同一内存区域解释为不同类型。文章可能涉及正确用法、未定义行为及编译器优化问题。该内容属于底层系统编程语言特性，与AI、LLM、Agent领域无直接关联，但可能对高性能计算或底层AI框架开发有间接参考价值。",
+  "tags": [
+    "C/C++",
+    "类型双关",
+    "系统编程",
+    "未定义行为",
+    "内存模型"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-22T21:10:10+08:00",
+  "updated_at": "2026-09-22T21:10:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "类型双关是C/C++中绕过类型系统的底层技术，常用于序列化、网络协议和硬件交互。",
+      "不当使用类型双关可能导致未定义行为，需依赖memcpy或联合体等标准兼容方式。",
+      "该技术与AI/LLM/Agent无直接关系，但底层优化可能影响高性能AI推理引擎的实现。"
+    ],
+    "category": "编程语言与系统"
+  }
+}

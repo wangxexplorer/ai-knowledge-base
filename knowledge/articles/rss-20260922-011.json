@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260922-011",
+  "title": "Socrates vs. the Written Word (2011)",
+  "source_url": "https://wondermark.com/socrates-vs-writing/",
+  "source_type": "rss",
+  "summary": "该条目是漫画网站Wondermark的一篇幽默文章，以漫画形式探讨苏格拉底对文字书写的批评，类比现代对AI技术的担忧。文章本身不涉及AI技术，但常被引用来讨论技术变革引发的社会焦虑。",
+  "tags": [
+    "技术哲学",
+    "AI伦理",
+    "社会影响",
+    "苏格拉底",
+    "文字书写"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-22T21:10:10+08:00",
+  "updated_at": "2026-09-22T21:10:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.15,
+    "key_insights": [
+      "苏格拉底对文字的批评与当代对AI的担忧有相似之处，均涉及技术对记忆和思维的潜在影响。",
+      "该文章常被用作讨论技术变革引发社会焦虑的类比案例。",
+      "虽然不直接涉及AI，但为理解AI伦理争议提供了历史视角。"
+    ],
+    "category": "技术与社会"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260922-020",
+  "title": "HERMES radio enables voice and data communication over vast distances",
+  "source_url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+  "source_type": "rss",
+  "summary": "HERMES 是一种短波无线电系统，可在广阔距离上实现语音和数据通信，由 Rhizomatica 等组织推动，旨在为偏远或基础设施匮乏地区提供独立于互联网的通信手段。该技术本身属于通信与网络基础设施领域，与 AI、LLM 或 Agent 无直接关联，但可作为边缘计算或离线 AI 部署的通信载体。",
+  "tags": [
+    "短波通信",
+    "离线网络",
+    "边缘计算",
+    "基础设施",
+    "远程通信"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-22T21:10:10+08:00",
+  "updated_at": "2026-09-22T21:10:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "HERMES 提供不依赖互联网的远距离语音与数据通信能力",
+      "该技术可支撑偏远地区的离线 AI 或边缘智能部署",
+      "与 AI、LLM、Agent 核心领域无直接技术关联"
+    ],
+    "category": "通信技术"
+  }
+}

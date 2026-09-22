@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260922-018",
+  "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+  "source_url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+  "source_type": "rss",
+  "summary": "陶哲轩宣布成立数学与人工智能咨询小组，旨在促进数学家与AI研究者的合作，探索AI在数学研究中的应用，并应对相关伦理与教育挑战。该小组将推动AI辅助定理证明、猜想生成等方向，对LLM在形式化数学中的发展具有指导意义。",
+  "tags": [
+    "AI for Mathematics",
+    "LLM",
+    "Theorem Proving",
+    "Advisory Group",
+    "Terence Tao"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-22T21:10:10+08:00",
+  "updated_at": "2026-09-22T21:10:10+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "AI与数学的交叉领域正获得顶级数学家推动，可能加速LLM在形式化推理上的突破。",
+      "咨询小组的成立反映了学术界对AI在数学研究中角色与伦理的系统性关注。",
+      "该倡议可能促进AI辅助证明、自动猜想等Agent工具在数学领域的落地。"
+    ],
+    "category": "AI应用"
+  }
+}
