@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260923-010",
+  "title": "IntLawNER: A Named Entity Recognition Dataset and Benchmark in International Law",
+  "source_url": "https://arxiv.org/abs/2609.22529",
+  "source_type": "rss",
+  "summary": "IntLawNER是首个面向国际法文本的命名实体识别数据集与基准，涵盖ICJ、UN安理会和ECtHR的2987句、8094个实体，采用LLM辅助的混合标注流程。实验显示零样本GLiNER在机构功能型实体上表现差，而少样本提示可显著提升LLM性能，Claude Opus 4.6达到0.873微F1。",
+  "tags": [
+    "命名实体识别",
+    "LLM",
+    "数据集",
+    "国际法",
+    "基准评测"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-23T21:25:48+08:00",
+  "updated_at": "2026-09-23T21:25:48+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "LLM辅助的混合标注流程能高效构建领域NER数据集，89.6%的银标跨度被直接接受为金标。",
+      "在领域特定NER中，人机聚合一致性指标（如Cohen's kappa）可能掩盖边界错误和标签修正问题。",
+      "少样本示例展示标签对比可显著提升LLM在专业领域NER上的性能，优于零样本提示。"
+    ],
+    "category": "NLP应用"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260923-004",
+  "title": "Social Influence and the Allocation of Scientific Attention in AI Populations",
+  "source_url": "https://arxiv.org/abs/2609.22408",
+  "source_type": "rss",
+  "summary": "该研究将Music Lab实验设计应用于学术注意力市场，让1000个AI智能体从114篇论文中选择，比较独立选择与社会影响条件下的行为。社会影响导致智能体选择更少、更集中，且初始随机选择显著提升后续选择率。研究揭示了简单信息规则如何塑造AI群体对科学注意力的分配，对理解LLM智能体在信息环境中的集体行为有重要意义。",
+  "tags": [
+    "AI智能体",
+    "社会影响",
+    "集体行为",
+    "科学注意力",
+    "LLM应用"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-23T21:25:48+08:00",
+  "updated_at": "2026-09-23T21:25:48+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "社会信息使AI智能体选择更少但更集中，群体覆盖范围缩小",
+      "初始随机选择对后续选择率有巨大影响，显示路径依赖",
+      "AI智能体的选择与外部引用和下载量对应关系较弱"
+    ],
+    "category": "AI与社会行为"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260923-013",
+  "title": "MAWILE: Multi-Axis Workbench for Inspecting LLM Evaluators",
+  "source_url": "https://arxiv.org/abs/2609.22599",
+  "source_type": "rss",
+  "summary": "MAWILE是一个面向开发者的工作台，用于审计LLM评判器在四个表面上的敏感性：评判提示、评分标准、目标系统输入和目标系统输出。它通过构建并验证受控扰动，重新执行评判器并定位敏感性来源，支持二元、序数和成对评判器，无需黄金标签。该工具帮助提升LLM评估的鲁棒性和可靠性，对LLM和Agent评估领域有直接贡献。",
+  "tags": [
+    "LLM评估",
+    "评判器审计",
+    "鲁棒性",
+    "Agent评估",
+    "工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-23T21:25:48+08:00",
+  "updated_at": "2026-09-23T21:25:48+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "LLM评判器的裁决对无关变化敏感，需要系统化审计以确保评估可靠性。",
+      "MAWILE通过受控扰动同时测量鲁棒性和敏感性，无需黄金标签。",
+      "该工具覆盖评判提示、评分标准、输入和输出四个表面，支持多种评判器类型。"
+    ],
+    "category": "LLM评估与审计"
+  }
+}

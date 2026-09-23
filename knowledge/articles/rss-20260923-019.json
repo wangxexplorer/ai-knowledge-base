@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260923-019",
+  "title": "Toward Auditable and Calibrated AI for Dementia-Related Crash Severity Prediction: A Selective Deferral Framework to Support Human Review",
+  "source_url": "https://arxiv.org/abs/2609.22694",
+  "source_type": "rss",
+  "summary": "该研究将痴呆相关车祸严重程度预测重构为决策感知的分诊问题，要求模型在分类O、BC、KA三级的同时控制数据泄漏、校准置信度并保留所有原始预测以供审计。基于4781条得克萨斯州车祸记录，评估了结构化、叙事、融合、校准融合、BERT及本地大语言模型基线。泄漏控制的Gemma取得最高宏F1（0.545），最佳校准融合模型宏F1为0.522、ECE为0.033。选择性延迟机制在70%覆盖率下将宏F1提升至0",
+  "tags": [
+    "LLM",
+    "校准",
+    "选择性延迟",
+    "可审计AI",
+    "人机协作"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-23T21:25:48+08:00",
+  "updated_at": "2026-09-23T21:25:48+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.72,
+    "key_insights": [
+      "将LLM（Gemma）与校准融合模型应用于车祸严重度预测，展示了LLM在结构化决策任务中的潜力。",
+      "选择性延迟框架通过将低置信度案例交由人工审核，在保证覆盖率的同时提升自动分类性能。",
+      "强调可审计性、校准和泄漏控制，为高风险AI决策系统提供了可复现的评估范式。"
+    ],
+    "category": "AI应用"
+  }
+}

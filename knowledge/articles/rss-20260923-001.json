@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260923-001",
+  "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
+  "source_url": "https://arxiv.org/abs/2609.22161",
+  "source_type": "rss",
+  "summary": "该研究通过token匹配实验，探究医学大语言模型训练中教学数据（如教科书）与临床数据（如病历）的混合比例如何影响模型能力。发现不对称迁移：临床数据提升临床任务且知识任务不差，教学数据主要提升知识任务。存在“知-行差距”，知识回忆提升不保证临床推理改善。少量临床数据即可在电子健康记录任务上获得大部分收益，最优混合比取决于下游任务需求。建议医学LLM数据策展应面向应用，推理密集型场景宜提高临床数据比例",
+  "tags": [
+    "医学LLM",
+    "数据混合",
+    "临床推理",
+    "知识迁移",
+    "模型训练"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-23T21:25:48+08:00",
+  "updated_at": "2026-09-23T21:25:48+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "临床数据与教学数据对医学LLM能力的影响不对称：临床数据提升临床任务且不损害知识任务，教学数据主要提升知识任务。",
+      "存在“知-行差距”：知识回忆的提升不能可靠地泛化到临床推理能力。",
+      "少量临床数据即可在EHR任务上获得大部分收益，最优数据混合比取决于下游任务的知识与推理需求。"
+    ],
+    "category": "LLM训练与数据"
+  }
+}

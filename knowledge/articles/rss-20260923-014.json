@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260923-014",
+  "title": "GaitVista: Reliability-Aware AI Measurement toward Accessible Longitudinal Gait Assessment",
+  "source_url": "https://arxiv.org/abs/2609.22619",
+  "source_type": "rss",
+  "summary": "GaitVista提出一种可靠性感知的AI测量层，用于可及性纵向步态评估。它通过轻量门控机制，结合相机覆盖、局部视觉质量、跨模态不一致和根运动连续性，为每个关节和帧分配视觉贡献权重，从而在传感器退化条件下提升3D步态测量精度。在TotalCapture和MoVi数据集上，该方法显著降低全身和下肢误差，并改善膝关节屈曲波形准确性，为康复步态监测提供更可靠的融合方案。",
+  "tags": [
+    "步态分析",
+    "多模态融合",
+    "可靠性感知",
+    "计算机视觉",
+    "康复监测"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-23T21:25:48+08:00",
+  "updated_at": "2026-09-23T21:25:48+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.65,
+    "key_insights": [
+      "可靠性感知门控机制能动态评估多模态传感器贡献，有效抑制传感失败导致的伪变化。",
+      "在多种退化条件下，该方法显著降低步态测量误差，并缩小与理想关节-帧oracle的差距。",
+      "该工作面向可及性步态评估，但尚未在临床环境中验证，仅报告了健康参与者的进展。"
+    ],
+    "category": "AI在医疗健康中的应用"
+  }
+}

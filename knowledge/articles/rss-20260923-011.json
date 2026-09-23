@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260923-011",
+  "title": "EvidenT: Building Trustworthy Enterprise Assistants through Evidence Groundedness and Traceability",
+  "source_url": "https://arxiv.org/abs/2609.22537",
+  "source_type": "rss",
+  "summary": "EvidenT 提出一种轻量级流水线，用于提升企业 AI 助手的可信度与可追溯性。针对 RAG 在异构企业数据中出现的引用漂移、无支撑内容和溯源弱等问题，EvidenT 在答案生成前对提取的证据与检索文档进行验证，无需模型重训练。它结合结构化段落抽取与确定性词汇对齐，过滤无支撑内容、纠正引用漂移并保留源跨度可追溯性。在约 500 个真实企业查询上，EvidenT 将金源命中率平均提升 29%，不产",
+  "tags": [
+    "RAG",
+    "可信AI",
+    "可追溯性",
+    "企业助手",
+    "证据验证"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-23T21:25:48+08:00",
+  "updated_at": "2026-09-23T21:25:48+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "EvidenT 在生成前验证证据与检索文档的一致性，有效减少引用漂移和无支撑内容。",
+      "无需模型重训练，通过结构化抽取和词汇对齐实现轻量级可信增强。",
+      "在真实企业查询上显著提升金源命中率，并保证引用仅来自已检索文档。"
+    ],
+    "category": "检索增强生成"
+  }
+}

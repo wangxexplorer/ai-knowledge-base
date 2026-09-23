@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260923-002",
+  "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
+  "source_url": "https://arxiv.org/abs/2609.22277",
+  "source_type": "rss",
+  "summary": "该论文提出一款低成本（88美元）的离线AI智能手杖，用于视障人士多模态出行辅助。系统在树莓派Zero 2W上融合RGB视觉与ToF测距，采用INT8量化SSD MobileNet V1模型，通过振动触觉和音频提供距离感知反馈。多进程架构隔离传感、推理与反馈，室内场景F1达0.82，端到端延迟330ms，峰值功耗2.8W，12人可用性研究显示良好用户体验，验证了边缘原生辅助智能的可行性。",
+  "tags": [
+    "边缘AI",
+    "多模态感知",
+    "辅助技术",
+    "模型量化",
+    "嵌入式推理"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-23T21:25:48+08:00",
+  "updated_at": "2026-09-23T21:25:48+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.72,
+    "key_insights": [
+      "在超低功耗边缘设备上通过INT8量化和多进程架构实现实时多模态AI推理，兼顾性能与能效。",
+      "融合视觉与ToF传感的离线方案降低了成本与隐私风险，为资源受限场景提供可及性。",
+      "端到端延迟330ms和F1 0.82表明轻量模型在辅助导航任务中具备实用可行性。"
+    ],
+    "category": "AI应用系统"
+  }
+}

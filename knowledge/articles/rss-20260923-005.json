@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260923-005",
+  "title": "Learning 3D biophysical cell properties from 2D images and cell-population statistics",
+  "source_url": "https://arxiv.org/abs/2609.22410",
+  "source_type": "rss",
+  "summary": "该研究提出一种群体监督框架，从单张2D红细胞图像推断潜在生物物理量，并聚合为平均红细胞体积、红细胞分布宽度和平均血红蛋白含量等群体统计指标。模型结合局部推断、生物物理结构化解码器、实例加权和设备校准，在390个样本、1105次采集上验证，与Sysmex分析仪相关性达0.86-0.98。研究形式化了聚合观测识别单细胞预测器的条件，指出群体一致性不能识别单细胞属性或3D几何，并推导了子集均值匹配的离散",
+  "tags": [
+    "计算生物学",
+    "群体监督学习",
+    "医学图像分析",
+    "弱监督学习",
+    "生物物理建模"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-23T21:25:48+08:00",
+  "updated_at": "2026-09-23T21:25:48+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.25,
+    "key_insights": [
+      "群体监督学习可从2D图像推断3D细胞生物物理属性，无需单细胞标签",
+      "群体统计一致性不能保证单细胞属性或3D几何的可识别性",
+      "生物物理结构化解码器与设备校准结合可提升跨设备泛化能力"
+    ],
+    "category": "AI在生物医学中的应用"
+  }
+}

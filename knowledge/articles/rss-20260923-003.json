@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260923-003",
+  "title": "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation",
+  "source_url": "https://arxiv.org/abs/2609.22353",
+  "source_type": "rss",
+  "summary": "PAANI 是一种面向资源受限河流监测机器人的端侧感知到引导架构，在 Arduino UNO Q 上融合 YOLO11n 检测器与 MobileNetV3 Small 语义分割器，通过时间戳对齐的证据融合、有界跟踪和显式走廊策略生成可解释的导航建议，并暴露决策依据与不确定性。系统使用 ROS 2 连接 Gazebo 仿真测试平台，模型仅占 14.817 MB，检测 mAP@0.5 约 0.74，分",
+  "tags": [
+    "边缘AI",
+    "多模态融合",
+    "可解释AI",
+    "机器人感知",
+    "目标检测"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-23T21:25:48+08:00",
+  "updated_at": "2026-09-23T21:25:48+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.42,
+    "key_insights": [
+      "在资源受限设备上实现检测与分割的端侧证据融合，并输出可检查的决策依据，提升机器人导航的可解释性。",
+      "通过时间戳对齐、有界跟踪和显式走廊策略，将不完美的视觉预测转化为及时且可追溯的引导建议。",
+      "系统明确区分模型精度与实机执行，指出黑输入误分类和采样率不匹配等实际部署风险。"
+    ],
+    "category": "边缘AI与机器人"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260923-007",
+  "title": "Replication Without Persistence in Hosted LLMs: Measurement Sensitivity in Action-Time Belief Evaluation",
+  "source_url": "https://arxiv.org/abs/2609.22478",
+  "source_type": "rss",
+  "summary": "该研究探讨托管LLM行为评估中的可复现性问题，区分了复现、测量敏感性和持续性三个验证维度。通过在Regent Chess环境中测试Gemini系列模型，发现同一标识符下重建评估配置会导致端点值显著变化，且不同模型版本间的比较结果可能反转。研究强调托管模型行为声明需明确标注测试标识符、服务周期、测量工具和推理配置。",
+  "tags": [
+    "LLM评估",
+    "可复现性",
+    "测量敏感性",
+    "托管模型",
+    "行为基准"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-23T21:25:48+08:00",
+  "updated_at": "2026-09-23T21:25:48+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "托管LLM的行为评估结果受测量配置影响显著，同一模型标识符下重建评估管道可导致端点值变化",
+      "复现、测量敏感性和持续性可能在同一评估中得出不同结论，需明确区分",
+      "托管模型行为声明应显式索引测试标识符、服务周期、测量工具和推理配置"
+    ],
+    "category": "LLM评估与基准"
+  }
+}

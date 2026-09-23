@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260923-012",
+  "title": "AutoGym: Blueprint-First Generation of Verifiable Agent Gyms",
+  "source_url": "https://arxiv.org/abs/2609.22592",
+  "source_type": "rss",
+  "summary": "AutoGym提出一种蓝图优先的框架，用于自动生成可验证的智能体训练环境（gym），包括任务、可执行环境和验证器。它通过蓝图优先生成、显式生成参数和主动课程合成三种机制，解决传统gym构建昂贵、静态且易饱和的问题，实现难度可控、可验证的智能体训练环境生成，支持强化学习训练智能体。",
+  "tags": [
+    "智能体训练",
+    "强化学习",
+    "环境生成",
+    "课程学习",
+    "可验证性"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-23T21:25:48+08:00",
+  "updated_at": "2026-09-23T21:25:48+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "蓝图优先生成确保任务可解性成为构造前提，而非事后验证，提高了生成环境的可靠性。",
+      "显式生成参数支持对任务拓扑、交互深度、能力轴等维度的细粒度难度控制。",
+      "主动课程合成根据模型能力动态调整任务分布，实现自适应训练。"
+    ],
+    "category": "智能体"
+  }
+}

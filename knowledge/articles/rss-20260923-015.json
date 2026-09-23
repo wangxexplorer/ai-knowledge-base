@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260923-015",
+  "title": "Splitting Documents at Lower Cost: Multi-Split Boundary Decisions for LLM-Based Page Stream Segmentation",
+  "source_url": "https://arxiv.org/abs/2609.22620",
+  "source_type": "rss",
+  "summary": "本文提出多分割边界决策（MSBD）方法，用于基于LLM的页面流分割。传统页面分类和边界决策每次模型调用仅能识别一个文档边界，而MSBD可在单次调用中预测页面窗口内的多个边界，从而减少推理请求次数。研究在多个语言模型、文档集合、输入模态和窗口大小上评估MSBD，发现存在模型和语料相关的操作范围，在该范围内MSBD保持强分割准确率并显著提升推理效率，但窗口过大时性能急剧下降。MSBD在准确率与效率之间",
+  "tags": [
+    "LLM",
+    "文档分割",
+    "零样本学习",
+    "推理效率",
+    "页面流"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-23T21:25:48+08:00",
+  "updated_at": "2026-09-23T21:25:48+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "MSBD通过单次调用预测多个边界，显著减少LLM推理请求次数，提升效率。",
+      "MSBD的准确率-效率权衡依赖于模型和语料，存在最佳窗口大小范围。",
+      "窗口过大时，不同模型表现出过度分割或分割不足的差异行为。"
+    ],
+    "category": "LLM应用"
+  }
+}
