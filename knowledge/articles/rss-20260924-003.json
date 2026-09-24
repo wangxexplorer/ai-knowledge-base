@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260924-003",
+  "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
+  "source_url": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
+  "source_type": "rss",
+  "summary": "该条目介绍最新ESP32微控制器能够运行Linux，性能接近树莓派。ESP32是低成本、低功耗的物联网芯片，此前多用于嵌入式实时操作系统。运行Linux意味着其计算能力大幅提升，可能成为边缘AI推理的廉价平台。虽然与AI、LLM、Agent无直接关联，但边缘设备算力增强为轻量级AI模型部署提供了新可能，例如TinyML或小型语言模型在端侧运行。",
+  "tags": [
+    "ESP32",
+    "边缘计算",
+    "Linux",
+    "嵌入式AI",
+    "物联网"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-24T21:18:28+08:00",
+  "updated_at": "2026-09-24T21:18:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.25,
+    "key_insights": [
+      "ESP32运行Linux显著提升边缘设备算力，可能推动轻量级AI模型在端侧部署。",
+      "低成本硬件与Linux结合，为边缘AI Agent提供潜在运行平台。",
+      "与LLM直接关联弱，但为分布式AI推理提供硬件基础。"
+    ],
+    "category": "硬件与边缘计算"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260924-020",
+  "title": "Making Tailscale Faster",
+  "source_url": "https://tailscale.com/blog/making-tailscale-faster",
+  "source_type": "rss",
+  "summary": "Tailscale 发布博客介绍其网络性能优化实践，涉及 WireGuard 隧道、NAT 穿透、数据包处理路径等底层网络工程。内容聚焦于提升 VPN 连接速度与吞吐量，未涉及 AI、LLM 或 Agent 技术。对 AI 领域而言，仅可作为分布式训练、模型服务跨节点通信的底层网络基础设施参考，相关性极低。",
+  "tags": [
+    "网络性能优化",
+    "VPN",
+    "WireGuard",
+    "基础设施",
+    "分布式通信"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-24T21:18:28+08:00",
+  "updated_at": "2026-09-24T21:18:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "Tailscale 的性能优化属于底层网络工程，与 AI/LLM/Agent 算法无直接关联",
+      "其低延迟组网能力可间接支撑分布式训练与推理服务的跨节点通信",
+      "对 Agent 系统而言，仅作为远程工具调用与多机协作的网络底座参考"
+    ],
+    "category": "网络与基础设施"
+  }
+}

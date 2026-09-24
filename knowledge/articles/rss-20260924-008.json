@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260924-008",
+  "title": "The Year of Internal Tools",
+  "source_url": "https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools",
+  "source_type": "rss",
+  "summary": "本文探讨了内部工具开发趋势，指出随着AI和LLM技术的进步，构建内部工具的成本和门槛大幅降低，企业开始更积极地开发定制化工具以提升效率。文章可能涉及AI辅助编程、低代码平台以及LLM在自动化工作流中的应用，反映了AI技术对软件开发模式的深远影响。",
+  "tags": [
+    "内部工具",
+    "LLM",
+    "AI辅助开发",
+    "低代码",
+    "工作流自动化"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-24T21:18:28+08:00",
+  "updated_at": "2026-09-24T21:18:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI和LLM降低了内部工具的开发门槛，使非专业开发者也能参与构建",
+      "内部工具正从简单脚本向智能化、自动化方向演进",
+      "企业利用AI构建内部工具可显著提升运营效率和响应速度"
+    ],
+    "category": "AI应用"
+  }
+}

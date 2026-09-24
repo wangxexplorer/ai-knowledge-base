@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260924-019",
+  "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+  "source_url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+  "source_type": "rss",
+  "summary": "该条目报道了Anthropic的Claude模型发现了一种具有CRISPR样重复序列的新型酶系统，展示了LLM在生物信息学中的科学发现能力。这体现了AI在跨学科研究中的潜力，与AI、LLM和Agent领域高度相关，特别是AI for Science方向。",
+  "tags": [
+    "AI for Science",
+    "LLM应用",
+    "科学发现",
+    "Claude",
+    "生物信息学"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-24T21:18:28+08:00",
+  "updated_at": "2026-09-24T21:18:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "LLM能够辅助科学发现，如识别新型酶系统",
+      "AI在生物信息学中的跨学科应用潜力巨大",
+      "Claude等模型展示了超越文本生成的科研能力"
+    ],
+    "category": "AI应用"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260924-004",
+  "title": "Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection",
+  "source_url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+  "source_type": "rss",
+  "summary": "该条目讨论英国苹果设备存在两级加密保护，相同设备因地区或政策差异获得不同安全级别。内容涉及加密政策、隐私与政府监管，与AI、LLM、Agent领域无直接技术关联，仅可能间接影响AI数据安全与合规环境。",
+  "tags": [
+    "加密政策",
+    "隐私安全",
+    "苹果设备",
+    "英国监管",
+    "数据保护"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-24T21:18:28+08:00",
+  "updated_at": "2026-09-24T21:18:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "英国苹果设备存在两级加密，相同硬件因政策差异获得不同保护。",
+      "该议题反映政府监管与用户隐私之间的博弈。",
+      "与AI/LLM/Agent无直接技术关联，但可能影响AI数据安全合规环境。"
+    ],
+    "category": "安全与隐私"
+  }
+}

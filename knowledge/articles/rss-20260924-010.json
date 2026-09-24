@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260924-010",
+  "title": "Contrastive Language Models",
+  "source_url": "https://contrastive-lm.notion.site/",
+  "source_type": "rss",
+  "summary": "该条目标题为“Contrastive Language Models”，指向一个Notion页面，但描述仅包含链接和Hacker News评论信息，缺乏具体技术内容。从标题推断，它可能涉及对比学习在语言模型中的应用，属于自然语言处理与AI领域的前沿话题，但信息不足，无法深入分析。",
+  "tags": [
+    "对比学习",
+    "语言模型",
+    "自然语言处理",
+    "AI",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-24T21:18:28+08:00",
+  "updated_at": "2026-09-24T21:18:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "标题暗示对比学习可能被用于改进语言模型表示",
+      "缺乏详细内容，无法评估具体方法或效果",
+      "来源为Hacker News，可能引发社区讨论"
+    ],
+    "category": "自然语言处理"
+  }
+}

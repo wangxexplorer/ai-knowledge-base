@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260924-013",
+  "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+  "source_url": "https://github.com/nestrilabs/virtio-nvgpu",
+  "source_type": "rss",
+  "summary": "Virtio-nvgpu 是一个开源项目，旨在让 KVM 虚拟机内的客户机获得接近原生的 NVIDIA GPU 访问能力。它通过 virtio 协议实现 GPU 虚拟化，减少性能开销，使虚拟机能够高效利用物理 GPU 进行图形渲染和计算任务。该技术对 AI/LLM 领域有间接支撑作用，因为 GPU 是训练和推理的核心硬件，而虚拟化 GPU 访问可提升资源利用率和多租户隔离，但项目本身不涉及 AI",
+  "tags": [
+    "GPU虚拟化",
+    "KVM",
+    "NVIDIA",
+    "virtio",
+    "云计算"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-24T21:18:28+08:00",
+  "updated_at": "2026-09-24T21:18:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.35,
+    "key_insights": [
+      "通过 virtio 实现近原生 GPU 性能，降低虚拟化开销",
+      "为 AI 工作负载提供更高效的 GPU 资源池化和隔离方案",
+      "不直接涉及 LLM 或 Agent 算法，但支撑其底层算力基础设施"
+    ],
+    "category": "基础设施与虚拟化"
+  }
+}

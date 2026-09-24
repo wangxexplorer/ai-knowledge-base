@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260924-017",
+  "title": "Mercury 2.5 LLM hits 770 tokens per second",
+  "source_url": "https://artificialanalysis.ai/models/mercury-2-5",
+  "source_type": "rss",
+  "summary": "Mercury 2.5 LLM在Artificial Analysis基准测试中达到每秒770个token的生成速度，引发Hacker News社区130点热度讨论。该条目聚焦于大语言模型的推理性能指标，展示了当前LLM在吞吐量方面的优化进展，对AI模型部署、实时应用和Agent系统响应速度具有参考价值。",
+  "tags": [
+    "LLM",
+    "推理速度",
+    "模型性能",
+    "Artificial Analysis",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-24T21:18:28+08:00",
+  "updated_at": "2026-09-24T21:18:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Mercury 2.5的770 tokens/秒速度刷新了LLM推理吞吐量基准，有利于实时交互和Agent任务",
+      "高生成速度可降低Agent系统的延迟，提升多步推理和工具调用的效率",
+      "社区高热度表明业界对LLM推理性能优化持续高度关注"
+    ],
+    "category": "大语言模型"
+  }
+}

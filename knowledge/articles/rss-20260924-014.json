@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260924-014",
+  "title": "Meta VR Glasses",
+  "source_url": "https://www.meta.com/vr-glasses/",
+  "source_type": "rss",
+  "summary": "该条目为Meta VR眼镜产品页面，来自Hacker News，仅包含链接和评论数，无实质技术内容。与AI、LLM、Agent领域无直接关联，可能涉及VR硬件与交互，但未提及任何AI模型或智能体技术。",
+  "tags": [
+    "VR",
+    "Meta",
+    "硬件",
+    "Hacker News",
+    "无AI内容"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-24T21:18:28+08:00",
+  "updated_at": "2026-09-24T21:18:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "条目仅为产品链接，缺乏技术细节",
+      "未涉及AI、LLM或Agent相关技术",
+      "VR硬件与AI领域相关性极低"
+    ],
+    "category": "其他"
+  }
+}

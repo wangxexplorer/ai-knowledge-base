@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260924-007",
+  "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+  "source_url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+  "source_type": "rss",
+  "summary": "Meta下架了一段批评其AI眼镜的视频，该视频在Meta园区拍摄。事件引发对科技巨头内容审查和AI硬件隐私问题的讨论。",
+  "tags": [
+    "Meta",
+    "AI眼镜",
+    "内容审查",
+    "隐私",
+    "科技伦理"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-24T21:18:28+08:00",
+  "updated_at": "2026-09-24T21:18:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.4,
+    "key_insights": [
+      "AI硬件产品可能引发隐私和内容审查争议",
+      "科技公司对批评性内容的处理方式影响公众信任",
+      "AI眼镜作为新兴产品面临伦理和监管挑战"
+    ],
+    "category": "AI伦理与政策"
+  }
+}

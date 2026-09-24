@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260924-001",
+  "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
+  "source_url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+  "source_type": "rss",
+  "summary": "文章探讨了Alpha世代将“That's so AI”作为最大侮辱用语的现象，反映了年轻一代对AI生成内容（如文本、图像）的负面态度，认为其缺乏真实性和人性。这揭示了AI技术普及带来的文化反噬，对LLM和Agent领域有重要启示：用户可能对AI生成内容产生抵触，影响产品接受度。",
+  "tags": [
+    "AI文化",
+    "LLM",
+    "社会影响",
+    "生成内容",
+    "用户态度"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-24T21:18:28+08:00",
+  "updated_at": "2026-09-24T21:18:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "Alpha世代将“AI”作为贬义词，反映对AI生成内容真实性的质疑",
+      "AI技术普及导致文化反噬，可能影响LLM和Agent产品的用户接受度",
+      "需关注年轻用户对AI生成内容的负面感知，以改进产品设计"
+    ],
+    "category": "AI与社会"
+  }
+}

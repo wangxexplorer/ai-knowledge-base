@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260924-018",
+  "title": "VSCode's SSH Agent Is Bananas (2025)",
+  "source_url": "https://fly.io/blog/vscode-ssh-wtf/",
+  "source_type": "rss",
+  "summary": "文章批评VSCode的SSH代理实现存在严重问题，可能涉及性能、安全或可用性缺陷。该内容属于开发工具领域，与AI、LLM、Agent技术无直接关联，但SSH代理作为远程开发基础设施，可能间接影响AI开发工作流。",
+  "tags": [
+    "VSCode",
+    "SSH",
+    "开发工具",
+    "远程开发",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-24T21:18:28+08:00",
+  "updated_at": "2026-09-24T21:18:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "VSCode的SSH代理实现存在设计缺陷，可能影响远程开发体验",
+      "该问题与AI/LLM/Agent技术无直接关系，但远程开发工具是AI工程师的常用基础设施",
+      "文章在Hacker News引发热议，反映开发者对工具质量的关注"
+    ],
+    "category": "开发工具"
+  }
+}

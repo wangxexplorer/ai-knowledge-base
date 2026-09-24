@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260924-002",
+  "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+  "source_url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+  "source_type": "rss",
+  "summary": "文章揭示黑客通过操纵ChatGPT和Gemini等AI模型，使其向用户推荐诈骗中心，涉及AI安全与对抗性攻击。",
+  "tags": [
+    "AI安全",
+    "对抗性攻击",
+    "ChatGPT",
+    "Gemini",
+    "诈骗"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-24T21:18:28+08:00",
+  "updated_at": "2026-09-24T21:18:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "黑客可利用提示注入或数据投毒操纵AI输出",
+      "AI模型可能被诱导推荐恶意内容",
+      "需加强AI安全防护与内容审核"
+    ],
+    "category": "AI安全"
+  }
+}

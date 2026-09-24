@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260924-015",
+  "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+  "source_url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+  "source_type": "rss",
+  "summary": "ArXiv获得多年期资助，将作为独立非营利组织运营。ArXiv是AI和机器学习领域最重要的预印本论文平台，几乎所有前沿LLM和Agent研究都首先在此发布。该资助确保其长期稳定运行，对AI学术生态和开源研究具有基础性支撑作用。",
+  "tags": [
+    "ArXiv",
+    "学术出版",
+    "AI研究基础设施",
+    "非营利",
+    "预印本"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-24T21:18:28+08:00",
+  "updated_at": "2026-09-24T21:18:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.75,
+    "key_insights": [
+      "ArXiv是AI/LLM/Agent领域最核心的论文发布平台，其可持续运营直接影响前沿研究的传播速度",
+      "多年期资助使其摆脱短期资金不确定性，有利于维护开放获取的学术生态",
+      "独立非营利模式为关键科研基础设施的治理提供了参考范例"
+    ],
+    "category": "AI研究基础设施"
+  }
+}
