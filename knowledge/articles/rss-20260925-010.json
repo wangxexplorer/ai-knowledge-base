@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260925-010",
+  "title": "Ink and Switch Interactive Homepage",
+  "source_url": "https://www.inkandswitch.com/",
+  "source_type": "rss",
+  "summary": "Ink & Switch 是一家专注于人机交互与本地优先软件的研究实验室，其主页展示了多个研究项目。该条目本身仅为网站首页链接，未涉及具体的AI、LLM或Agent技术内容，因此与AI领域的直接相关性较低，但本地优先、协作工具等研究方向可能间接影响AI应用架构。",
+  "tags": [
+    "人机交互",
+    "本地优先软件",
+    "研究实验室",
+    "协作工具",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-25T21:18:33+08:00",
+  "updated_at": "2026-09-25T21:18:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.15,
+    "key_insights": [
+      "Ink & Switch 主要研究人机交互与本地优先软件，而非AI/LLM/Agent技术",
+      "其本地优先理念可能对AI Agent的离线与隐私设计有间接启发",
+      "条目仅为网站首页，缺乏具体技术细节，相关性有限"
+    ],
+    "category": "人机交互研究"
+  }
+}

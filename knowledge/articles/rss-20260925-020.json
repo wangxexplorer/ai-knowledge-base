@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260925-020",
+  "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+  "source_url": "https://github.com/devdotfast/whiteboard",
+  "source_type": "rss",
+  "summary": "Whiteboard 是一个开源桌面 IDE，让人类与 AI Agent 在同一画布上协作设计软件。它基于 CodeOSS 构建，支持从图表跳转到代码、语义 AST 差异查看器以及决策日志，帮助开发者理解 Agent 自主做出的决策，缓解因 Agent 编码带来的认知债务。",
+  "tags": [
+    "AI Agent",
+    "IDE",
+    "人机协作",
+    "代码审查",
+    "开源工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-25T21:18:33+08:00",
+  "updated_at": "2026-09-25T21:18:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "Agent 编码带来认知债务，需要工具让人类理解 Agent 的自主决策",
+      "语义差异查看器可过滤无关变更，提升大规模 AI 生成代码的审查效率",
+      "决策日志将 Agent 轨迹与需求关联，增强人机协作的可解释性"
+    ],
+    "category": "AI开发工具"
+  }
+}

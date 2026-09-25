@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260925-017",
+  "title": "What About Rails?",
+  "source_url": "https://jardo.dev/what-about-rails",
+  "source_type": "rss",
+  "summary": "该条目是Hacker News上关于Ruby on Rails的讨论帖，标题为《What About Rails?》，包含文章链接和评论链接，共115点、64条评论。内容聚焦Web开发框架Rails的现状与讨论，未涉及AI、LLM或Agent技术，与AI领域无直接关联。",
+  "tags": [
+    "Ruby on Rails",
+    "Web开发",
+    "Hacker News",
+    "框架讨论"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-25T21:18:33+08:00",
+  "updated_at": "2026-09-25T21:18:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "条目主题为Ruby on Rails框架，属于传统Web开发领域",
+      "未涉及AI、LLM或Agent相关技术内容",
+      "仅作为技术社区讨论帖，与AI技术知识库关联性极低"
+    ],
+    "category": "Web开发"
+  }
+}

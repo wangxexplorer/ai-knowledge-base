@@ -1,0 +1,31 @@
+{
+  "id": "github-20260925-004",
+  "title": "ponytail",
+  "source_url": "https://github.com/DietrichGebert/ponytail",
+  "source_type": "github",
+  "summary": "ponytail 是一个面向 AI Agent 的插件/技能，旨在让 AI 代理像“最懒的资深开发者”一样思考，强调“最好的代码是从未写过的代码”。它基于 JavaScript 开发，主要集成于 Claude 和 Claude Code 生态，通过引导 AI 减少不必要的代码生成，提升效率与简洁性。该项目在 GitHub 上获得极高关注（145k+ stars），反映了 AI Agent 领域对代",
+  "tags": [
+    "AI Agent",
+    "Claude Code",
+    "代码生成优化",
+    "Agent技能",
+    "LLM应用"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-25T21:18:33+08:00",
+  "updated_at": "2026-09-25T21:18:33+08:00",
+  "metadata": {
+    "stars": 145765,
+    "language": "JavaScript",
+    "author": "DietrichGebert"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "通过模拟资深开发者的“懒惰”思维，减少 AI 生成冗余代码，提升代码质量与开发效率。",
+      "作为 Claude Code 插件，展示了 LLM 代理在特定工作流中通过技能扩展实现行为定制化的趋势。",
+      "高星标数表明社区对 AI 代理“少写代码”理念的强烈认同，可能推动更高效的代码生成范式。"
+    ],
+    "category": "AI Agent 工具与插件"
+  }
+}

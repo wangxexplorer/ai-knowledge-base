@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260925-013",
+  "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+  "source_url": "https://www.dawo.community/en/",
+  "source_type": "rss",
+  "summary": "荷兰政府基于NixOS构建微软替代方案，旨在减少对微软软件的依赖，提升数字主权和安全性。该举措涉及开源操作系统和办公套件，可能影响政府IT基础设施。与AI、LLM、Agent领域无直接关联，但开源生态和自主可控趋势可能间接影响AI部署环境。",
+  "tags": [
+    "数字主权",
+    "开源",
+    "政府IT",
+    "NixOS",
+    "微软替代"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-25T21:18:33+08:00",
+  "updated_at": "2026-09-25T21:18:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "政府推动开源替代方案以降低对专有软件的依赖",
+      "NixOS作为可复现的Linux发行版适合政府定制需求",
+      "该趋势可能为AI/LLM的本地化部署提供更可控的基础设施"
+    ],
+    "category": "其他"
+  }
+}

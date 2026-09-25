@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260925-014",
+  "title": "Amiga Screens: A Primer",
+  "source_url": "https://www.datagubbe.se/amscr/",
+  "source_type": "rss",
+  "summary": "该条目介绍Amiga计算机的屏幕显示系统，属于复古计算技术文档，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "Amiga",
+    "复古计算",
+    "显示系统",
+    "计算机历史"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-25T21:18:33+08:00",
+  "updated_at": "2026-09-25T21:18:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Amiga屏幕系统是早期计算机图形技术的代表",
+      "该内容不涉及人工智能或机器学习",
+      "对理解计算机显示技术演进有历史价值"
+    ],
+    "category": "计算机历史"
+  }
+}

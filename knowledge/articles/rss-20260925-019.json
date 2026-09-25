@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260925-019",
+  "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+  "source_url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+  "source_type": "rss",
+  "summary": "该条目讨论利用大语言模型（LLM）追溯炼金术知识并解码17世纪信件，展示了LLM在历史文献分析、古文字识别和知识挖掘中的应用。文章呼吁AI实验室资助历史研究，突显LLM在跨学科人文领域的潜力，属于LLM在数字人文中的典型应用案例。",
+  "tags": [
+    "LLM应用",
+    "数字人文",
+    "历史文献分析",
+    "知识挖掘",
+    "跨学科"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-25T21:18:33+08:00",
+  "updated_at": "2026-09-25T21:18:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "LLM可用于解码历史手稿和追溯知识脉络，拓展人文研究手段",
+      "AI实验室资助历史研究能推动LLM在冷门领域的应用",
+      "该案例体现了LLM在非传统文本分析任务中的通用性"
+    ],
+    "category": "LLM应用"
+  }
+}

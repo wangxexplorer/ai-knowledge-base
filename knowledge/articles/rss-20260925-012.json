@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260925-012",
+  "title": "Special Projects (2016)",
+  "source_url": "https://openai.com/index/special-projects/",
+  "source_type": "rss",
+  "summary": "该条目是OpenAI 2016年发布的“Special Projects”页面，通过Hacker News重新传播。内容本身未提供具体技术细节，但作为OpenAI早期项目公告，可能涉及强化学习、机器人、多智能体等方向，与AI和Agent领域有历史关联。",
+  "tags": [
+    "OpenAI",
+    "AI历史",
+    "强化学习",
+    "智能体",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-25T21:18:33+08:00",
+  "updated_at": "2026-09-25T21:18:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.45,
+    "key_insights": [
+      "OpenAI早期通过Special Projects探索非主流AI研究方向",
+      "该页面在Hacker News引发讨论，反映社区对OpenAI早期工作的持续关注",
+      "缺乏具体技术内容，相关性主要来自OpenAI在AI/Agent领域的背景"
+    ],
+    "category": "AI行业动态"
+  }
+}

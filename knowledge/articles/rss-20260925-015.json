@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260925-015",
+  "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+  "source_url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+  "source_type": "rss",
+  "summary": "该条目介绍在M6 Mac Mini上使用86Box模拟Pentium II 600MHz和Voodoo 3显卡，属于复古计算与硬件模拟领域，与AI、LLM、Agent无直接关联。",
+  "tags": [
+    "硬件模拟",
+    "复古计算",
+    "86Box",
+    "Mac Mini",
+    "Voodoo 3"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-25T21:18:33+08:00",
+  "updated_at": "2026-09-25T21:18:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "86Box可高精度模拟老式PC硬件",
+      "M6 Mac Mini具备足够性能运行复古模拟",
+      "该内容不涉及AI或LLM技术"
+    ],
+    "category": "硬件模拟"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260925-002",
+  "title": "The Test",
+  "source_url": "https://tante.cc/2026/09/24/the-test/",
+  "source_type": "rss",
+  "summary": "该条目来自Hacker News，标题为《The Test》，但仅提供链接与评论信息，无正文内容，无法判断其具体主题。从现有元数据看，未出现AI、LLM或Agent相关关键词，因此与AI技术领域关联性极低。",
+  "tags": [
+    "Hacker News",
+    "未知主题",
+    "低相关性"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-25T21:18:33+08:00",
+  "updated_at": "2026-09-25T21:18:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "条目缺少正文，无法进行实质内容分析",
+      "标题和描述未包含AI/LLM/Agent相关术语",
+      "仅凭元数据无法确认与AI领域的关联"
+    ],
+    "category": "其他"
+  }
+}

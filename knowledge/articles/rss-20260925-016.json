@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260925-016",
+  "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+  "source_url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+  "source_type": "rss",
+  "summary": "该条目分析CVE-2025-13032，涉及Avast杀毒软件沙箱的逃逸技术，属于安全漏洞研究，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "安全漏洞",
+    "沙箱逃逸",
+    "Avast",
+    "CVE",
+    "网络安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-25T21:18:33+08:00",
+  "updated_at": "2026-09-25T21:18:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该漏洞利用技术不涉及AI或LLM",
+      "沙箱逃逸是安全研究，与Agent的沙箱环境无直接关系",
+      "对AI安全领域无直接贡献"
+    ],
+    "category": "网络安全"
+  }
+}

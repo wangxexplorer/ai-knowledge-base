@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260925-006",
+  "title": "Show HN: Agentic CUDA Kernel Optimizer",
+  "source_url": "https://github.com/bertaye/agentic-cuda-optimizer",
+  "source_type": "rss",
+  "summary": "该项目展示了一个基于AI Agent的CUDA内核优化器，作者使用LangGraph构建智能体，让AI代理自动运行CUDA内核、获取基准测试结果，并通过Nsight进行性能分析，从而迭代优化内核性能。这体现了LLM Agent在GPU编程和性能调优领域的应用潜力，将传统的手动优化过程自动化，降低了CUDA优化的门槛。",
+  "tags": [
+    "AI Agent",
+    "CUDA优化",
+    "LangGraph",
+    "LLM应用",
+    "GPU编程"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-25T21:18:33+08:00",
+  "updated_at": "2026-09-25T21:18:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "LLM Agent可自动化CUDA内核优化流程，包括运行、基准测试和性能分析",
+      "LangGraph作为Agent编排框架，适合构建多步骤的代码优化工作流",
+      "AI代理在GPU性能调优领域具有实际应用价值，可降低人工优化成本"
+    ],
+    "category": "AI Agent应用"
+  }
+}

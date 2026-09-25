@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260925-005",
+  "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+  "source_url": "https://github.com/git-bug/git-bug",
+  "source_type": "rss",
+  "summary": "Git-bug 是一个嵌入 Git 的分布式、离线优先的 bug 跟踪器，将问题数据作为 Git 对象存储，支持离线操作和分布式协作。它与 AI、LLM、Agent 领域无直接关联，但可作为 AI 辅助开发工作流中的基础设施，用于管理 AI 生成的任务或问题。",
+  "tags": [
+    "Git",
+    "Bug跟踪",
+    "分布式系统",
+    "离线优先",
+    "开发工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-25T21:18:33+08:00",
+  "updated_at": "2026-09-25T21:18:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Git-bug 将 bug 跟踪数据嵌入 Git 仓库，实现分布式和离线优先的协作。",
+      "该工具与 AI、LLM、Agent 无直接技术关联，但可集成到 AI 辅助开发流程中。",
+      "其设计理念强调去中心化和数据自主权，可能对构建去中心化 AI 代理协作系统有启发。"
+    ],
+    "category": "开发工具"
+  }
+}

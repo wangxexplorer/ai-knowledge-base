@@ -1,0 +1,31 @@
+{
+  "id": "github-20260925-017",
+  "title": "goose",
+  "source_url": "https://github.com/aaif-goose/goose",
+  "source_type": "github",
+  "summary": "goose 是一个开源、可扩展的 AI Agent，基于 Rust 开发，支持任意 LLM，能够安装、执行、编辑和测试代码，超越传统代码建议功能。项目集成 ACP 和 MCP 协议，在 GitHub 上获得超过 5.4 万星标，属于 AI Agent 领域的高关注度工具。",
+  "tags": [
+    "AI Agent",
+    "LLM",
+    "MCP",
+    "开源",
+    "Rust"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-25T21:18:33+08:00",
+  "updated_at": "2026-09-25T21:18:33+08:00",
+  "metadata": {
+    "stars": 54639,
+    "language": "Rust",
+    "author": "aaif-goose"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "goose 支持任意 LLM，具备安装、执行、编辑和测试的完整代码操作能力，超越传统代码补全。",
+      "项目集成 ACP 和 MCP 协议，体现 AI Agent 与工具/上下文交互的标准化趋势。",
+      "高星标数（5.4万+）表明开源 AI Agent 在开发者社区中具有极高关注度和实用价值。"
+    ],
+    "category": "AI Agent 工具"
+  }
+}
