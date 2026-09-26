@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260926-002",
+  "title": "One Month Without AI",
+  "source_url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+  "source_type": "rss",
+  "summary": "该条目是一篇个人博客文章《One Month Without AI》，记录作者一个月不使用AI工具的体验，并在Hacker News上引发讨论。文章可能涉及AI对日常工作、思维习惯和创造力的影响，以及脱离AI后的反思。与AI、LLM、Agent领域间接相关，属于AI应用的社会影响和个人体验范畴，而非技术实现或研究。",
+  "tags": [
+    "AI依赖",
+    "个人体验",
+    "社会影响",
+    "Hacker News",
+    "反思"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-26T20:43:04+08:00",
+  "updated_at": "2026-09-26T20:43:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.4,
+    "key_insights": [
+      "探讨脱离AI工具后对个人生产力和思维方式的影响",
+      "反映公众对AI依赖的反思和讨论",
+      "属于AI应用的人文视角，而非技术进展"
+    ],
+    "category": "AI社会影响"
+  }
+}

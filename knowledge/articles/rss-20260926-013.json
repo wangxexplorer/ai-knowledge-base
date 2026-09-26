@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260926-013",
+  "title": "What even is an OS now?",
+  "source_url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+  "source_type": "rss",
+  "summary": "本文探讨了现代操作系统的定义演变，指出传统OS边界正被云服务、容器化、WebAssembly和AI Agent等新技术模糊。文章认为，随着LLM驱动的智能体能够自主调用工具、管理资源，操作系统可能从内核转向以AI编排为中心，引发对系统架构和安全模型的重新思考。",
+  "tags": [
+    "操作系统",
+    "AI Agent",
+    "LLM",
+    "系统架构",
+    "云计算"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-26T20:43:04+08:00",
+  "updated_at": "2026-09-26T20:43:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.65,
+    "key_insights": [
+      "AI Agent可能成为新一代操作系统的核心抽象，取代传统进程和文件管理",
+      "LLM驱动的自主工具调用正在模糊应用与OS的边界",
+      "操作系统需重新定义资源隔离与安全模型以适应AI工作负载"
+    ],
+    "category": "系统与架构"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260926-015",
+  "title": "Excel now supports multiple values in a single cell",
+  "source_url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
+  "source_type": "rss",
+  "summary": "微软Excel新增在单个单元格中支持多个值（列表和数组）的功能，提升了数据组织与计算能力。该更新属于办公软件功能迭代，与AI、LLM或Agent技术无直接关联，但可能间接影响AI辅助数据分析工具的数据处理方式。",
+  "tags": [
+    "Excel",
+    "数据处理",
+    "办公软件",
+    "数组",
+    "列表"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-26T20:43:04+08:00",
+  "updated_at": "2026-09-26T20:43:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Excel的数组和列表功能可简化复杂数据操作，但本身不涉及AI技术。",
+      "该更新可能为AI驱动的数据分析工具提供更灵活的数据输入格式。",
+      "与LLM或Agent领域无直接技术关联，属于基础软件功能改进。"
+    ],
+    "category": "办公软件"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260926-008",
+  "title": "A single function Jev-like wrapper for LLMs, including vision models",
+  "source_url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+  "source_type": "rss",
+  "summary": "该条目介绍了一个类似Jev的LLM单函数封装器，支持视觉模型。它旨在简化LLM调用，提供统一接口，可能降低开发复杂度。与AI、LLM和Agent领域高度相关，因为它是LLM应用开发工具，有助于构建Agent。",
+  "tags": [
+    "LLM",
+    "封装器",
+    "视觉模型",
+    "开发工具",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-26T20:43:04+08:00",
+  "updated_at": "2026-09-26T20:43:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "提供单函数封装，简化LLM集成",
+      "支持视觉模型，扩展多模态能力",
+      "可能促进Agent开发效率"
+    ],
+    "category": "LLM工具"
+  }
+}

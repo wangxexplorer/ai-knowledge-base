@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260926-005",
+  "title": "Floci: Locally emulating any cloud service",
+  "source_url": "https://floci.io",
+  "source_type": "rss",
+  "summary": "Floci 是一个在本地模拟任意云服务的工具，旨在让开发者无需连接真实云环境即可进行开发与测试。它通过本地仿真降低云依赖、节省成本并提升迭代速度。该条目与 AI、LLM、Agent 领域无直接关联，但可作为 AI 应用部署与测试的基础设施辅助工具，间接服务于云端 AI 系统的开发流程。",
+  "tags": [
+    "云服务模拟",
+    "本地开发",
+    "基础设施",
+    "测试环境",
+    "DevOps"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-26T20:43:04+08:00",
+  "updated_at": "2026-09-26T20:43:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.15,
+    "key_insights": [
+      "Floci 通过本地模拟云服务减少对真实云环境的依赖，可间接用于 AI 应用的本地测试。",
+      "该工具与 LLM、Agent 的核心技术无直接关系，属于通用开发基础设施。",
+      "对需要频繁调用云服务的 AI 系统开发，可降低成本和提升迭代效率。"
+    ],
+    "category": "云基础设施工具"
+  }
+}

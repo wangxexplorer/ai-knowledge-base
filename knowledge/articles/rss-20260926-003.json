@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260926-003",
+  "title": "The Copilot+ PC brand is dead",
+  "source_url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+  "source_type": "rss",
+  "summary": "文章报道微软和PC制造商悄然放弃Copilot+ PC品牌，该品牌曾用于推广Windows 11 AI PC。这反映了AI硬件营销的挫折，可能影响AI PC普及，但对AI、LLM、Agent技术本身影响有限。",
+  "tags": [
+    "Copilot+ PC",
+    "微软",
+    "AI PC",
+    "Windows 11",
+    "品牌策略"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-26T20:43:04+08:00",
+  "updated_at": "2026-09-26T20:43:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.4,
+    "key_insights": [
+      "Copilot+ PC品牌被放弃，显示AI硬件营销面临挑战",
+      "微软AI战略在消费者市场遇阻，可能调整推广方式",
+      "AI PC概念与LLM、Agent技术落地相关，但品牌失败不直接反映技术进展"
+    ],
+    "category": "行业动态"
+  }
+}

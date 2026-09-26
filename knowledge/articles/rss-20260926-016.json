@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260926-016",
+  "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+  "source_url": "https://news.ycombinator.com/item?id=49848955",
+  "source_type": "rss",
+  "summary": "该条目是Hacker News上的一个讨论帖，询问是否有人仍在依赖DOS机器运行关键业务，如使用dBase/Clipper等DOS RAD环境、ISA卡控制的工业仪器或并行端口加密狗。讨论聚焦于老旧硬件在现代环境中的维护和迁移挑战，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "DOS",
+    "遗留系统",
+    "工业控制",
+    "硬件兼容性",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-26T20:43:04+08:00",
+  "updated_at": "2026-09-26T20:43:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "许多企业仍依赖老旧DOS系统运行关键业务，迁移困难。",
+      "工业仪器和加密狗等硬件依赖是现代化改造的主要障碍。",
+      "该讨论与AI/LLM/Agent技术无直接关联，但可能涉及自动化迁移的潜在需求。"
+    ],
+    "category": "其他"
+  }
+}

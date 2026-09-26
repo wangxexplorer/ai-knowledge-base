@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260926-007",
+  "title": "Is your Postgres migration safe or not safe?",
+  "source_url": "https://safenotsafe.dev/",
+  "source_type": "rss",
+  "summary": "该条目是一个名为'safenotsafe.dev'的网站，标题为'Is your Postgres migration safe or not safe?'，来自Hacker News。内容涉及Postgres数据库迁移的安全性评估，与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "Postgres",
+    "数据库迁移",
+    "安全性",
+    "Hacker News",
+    "DevOps"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-26T20:43:04+08:00",
+  "updated_at": "2026-09-26T20:43:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该条目聚焦于Postgres数据库迁移的安全性，属于传统数据库运维领域。",
+      "未涉及任何AI、LLM或Agent相关技术或概念。",
+      "与AI技术知识库的主题无关。"
+    ],
+    "category": "数据库"
+  }
+}
