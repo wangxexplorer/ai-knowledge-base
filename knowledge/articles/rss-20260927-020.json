@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260927-020",
+  "title": "Exploding variance of means of exponentials: least-squares to the rescue",
+  "source_url": "https://francisbach.com/spectral_log_density_estimation/",
+  "source_type": "rss",
+  "summary": "该文章探讨指数分布均值估计中方差爆炸的问题，提出使用最小二乘法进行谱对数密度估计以稳定估计。内容属于统计估计与机器学习基础理论，与AI、LLM、Agent领域无直接关联，但最小二乘思想在模型训练中有间接应用。",
+  "tags": [
+    "统计估计",
+    "最小二乘法",
+    "密度估计",
+    "方差问题",
+    "机器学习理论"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-27T21:34:57+08:00",
+  "updated_at": "2026-09-27T21:34:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.15,
+    "key_insights": [
+      "指数分布均值估计存在方差爆炸问题，影响估计稳定性",
+      "最小二乘法可用于谱对数密度估计，缓解方差问题",
+      "该统计方法为机器学习中的损失函数设计提供理论参考"
+    ],
+    "category": "统计与机器学习理论"
+  }
+}

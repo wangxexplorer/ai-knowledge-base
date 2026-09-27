@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260927-007",
+  "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+  "source_url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+  "source_type": "rss",
+  "summary": "该条目分析Intel 8087浮点协处理器中正切算法的逆向工程，揭示其超越传统CORDIC的混合实现方式。内容聚焦于早期硬件数学运算的微架构设计，与AI、LLM、Agent领域无直接关联，但可为理解底层数值计算优化提供历史参考。",
+  "tags": [
+    "硬件逆向工程",
+    "数值算法",
+    "浮点运算",
+    "CORDIC",
+    "计算机体系结构"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-27T21:34:57+08:00",
+  "updated_at": "2026-09-27T21:34:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "8087的正切算法并非纯CORDIC，而是结合了其他数值方法",
+      "逆向工程揭示了早期浮点协处理器的设计权衡",
+      "对现代AI硬件加速器的数值算法设计有间接启发"
+    ],
+    "category": "计算机硬件与体系结构"
+  }
+}

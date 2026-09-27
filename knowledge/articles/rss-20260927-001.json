@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260927-001",
+  "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+  "source_url": "https://arxiv.org/abs/2609.25021",
+  "source_type": "rss",
+  "summary": "该条目探讨聊天模板（chat template）如何切换大语言模型（LLM）的自我指涉声音，即模型在生成文本时对自身身份的表述方式。研究表明，不同的聊天模板设计会影响LLM以何种口吻和视角提及自己，例如是否使用“作为一个语言模型”等短语。这一发现对理解LLM行为、提示工程和模型对齐具有重要意义，因为它揭示了模板选择对模型输出风格和自我认知的潜在影响。",
+  "tags": [
+    "LLM",
+    "聊天模板",
+    "自我指涉",
+    "提示工程",
+    "模型行为"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-27T21:34:57+08:00",
+  "updated_at": "2026-09-27T21:34:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "聊天模板的设计会显著影响LLM的自我指涉表达方式。",
+      "模型自我认知的呈现可通过模板进行调控，对提示工程有指导意义。",
+      "该研究有助于理解LLM行为对齐和输出风格控制。"
+    ],
+    "category": "大语言模型"
+  }
+}

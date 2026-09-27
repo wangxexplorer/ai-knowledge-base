@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260927-008",
+  "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+  "source_url": "https://github.com/reladraw/reladraw",
+  "source_type": "rss",
+  "summary": "Reladraw 是一种新的图表语言，允许用户精确控制图表元素的放置位置，旨在结合自动布局语言（如 Mermaid）和手动绘图工具（如 Draw.io）的优点。它特别强调对人类和 AI 代理的友好性，提供了 npm 安装和与 Claude 等代理集成的技能，使代理能高效生成和操作图表。",
+  "tags": [
+    "图表语言",
+    "AI代理",
+    "LLM集成",
+    "可视化",
+    "工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-27T21:34:57+08:00",
+  "updated_at": "2026-09-27T21:34:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "Reladraw 解决了现有图表工具在自动布局和手动控制之间的权衡，为代理提供了更高效的图表操作方式。",
+      "该工具明确设计为与 AI 代理（如 Claude）协作，通过技能集成增强代理的图表生成能力。",
+      "Reladraw 的图表语言可能成为 LLM 代理在规划和沟通中的有用工具，提升人机协作效率。"
+    ],
+    "category": "AI工具与代理"
+  }
+}

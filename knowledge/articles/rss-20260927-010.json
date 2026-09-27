@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260927-010",
+  "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+  "source_url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+  "source_type": "rss",
+  "summary": "该条目介绍了一种将标准LLM（GLM-5.3-Flash）转化为类似Jev决策模型的方法。核心思路是精心设计输入提示，使第一个输出token直接回答问题，从而通过单次前向传播获得决策。作者在vLLM上实现并对比了Jev和Laya，发现准确率和速度与Jev相当，显著优于Laya，但每次决策成本仍高于Jev数倍，同时支持视觉输入。",
+  "tags": [
+    "LLM",
+    "决策模型",
+    "提示工程",
+    "推理优化",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-27T21:34:57+08:00",
+  "updated_at": "2026-09-27T21:34:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "通过提示工程使LLM首token直接输出答案，可实现单次前向传播的快速决策。",
+      "该方法在准确率和速度上可与专用决策模型Jev媲美，且支持视觉输入。",
+      "成本仍是瓶颈，专用模型Jev在每次决策成本上具有数倍优势。"
+    ],
+    "category": "LLM应用"
+  }
+}

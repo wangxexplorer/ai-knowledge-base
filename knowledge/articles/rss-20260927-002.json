@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260927-002",
+  "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+  "source_url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+  "source_type": "rss",
+  "summary": "该条目报道Meta在巴西大选前两周封禁总统卢拉的Facebook页面和竞选广告，涉及社交媒体平台的内容审核与政治干预。与AI、LLM、Agent领域无直接技术关联，但触及AI内容审核系统的应用与争议。",
+  "tags": [
+    "社交媒体",
+    "内容审核",
+    "政治",
+    "Meta",
+    "选举"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-27T21:34:57+08:00",
+  "updated_at": "2026-09-27T21:34:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.15,
+    "key_insights": [
+      "平台内容审核决策可能影响政治进程",
+      "AI审核系统在选举场景中的敏感性与争议",
+      "技术平台治理与言论自由的平衡问题"
+    ],
+    "category": "AI应用与伦理"
+  }
+}

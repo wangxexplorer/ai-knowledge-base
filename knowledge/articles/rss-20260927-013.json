@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260927-013",
+  "title": "Improving site performance by shipping more CSS",
+  "source_url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+  "source_type": "rss",
+  "summary": "本文介绍GitHub工程团队通过增加CSS交付量来提升网站性能的实践，探讨了在架构优化中如何平衡CSS体积与渲染效率，属于前端性能优化领域，与AI、LLM、Agent技术无直接关联。",
+  "tags": [
+    "前端性能",
+    "CSS优化",
+    "网站架构",
+    "GitHub工程",
+    "Web开发"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-27T21:34:57+08:00",
+  "updated_at": "2026-09-27T21:34:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "增加CSS交付量可能通过减少渲染阻塞或简化样式计算来提升性能",
+      "性能优化需权衡资源体积与运行时效率",
+      "该实践与AI/LLM/Agent领域无直接技术关联"
+    ],
+    "category": "前端工程"
+  }
+}

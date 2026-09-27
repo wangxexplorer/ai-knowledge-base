@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260927-014",
+  "title": "How to keep enjoying programming in a world of LLMs",
+  "source_url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+  "source_type": "rss",
+  "summary": "本文是Haskell社区论坛的讨论帖，探讨在LLM广泛用于编程的背景下，程序员如何保持对编程的乐趣。帖子引发大量关注和评论，涉及LLM对编程实践、职业认同和创造性的影响，以及开发者如何调整心态和技能以适应AI辅助编程时代。",
+  "tags": [
+    "LLM",
+    "编程体验",
+    "开发者社区",
+    "AI辅助编程",
+    "职业发展"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-27T21:34:57+08:00",
+  "updated_at": "2026-09-27T21:34:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.75,
+    "key_insights": [
+      "LLM正在改变编程工作的性质，开发者需要重新定义自身价值和乐趣来源。",
+      "社区讨论反映了对AI取代部分编程任务的焦虑与适应策略。",
+      "保持编程乐趣可能依赖于聚焦于LLM不擅长的创造性、设计性和人际交互环节。"
+    ],
+    "category": "AI与软件开发"
+  }
+}

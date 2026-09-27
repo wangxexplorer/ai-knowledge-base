@@ -1,0 +1,31 @@
+{
+  "id": "github-20260927-012",
+  "title": "unsloth",
+  "source_url": "https://github.com/unslothai/unsloth",
+  "source_type": "github",
+  "summary": "Unsloth 是一个本地 UI 工具，用于运行和训练 LLM 及扩散模型，支持 GGUF、MLX、Qwen3.8、DeepSeek-V4、MiniMax-H3、Gemma 4、FLUX 等多种模型。它降低了微调门槛，提供高效训练能力，与 AI、LLM 和 Agent 领域高度相关，尤其适合本地化模型定制与部署。",
+  "tags": [
+    "LLM",
+    "微调",
+    "本地部署",
+    "扩散模型",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-27T21:34:57+08:00",
+  "updated_at": "2026-09-27T21:34:57+08:00",
+  "metadata": {
+    "stars": 76857,
+    "language": "Python",
+    "author": "unslothai"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "支持多种主流 LLM 和扩散模型的本地运行与训练，提升隐私和定制化能力。",
+      "简化微调流程，降低技术门槛，促进 AI 应用开发。",
+      "高星标表明社区认可，是 AI 和 Agent 领域的重要基础设施。"
+    ],
+    "category": "AI 开发工具"
+  }
+}

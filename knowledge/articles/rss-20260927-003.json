@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260927-003",
+  "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+  "source_url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+  "source_type": "rss",
+  "summary": "文章揭露OpenAI高管明知大规模书籍盗版违法，却担心在Hacker News等平台曝光引发负面舆论。这涉及AI训练数据版权争议，反映LLM开发中的法律与伦理风险。",
+  "tags": [
+    "OpenAI",
+    "版权",
+    "训练数据",
+    "法律",
+    "伦理"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-27T21:34:57+08:00",
+  "updated_at": "2026-09-27T21:34:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "OpenAI高管对盗版书籍用于训练心知肚明，但更担忧公众形象。",
+      "事件凸显LLM训练数据来源的版权合规问题。",
+      "Hacker News等社区舆论对AI公司声誉有重要影响。"
+    ],
+    "category": "AI伦理与法律"
+  }
+}

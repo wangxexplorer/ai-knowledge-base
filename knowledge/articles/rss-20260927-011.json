@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260927-011",
+  "title": "Go Concurrency Distilled",
+  "source_url": "https://antonz.org/go-concurrency-distilled/",
+  "source_type": "rss",
+  "summary": "该条目介绍Go语言并发编程的核心概念与模式，属于通用编程技术文章，未涉及AI、LLM或Agent领域的具体内容。",
+  "tags": [
+    "Go",
+    "并发编程",
+    "编程语言",
+    "后端开发",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-27T21:34:57+08:00",
+  "updated_at": "2026-09-27T21:34:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "Go并发模型（goroutine/channel）是构建高并发后端服务的基础",
+      "该内容与AI/LLM/Agent无直接关联",
+      "可作为AI系统基础设施的底层技术参考"
+    ],
+    "category": "编程语言与并发"
+  }
+}

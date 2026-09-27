@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260927-012",
+  "title": "Fakecloud: Local AWS cloud emulator for integration tests",
+  "source_url": "https://fakecloud.dev/",
+  "source_type": "rss",
+  "summary": "Fakecloud 是一个本地 AWS 云模拟器，用于集成测试，让开发者在本地模拟 AWS 服务而无需连接真实云环境。它与 AI、LLM、Agent 领域没有直接关系，但可作为 AI 应用开发中的测试基础设施，帮助验证依赖 AWS 的 Agent 工具调用或 LLM 服务集成。",
+  "tags": [
+    "AWS模拟器",
+    "集成测试",
+    "云服务",
+    "开发工具",
+    "测试基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-27T21:34:57+08:00",
+  "updated_at": "2026-09-27T21:34:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.15,
+    "key_insights": [
+      "Fakecloud 提供本地 AWS 服务模拟，降低集成测试对真实云环境的依赖",
+      "可用于测试依赖 AWS 的 AI/Agent 应用，但本身不涉及 AI 或 LLM 技术",
+      "属于通用开发测试工具，与 AI 领域仅有间接的工程支撑关系"
+    ],
+    "category": "开发工具"
+  }
+}

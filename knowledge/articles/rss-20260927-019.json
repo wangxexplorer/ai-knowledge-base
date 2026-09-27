@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260927-019",
+  "title": "Generate fonts where every LLM token is the same width",
+  "source_url": "https://ampdot.mesh.host/token-space-fonts.html",
+  "source_type": "rss",
+  "summary": "该条目介绍了一种生成等宽字体的方法，使每个LLM token在视觉上占据相同宽度，便于观察和分析token边界。它属于LLM工程化与可视化工具，对理解tokenization、提示词调试和模型行为有辅助价值，但并非核心AI算法或Agent技术。",
+  "tags": [
+    "LLM",
+    "Tokenization",
+    "字体生成",
+    "可视化",
+    "提示工程"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-27T21:34:57+08:00",
+  "updated_at": "2026-09-27T21:34:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.55,
+    "key_insights": [
+      "等宽token字体有助于直观展示LLM的token切分方式",
+      "可用于提示词调试和token边界分析",
+      "属于LLM工程化辅助工具，而非模型核心能力"
+    ],
+    "category": "LLM工具与可视化"
+  }
+}

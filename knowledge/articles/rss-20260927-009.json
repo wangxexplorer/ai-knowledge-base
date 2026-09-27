@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260927-009",
+  "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+  "source_url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+  "source_type": "rss",
+  "summary": "Drawgent 是一个在实时 Excalidraw 画布上运行的编码代理（Coding Agent），将 AI 编码能力与可视化白板工具结合，允许用户在画布上直接与代理交互并生成代码。该条目来自 Hacker News，获得 164 分和 43 条评论，表明社区对 AI 代理与可视化编程结合的兴趣。其核心创新在于将 LLM 驱动的编码代理嵌入到协作绘图环境中，可能改变开发者设计、讨论和实现代码的",
+  "tags": [
+    "Coding Agent",
+    "Excalidraw",
+    "LLM",
+    "可视化编程",
+    "AI开发工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-27T21:34:57+08:00",
+  "updated_at": "2026-09-27T21:34:57+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "将编码代理嵌入实时协作画布，实现可视化与代码生成的直接交互",
+      "展示了 LLM 代理在非传统编程环境（如白板）中的潜在应用场景",
+      "Hacker News 高热度反映社区对 AI 代理与可视化工具融合的关注"
+    ],
+    "category": "AI Agent应用"
+  }
+}
