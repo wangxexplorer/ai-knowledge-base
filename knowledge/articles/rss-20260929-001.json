@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260929-001",
+  "title": "The problem is not the AI code, but nobody knows anything anymore",
+  "source_url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+  "source_type": "rss",
+  "summary": "文章指出，AI代码本身并非核心问题，真正的挑战在于AI生成代码导致的知识流失：开发者不再理解代码逻辑，团队知识传承断裂，系统变得不可维护。这反映了LLM辅助编程带来的认知债务和协作风险。",
+  "tags": [
+    "AI代码生成",
+    "知识管理",
+    "LLM编程",
+    "软件维护",
+    "认知债务"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-29T00:31:20+08:00",
+  "updated_at": "2026-09-29T00:31:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "AI生成代码可能加剧团队知识断层，导致无人理解系统细节",
+      "LLM辅助编程在提升效率的同时，可能引入长期维护风险",
+      "需要新的工程实践来管理AI生成代码带来的认知债务"
+    ],
+    "category": "AI与软件开发"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260929-018",
+  "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+  "source_url": "https://arxiv.org/abs/2110.01834",
+  "source_type": "rss",
+  "summary": "该条目讨论AI中的元认知，借鉴卡尼曼的双系统理论，提出AI应结合快速直觉与慢速推理，以提升决策质量。与LLM和Agent领域高度相关，因为元认知可优化LLM的推理过程，并赋予Agent自我监控与调整能力。",
+  "tags": [
+    "元认知",
+    "双系统理论",
+    "AI推理",
+    "LLM",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-29T00:31:20+08:00",
+  "updated_at": "2026-09-29T00:31:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "元认知使AI能监控和调节自身推理过程，类似人类的快慢思维切换。",
+      "结合快速直觉与慢速推理可提升LLM在复杂任务中的表现。",
+      "元认知能力是构建更自主、可靠Agent的关键。"
+    ],
+    "category": "AI理论"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260929-006",
+  "title": "Updated Google Maps shows destruction of the city of Rafah",
+  "source_url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
+  "source_type": "rss",
+  "summary": "该条目报道谷歌地图更新显示拉法市被毁情况，属于地理信息与地缘政治新闻，与AI、LLM、Agent领域无直接技术关联。",
+  "tags": [
+    "Google Maps",
+    "地理信息",
+    "地缘政治",
+    "卫星影像",
+    "新闻"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-29T00:31:20+08:00",
+  "updated_at": "2026-09-29T00:31:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "内容聚焦地图影像更新与地区冲突，不涉及AI技术",
+      "与LLM、Agent领域无直接关联",
+      "仅可间接关联到AI在遥感影像分析中的潜在应用"
+    ],
+    "category": "其他"
+  }
+}

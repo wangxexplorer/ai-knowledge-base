@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260929-016",
+  "title": "37,500 border drawings: a map of the world as people remember it",
+  "source_url": "https://www.habibicode.org/thedrawnworld",
+  "source_type": "rss",
+  "summary": "该项目收集了37,500幅手绘边界图，展示人们记忆中的世界地图。通过众包方式获取用户对各国边界的绘制，分析认知偏差与地理知识分布。与AI、LLM、Agent领域无直接关联，但可作为多模态数据用于训练地理认知模型或评估LLM的空间推理能力。",
+  "tags": [
+    "众包数据",
+    "地理认知",
+    "手绘地图",
+    "多模态数据",
+    "空间推理"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-29T00:31:20+08:00",
+  "updated_at": "2026-09-29T00:31:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "大规模手绘数据可用于研究人类空间认知偏差",
+      "可作为评估LLM地理知识或空间推理能力的基准数据集",
+      "众包方式收集的边界图可能反映文化或政治认知差异"
+    ],
+    "category": "其他"
+  }
+}

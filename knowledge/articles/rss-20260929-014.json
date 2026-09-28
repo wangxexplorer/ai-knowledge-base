@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260929-014",
+  "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
+  "source_url": "https://github.com/seamusc/papermono-shopping-list",
+  "source_type": "rss",
+  "summary": "PaperMono是一个基于M5Stack PaperMono（ESP32-S3、电子墨水触摸屏）的冰箱磁贴购物清单项目，通过Wi-Fi与手机网页应用同步，支持离线使用，约2400行C++代码。作者使用Claude Code完全由AI生成代码，旨在探索AI在为新硬件设备构建实用程序方面的能力。该项目已日常使用，展示了AI辅助硬件开发的潜力。",
+  "tags": [
+    "Claude Code",
+    "AI辅助开发",
+    "嵌入式系统",
+    "ESP32",
+    "硬件项目"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-29T00:31:20+08:00",
+  "updated_at": "2026-09-29T00:31:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "Claude Code能够生成完整的嵌入式C++固件，约2400行代码，无需手写，展示了LLM在硬件编程中的实用性。",
+      "项目成功日常使用，表明AI生成的代码可以满足实际需求，并降低硬件开发门槛。",
+      "该案例体现了AI Agent在辅助个人项目开发中的潜力，但未涉及LLM推理或Agent自主决策等核心AI技术。"
+    ],
+    "category": "AI应用"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260929-003",
+  "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+  "source_url": "https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/",
+  "source_type": "rss",
+  "summary": "英伟达推出开源Agent安全平台OpenShell和Sentry，旨在为每个AI代理配备监控芯片，防止恶意或失控的AI代理行为。该平台通过硬件级看门狗机制，实时监测代理活动，确保其行为符合安全规范，应对日益复杂的AI代理安全挑战。",
+  "tags": [
+    "AI安全",
+    "AI代理",
+    "英伟达",
+    "开源平台",
+    "硬件监控"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-29T00:31:20+08:00",
+  "updated_at": "2026-09-29T00:31:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "英伟达通过硬件看门狗芯片为AI代理提供实时安全监控，防止恶意行为。",
+      "OpenShell和Sentry平台开源，推动AI代理安全标准的建立。",
+      "该方案针对AI代理失控风险，结合硬件与软件实现主动防御。"
+    ],
+    "category": "AI安全"
+  }
+}

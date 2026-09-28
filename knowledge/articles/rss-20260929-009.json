@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260929-009",
+  "title": "I Switched to Brave Browser",
+  "source_url": "https://kevquirk.com/i-switched-to-brave-browser",
+  "source_type": "rss",
+  "summary": "该条目是个人博客文章，作者分享从其他浏览器切换到Brave浏览器的体验，并附有Hacker News讨论链接。内容聚焦于浏览器选择、隐私保护、用户体验等话题，未涉及人工智能、大语言模型或智能体技术。因此，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "浏览器",
+    "隐私",
+    "用户体验",
+    "Brave",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-29T00:31:20+08:00",
+  "updated_at": "2026-09-29T00:31:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该条目讨论的是浏览器切换的个人体验，与AI技术无关。",
+      "内容涉及隐私和用户体验，但未触及LLM或Agent领域。",
+      "来源为Hacker News，属于技术社区讨论，但主题不涉及AI。"
+    ],
+    "category": "其他"
+  }
+}

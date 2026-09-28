@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260929-011",
+  "title": "Show HN: Hntui – A TUI for Hacker News",
+  "source_url": "https://github.com/ahmd-sh/hntui",
+  "source_type": "rss",
+  "summary": "Hntui 是一个基于 OpenTUI 和 Effect 构建的终端用户界面（TUI）工具，用于浏览 Hacker News。该项目由开发者作为学习实验发布，在 Hacker News 上获得 90 分和 42 条评论。其核心是终端 UI 开发，与 AI、LLM 或 Agent 领域没有直接关联。",
+  "tags": [
+    "TUI",
+    "Hacker News",
+    "OpenTUI",
+    "Effect",
+    "终端工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-29T00:31:20+08:00",
+  "updated_at": "2026-09-29T00:31:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "该项目是终端 UI 开发实践，不涉及 AI/LLM/Agent 技术",
+      "使用 OpenTUI 和 Effect 框架，属于前端/终端技术栈",
+      "与 AI 领域相关性极低，仅可作为开发者工具参考"
+    ],
+    "category": "开发工具"
+  }
+}

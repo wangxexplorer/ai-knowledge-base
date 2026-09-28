@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260929-020",
+  "title": "Owed a billion dollars in Nvidia stock",
+  "source_url": "https://colo.to/nvidia-stock-narrative.html",
+  "source_type": "rss",
+  "summary": "该条目为Hacker News上关于英伟达股票叙事的一篇文章链接，标题暗示持有巨额英伟达股票。内容未直接涉及AI、LLM或Agent技术，仅与AI芯片供应商英伟达的资本市场表现相关，属于AI硬件生态的间接话题。",
+  "tags": [
+    "英伟达",
+    "股票",
+    "AI硬件",
+    "资本市场",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-29T00:31:20+08:00",
+  "updated_at": "2026-09-29T00:31:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "英伟达作为AI算力核心供应商，其股价波动反映市场对AI基础设施的预期。",
+      "该条目本身不讨论AI技术细节，仅涉及投资叙事。",
+      "对LLM或Agent开发者而言，英伟达的产业动态可能影响算力成本与可及性。"
+    ],
+    "category": "AI硬件与产业"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260929-013",
+  "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+  "source_url": "https://git.mills.io/prologic/parley",
+  "source_type": "rss",
+  "summary": "Parley 是一个基于 IRC 协议的联邦化、去中心化聊天系统，强调使用纯文本 IRC 进行通信。该项目与 AI、LLM 或 Agent 领域没有直接关联，它属于分布式通信和开源软件范畴，不涉及机器学习、自然语言处理或智能体技术。",
+  "tags": [
+    "IRC",
+    "去中心化",
+    "联邦化",
+    "聊天系统",
+    "开源"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-29T00:31:20+08:00",
+  "updated_at": "2026-09-29T00:31:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Parley 是去中心化聊天工具，与 AI 技术栈无关",
+      "使用 IRC 协议实现联邦化通信，属于传统网络应用",
+      "对 LLM 或 Agent 开发没有直接贡献或影响"
+    ],
+    "category": "通信与网络"
+  }
+}

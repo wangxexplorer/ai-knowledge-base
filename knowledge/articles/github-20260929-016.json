@@ -1,0 +1,31 @@
+{
+  "id": "github-20260929-016",
+  "title": "mem0",
+  "source_url": "https://github.com/mem0ai/mem0",
+  "source_type": "github",
+  "summary": "mem0 是一个为 AI 智能体（Agent）和应用提供记忆层的基础设施，支持持久化上下文，专为生产环境设计。它解决了 Agent 在长期交互中记忆缺失的问题，通过可插拔的记忆系统增强智能体的连贯性和个性化能力。该项目在 GitHub 上获得超过 6.6 万星标，是 Agent 记忆领域的热门开源方案。",
+  "tags": [
+    "Agent记忆",
+    "LLM基础设施",
+    "持久化上下文",
+    "开源工具",
+    "生产级"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-29T00:31:20+08:00",
+  "updated_at": "2026-09-29T00:31:20+08:00",
+  "metadata": {
+    "stars": 66220,
+    "language": "Python",
+    "author": "mem0ai"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "mem0 为 AI Agent 提供即插即用的记忆层，解决长期对话中的上下文遗忘问题。",
+      "该项目专注于生产环境，强调可扩展性和可靠性，适合企业级 Agent 应用。",
+      "高星标数表明 Agent 记忆管理是当前 LLM 应用开发的关键需求之一。"
+    ],
+    "category": "AI Agent 基础设施"
+  }
+}

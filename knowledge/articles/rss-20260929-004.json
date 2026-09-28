@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260929-004",
+  "title": "Hijacking the PS5's RTMP Stream",
+  "source_url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+  "source_type": "rss",
+  "summary": "该条目介绍如何劫持PS5的RTMP直播流，属于游戏主机逆向工程与流媒体协议安全研究，未涉及AI、LLM或Agent技术。",
+  "tags": [
+    "RTMP",
+    "PS5",
+    "逆向工程",
+    "流媒体安全",
+    "游戏主机"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-29T00:31:20+08:00",
+  "updated_at": "2026-09-29T00:31:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "聚焦PS5 RTMP流劫持，与AI/LLM/Agent无直接关联",
+      "属于流媒体协议与主机安全研究",
+      "对AI领域的技术迁移价值极低"
+    ],
+    "category": "网络安全"
+  }
+}

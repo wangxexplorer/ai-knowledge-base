@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260929-012",
+  "title": "What Would a Serious AI Product Look Like?",
+  "source_url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+  "source_type": "rss",
+  "summary": "该文章探讨了何为严肃的AI产品，可能涉及AI产品的设计原则、用户体验、可靠性及商业化路径。文章来自技术博客，在Hacker News上引发讨论，对AI产品化具有参考价值。",
+  "tags": [
+    "AI产品",
+    "产品设计",
+    "LLM应用",
+    "技术评论",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-29T00:31:20+08:00",
+  "updated_at": "2026-09-29T00:31:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "探讨AI产品应具备的核心特质，如可靠性、实用性和用户价值",
+      "可能涉及LLM在实际产品中的落地挑战与最佳实践",
+      "引发技术社区对AI产品成熟度的讨论与反思"
+    ],
+    "category": "AI产品与设计"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260929-008",
+  "title": "What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators",
+  "source_url": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
+  "source_type": "rss",
+  "summary": "该条目讨论纹章学（西方纹章与日本纹章）对构建视觉身份生成器的启发，属于设计规则与生成系统的跨领域思考，而非直接的AI/LLM/Agent技术内容。其核心价值在于为基于规则或约束的生成式设计提供结构化知识，可能间接关联到AI生成图像/标识时的符号系统与规则建模。",
+  "tags": [
+    "视觉身份生成",
+    "纹章学",
+    "生成式设计",
+    "规则系统",
+    "符号学"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-29T00:31:20+08:00",
+  "updated_at": "2026-09-29T00:31:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.25,
+    "key_insights": [
+      "纹章学提供了高度结构化的视觉规则体系，可作为生成式视觉身份系统的知识基础",
+      "西方纹章与日本纹章在规则约束和语义表达上的差异，对多文化生成模型设计有参考价值",
+      "该内容与LLM/Agent无直接技术关联，但可启发基于约束的AI生成设计方法"
+    ],
+    "category": "设计生成系统"
+  }
+}

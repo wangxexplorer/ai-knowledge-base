@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260929-019",
+  "title": "Nissan's third generation e-POWER powertrain",
+  "source_url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+  "source_type": "rss",
+  "summary": "该条目介绍日产第三代e-POWER动力总成技术，属于汽车工程领域的混合动力系统创新，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "汽车工程",
+    "混合动力",
+    "e-POWER",
+    "日产",
+    "动力总成"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-29T00:31:20+08:00",
+  "updated_at": "2026-09-29T00:31:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "e-POWER是日产串联式混合动力系统，发动机仅发电，车轮由电机驱动",
+      "第三代技术可能聚焦效率提升、NVH优化和成本降低",
+      "该技术与AI、LLM、Agent领域无直接技术交叉"
+    ],
+    "category": "汽车技术"
+  }
+}
