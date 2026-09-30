@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260930-005",
+  "title": "September 2026: The world today, as seen by one Polish guy",
+  "source_url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
+  "source_type": "rss",
+  "summary": "这是一篇来自Hacker News的个人博客文章，标题为《2026年9月：一个波兰人眼中的当今世界》，内容似乎是作者对2026年全球局势的个人观察与评论。文章获得411点热度与287条评论，属于高讨论度的社会时事类内容。从标题和描述看，文章未涉及AI、LLM或Agent技术，也未讨论相关模型、工具或应用，因此与AI技术知识库的相关性极低。",
+  "tags": [
+    "时事评论",
+    "个人博客",
+    "Hacker News",
+    "全球观察",
+    "非技术"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-30T22:41:04+08:00",
+  "updated_at": "2026-09-30T22:41:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "文章为个人视角的全球时事评论，非技术内容",
+      "在Hacker News上引发高热度讨论，但主题与AI无关",
+      "对AI技术知识库的参考价值极低"
+    ],
+    "category": "社会时事"
+  }
+}

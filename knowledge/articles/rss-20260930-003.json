@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260930-003",
+  "title": "Most data centers refusing to say how much water, electricity they use",
+  "source_url": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
+  "source_type": "rss",
+  "summary": "该条目报道数据中心拒绝披露其水电消耗情况，涉及AI基础设施的能源透明度问题。随着LLM和Agent训练推理规模扩大，数据中心能耗激增，但缺乏公开数据阻碍了对AI环境成本的评估与监管。",
+  "tags": [
+    "数据中心",
+    "能源消耗",
+    "AI基础设施",
+    "环境监管",
+    "透明度"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-30T22:41:04+08:00",
+  "updated_at": "2026-09-30T22:41:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI算力扩张导致数据中心资源消耗问题日益突出",
+      "能源数据不透明阻碍AI可持续性评估与政策制定",
+      "LLM和Agent的规模化部署加剧了对数据中心环境影响的关注"
+    ],
+    "category": "AI基础设施"
+  }
+}

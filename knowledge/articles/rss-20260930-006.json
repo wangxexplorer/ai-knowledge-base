@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260930-006",
+  "title": "RSS Feeds for Last.fm",
+  "source_url": "https://lfm.xiffy.nl/",
+  "source_type": "rss",
+  "summary": "该条目介绍了一个为Last.fm音乐平台生成RSS订阅源的工具，允许用户通过RSS阅读器跟踪音乐动态。内容与AI、LLM或Agent技术无直接关联，属于传统Web开发与数据聚合领域。",
+  "tags": [
+    "RSS",
+    "Last.fm",
+    "数据聚合",
+    "Web开发"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-30T22:41:04+08:00",
+  "updated_at": "2026-09-30T22:41:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该工具是传统RSS技术应用，不涉及AI或LLM",
+      "与Agent领域无直接关联",
+      "属于音乐数据聚合与订阅服务"
+    ],
+    "category": "其他"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260930-020",
+  "title": "Language models for text classification: From bag-of-words to Jev",
+  "source_url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+  "source_type": "rss",
+  "summary": "本文回顾了文本分类方法从词袋模型到现代语言模型（如Jev）的演进历程，探讨了不同语言模型在文本分类任务中的应用与性能对比，属于自然语言处理与LLM应用领域的技术综述。",
+  "tags": [
+    "文本分类",
+    "语言模型",
+    "LLM",
+    "NLP",
+    "词袋模型"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-30T22:41:04+08:00",
+  "updated_at": "2026-09-30T22:41:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "文本分类技术从传统词袋模型逐步演进到基于语言模型的方法",
+      "现代语言模型（如Jev）在文本分类任务中展现出显著优势",
+      "该综述有助于理解LLM在分类任务中的定位与发展脉络"
+    ],
+    "category": "自然语言处理"
+  }
+}

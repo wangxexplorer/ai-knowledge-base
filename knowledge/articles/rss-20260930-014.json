@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260930-014",
+  "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+  "source_url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+  "source_type": "rss",
+  "summary": "该条目介绍OpenAI发布的GPT 6.1 Sol模型，宣称以五分之一的价格提供接近Astra级别的智能。内容来自Hacker News，获得1003点热度与879条评论，表明社区高度关注。该模型属于大语言模型（LLM）领域，可能涉及推理能力、成本优化及AI Agent应用，对AI技术发展和市场竞争具有重要影响。",
+  "tags": [
+    "GPT",
+    "LLM",
+    "OpenAI",
+    "模型发布",
+    "成本优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-30T22:41:04+08:00",
+  "updated_at": "2026-09-30T22:41:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "GPT 6.1 Sol以显著降低的成本提供接近Astra级别的智能，可能推动LLM普及。",
+      "高社区热度反映业界对高性能低成本模型的强烈需求。",
+      "该模型可能增强AI Agent的复杂任务处理能力，促进自主智能体发展。"
+    ],
+    "category": "大语言模型"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260930-001",
+  "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+  "source_url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+  "source_type": "rss",
+  "summary": "该条目对比了SDF、MSDF、Slug和Rive等GPU文本渲染技术，属于计算机图形学领域，与AI、LLM、Agent无直接关联。",
+  "tags": [
+    "GPU渲染",
+    "文本渲染",
+    "图形学",
+    "SDF",
+    "MSDF"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-30T22:41:04+08:00",
+  "updated_at": "2026-09-30T22:41:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "SDF、MSDF、Slug是GPU文本渲染的不同技术方案",
+      "该内容不涉及AI、LLM或Agent相关技术",
+      "对AI生成内容中的文本渲染可能有间接参考价值"
+    ],
+    "category": "计算机图形学"
+  }
+}

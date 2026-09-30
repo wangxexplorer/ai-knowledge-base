@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260930-012",
+  "title": "Vermont replacing power plants with home batteries",
+  "source_url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+  "source_type": "rss",
+  "summary": "佛蒙特州正在用家庭电池替代传统发电厂，构建虚拟电厂（VPP），在风暴期间维持供电。该技术通过分布式能源管理实现电网稳定，属于能源领域的创新。与AI、LLM、Agent领域无直接关联，但可能涉及智能调度算法。",
+  "tags": [
+    "虚拟电厂",
+    "家庭电池",
+    "能源管理",
+    "分布式能源",
+    "电网稳定"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-30T22:41:04+08:00",
+  "updated_at": "2026-09-30T22:41:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "虚拟电厂通过聚合家庭电池提供电网支持",
+      "分布式能源可提高电网韧性",
+      "智能调度算法可能用于优化能源分配"
+    ],
+    "category": "能源技术"
+  }
+}

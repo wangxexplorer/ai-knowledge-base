@@ -1,0 +1,27 @@
+{
+  "id": "rss-20260930-007",
+  "title": "Floppy Emu Hardware Failure Analysis Results",
+  "source_url": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
+  "source_type": "rss",
+  "summary": "该条目分析Floppy Emu硬件故障，属于复古计算和嵌入式硬件领域，与AI、LLM、Agent无直接关联。",
+  "tags": [
+    "硬件故障分析",
+    "复古计算",
+    "嵌入式系统"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-30T22:41:04+08:00",
+  "updated_at": "2026-09-30T22:41:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Floppy Emu是复古计算硬件，非AI相关",
+      "内容聚焦硬件故障诊断，不涉及AI技术",
+      "与LLM、Agent领域无任何交集"
+    ],
+    "category": "硬件工程"
+  }
+}

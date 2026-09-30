@@ -1,0 +1,28 @@
+{
+  "id": "rss-20260930-017",
+  "title": "Ask HN: What are you reading?",
+  "source_url": "https://news.ycombinator.com/item?id=49893157",
+  "source_type": "rss",
+  "summary": "该条目是Hacker News上的一个讨论帖，用户分享自己正在阅读的书籍，包括科幻小说《Dungeon Crawler Carl》和Cory Doctorow的《Enshittification》，并寻求更有深度的阅读推荐。内容与AI、LLM或Agent技术无直接关联，属于一般性阅读交流。",
+  "tags": [
+    "Hacker News",
+    "阅读推荐",
+    "书籍讨论",
+    "非技术"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-30T22:41:04+08:00",
+  "updated_at": "2026-09-30T22:41:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该条目为社区阅读分享，不涉及AI技术内容",
+      "讨论的书籍主题与AI、LLM、Agent无关",
+      "对AI技术知识库无直接贡献"
+    ],
+    "category": "其他"
+  }
+}

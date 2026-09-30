@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260930-008",
+  "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+  "source_url": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
+  "source_type": "rss",
+  "summary": "美国核管理委员会（NRC）首次向GE Vernova的BWRX-300小型模块化反应堆颁发建设许可，用于田纳西河谷管理局的克林奇河项目。该许可标志着美国小型模块化反应堆商业化的重要里程碑，可能为数据中心和AI基础设施提供稳定的低碳电力。",
+  "tags": [
+    "核能",
+    "小型模块化反应堆",
+    "能源基础设施",
+    "AI算力",
+    "政策许可"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-30T22:41:04+08:00",
+  "updated_at": "2026-09-30T22:41:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "小型模块化反应堆可为AI数据中心提供稳定低碳电力，缓解算力增长的能源瓶颈。",
+      "NRC首次颁发BWRX-300建设许可，加速先进核能商业化部署。",
+      "AI与LLM的快速发展推动了对可靠、清洁基荷电源的迫切需求。"
+    ],
+    "category": "能源与AI基础设施"
+  }
+}

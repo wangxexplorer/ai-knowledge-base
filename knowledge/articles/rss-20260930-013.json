@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260930-013",
+  "title": "Dots: Always-on agents",
+  "source_url": "https://openai.com/index/introducing-dots/",
+  "source_type": "rss",
+  "summary": "OpenAI 发布 Dots 项目，提出“始终在线代理”（Always-on agents）概念，即能够持续运行、主动感知环境并执行任务的 AI 代理。该条目来自 Hacker News，获得 692 分和 556 条评论，表明社区高度关注。Dots 可能涉及长期记忆、自主决策、工具调用等关键技术，是 LLM 向自主 Agent 演进的重要探索，对 AI 代理的实用化具有推动作用。",
+  "tags": [
+    "AI Agent",
+    "LLM",
+    "OpenAI",
+    "自主代理",
+    "持续学习"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-30T22:41:04+08:00",
+  "updated_at": "2026-09-30T22:41:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Dots 强调代理的持续在线与主动执行能力，突破传统被动响应模式。",
+      "该方向依赖 LLM 的长期记忆、规划与工具使用能力，是 Agent 研究的前沿。",
+      "OpenAI 的入局可能加速始终在线代理的技术标准化与生态构建。"
+    ],
+    "category": "AI Agent"
+  }
+}

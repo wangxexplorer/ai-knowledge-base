@@ -1,0 +1,31 @@
+{
+  "id": "github-20260930-019",
+  "title": "humanizer",
+  "source_url": "https://github.com/blader/humanizer",
+  "source_type": "github",
+  "summary": "humanizer 是一个 Agent 技能，用于去除文本中 AI 生成写作的痕迹，使输出更自然、更像人类撰写。项目使用 Python 开发，在 GitHub 上获得超过 5.3 万星标，主题涵盖 agent-skills、ai-humanizer、ai-writing、ChatGPT 和 Claude。它直接服务于 LLM 生成内容的后期处理，是 Agent 工具链中面向文本人性化的重要组件，反",
+  "tags": [
+    "Agent技能",
+    "AI文本人性化",
+    "LLM后处理",
+    "ChatGPT",
+    "Claude"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-30T22:41:04+08:00",
+  "updated_at": "2026-09-30T22:41:04+08:00",
+  "metadata": {
+    "stars": 53050,
+    "language": "Python",
+    "author": "blader"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.88,
+    "key_insights": [
+      "该项目是典型的 Agent skill，扩展了 LLM 在文本润色与去 AI 化方面的能力",
+      "高星标数表明 AI 生成文本的人性化处理是当前强烈需求",
+      "其定位与 AI 检测、内容真实性等 LLM 应用生态问题紧密相关"
+    ],
+    "category": "Agent工具与技能"
+  }
+}

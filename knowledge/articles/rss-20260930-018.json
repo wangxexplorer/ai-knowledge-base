@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260930-018",
+  "title": "Backblaze drive stats for Q2 2026",
+  "source_url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
+  "source_type": "rss",
+  "summary": "Backblaze发布2026年第二季度硬盘统计数据，基于其数据中心数十万块硬盘的故障率、型号寿命等运行数据，为存储硬件可靠性提供参考。该内容属于云存储基础设施运维范畴，与AI、LLM、Agent领域无直接关联，但可作为AI训练数据存储底层硬件选型的间接参考。",
+  "tags": [
+    "硬盘统计",
+    "存储可靠性",
+    "数据中心",
+    "Backblaze",
+    "硬件运维"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-30T22:41:04+08:00",
+  "updated_at": "2026-09-30T22:41:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "Backblaze季度硬盘统计是存储硬件可靠性领域的重要公开数据源",
+      "该内容不涉及AI、LLM或Agent技术，相关性极低",
+      "AI训练所需的大规模存储基础设施可间接参考此类硬件故障率数据"
+    ],
+    "category": "基础设施运维"
+  }
+}

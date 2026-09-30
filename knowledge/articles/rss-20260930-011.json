@@ -1,0 +1,29 @@
+{
+  "id": "rss-20260930-011",
+  "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+  "source_url": "https://space.bl2.net/",
+  "source_type": "rss",
+  "summary": "该条目展示了一个实时太阳系可视化项目，包含52.6万颗小行星和所有被追踪卫星。项目属于天文数据可视化与Web前端渲染领域，与AI、LLM或Agent技术无直接关联。其技术重点在于大规模空间数据的实时渲染和交互展示，而非机器学习或智能体系统。",
+  "tags": [
+    "天文可视化",
+    "实时渲染",
+    "Web应用",
+    "空间数据",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-09-30T22:41:04+08:00",
+  "updated_at": "2026-09-30T22:41:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "项目核心是大规模天文数据的实时Web可视化，不涉及AI/LLM/Agent技术",
+      "52.6万小行星和卫星的渲染对前端性能优化有参考价值",
+      "与AI领域的交集仅限于潜在的数据可视化工具需求"
+    ],
+    "category": "数据可视化"
+  }
+}
