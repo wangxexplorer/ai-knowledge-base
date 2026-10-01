@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261001-013",
+  "title": "Gemini 4 Argon",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+  "source_type": "rss",
+  "summary": "该条目报道了Google发布的Gemini 4 Argon模型，并附带了Hacker News上关于其智能、性能和价格分析的高热度讨论。Gemini 4 Argon是Google新一代大语言模型，属于AI和LLM领域的重要进展，其性能与定价分析对AI应用和Agent开发具有参考价值。",
+  "tags": [
+    "Gemini",
+    "LLM",
+    "Google",
+    "模型发布",
+    "性能分析"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-01T23:10:08+08:00",
+  "updated_at": "2026-10-01T23:10:08+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Gemini 4 Argon是Google推出的新一代大语言模型，代表LLM技术的前沿进展。",
+      "Hacker News上的高热度讨论（1534分，1016评论）表明社区对模型性能和定价高度关注。",
+      "该模型可能对AI Agent的构建和成本效益产生直接影响，值得开发者关注。"
+    ],
+    "category": "大语言模型"
+  }
+}

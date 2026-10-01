@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261001-018",
+  "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+  "source_url": "https://www.chompiclub.com/opensource",
+  "source_type": "rss",
+  "summary": "CHOMPI便携式采样器乐器宣布硬件和软件开源。该条目来自Hacker News，主要涉及音乐硬件设备的开源，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "开源硬件",
+    "音乐设备",
+    "采样器",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-01T23:10:08+08:00",
+  "updated_at": "2026-10-01T23:10:08+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "CHOMPI采样器开源硬件和软件，属于音乐技术领域",
+      "与AI、LLM、Agent无直接技术关联",
+      "开源硬件社区可能间接促进AI边缘设备发展，但非核心"
+    ],
+    "category": "硬件开源"
+  }
+}

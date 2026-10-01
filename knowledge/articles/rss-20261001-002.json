@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261001-002",
+  "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+  "source_url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+  "source_type": "rss",
+  "summary": "本文批判了设立AI主权财富基金的主张，认为其并非进步政策，而是技术帝国主义。文章指出，这类基金可能加剧全球AI资源垄断，使少数国家或企业控制关键技术，损害发展中国家利益，并呼吁警惕AI治理中的权力集中。",
+  "tags": [
+    "AI治理",
+    "技术帝国主义",
+    "主权财富基金",
+    "AI政策",
+    "全球不平等"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-01T23:10:08+08:00",
+  "updated_at": "2026-10-01T23:10:08+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI主权财富基金可能成为技术霸权工具，而非促进公平发展。",
+      "全球AI资源集中化会加剧国家间不平等。",
+      "需要建立包容性的AI治理机制，防止权力垄断。"
+    ],
+    "category": "AI伦理与政策"
+  }
+}

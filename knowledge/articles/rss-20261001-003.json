@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261001-003",
+  "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+  "source_url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+  "source_type": "rss",
+  "summary": "美国联邦贸易委员会（FTC）对OpenAI、Anthropic等AI公司展开调查，重点关注其产品可能带来的风险。此举反映了监管机构对AI技术安全性和合规性的担忧，可能影响AI行业的未来发展方向。",
+  "tags": [
+    "FTC",
+    "OpenAI",
+    "Anthropic",
+    "AI监管",
+    "产品风险"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-01T23:10:08+08:00",
+  "updated_at": "2026-10-01T23:10:08+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "FTC对AI公司的调查可能推动更严格的行业监管",
+      "OpenAI和Anthropic作为头部AI公司面临合规压力",
+      "产品风险成为AI技术商业化的重要考量因素"
+    ],
+    "category": "AI监管与政策"
+  }
+}

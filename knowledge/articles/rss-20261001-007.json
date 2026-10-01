@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261001-007",
+  "title": "Returning from vacation? The government can search your phone without a warrant",
+  "source_url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+  "source_type": "rss",
+  "summary": "该条目讨论美国边境执法人员可在无搜查令情况下搜查旅客手机，涉及隐私权与政府权力边界。与AI、LLM、Agent领域无直接技术关联，但手机中可能存储的AI对话记录、个人数据等引发隐私担忧，间接关联AI安全与治理。",
+  "tags": [
+    "隐私",
+    "政府监控",
+    "边境搜查",
+    "AI治理",
+    "数据安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-01T23:10:08+08:00",
+  "updated_at": "2026-10-01T23:10:08+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "无搜查令的手机搜查可能暴露用户与AI助手的对话记录，引发隐私风险。",
+      "AI系统存储的个人数据可能成为政府监控的新目标。",
+      "该事件凸显AI时代数据隐私法律与政策的滞后性。"
+    ],
+    "category": "科技政策"
+  }
+}

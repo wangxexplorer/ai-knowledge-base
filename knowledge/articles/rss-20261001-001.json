@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261001-001",
+  "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+  "source_url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+  "source_type": "rss",
+  "summary": "该文章报道Meta利用AI数据中心进行税务筹划，避免数十亿美元联邦税。内容涉及AI基础设施投资与税收政策，与AI技术本身关联较弱，但反映了AI产业的经济影响和监管议题。",
+  "tags": [
+    "AI数据中心",
+    "税务筹划",
+    "Meta",
+    "AI产业",
+    "监管"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-01T23:10:08+08:00",
+  "updated_at": "2026-10-01T23:10:08+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "AI数据中心成为科技巨头税务优化工具",
+      "AI基础设施投资与联邦税收政策存在互动",
+      "大型AI项目对经济监管提出新挑战"
+    ],
+    "category": "AI产业与政策"
+  }
+}

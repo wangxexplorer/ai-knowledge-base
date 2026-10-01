@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261001-004",
+  "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
+  "source_url": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
+  "source_type": "rss",
+  "summary": "该条目报道谷歌违背为Chromebook提供10年更新的承诺，属于科技公司产品支持政策与消费者权益话题，与AI、LLM、Agent领域无直接技术关联。",
+  "tags": [
+    "Google",
+    "Chromebook",
+    "产品支持政策",
+    "消费者权益",
+    "科技新闻"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-01T23:10:08+08:00",
+  "updated_at": "2026-10-01T23:10:08+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "该条目聚焦硬件产品更新承诺，不涉及AI或LLM技术",
+      "与Agent领域无直接关联",
+      "仅可作为科技公司信任与政策风险的背景案例"
+    ],
+    "category": "科技行业新闻"
+  }
+}

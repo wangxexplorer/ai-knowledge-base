@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261001-005",
+  "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+  "source_url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
+  "source_type": "rss",
+  "summary": "美光CEO预测2027和2028年内存供应将比2026年紧张得多，可能影响AI和LLM硬件成本。",
+  "tags": [
+    "内存供应",
+    "AI硬件",
+    "LLM基础设施",
+    "半导体",
+    "成本"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-01T23:10:08+08:00",
+  "updated_at": "2026-10-01T23:10:08+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "内存供应紧张可能推高AI训练和推理的硬件成本",
+      "LLM部署依赖大内存，供应变化影响可扩展性",
+      "长期供应预测影响AI基础设施投资决策"
+    ],
+    "category": "硬件与基础设施"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261001-019",
+  "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+  "source_url": "https://github.com/magnitudedev/magnitude",
+  "source_type": "rss",
+  "summary": "Magnitude 是面向本地 Agent 的自优化推理引擎，用 Rust 编写并开源（Apache 2.0）。它针对 Agent 长会话、多并发、需与日常使用共享硬件的场景，通过设备端内核编译调优、动态内存分配和混合分页注意力，在 Mac 与 CUDA 上比 llama.cpp 解码快 19%-92%，并减少约 27% 的单 Agent 内存占用。",
+  "tags": [
+    "推理引擎",
+    "本地Agent",
+    "LLM推理优化",
+    "开源",
+    "Rust"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-01T23:10:08+08:00",
+  "updated_at": "2026-10-01T23:10:08+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.93,
+    "key_insights": [
+      "现有推理引擎在批处理、通用兼容与硬件专用之间取舍，缺少为本地 Agent 长会话、多并发场景优化的方案。",
+      "设备端内核编译调优与动态内存分配，可在保持广泛硬件兼容的同时接近硬件专用内核的性能上限。",
+      "混合分页注意力兼顾并发会话前缀缓存共享与单会话内存局部性，避免单会话性能下降。"
+    ],
+    "category": "AI基础设施与推理优化"
+  }
+}

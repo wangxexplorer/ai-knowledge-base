@@ -1,0 +1,31 @@
+{
+  "id": "github-20261001-002",
+  "title": "firecrawl",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "source_type": "github",
+  "summary": "Firecrawl 是一个专为 AI 智能体设计的网络数据 API，支持搜索、抓取和访问多种网络数据源，帮助 AI 智能体获取实时网络信息。项目使用 TypeScript 开发，在 GitHub 上获得超过 18.7 万星标，属于 AI 基础设施工具。",
+  "tags": [
+    "AI Agent",
+    "网络爬虫",
+    "数据获取",
+    "AI搜索",
+    "基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-01T23:10:08+08:00",
+  "updated_at": "2026-10-01T23:10:08+08:00",
+  "metadata": {
+    "stars": 187438,
+    "language": "TypeScript",
+    "author": "firecrawl"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "为 AI 智能体提供实时网络数据接入能力，弥补大模型知识截止的局限",
+      "集搜索、抓取、数据源访问于一体，简化智能体数据管道构建",
+      "高星标反映其在 AI 智能体生态中的广泛认可和实用价值"
+    ],
+    "category": "AI基础设施"
+  }
+}

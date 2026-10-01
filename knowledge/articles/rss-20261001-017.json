@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261001-017",
+  "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+  "source_url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+  "source_type": "rss",
+  "summary": "Netlify 将其 Edge Functions 从 V8 isolates 迁移到 Firecracker MicroVMs，实现 5 倍性能提升。该技术优化了边缘计算中函数执行的隔离性、冷启动速度和资源效率，为 AI Agent 和 LLM 应用的低延迟推理与工具调用提供了更高效的底层基础设施。",
+  "tags": [
+    "边缘计算",
+    "Serverless",
+    "Firecracker",
+    "V8 Isolates",
+    "AI基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-01T23:10:08+08:00",
+  "updated_at": "2026-10-01T23:10:08+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "Firecracker MicroVMs 相比 V8 isolates 提供更强的隔离性和更快的冷启动，适合需要安全隔离的 AI Agent 执行环境。",
+      "边缘函数性能提升可降低 LLM 应用和 Agent 工具调用的延迟，改善用户体验。",
+      "该技术趋势表明 AI 推理和 Agent 工作负载正逐步向边缘迁移，以利用低延迟和分布式优势。"
+    ],
+    "category": "基础设施与部署"
+  }
+}

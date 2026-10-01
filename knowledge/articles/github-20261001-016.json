@@ -1,0 +1,31 @@
+{
+  "id": "github-20261001-016",
+  "title": "MetaGPT",
+  "source_url": "https://github.com/FoundationAgents/MetaGPT",
+  "source_type": "github",
+  "summary": "MetaGPT是一个多智能体框架，旨在通过自然语言编程构建首个AI软件公司。它基于LLM驱动多个智能体协作，模拟软件公司中的不同角色（如产品经理、架构师、工程师），将用户需求转化为完整的软件项目。该框架在GitHub上获得超过7万星标，是AI Agent领域的重要开源项目，推动了多智能体协作和自动化软件开发的研究与应用。",
+  "tags": [
+    "多智能体",
+    "LLM",
+    "Agent框架",
+    "自然语言编程",
+    "自动化软件开发"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-01T23:10:08+08:00",
+  "updated_at": "2026-10-01T23:10:08+08:00",
+  "metadata": {
+    "stars": 70716,
+    "language": "Python",
+    "author": "FoundationAgents"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.98,
+    "key_insights": [
+      "MetaGPT通过多智能体角色分工实现复杂软件项目的自动化生成，展示了LLM在协作任务中的潜力。",
+      "该框架将自然语言编程理念落地，降低了软件开发门槛，可能改变未来软件工程模式。",
+      "高星标和活跃社区表明多智能体框架是当前AI领域的热点方向，具有广泛的应用前景。"
+    ],
+    "category": "AI Agent框架"
+  }
+}
