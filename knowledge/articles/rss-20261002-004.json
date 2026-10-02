@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261002-004",
+  "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+  "source_url": "https://github.com/kvoltmer/Audionaut",
+  "source_type": "rss",
+  "summary": "Audionaut 是一个开源跨平台多轨音频编辑器，在 Hacker News 上发布。它主要面向音频编辑领域，与 AI、LLM 或 Agent 技术没有直接关联。虽然 AI 可以应用于音频处理，但该条目本身并未涉及任何 AI 技术。",
+  "tags": [
+    "音频编辑",
+    "开源",
+    "跨平台",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-02T22:31:02+08:00",
+  "updated_at": "2026-10-02T22:31:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "Audionaut 是音频编辑工具，与 AI/LLM/Agent 无直接关系。",
+      "开源和跨平台特性可能吸引开发者，但不涉及 AI 集成。",
+      "在 Hacker News 上获得一定关注，但主题偏离 AI 领域。"
+    ],
+    "category": "其他"
+  }
+}

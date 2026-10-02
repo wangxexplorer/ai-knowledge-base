@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261002-014",
+  "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+  "source_url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+  "source_type": "rss",
+  "summary": "该条目介绍了一项关于联网汽车数据隐私的研究，名为“Automatic Transmission”。研究由东北大学Khoury学院进行，探讨了现代车辆收集和传输的数据类型及隐私风险。虽然不直接涉及AI或LLM，但联网汽车的数据处理可能涉及机器学习技术，且隐私问题与AI伦理相关。",
+  "tags": [
+    "数据隐私",
+    "联网汽车",
+    "AI伦理",
+    "物联网",
+    "安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-02T22:31:02+08:00",
+  "updated_at": "2026-10-02T22:31:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "联网汽车收集大量数据，可能涉及用户隐私泄露。",
+      "数据隐私问题与AI系统的数据收集和处理伦理相关。",
+      "该研究可能为AI在物联网领域的隐私保护提供参考。"
+    ],
+    "category": "隐私与安全"
+  }
+}

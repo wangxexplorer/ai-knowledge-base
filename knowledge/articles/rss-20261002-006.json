@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261002-006",
+  "title": "DeepSeek Harness Desktop for macOS and Windows",
+  "source_url": "https://www.deepseek.com/en/harness/",
+  "source_type": "rss",
+  "summary": "DeepSeek Harness Desktop 是 DeepSeek 推出的面向 macOS 和 Windows 的桌面客户端，属于 AI 大模型工具链的一部分。该条目来自 Hacker News，获得 318 分和 165 条评论，表明社区关注度较高。作为 DeepSeek 生态的桌面入口，它可能用于本地调用 DeepSeek 模型、管理对话或集成 Agent 工作流，与 LLM 应用和 AI",
+  "tags": [
+    "DeepSeek",
+    "LLM",
+    "桌面客户端",
+    "AI工具",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-02T22:31:02+08:00",
+  "updated_at": "2026-10-02T22:31:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "DeepSeek 推出桌面客户端，扩展其 LLM 产品的使用场景和用户覆盖。",
+      "该工具可能支持本地模型调用或 Agent 工作流，增强开发者与终端用户的交互体验。",
+      "Hacker News 高热度表明社区对 DeepSeek 生态和 AI 桌面工具的高度关注。"
+    ],
+    "category": "AI工具与平台"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261002-020",
+  "title": "Vote on which of Hacker News' challenges for AI have been met",
+  "source_url": "https://stoppels.ch/goalposts/",
+  "source_type": "rss",
+  "summary": "该条目是Hacker News上关于AI挑战是否已实现的投票讨论，源自stoppels.ch/goalposts/文章。内容涉及对AI能力里程碑的回顾与评估，引发社区对AI进展的辩论，与AI和LLM领域高度相关，但未深入技术细节。",
+  "tags": [
+    "AI挑战",
+    "Hacker News",
+    "社区讨论",
+    "AI进展",
+    "里程碑评估"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-02T22:31:02+08:00",
+  "updated_at": "2026-10-02T22:31:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "社区投票形式评估AI挑战的完成情况，反映公众对AI能力的认知",
+      "讨论可能涉及LLM等AI技术的实际进展与预期差距",
+      "高评论数表明AI进展是当前技术社区的热点话题"
+    ],
+    "category": "AI社区讨论"
+  }
+}

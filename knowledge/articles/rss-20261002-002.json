@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261002-002",
+  "title": "The Legend of von Neumann [pdf]",
+  "source_url": "https://gwern.net/doc/math/1973-halmos.pdf",
+  "source_type": "rss",
+  "summary": "该条目是Paul Halmos于1973年撰写的关于冯·诺依曼的传记性文章，主要回顾其数学与计算机科学贡献。冯·诺依曼架构是现代计算机的基础，对AI硬件有间接影响，但文章本身不涉及AI、LLM或Agent技术。",
+  "tags": [
+    "冯·诺依曼",
+    "计算机体系结构",
+    "数学史",
+    "传记"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-02T22:31:02+08:00",
+  "updated_at": "2026-10-02T22:31:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "冯·诺依曼架构是AI计算的硬件基础，但文章内容不直接涉及AI。",
+      "该文属于历史人物回顾，与当前AI/LLM/Agent技术无直接关联。",
+      "对理解计算理论基础有间接价值，但相关性极低。"
+    ],
+    "category": "计算机科学史"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261002-018",
+  "title": "Pi Durable",
+  "source_url": "https://earendil.com/posts/pi-durable/",
+  "source_type": "rss",
+  "summary": "Pi Durable 是 Earendil 公司发布的一篇技术文章，介绍其 Pi 1.0 系统的持久化能力。Pi 1.0 曾在 Hacker News 上引发广泛讨论，获得 440 分和 184 条评论。该条目主要涉及系统持久性设计，可能与 AI Agent 的长期记忆、状态保持和可靠性相关，但具体技术细节未在描述中展开。",
+  "tags": [
+    "Pi Durable",
+    "持久化",
+    "AI Agent",
+    "系统设计",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-02T22:31:02+08:00",
+  "updated_at": "2026-10-02T22:31:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "Pi Durable 可能涉及 AI Agent 的持久化状态管理，对长期运行和记忆保持有重要意义。",
+      "Pi 1.0 在 Hacker News 上获得高关注度，表明其技术方案在开发者社区中具有影响力。",
+      "持久化能力是构建可靠 AI Agent 的关键基础设施之一，可能影响 Agent 的稳定性和连续性。"
+    ],
+    "category": "AI系统与基础设施"
+  }
+}

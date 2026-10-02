@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261002-009",
+  "title": "Several vulnerabilities have been discovered in the Linux kernel",
+  "source_url": "https://lwn.net/Articles/1097401/",
+  "source_type": "rss",
+  "summary": "该条目报道Linux内核发现多个安全漏洞，来源为LWN文章，在Hacker News上获得431点热度。内容聚焦操作系统内核安全，未涉及AI、LLM或Agent技术。与AI领域无直接关联，属于系统安全与开源软件维护范畴。",
+  "tags": [
+    "Linux内核",
+    "安全漏洞",
+    "系统安全",
+    "开源软件",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-02T22:31:02+08:00",
+  "updated_at": "2026-10-02T22:31:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "Linux内核漏洞属于操作系统安全议题，与AI技术栈无直接关系",
+      "AI基础设施依赖Linux内核，但漏洞本身不涉及AI算法或模型",
+      "该条目对AI/LLM/Agent领域从业者仅有间接的运维安全参考价值"
+    ],
+    "category": "系统安全"
+  }
+}

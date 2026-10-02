@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261002-003",
+  "title": "Memory executives expect RAM shortage to continue through 2028",
+  "source_url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+  "source_type": "rss",
+  "summary": "该条目报道内存高管预计RAM短缺将持续至2028年，主要涉及内存芯片供应紧张和价格上涨。这与AI、LLM、Agent领域间接相关，因为大模型训练和推理需要大量高带宽内存（如HBM），短缺可能推高AI硬件成本并影响算力供给。",
+  "tags": [
+    "内存短缺",
+    "AI硬件",
+    "算力成本",
+    "HBM",
+    "供应链"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-02T22:31:02+08:00",
+  "updated_at": "2026-10-02T22:31:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.35,
+    "key_insights": [
+      "RAM短缺可能持续到2028年，将直接影响AI服务器和GPU的内存供应与成本。",
+      "大模型训练与推理依赖高带宽内存，供应紧张可能减缓AI算力扩展速度。",
+      "内存价格上升可能传导至云服务与AI API定价，间接影响LLM应用生态。"
+    ],
+    "category": "硬件基础设施"
+  }
+}

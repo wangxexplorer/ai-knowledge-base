@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261002-016",
+  "title": "ArXiv's Updated Rate Limit Policy",
+  "source_url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+  "source_type": "rss",
+  "summary": "ArXiv更新了其API速率限制政策，旨在应对日益增长的自动化访问需求，尤其是来自AI和LLM领域的大规模论文抓取。该政策调整可能影响依赖ArXiv数据进行模型训练、文献检索和学术分析的研究者与开发者，需关注新的请求频率和配额限制。",
+  "tags": [
+    "ArXiv",
+    "速率限制",
+    "学术数据",
+    "LLM训练数据",
+    "API政策"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-02T22:31:02+08:00",
+  "updated_at": "2026-10-02T22:31:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.65,
+    "key_insights": [
+      "ArXiv作为AI/LLM领域核心论文来源，其速率限制变化直接影响大规模数据采集与模型训练流程。",
+      "新政策可能促使研究者转向更高效的缓存、分布式请求或替代数据源，以应对访问限制。",
+      "该调整反映了学术平台对AI驱动流量增长的治理压力，可能引发其他预印本平台的类似政策变化。"
+    ],
+    "category": "AI基础设施与数据"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261002-011",
+  "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+  "source_url": "https://www.cssbed.com",
+  "source_type": "rss",
+  "summary": "CSS Bed 是一个提供无类（classless）CSS 主题的网站，旨在作为网页开发的起点。用户可直接套用这些主题，无需为 HTML 元素添加类名即可获得美观样式。该条目来自 Hacker News，属于前端开发与网页设计工具，与 AI、LLM 或 Agent 领域没有直接关联。",
+  "tags": [
+    "CSS",
+    "前端开发",
+    "网页设计",
+    "无类CSS",
+    "开发工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-02T22:31:02+08:00",
+  "updated_at": "2026-10-02T22:31:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "CSS Bed 提供无类 CSS 主题，降低网页样式起步成本",
+      "该工具面向传统前端开发，不涉及 AI 或 LLM 技术",
+      "与 Agent 领域无直接关联，属于纯 Web 设计资源"
+    ],
+    "category": "前端开发"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261002-001",
+  "title": "Don't be fooled–LLMs don't reason",
+  "source_url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+  "source_type": "rss",
+  "summary": "该条目是《麻省理工科技评论》的一篇文章，标题为“别被骗了——LLM不会推理”，探讨大语言模型是否具备真正的推理能力。文章认为LLM只是基于统计模式生成文本，而非进行逻辑推理，引发了对AI能力边界的讨论。",
+  "tags": [
+    "LLM",
+    "推理能力",
+    "AI批评",
+    "认知科学",
+    "技术评论"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-02T22:31:02+08:00",
+  "updated_at": "2026-10-02T22:31:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "LLM的推理表现可能源于模式匹配而非真正的逻辑推理",
+      "对LLM能力的过度宣传可能导致公众误解",
+      "需要更严谨的评估方法来区分统计关联与因果推理"
+    ],
+    "category": "AI理论与批评"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261002-013",
+  "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+  "source_url": "https://github.com/Vibra-Ingenn/Janus",
+  "source_type": "rss",
+  "summary": "Janus 是一个用 Go 编写的二进制工具，通过 Vulkan API 在 AMD、Intel 和 Nvidia 显卡上运行 GGUF 格式的大语言模型。它旨在提供跨厂商 GPU 的本地 LLM 推理方案，降低硬件依赖，提升部署灵活性。该项目在 Hacker News 上获得关注，表明社区对高效、可移植的本地推理工具存在需求。",
+  "tags": [
+    "GGUF",
+    "Vulkan",
+    "本地推理",
+    "Go",
+    "GPU加速"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-02T22:31:02+08:00",
+  "updated_at": "2026-10-02T22:31:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "支持多厂商 GPU 的 Vulkan 后端，增强了 LLM 推理的硬件兼容性",
+      "使用 Go 语言实现，便于分发和集成到现有 Go 生态系统中",
+      "直接运行 GGUF 模型，简化了本地部署流程"
+    ],
+    "category": "LLM推理工具"
+  }
+}

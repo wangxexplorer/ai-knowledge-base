@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261002-012",
+  "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+  "source_url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
+  "source_type": "rss",
+  "summary": "该文章讲述作者使用Opus 5.5（推测为Anthropic的Claude Opus模型）在历史文献中发现了一份关于渡渡鸟的新目击记录。这展示了LLM在历史研究、文献挖掘和跨学科知识发现中的实际应用，体现了大语言模型作为研究辅助工具的能力，属于AI在人文社科领域的应用案例。",
+  "tags": [
+    "LLM应用",
+    "历史研究",
+    "知识发现",
+    "Claude Opus",
+    "AI辅助研究"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-02T22:31:02+08:00",
+  "updated_at": "2026-10-02T22:31:02+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.75,
+    "key_insights": [
+      "LLM可作为历史文献挖掘和知识发现的辅助工具，帮助研究者发现被忽视的记录",
+      "Opus 5.5等先进模型在跨学科研究场景中展现出实用价值",
+      "AI在人文社科领域的应用正在扩展，不仅限于技术任务"
+    ],
+    "category": "AI应用"
+  }
+}
