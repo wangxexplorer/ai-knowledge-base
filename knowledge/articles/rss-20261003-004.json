@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261003-004",
+  "title": "Show HN: Offrun – manage every coding agent from one workspace",
+  "source_url": "https://offrun.dev/",
+  "source_type": "rss",
+  "summary": "Offrun 是一个统一工作空间，用于同时管理多个编码智能体（如 Claude Code、Codex、AGY 和 Grok Build）。它提供实时状态监控，显示哪些智能体正在工作、哪些需要用户介入，以及每个账户的剩余额度。该工具旨在解决多智能体并行使用时的协调与资源管理问题，提升开发效率。",
+  "tags": [
+    "编码智能体",
+    "多智能体管理",
+    "LLM工具",
+    "工作空间",
+    "开发效率"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-03T21:06:49+08:00",
+  "updated_at": "2026-10-03T21:06:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "统一管理多个编码智能体，解决并行使用时的协调问题",
+      "实时监控智能体状态和账户余额，优化资源分配",
+      "提升开发效率，减少上下文切换成本"
+    ],
+    "category": "AI Agent 工具"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261003-012",
+  "title": "Apple Pass Designer",
+  "source_url": "https://developer.apple.com/pass-designer/",
+  "source_type": "rss",
+  "summary": "Apple Pass Designer 是苹果开发者工具，用于创建和设计 Apple Wallet 数字通行证（如登机牌、会员卡、优惠券）。该条目来自 Hacker News 的 RSS 订阅，内容仅包含链接和评论数，未涉及任何 AI、LLM 或 Agent 技术。其核心功能属于移动端数字凭证设计与分发，与人工智能领域无直接关联。",
+  "tags": [
+    "Apple Wallet",
+    "数字通行证",
+    "开发者工具",
+    "移动端",
+    "非AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-03T21:06:49+08:00",
+  "updated_at": "2026-10-03T21:06:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该工具用于设计 Apple Wallet 数字通行证，属于移动端开发工具",
+      "内容与 AI、LLM、Agent 领域无任何技术交集",
+      "Hacker News 上的高热度反映开发者对数字凭证设计的关注，但不涉及智能技术"
+    ],
+    "category": "非AI技术"
+  }
+}

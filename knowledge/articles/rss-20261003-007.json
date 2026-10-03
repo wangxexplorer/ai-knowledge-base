@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261003-007",
+  "title": "Cloudflare OHTTP gateway",
+  "source_url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+  "source_type": "rss",
+  "summary": "Cloudflare 推出 OHTTP 网关，基于 Oblivious HTTP 协议，通过代理和加密技术将客户端请求与来源 IP 分离，增强网络隐私。该技术可应用于 AI 和 LLM 场景，如保护用户与云端模型交互时的隐私，防止元数据泄露，对构建隐私敏感的 Agent 系统有潜在价值。",
+  "tags": [
+    "隐私保护",
+    "OHTTP",
+    "网络协议",
+    "AI基础设施",
+    "LLM安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-03T21:06:49+08:00",
+  "updated_at": "2026-10-03T21:06:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "OHTTP 网关可隐藏客户端 IP，提升 AI 服务调用时的用户隐私",
+      "为 LLM 和 Agent 的云端交互提供匿名化传输层",
+      "可能影响未来 AI 应用的合规与信任架构设计"
+    ],
+    "category": "隐私与安全"
+  }
+}

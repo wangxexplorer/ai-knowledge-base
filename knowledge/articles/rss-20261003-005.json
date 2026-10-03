@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261003-005",
+  "title": "An Update on Orion for Linux and Windows",
+  "source_url": "https://blog.kagi.com/update-orion-linux-windows",
+  "source_type": "rss",
+  "summary": "该条目是Kagi博客关于Orion浏览器在Linux和Windows平台更新进展的公告，内容聚焦浏览器跨平台开发，未涉及AI、LLM或Agent技术。",
+  "tags": [
+    "浏览器",
+    "Orion",
+    "Kagi",
+    "跨平台",
+    "Linux"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-03T21:06:49+08:00",
+  "updated_at": "2026-10-03T21:06:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Orion是Kagi推出的浏览器产品，与AI/LLM/Agent无直接关联",
+      "条目内容为产品更新公告，不包含AI技术讨论",
+      "对AI技术知识库无实质贡献"
+    ],
+    "category": "其他"
+  }
+}

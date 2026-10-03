@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261003-008",
+  "title": "Newgrounds.com – A community of games, music, and art",
+  "source_url": "https://www.newgrounds.com/",
+  "source_type": "rss",
+  "summary": "Newgrounds.com 是一个以用户生成内容为核心的在线社区，主要提供游戏、音乐和艺术作品分享。该条目仅包含网站链接和 Hacker News 讨论信息，未涉及任何 AI、LLM 或 Agent 相关技术内容。其价值在于展示创意社区平台，但与人工智能领域无直接关联。",
+  "tags": [
+    "用户生成内容",
+    "游戏社区",
+    "创意平台",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-03T21:06:49+08:00",
+  "updated_at": "2026-10-03T21:06:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "Newgrounds 是 UGC 创意社区，与 AI 技术无直接关联",
+      "条目信息量极少，仅含链接和讨论元数据",
+      "对 AI/LLM/Agent 领域无实质参考价值"
+    ],
+    "category": "其他"
+  }
+}

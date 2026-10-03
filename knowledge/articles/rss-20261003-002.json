@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261003-002",
+  "title": "Show HN: Germany's new sovereign AI model Kolibri",
+  "source_url": "https://tej.as/blog/aleph-alpha-kolibri",
+  "source_type": "rss",
+  "summary": "德国推出主权AI模型Kolibri，由Aleph Alpha开发，旨在提供符合欧洲数据主权和监管要求的AI解决方案。该模型强调本地化部署、数据隐私和可控性，可能对欧洲AI生态和主权AI发展产生重要影响。",
+  "tags": [
+    "主权AI",
+    "Aleph Alpha",
+    "德国AI",
+    "数据隐私",
+    "欧洲AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-03T21:06:49+08:00",
+  "updated_at": "2026-10-03T21:06:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "主权AI成为国家战略，强调数据控制和监管合规",
+      "Aleph Alpha推出Kolibri，可能挑战美国主导的AI模型",
+      "欧洲AI生态注重隐私和本地化，影响全球AI治理"
+    ],
+    "category": "AI模型"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261003-011",
+  "title": "Muse Gadgets",
+  "source_url": "https://gadgets.muse.ai",
+  "source_type": "rss",
+  "summary": "Muse Gadgets 是 Muse.ai 推出的一个硬件或智能设备相关页面，在 Hacker News 上获得 209 分和 92 条评论，表明其受到技术社区关注。Muse.ai 本身是 AI 视频搜索平台，但该条目仅提供链接和讨论入口，未包含具体技术细节。其与 AI、LLM、Agent 领域的直接相关性较低，可能涉及 AI 驱动的消费级设备或工具，但缺乏实质内容支撑。",
+  "tags": [
+    "Muse.ai",
+    "AI硬件",
+    "Hacker News",
+    "消费级AI",
+    "视频搜索"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-03T21:06:49+08:00",
+  "updated_at": "2026-10-03T21:06:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.25,
+    "key_insights": [
+      "Muse.ai 从视频搜索向硬件/设备领域扩展，可能探索 AI 与物理世界结合",
+      "Hacker News 高热度表明社区对 AI 消费级产品兴趣浓厚",
+      "条目信息有限，无法判断是否涉及 LLM 或 Agent 技术"
+    ],
+    "category": "AI应用与产品"
+  }
+}

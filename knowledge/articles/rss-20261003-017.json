@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261003-017",
+  "title": "With most information hidden, the game Stratego had stumped AI until now",
+  "source_url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+  "source_type": "rss",
+  "summary": "该条目报道了AI在信息不完全的棋盘游戏Stratego中首次击败人类顶尖选手，且成本较低。Stratego因隐藏信息而长期困扰AI，这一突破涉及深度强化学习、搜索算法和博弈论，对LLM和Agent领域有借鉴意义，如处理部分可观测环境、决策规划等。",
+  "tags": [
+    "强化学习",
+    "博弈论",
+    "部分可观测",
+    "AI Agent",
+    "决策规划"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-03T21:06:49+08:00",
+  "updated_at": "2026-10-03T21:06:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI在信息不完全博弈中取得突破，可迁移至现实世界的不确定决策场景。",
+      "低成本实现表明高效算法和训练策略的重要性，对LLM Agent的资源优化有启示。",
+      "该工作结合搜索与学习，为Agent在部分可观测环境中的规划提供新思路。"
+    ],
+    "category": "AI研究"
+  }
+}

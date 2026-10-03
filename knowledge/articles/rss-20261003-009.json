@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261003-009",
+  "title": "Updates to Full Disk Access in macOS",
+  "source_url": "https://developer.apple.com/news/?id=p6zjojqw",
+  "source_type": "rss",
+  "summary": "该条目是苹果开发者新闻中关于macOS完全磁盘访问权限更新的公告，讨论系统隐私权限机制的变化。内容属于操作系统安全与隐私领域，未涉及AI、LLM或Agent技术，因此与AI领域相关性极低。",
+  "tags": [
+    "macOS",
+    "隐私权限",
+    "操作系统",
+    "苹果",
+    "安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-03T21:06:49+08:00",
+  "updated_at": "2026-10-03T21:06:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "条目聚焦macOS系统权限管理，与AI技术无直接关联",
+      "完全磁盘访问权限变化可能影响依赖本地数据的AI应用运行环境",
+      "对LLM或Agent开发者而言属于底层平台合规与权限适配信息"
+    ],
+    "category": "操作系统与安全"
+  }
+}

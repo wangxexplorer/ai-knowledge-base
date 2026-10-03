@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261003-018",
+  "title": "The Legend of von Neumann (1973) [pdf]",
+  "source_url": "https://gwern.net/doc/math/1973-halmos.pdf",
+  "source_type": "rss",
+  "summary": "本文是1973年Paul Halmos对冯·诺依曼的回忆文章，回顾了这位数学家在计算机体系结构、量子力学、博弈论等领域的贡献。冯·诺依曼架构是现代计算机的基础，其思想对AI硬件和算法设计有深远影响，但与当前LLM和Agent技术无直接关联。",
+  "tags": [
+    "冯·诺依曼",
+    "计算机体系结构",
+    "数学史",
+    "人工智能基础"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-03T21:06:49+08:00",
+  "updated_at": "2026-10-03T21:06:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "冯·诺依曼架构是AI计算的硬件基础，但文章本身不涉及现代AI技术。",
+      "冯·诺依曼在博弈论和自复制自动机方面的思想对AI理论有启发意义。",
+      "该内容属于历史文献，与LLM和Agent的当前发展无直接联系。"
+    ],
+    "category": "计算机科学史"
+  }
+}

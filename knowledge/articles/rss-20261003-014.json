@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261003-014",
+  "title": "From the creator of Redis; run LLM locally with ds4",
+  "source_url": "https://dwarfstar.sh/",
+  "source_type": "rss",
+  "summary": "Redis创始人推出ds4项目，支持在本地运行LLM。该工具旨在让用户无需依赖云端即可部署大语言模型，降低使用门槛并提升隐私性。作为知名开发者作品，项目在Hacker News获得274点热度，反映社区对本地化LLM部署的强烈兴趣。",
+  "tags": [
+    "本地LLM",
+    "Redis创始人",
+    "模型部署",
+    "开源工具",
+    "隐私计算"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-03T21:06:49+08:00",
+  "updated_at": "2026-10-03T21:06:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Redis创始人背书提升项目可信度与关注度",
+      "本地运行LLM满足隐私与离线需求",
+      "反映LLM部署去中心化趋势"
+    ],
+    "category": "LLM工具与部署"
+  }
+}

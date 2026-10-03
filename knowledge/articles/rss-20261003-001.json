@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261003-001",
+  "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
+  "source_url": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
+  "source_type": "rss",
+  "summary": "该条目是Y Combinator旗下公司Great Question（YC W21）在加拿大远程招聘产品工程师（AI全栈方向）的招聘信息。内容仅包含职位链接和HN讨论链接，无具体技术细节。与AI、LLM、Agent领域相关性较低，仅因职位名称提及AI而略有涉及，但未提供任何技术内容或行业洞察。",
+  "tags": [
+    "招聘",
+    "AI全栈",
+    "Y Combinator",
+    "远程工作",
+    "产品工程师"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-03T21:06:49+08:00",
+  "updated_at": "2026-10-03T21:06:49+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "该条目为招聘广告，非技术文章，缺乏AI/LLM/Agent领域的技术内容。",
+      "职位名称包含AI全栈，表明公司可能涉及AI产品开发，但未透露具体技术栈或方向。",
+      "对AI技术知识库的贡献有限，仅可作为行业招聘动态参考。"
+    ],
+    "category": "招聘信息"
+  }
+}

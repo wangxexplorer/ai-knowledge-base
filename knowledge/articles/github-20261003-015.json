@@ -1,0 +1,31 @@
+{
+  "id": "github-20261003-015",
+  "title": "headroom",
+  "source_url": "https://github.com/headroomlabs-ai/headroom",
+  "source_type": "github",
+  "summary": "headroom 是一个用于压缩工具输出、日志、文件和 RAG 分块的工具，旨在减少到达 LLM 的 token 数量。它支持编码代理减少 20% token，JSON 减少 60-95% token，同时保持答案不变。提供库、代理和 MCP 服务器三种形式，使用 Python 编写，与 Anthropic、Claude Code 等 AI 代理生态相关。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Token压缩",
+    "RAG",
+    "MCP"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-03T21:06:49+08:00",
+  "updated_at": "2026-10-03T21:06:49+08:00",
+  "metadata": {
+    "stars": 74317,
+    "language": "Python",
+    "author": "headroomlabs-ai"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "通过压缩输入数据显著减少 LLM token 消耗，降低成本和延迟。",
+      "针对编码代理和 JSON 数据有不同压缩率，保持答案质量。",
+      "提供 MCP 服务器形式，易于集成到 AI 代理工作流中。"
+    ],
+    "category": "AI基础设施"
+  }
+}
