@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261004-012",
+  "title": "Surely you have ultra-wideband radios on your bins too?",
+  "source_url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
+  "source_type": "rss",
+  "summary": "该条目讨论在垃圾桶上安装超宽带（UWB）无线电以检测垃圾桶是否被推出，属于物联网和定位技术应用，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "超宽带",
+    "物联网",
+    "定位技术",
+    "智能家居",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-04T21:45:20+08:00",
+  "updated_at": "2026-10-04T21:45:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "超宽带技术可用于精确定位和状态检测",
+      "该应用属于物联网范畴，与AI/LLM/Agent无直接关系",
+      "技术趣味性高但缺乏AI相关性"
+    ],
+    "category": "物联网"
+  }
+}

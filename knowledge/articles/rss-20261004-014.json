@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261004-014",
+  "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+  "source_url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+  "source_type": "rss",
+  "summary": "该条目报道了Valve工程师Timur Kristóf在Linux上改进旧款AMD GPU的工作，主要涉及开源图形驱动（如RADV）的性能优化和兼容性提升。内容聚焦于底层图形驱动开发，与AI、LLM或Agent领域无直接关联，但可能间接影响AI训练或推理在旧硬件上的效率。",
+  "tags": [
+    "AMD GPU",
+    "Linux驱动",
+    "图形优化",
+    "Valve",
+    "开源"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-04T21:45:20+08:00",
+  "updated_at": "2026-10-04T21:45:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "改进旧AMD GPU的Linux驱动可延长硬件寿命，降低AI计算成本",
+      "图形驱动优化可能间接提升GPU通用计算性能",
+      "与AI/LLM/Agent无直接技术关联"
+    ],
+    "category": "硬件与驱动"
+  }
+}

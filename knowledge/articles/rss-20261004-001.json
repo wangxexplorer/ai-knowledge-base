@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261004-001",
+  "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+  "source_url": "https://github.com/Niko1221/Strata",
+  "source_type": "rss",
+  "summary": "该条目介绍了一个名为Strata的GitHub项目，旨在让Qwen 3.8 Flash Next（125B参数）大模型在消费级硬件（如RTX 4090）上以100 tokens/秒的速度运行。这涉及大模型推理优化、量化、显存管理和并行计算等技术，对于降低LLM部署门槛、推动本地化AI应用具有重要意义。",
+  "tags": [
+    "LLM推理优化",
+    "消费级硬件",
+    "Qwen",
+    "模型量化",
+    "本地部署"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-04T21:45:20+08:00",
+  "updated_at": "2026-10-04T21:45:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "125B大模型可在单张RTX 4090上达到100T/s，显著降低硬件门槛",
+      "涉及量化、显存优化和计算加速等关键技术",
+      "推动LLM在消费级设备上的本地化部署与应用"
+    ],
+    "category": "大模型推理与部署"
+  }
+}

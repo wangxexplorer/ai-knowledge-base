@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261004-016",
+  "title": "What Meta got right with Muse",
+  "source_url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
+  "source_type": "rss",
+  "summary": "文章分析Meta的Muse项目成功之处，可能涉及AI模型开发或产品策略。Muse或为Meta的AI工具，与LLM和Agent领域相关，但具体内容需进一步确认。",
+  "tags": [
+    "Meta",
+    "Muse",
+    "AI产品",
+    "LLM",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-04T21:45:20+08:00",
+  "updated_at": "2026-10-04T21:45:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "Meta的Muse项目可能展示了AI模型或Agent的成功实践",
+      "文章可能讨论Meta在AI领域的战略或技术优势",
+      "对LLM和Agent开发者有借鉴意义"
+    ],
+    "category": "AI产品分析"
+  }
+}

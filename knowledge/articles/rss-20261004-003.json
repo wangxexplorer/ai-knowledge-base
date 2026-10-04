@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261004-003",
+  "title": "Show HN: AI search for every photo and every frame of video on macOS",
+  "source_url": "https://github.com/allenv0/SCM",
+  "source_type": "rss",
+  "summary": "该条目介绍了一个名为SCM的macOS应用，利用AI技术对照片和视频的每一帧进行智能搜索。它属于AI在多媒体检索领域的应用，通过视觉模型实现内容理解与索引，提升本地媒体管理效率。与LLM和Agent领域关联较弱，但体现了AI在端侧搜索场景的落地。",
+  "tags": [
+    "AI搜索",
+    "多媒体检索",
+    "macOS",
+    "视觉模型",
+    "端侧AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-04T21:45:20+08:00",
+  "updated_at": "2026-10-04T21:45:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI搜索从文本扩展到图像和视频帧，实现细粒度内容检索",
+      "端侧AI应用在隐私和效率上具有优势",
+      "与LLM/Agent无直接关联，但可视为多模态AI的垂直应用"
+    ],
+    "category": "AI应用"
+  }
+}

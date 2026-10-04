@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261004-010",
+  "title": "We're going to need default hard budget caps on pretty much everything",
+  "source_url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+  "source_type": "rss",
+  "summary": "文章主张在几乎所有系统（尤其是AI/LLM服务）中设置默认硬性预算上限，防止因意外调用或滥用导致成本失控。作者Simon Willison结合Hacker News讨论，强调对API调用、Agent行为等实施强制成本控制，以保障可持续性和安全性。",
+  "tags": [
+    "成本控制",
+    "LLM预算",
+    "Agent安全",
+    "API治理",
+    "资源限制"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-04T21:45:20+08:00",
+  "updated_at": "2026-10-04T21:45:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "LLM和Agent的自主调用可能产生不可预测的高额费用，硬性预算上限是必要的防护措施。",
+      "默认预算上限应成为AI服务的基础设计原则，而非事后补救。",
+      "该讨论反映了AI应用规模化部署中成本治理与安全控制的迫切需求。"
+    ],
+    "category": "AI工程与运维"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261004-020",
+  "title": "Agents don't need memory, they need documentation",
+  "source_url": "https://liao.gg/blog/agents-dont-need-memory",
+  "source_type": "rss",
+  "summary": "该文章探讨AI Agent的记忆机制，主张Agent不需要传统记忆，而应依赖文档化。作者认为，通过外部文档（如知识库、日志）提供上下文，比内部记忆更可靠、可审计和可扩展。文章在Hacker News引发热议，获得234点及131条评论，反映了Agent设计中对记忆与文档化权衡的关注。",
+  "tags": [
+    "AI Agent",
+    "记忆机制",
+    "文档化",
+    "上下文管理",
+    "LLM应用"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-04T21:45:20+08:00",
+  "updated_at": "2026-10-04T21:45:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Agent的记忆机制可能不如外部文档化可靠，文档化提供更好的可审计性和可扩展性。",
+      "文档化可以作为Agent的长期上下文来源，减少对内部记忆的依赖。",
+      "该观点在开发者社区引发广泛讨论，可能影响未来Agent架构设计方向。"
+    ],
+    "category": "AI Agent 架构"
+  }
+}

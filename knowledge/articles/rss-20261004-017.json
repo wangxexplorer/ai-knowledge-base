@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261004-017",
+  "title": "Hole Punch: Sling your spaceship around gravitational fields",
+  "source_url": "https://notoriousbfg.com/hole-punch/",
+  "source_type": "rss",
+  "summary": "该条目介绍了一款名为Hole Punch的太空游戏，玩家利用引力场操控飞船。内容来自Hacker News，属于游戏和物理模拟领域，与AI、LLM、Agent技术无直接关联。",
+  "tags": [
+    "游戏",
+    "物理模拟",
+    "太空",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-04T21:45:20+08:00",
+  "updated_at": "2026-10-04T21:45:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该条目为游戏介绍，不涉及AI技术",
+      "引力场操控属于物理模拟，与AI无关",
+      "来源Hacker News，但主题偏离AI领域"
+    ],
+    "category": "其他"
+  }
+}

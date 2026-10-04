@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261004-006",
+  "title": "Why don't more developers “use the platform”?",
+  "source_url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+  "source_type": "rss",
+  "summary": "文章探讨开发者为何不直接使用浏览器原生平台能力，而偏好框架和抽象层。这与AI、LLM、Agent领域无直接关联，属于Web开发方法论讨论。",
+  "tags": [
+    "Web开发",
+    "平台工程",
+    "开发者体验",
+    "前端框架",
+    "技术选型"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-04T21:45:20+08:00",
+  "updated_at": "2026-10-04T21:45:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "讨论开发者偏好抽象层而非原生平台的原因",
+      "涉及开发者体验与生态选择",
+      "与AI/LLM/Agent技术无直接关系"
+    ],
+    "category": "Web开发"
+  }
+}

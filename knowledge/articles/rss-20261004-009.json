@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261004-009",
+  "title": "Tell HN: Bob Cringely has died",
+  "source_url": "https://news.ycombinator.com/item?id=49949438",
+  "source_type": "rss",
+  "summary": "Bob Cringely（本名Mark Stevens）去世，他是苹果早期员工，以PBS纪录片《书呆子的胜利》闻名。该条目为讣告，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "讣告",
+    "科技历史",
+    "苹果",
+    "纪录片"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-04T21:45:20+08:00",
+  "updated_at": "2026-10-04T21:45:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Bob Cringely是科技史重要人物，但非AI领域",
+      "其作品《书呆子的胜利》记录了个人电脑革命",
+      "该条目对AI/LLM/Agent无技术相关性"
+    ],
+    "category": "其他"
+  }
+}

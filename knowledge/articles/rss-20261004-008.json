@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261004-008",
+  "title": "We're working on a new RuneScape MMO",
+  "source_url": "https://play.runescape.com/4",
+  "source_type": "rss",
+  "summary": "该条目是关于Jagex正在开发一款新的RuneScape MMO游戏，来自Hacker News的RSS订阅。内容仅包含文章链接和评论链接，未涉及任何AI、LLM或Agent相关技术。因此与AI技术知识库的相关性极低，属于游戏开发领域。",
+  "tags": [
+    "RuneScape",
+    "MMO",
+    "游戏开发",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-04T21:45:20+08:00",
+  "updated_at": "2026-10-04T21:45:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "条目内容为游戏开发新闻，与AI技术无关",
+      "未提及任何LLM或Agent相关概念",
+      "来源为Hacker News，但主题不涉及AI"
+    ],
+    "category": "游戏开发"
+  }
+}

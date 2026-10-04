@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261004-007",
+  "title": "Religious scholars met with Anthropic",
+  "source_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+  "source_type": "rss",
+  "summary": "宗教学者与Anthropic会面，讨论AI道德与价值观对齐问题。该事件涉及Claude模型开发中的伦理考量，反映了LLM在道德推理和价值观嵌入方面的挑战，属于AI安全与对齐领域的重要实践。",
+  "tags": [
+    "AI伦理",
+    "Anthropic",
+    "LLM对齐",
+    "AI安全",
+    "价值观"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-04T21:45:20+08:00",
+  "updated_at": "2026-10-04T21:45:20+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.75,
+    "key_insights": [
+      "宗教视角可丰富AI道德框架设计",
+      "LLM价值观对齐需跨学科协作",
+      "Anthropic积极推动AI伦理外部对话"
+    ],
+    "category": "AI伦理与安全"
+  }
+}
