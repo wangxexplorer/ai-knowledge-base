@@ -1,0 +1,579 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-10-06T00:50:40+08:00",
+  "query": "AI LLM Agent",
+  "items": [
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "hermes-agent",
+      "title": "hermes-agent",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 251373,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "NousResearch/hermes-agent",
+      "author": "NousResearch"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "firecrawl",
+      "title": "firecrawl",
+      "source_url": "https://github.com/firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "stars": 188819,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-crawler",
+        "ai-scraping",
+        "ai-search"
+      ],
+      "full_name": "firecrawl/firecrawl",
+      "author": "firecrawl"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "dify",
+      "title": "dify",
+      "source_url": "https://github.com/langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "stars": 157882,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "full_name": "langgenius/dify",
+      "author": "langgenius"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ponytail",
+      "title": "ponytail",
+      "source_url": "https://github.com/DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 155756,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin"
+      ],
+      "full_name": "DietrichGebert/ponytail",
+      "author": "DietrichGebert"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "langchain",
+      "title": "langchain",
+      "source_url": "https://github.com/langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform.",
+      "stars": 147470,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "langchain-ai/langchain",
+      "author": "langchain-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "awesome-llm-apps",
+      "title": "awesome-llm-apps",
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "stars": 140766,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "llms",
+        "python",
+        "rag"
+      ],
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "author": "Shubhamsaboo"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "pi",
+      "title": "pi",
+      "source_url": "https://github.com/earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 112653,
+      "language": "TypeScript",
+      "topics": [],
+      "full_name": "earendil-works/pi",
+      "author": "earendil-works"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "caveman",
+      "title": "caveman",
+      "source_url": "https://github.com/JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 109960,
+      "language": "Go",
+      "topics": [
+        "ai",
+        "anthropic",
+        "caveman",
+        "claude",
+        "claude-code"
+      ],
+      "full_name": "JuliusBrussee/caveman",
+      "author": "JuliusBrussee"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ragflow",
+      "title": "ragflow",
+      "source_url": "https://github.com/infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 91695,
+      "language": "Go",
+      "topics": [
+        "agent-harness",
+        "agentic-ai",
+        "agentic-nagive",
+        "agentic-retrieval",
+        "agentic-search"
+      ],
+      "full_name": "infiniflow/ragflow",
+      "author": "infiniflow"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "OpenHands",
+      "title": "OpenHands",
+      "source_url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "stars": 90030,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli"
+      ],
+      "full_name": "OpenHands/OpenHands",
+      "author": "OpenHands"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "crawl4ai",
+      "title": "crawl4ai",
+      "source_url": "https://github.com/unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.",
+      "stars": 84782,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "crawler",
+        "data-extraction",
+        "llm"
+      ],
+      "full_name": "unclecode/crawl4ai",
+      "author": "unclecode"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "deer-flow",
+      "title": "deer-flow",
+      "source_url": "https://github.com/bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 83406,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "full_name": "bytedance/deer-flow",
+      "author": "bytedance"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "unsloth",
+      "title": "unsloth",
+      "source_url": "https://github.com/unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.",
+      "stars": 77225,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "chatgpt",
+        "deepseek",
+        "fine-tuning"
+      ],
+      "full_name": "unslothai/unsloth",
+      "author": "unslothai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "LlamaFactory",
+      "title": "LlamaFactory",
+      "source_url": "https://github.com/hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars": 75318,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "deepseek",
+        "fine-tuning",
+        "gemma"
+      ],
+      "full_name": "hiyouga/LlamaFactory",
+      "author": "hiyouga"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "headroom",
+      "title": "headroom",
+      "source_url": "https://github.com/headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "stars": 74444,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "anthropic",
+        "claude-code",
+        "compression"
+      ],
+      "full_name": "headroomlabs-ai/headroom",
+      "author": "headroomlabs-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "MetaGPT",
+      "title": "MetaGPT",
+      "source_url": "https://github.com/FoundationAgents/MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "stars": 70749,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "gpt",
+        "llm",
+        "metagpt",
+        "multi-agent"
+      ],
+      "full_name": "FoundationAgents/MetaGPT",
+      "author": "FoundationAgents"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "mem0",
+      "title": "mem0",
+      "source_url": "https://github.com/mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
+      "stars": 66598,
+      "language": "Python",
+      "topics": [
+        "agentic-memory",
+        "agentic-memory-system",
+        "agents",
+        "ai",
+        "ai-agents"
+      ],
+      "full_name": "mem0ai/mem0",
+      "author": "mem0ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "goose",
+      "title": "goose",
+      "source_url": "https://github.com/aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 54955,
+      "language": "Rust",
+      "topics": [
+        "acp",
+        "ai",
+        "ai-agents",
+        "mcp"
+      ],
+      "full_name": "aaif-goose/goose",
+      "author": "aaif-goose"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "humanizer",
+      "title": "humanizer",
+      "source_url": "https://github.com/blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "stars": 54132,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-humanizer",
+        "ai-writing",
+        "chatgpt",
+        "claude"
+      ],
+      "full_name": "blader/humanizer",
+      "author": "blader"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ai-agent-book",
+      "title": "ai-agent-book",
+      "source_url": "https://github.com/bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "stars": 52471,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agent-memory",
+        "ai-agent",
+        "book",
+        "coding-agent"
+      ],
+      "full_name": "bojieli/ai-agent-book",
+      "author": "bojieli"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "The future of independence is interdependence",
+      "source_url": "https://onlys.ky/independence-is-interdependence/",
+      "url": "https://onlys.ky/independence-is-interdependence/",
+      "description": "Article URL: https://onlys.ky/independence-is-interdependence/ Comments URL: https://news.ycombinator.com/item?id=49966163 Points: 9 # Comments: 3",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Florida woman arrested for allegedly making threats in an AI chat",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
+      "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat Comments URL: https://news.ycombinator.com/item?id=49965895 Points: 33 # Comments: 20",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Borland Turbo Basic",
+      "source_url": "https://dosdays.co.uk/topics/Software/borland_turbo_basic.php",
+      "url": "https://dosdays.co.uk/topics/Software/borland_turbo_basic.php",
+      "description": "Article URL: https://dosdays.co.uk/topics/Software/borland_turbo_basic.php Comments URL: https://news.ycombinator.com/item?id=49965894 Points: 51 # Comments: 19",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Making a GTK application in Haskell, part 1",
+      "source_url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "description": "Article URL: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/ Comments URL: https://news.ycombinator.com/item?id=49965308 Points: 35 # Comments: 2",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Picard 3.0",
+      "source_url": "https://blog.metabrainz.org/2026/10/04/picard-3-0-released/",
+      "url": "https://blog.metabrainz.org/2026/10/04/picard-3-0-released/",
+      "description": "Article URL: https://blog.metabrainz.org/2026/10/04/picard-3-0-released/ Comments URL: https://news.ycombinator.com/item?id=49965047 Points: 37 # Comments: 19",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
+      "source_url": "https://www.youtube.com/watch?v=RFTfANuLBF4",
+      "url": "https://www.youtube.com/watch?v=RFTfANuLBF4",
+      "description": "Article URL: https://www.youtube.com/watch?v=RFTfANuLBF4 Comments URL: https://news.ycombinator.com/item?id=49965042 Points: 22 # Comments: 39",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+      "source_url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+      "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+      "description": "Article URL: https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped Comments URL: https://news.ycombinator.com/item?id=49964303 Points: 266 # Comments: 146",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "The Era of Software Quality, or the Era of Ostriches?",
+      "source_url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
+      "url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
+      "description": "Article URL: https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/ Comments URL: https://news.ycombinator.com/item?id=49964018 Points: 54 # Comments: 29",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Show HN: Minigraf – An embedded, bi-temporal graph database in Rust",
+      "source_url": "https://github.com/project-minigraf/minigraf",
+      "url": "https://github.com/project-minigraf/minigraf",
+      "description": "A successor project to my previous attempt at building a temporal graph database ( https://news.ycombinator.com/item?id=23455516 ). This one builds on its predecessor's concept, but drops the dependency on another database to provide the storage, transaction and query engines. Minigraf is self-contained, packaged as a library crate, embeds into your application, and supports full bi-temporality. Comments URL: https://news.ycombinator.com/item?id=49963394 Points: 19 # Comments: 4",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
+      "source_url": "https://github.com/rui314/mold/releases/tag/v3.0.0",
+      "url": "https://github.com/rui314/mold/releases/tag/v3.0.0",
+      "description": "Article URL: https://github.com/rui314/mold/releases/tag/v3.0.0 Comments URL: https://news.ycombinator.com/item?id=49963385 Points: 82 # Comments: 23",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Germany’s RobCo hits $1B valuation",
+      "source_url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+      "description": "Article URL: https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/ Comments URL: https://news.ycombinator.com/item?id=49963366 Points: 290 # Comments: 267",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Web Search API",
+      "source_url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "description": "Article URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/ Comments URL: https://news.ycombinator.com/item?id=49963171 Points: 241 # Comments: 120",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Apple and a Hacker's Future",
+      "source_url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "description": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/ Comments URL: https://news.ycombinator.com/item?id=49962857 Points: 145 # Comments: 138",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",
+      "source_url": "https://www.nobelprize.org/prizes/medicine/2026/summary/",
+      "url": "https://www.nobelprize.org/prizes/medicine/2026/summary/",
+      "description": "https://www.nobelprize.org/prizes/medicine/2026/press-releas... Comments URL: https://news.ycombinator.com/item?id=49962572 Points: 24 # Comments: 29",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "source_url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+      "description": "Article URL: https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger Comments URL: https://news.ycombinator.com/item?id=49962012 Points: 348 # Comments: 255",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+      "source_url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+      "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+      "description": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-... Comments URL: https://news.ycombinator.com/item?id=49961861 Points: 127 # Comments: 77",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
+      "source_url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+      "description": "https://archive.org/details/tippett-archive/ Comments URL: https://news.ycombinator.com/item?id=49957812 Points: 207 # Comments: 26",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "A browser-native classic Visual Basic VB6 IDE",
+      "source_url": "https://wieslawsoltes.github.io/VB6/",
+      "url": "https://wieslawsoltes.github.io/VB6/",
+      "description": "Article URL: https://wieslawsoltes.github.io/VB6/ Comments URL: https://news.ycombinator.com/item?id=49956681 Points: 345 # Comments: 116",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "The technology to eradicate mosquito-borne disease exists",
+      "source_url": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
+      "url": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
+      "description": "Article URL: https://worksinprogress.co/issue/mosquitoes-are-a-choice/ Comments URL: https://news.ycombinator.com/item?id=49956290 Points: 115 # Comments: 97",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "source_url": "https://github.com/Niko1221/Strata",
+      "url": "https://github.com/Niko1221/Strata",
+      "description": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 886 # Comments: 397",
+      "feed_name": "Hacker News"
+    }
+  ]
+}

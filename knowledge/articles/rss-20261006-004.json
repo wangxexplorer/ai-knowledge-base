@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261006-004",
+  "title": "Making a GTK application in Haskell, part 1",
+  "source_url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+  "source_type": "rss",
+  "summary": "本文介绍如何使用Haskell语言开发GTK应用程序的第一部分，涵盖环境搭建、基础窗口创建和事件处理等。内容聚焦于函数式编程与GUI开发的结合，未涉及AI、LLM或Agent相关技术。",
+  "tags": [
+    "Haskell",
+    "GTK",
+    "GUI开发",
+    "函数式编程"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-06T00:52:25+08:00",
+  "updated_at": "2026-10-06T00:52:25+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Haskell可用于构建GTK桌面应用",
+      "函数式编程与GUI事件循环的结合方式",
+      "与AI、LLM、Agent领域无直接关联"
+    ],
+    "category": "软件开发"
+  }
+}

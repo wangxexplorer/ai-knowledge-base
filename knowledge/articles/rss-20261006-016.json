@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261006-016",
+  "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+  "source_url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+  "source_type": "rss",
+  "summary": "华为与高通宣布达成广泛专利许可协议，覆盖双方在无线通信等领域的标准必要专利。该协议有助于减少专利纠纷，促进5G等技术的应用，但对AI、LLM或Agent领域无直接技术影响，仅可能间接影响AI芯片的通信基带集成。",
+  "tags": [
+    "专利许可",
+    "华为",
+    "高通",
+    "无线通信",
+    "5G"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-06T00:52:25+08:00",
+  "updated_at": "2026-10-06T00:52:25+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "协议主要涉及无线通信标准必要专利，与AI算法无直接关联",
+      "可能间接影响AI芯片的基带集成和供应链",
+      "对LLM和Agent领域无显著技术推动"
+    ],
+    "category": "通信与硬件"
+  }
+}

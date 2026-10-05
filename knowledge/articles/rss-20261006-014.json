@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261006-014",
+  "title": "2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",
+  "source_url": "https://www.nobelprize.org/prizes/medicine/2026/summary/",
+  "source_type": "rss",
+  "summary": "该条目报道2026年诺贝尔生理学或医学奖授予Deisseroth、Hegemann和Nagel，表彰其在光遗传学领域的贡献。光遗传学利用光控制神经元活动，是神经科学重要工具。该技术与AI、LLM、Agent领域无直接关联，但可能间接启发神经形态计算或类脑智能研究。",
+  "tags": [
+    "光遗传学",
+    "神经科学",
+    "诺贝尔奖",
+    "类脑计算",
+    "生物技术"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-06T00:52:25+08:00",
+  "updated_at": "2026-10-06T00:52:25+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "光遗传学是神经科学突破性技术，与AI无直接关系",
+      "可能为神经形态计算提供生物学灵感",
+      "对LLM和Agent领域无直接影响"
+    ],
+    "category": "生物医学"
+  }
+}

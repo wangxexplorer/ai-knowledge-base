@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261006-019",
+  "title": "The technology to eradicate mosquito-borne disease exists",
+  "source_url": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
+  "source_type": "rss",
+  "summary": "该条目讨论利用现有技术（如基因驱动、辐射绝育等）根除蚊媒疾病，属于公共卫生与生物技术领域，与AI、LLM、Agent无直接关联。",
+  "tags": [
+    "公共卫生",
+    "生物技术",
+    "基因驱动",
+    "蚊媒疾病",
+    "非AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-06T00:52:25+08:00",
+  "updated_at": "2026-10-06T00:52:25+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "根除蚊媒疾病的技术已存在，但推广受限于政治与伦理因素",
+      "该话题不涉及人工智能、大语言模型或智能体技术",
+      "AI在生物技术中可能有辅助作用，但本文未提及"
+    ],
+    "category": "生物技术"
+  }
+}

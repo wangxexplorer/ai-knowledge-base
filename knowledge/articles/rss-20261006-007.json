@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261006-007",
+  "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+  "source_url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+  "source_type": "rss",
+  "summary": "该条目讨论Pixel 11手机未能满足GrapheneOS的安全标准，可能被跳过。GrapheneOS是一个注重隐私和安全的Android分支，其决策基于硬件安全特性。内容涉及移动设备安全、操作系统定制和硬件兼容性，与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "移动安全",
+    "GrapheneOS",
+    "Pixel",
+    "隐私",
+    "操作系统"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-06T00:52:25+08:00",
+  "updated_at": "2026-10-06T00:52:25+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "GrapheneOS对硬件安全有严格要求，可能影响Pixel 11的采用",
+      "该讨论聚焦于移动设备安全标准，而非AI技术",
+      "与AI、LLM、Agent领域无直接技术关联"
+    ],
+    "category": "移动安全"
+  }
+}

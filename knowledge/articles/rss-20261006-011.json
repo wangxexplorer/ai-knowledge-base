@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261006-011",
+  "title": "Germany’s RobCo hits $1B valuation",
+  "source_url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+  "source_type": "rss",
+  "summary": "德国机器人公司RobCo估值达到10亿美元，成为欧洲新晋机器人独角兽。该公司专注于模块化工业机器人，通过软件定义和灵活配置降低自动化门槛，主要服务于中小型制造企业。此轮融资反映了市场对机器人自动化领域的持续关注，但该条目本身未涉及AI、LLM或Agent技术，仅属于机器人硬件与自动化赛道。",
+  "tags": [
+    "机器人",
+    "工业自动化",
+    "独角兽",
+    "融资",
+    "欧洲科技"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-06T00:52:25+08:00",
+  "updated_at": "2026-10-06T00:52:25+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.15,
+    "key_insights": [
+      "RobCo通过模块化机器人降低自动化门槛，瞄准中小制造企业",
+      "估值达10亿美元，显示资本市场对机器人自动化的兴趣",
+      "与AI/LLM/Agent无直接关联，属于传统机器人硬件与软件集成领域"
+    ],
+    "category": "机器人硬件"
+  }
+}

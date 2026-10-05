@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261006-003",
+  "title": "Borland Turbo Basic",
+  "source_url": "https://dosdays.co.uk/topics/Software/borland_turbo_basic.php",
+  "source_type": "rss",
+  "summary": "Borland Turbo Basic 是1980年代Borland公司推出的BASIC编程语言集成开发环境，以其编译速度快和易用性著称，是早期PC软件开发的重要工具。该条目与AI、LLM、Agent领域无直接关联，属于计算机历史与编程语言工具范畴。",
+  "tags": [
+    "编程语言",
+    "开发工具",
+    "计算机历史",
+    "BASIC",
+    "Borland"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-06T00:52:25+08:00",
+  "updated_at": "2026-10-06T00:52:25+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "Turbo Basic是早期PC编程工具的代表，但与现代AI技术栈无关",
+      "该条目反映了编程语言和IDE的演进历史，对理解AI开发工具背景有间接参考价值",
+      "AI/LLM/Agent领域更关注Python等现代语言及框架，而非传统BASIC环境"
+    ],
+    "category": "编程语言与工具"
+  }
+}

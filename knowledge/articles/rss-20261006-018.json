@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261006-018",
+  "title": "A browser-native classic Visual Basic VB6 IDE",
+  "source_url": "https://wieslawsoltes.github.io/VB6/",
+  "source_type": "rss",
+  "summary": "该条目介绍了一个在浏览器中原生运行的经典Visual Basic 6（VB6）集成开发环境（IDE）。它允许用户直接在网页中编写、编译和运行VB6代码，无需安装本地软件。项目通过WebAssembly等技术将传统桌面IDE移植到浏览器，展示了前端技术对老旧开发工具的现代化改造。与AI、LLM或Agent领域无直接关联，属于开发者工具和Web技术范畴。",
+  "tags": [
+    "VB6",
+    "浏览器IDE",
+    "WebAssembly",
+    "开发者工具",
+    "前端技术"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-06T00:52:25+08:00",
+  "updated_at": "2026-10-06T00:52:25+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "浏览器原生IDE展示了WebAssembly在移植传统桌面应用方面的潜力",
+      "该工具与AI/LLM/Agent无直接关系，但可能作为AI辅助编程的交互环境",
+      "经典开发环境的Web化有助于教育和遗留系统维护"
+    ],
+    "category": "开发者工具"
+  }
+}

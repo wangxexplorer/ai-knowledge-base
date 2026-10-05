@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261006-002",
+  "title": "Florida woman arrested for allegedly making threats in an AI chat",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
+  "source_type": "rss",
+  "summary": "佛罗里达州一名女子因在AI聊天中发出威胁而被捕，事件引发对AI对话内容法律边界和平台责任的讨论。该案例凸显了AI聊天记录可作为执法证据，以及AI系统在监测和报告威胁言论方面的潜在角色。",
+  "tags": [
+    "AI伦理",
+    "法律监管",
+    "内容安全",
+    "AI聊天",
+    "执法"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-06T00:52:25+08:00",
+  "updated_at": "2026-10-06T00:52:25+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI聊天内容可能成为执法证据，用户需意识到对话并非绝对私密",
+      "AI平台可能面临监测和报告威胁言论的法律与伦理压力",
+      "此案为AI生成内容的法律责任界定提供了先例参考"
+    ],
+    "category": "AI应用与社会影响"
+  }
+}

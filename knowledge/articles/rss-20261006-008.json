@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261006-008",
+  "title": "The Era of Software Quality, or the Era of Ostriches?",
+  "source_url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
+  "source_type": "rss",
+  "summary": "本文探讨软件质量时代与鸵鸟心态，可能涉及AI生成代码对质量的影响，但缺乏具体内容，与AI/LLM/Agent领域关联较弱。",
+  "tags": [
+    "软件质量",
+    "AI生成代码",
+    "开发实践",
+    "技术文化",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-06T00:52:25+08:00",
+  "updated_at": "2026-10-06T00:52:25+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "软件质量在AI时代面临新挑战",
+      "可能存在对AI代码质量的忽视现象",
+      "需关注AI对软件开发流程的影响"
+    ],
+    "category": "软件工程"
+  }
+}
