@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261008-004",
+  "title": "Anchor Divergence for Semantic Geometry in Contrastive Learning",
+  "source_url": "https://arxiv.org/abs/2610.06919",
+  "source_type": "rss",
+  "summary": "本文研究对比学习中语义上下文如何决定表示空间的几何结构。传统余弦相似度提供固定几何，但语义相似性依赖上下文。作者利用对比学习、指数族和信息几何的相互作用，建立了锚点分布与Bregman几何之间的对应关系，提出Anchor Divergences方法，可在固定表示上指定上下文特定的语义几何。检索实验表明该方法能有效且高效地指定上下文相关的语义相似度。",
+  "tags": [
+    "对比学习",
+    "表示学习",
+    "信息几何",
+    "语义相似度",
+    "检索"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-08T23:17:21+08:00",
+  "updated_at": "2026-10-08T23:17:21+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.75,
+    "key_insights": [
+      "对比学习表示天然包含一族几何结构，可针对特定语义结构进行特化。",
+      "锚点分布与Bregman几何的对应关系使得建模锚点分布等价于建模几何本身。",
+      "Anchor Divergences为固定表示提供了一种高效指定上下文相关语义相似度的方法。"
+    ],
+    "category": "表示学习"
+  }
+}

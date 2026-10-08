@@ -1,0 +1,31 @@
+{
+  "id": "github-20261008-008",
+  "title": "caveman",
+  "source_url": "https://github.com/JuliusBrussee/caveman",
+  "source_type": "github",
+  "summary": "caveman 是一个用 Go 编写的代理工具，通过让编码代理使用极简的“原始人”式语言来减少 token 消耗，声称可节省 65% 的 token。它针对 Claude 等 LLM 编码代理，旨在降低 API 成本并提高效率。该项目在 GitHub 上获得超过 11 万星标，反映了社区对 token 优化和代理效率的高度关注。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Token优化",
+    "Claude",
+    "代理"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-08T23:17:21+08:00",
+  "updated_at": "2026-10-08T23:17:21+08:00",
+  "metadata": {
+    "stars": 110529,
+    "language": "Go",
+    "author": "JuliusBrussee"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "通过简化代理输出语言大幅减少 token 使用，直接降低 LLM 调用成本。",
+      "针对编码代理场景，展示了提示工程在优化代理行为中的实际价值。",
+      "高星标数表明 token 效率和代理成本是当前 AI 开发者的核心痛点。"
+    ],
+    "category": "AI开发工具"
+  }
+}

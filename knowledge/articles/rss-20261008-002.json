@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261008-002",
+  "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
+  "source_url": "https://arxiv.org/abs/2610.06914",
+  "source_type": "rss",
+  "summary": "Text2Dashboard是一个面向企业DataBrain的受治理Agent架构，通过可安装Codex插件和独立Agent Runtime，将自然语言分析请求转化为可检查的仪表板。它结合模式约束的模型决策、类型化工具、持久状态和确定性Hooks，实现实体解析、元数据发现、只读SQL强制、仪表板组合及静态检查、动态预检和浏览器检查。模型仅提出动作，确定性软件控制执行并记录状态转换。在冻结的真实Da",
+  "tags": [
+    "Agent架构",
+    "自然语言接口",
+    "企业数据",
+    "仪表板生成",
+    "受治理执行"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-08T23:17:21+08:00",
+  "updated_at": "2026-10-08T23:17:21+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "模型提出动作、确定性软件控制执行的分离架构，增强了Agent系统的可审计性和安全性。",
+      "通过持久状态和确定性Hooks实现审批、审计、检查点、恢复和故障处理，满足企业治理需求。",
+      "在真实企业数据任务上验证了自然语言到仪表板生成的可行性，但模型推理占主导运行时间，效率有待优化。"
+    ],
+    "category": "AI Agent应用"
+  }
+}

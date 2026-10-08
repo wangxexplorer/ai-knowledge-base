@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261008-020",
+  "title": "Small Language Models for Smart Data Model Classification at the Edge: A Cost-Aware Hybrid Approach",
+  "source_url": "https://arxiv.org/abs/2610.07093",
+  "source_type": "rss",
+  "summary": "该研究针对物联网边缘环境中智能数据模型（SDM）分类的资源受限问题，评估了轻量级开源语言模型（包括通用、推理专用和代码专用架构）的性能，并与TF-IDF和轻量级句子编码器等近零成本基线进行对比。研究旨在提供模型选择、任务制定和部署策略的见解，以优化边缘平台上的准确性和效率。",
+  "tags": [
+    "小语言模型",
+    "边缘计算",
+    "数据模型分类",
+    "LLM评估",
+    "资源受限"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-08T23:17:21+08:00",
+  "updated_at": "2026-10-08T23:17:21+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "轻量级语言模型可在边缘设备上有效执行智能数据模型分类任务",
+      "推理专用和代码专用模型在特定领域数据集上可能优于通用模型",
+      "TF-IDF等简单基线在资源极度受限时仍具参考价值"
+    ],
+    "category": "AI应用"
+  }
+}

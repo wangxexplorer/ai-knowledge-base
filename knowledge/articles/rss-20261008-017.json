@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261008-017",
+  "title": "Inference-Time Projection for Physically Valid Biomolecular Diffusion Models",
+  "source_url": "https://arxiv.org/abs/2610.07037",
+  "source_type": "rss",
+  "summary": "该论文针对AlphaFold 3风格生物分子共折叠扩散模型输出物理无效结构的问题，提出推理时投影方法。通过两个闭式投影算子（链间范德华投影和配体距离几何投影）作用于去噪后的干净坐标估计，无需重新训练或额外网络评估，即可恢复物理有效性，同时保持结构精度和配体放置指标，且计算开销可忽略。",
+  "tags": [
+    "扩散模型",
+    "推理优化",
+    "生物分子结构预测",
+    "物理约束",
+    "AlphaFold"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-08T23:17:21+08:00",
+  "updated_at": "2026-10-08T23:17:21+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.65,
+    "key_insights": [
+      "物理有效性可在推理时从采样器已有量中完全验证，无需额外网络评估或梯度计算。",
+      "闭式投影算子局部、稀疏且位移受限，可即插即用于任何AF3风格采样器，无需重新训练。",
+      "该方法在多个基准上恢复完美物理有效性，同时保持结构精度和配体放置指标，运行时和内存开销可忽略。"
+    ],
+    "category": "AI for Science"
+  }
+}

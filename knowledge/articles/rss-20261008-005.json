@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261008-005",
+  "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
+  "source_url": "https://arxiv.org/abs/2610.06923",
+  "source_type": "rss",
+  "summary": "RadOnc-Agent是一个LLM编排的智能体框架，将放疗护理路径形式化为四个临床阶段，通过对话界面提供26个可调用函数。LLM控制器将临床意图映射为模式约束调用，保持患者和工作流上下文，并路由到专业服务。在2600个单功能请求中，98.79%选择了预期函数；在跨阶段工作流中完成率96.50%；真实患者工作流完成率96.67%。消融实验表明，移除纵向状态使跨阶段完成率降至84%，禁用模式验证使错",
+  "tags": [
+    "LLM Agent",
+    "医疗AI",
+    "工作流编排",
+    "工具调用",
+    "放疗"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-08T23:17:21+08:00",
+  "updated_at": "2026-10-08T23:17:21+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "LLM作为控制器可有效编排复杂医疗工作流，实现高精度函数调用和跨阶段任务完成",
+      "纵向状态保持和模式验证是确保智能体可靠性的关键机制",
+      "该框架展示了LLM在专业领域协调异构AI能力的潜力，但临床验证仍需后续研究"
+    ],
+    "category": "AI应用"
+  }
+}

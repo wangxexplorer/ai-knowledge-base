@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261008-009",
+  "title": "EPOCH: Reliable Discovery through Evidence-Governed Search",
+  "source_url": "https://arxiv.org/abs/2610.06986",
+  "source_type": "rss",
+  "summary": "EPOCH提出一种证据治理架构，用于AI研究代理在程序、数学构造和证明搜索中，通过显式任务契约、类型化记忆、主动证伪、准入检查和独立重放，确保候选发现的可信度。在AlgoTune、Math14和AgentHPO上取得领先性能，展示了将搜索转化为可信科学发现的能力。",
+  "tags": [
+    "AI研究代理",
+    "证据治理",
+    "自动发现",
+    "程序搜索",
+    "数学证明"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-08T23:17:21+08:00",
+  "updated_at": "2026-10-08T23:17:21+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "证据治理是提升AI研究代理可信度的关键，避免脆弱候选被误认为发现。",
+      "EPOCH通过任务契约、类型化记忆和主动证伪等机制实现可靠发现循环。",
+      "在算法调优、数学构造和超参优化等任务上，EPOCH显著优于基线并产生可验证进展。"
+    ],
+    "category": "AI Agent"
+  }
+}

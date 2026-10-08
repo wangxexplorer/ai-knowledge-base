@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261008-016",
+  "title": "JIVEAdapter: A Multi-Task Additive Low-Rank Adapter via Joint and Individual Variation Explained (JIVE)",
+  "source_url": "https://arxiv.org/abs/2610.07036",
+  "source_type": "rss",
+  "summary": "JIVEAdapter是一种多任务低秩适配器，受JIVE统计方法启发，将权重更新分解为跨任务共享的Joint结构和任务特定的Individual结构，并强制Individual与Joint近正交以保持可解释性。它自适应分配秩，Joint可一次学习后冻结复用，无需额外模块。在GLUE和SuperGLUE上，基于DeBERTaV3-base，与强基线竞争，且能通过复用Individual结构高效迁移到",
+  "tags": [
+    "参数高效微调",
+    "多任务学习",
+    "低秩适配器",
+    "JIVE",
+    "迁移学习"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-08T23:17:21+08:00",
+  "updated_at": "2026-10-08T23:17:21+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "JIVEAdapter通过加性分解将权重更新分为共享Joint和任务特定Individual，提升多任务学习的可解释性和参数效率。",
+      "Joint结构可一次学习后冻结复用，支持增量任务学习，降低新任务适配成本。",
+      "在GLUE和SuperGLUE上，JIVEAdapter以匹配的有效秩达到与强基线竞争的性能，且无需MoE等额外模块。"
+    ],
+    "category": "参数高效微调"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261008-003",
+  "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
+  "source_url": "https://arxiv.org/abs/2610.06917",
+  "source_type": "rss",
+  "summary": "FluidPD 提出一种面向 SLO 的预填充-解码分离 LLM 服务系统，通过 FluidToken 将部分预填充计算卸载到空闲解码工作节点以应对瞬时负载波动，并通过 FluidRole 在不重载模型的情况下原地切换工作节点角色以应对持续负载变化。基于轻量级压力指标提前感知资源压力，在 Azure 生产负载上相比静态 SGLang 将 SLO 达成率最高提升 94.6 个百分点，无需额外 GPU",
+  "tags": [
+    "LLM Serving",
+    "Prefill-Decode Disaggregation",
+    "SLO-Aware",
+    "Elasticity",
+    "Inference Optimization"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-08T23:17:21+08:00",
+  "updated_at": "2026-10-08T23:17:21+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "预填充-解码分离架构中，固定工作节点比例难以适应负载波动，需要细粒度的原地弹性机制。",
+      "FluidToken 和 FluidRole 分别处理瞬时与持续负载失衡，避免模型重载和引擎重启，降低响应延迟。",
+      "轻量级压力指标可提前预测 SLO 违规，实现主动式资源调度，无需额外 GPU 即可显著提升 SLO 达成率。"
+    ],
+    "category": "LLM 推理与服务系统"
+  }
+}

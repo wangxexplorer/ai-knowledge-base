@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261008-012",
+  "title": "Topology-Consistent Task Planning over Cellular Workflow Complexes for LLM-based Agents",
+  "source_url": "https://arxiv.org/abs/2610.07004",
+  "source_type": "rss",
+  "summary": "本文提出TopoPlanner，一种面向LLM智能体的拓扑一致性任务规划框架。它将工具依赖图提升为细胞工作流复形，通过余层一致的细胞检索获取请求相关的闭合子复形，并进行多维结构推理，最终与规划LLM接口生成工具序列。实验表明，在四个工具规划基准上，该方法在循环、合并及循环-合并工作流中均优于基于提示和图增强的基线。",
+  "tags": [
+    "LLM Agent",
+    "任务规划",
+    "拓扑推理",
+    "工具编排",
+    "工作流"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-08T23:17:21+08:00",
+  "updated_at": "2026-10-08T23:17:21+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "现有LLM规划器难以处理验证-纠正循环、分支合并等复杂工作流模式。",
+      "将工具依赖图提升为细胞复形，为LLM提供拓扑感知的上下文。",
+      "拓扑一致性规划在多个基准上优于提示和图增强基线。"
+    ],
+    "category": "LLM Agent 规划"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261008-015",
+  "title": "Offline AI Modules: Voice-First Offline Architecture, Hardware Reference Stack, Quantization and Benchmarking",
+  "source_url": "https://arxiv.org/abs/2610.07026",
+  "source_type": "rss",
+  "summary": "该论文提出面向非洲语言社区的离线语音优先AI系统，包含模块化架构、低成本硬件参考栈，以及针对2-5B指令微调语言模型的可复现量化与基准测试流程。在Jetson Orin NX和Raspberry Pi5两个硬件层级上，评估三种模型在四种量化格式下的解码吞吐、延迟、内存、功耗及多语言质量，并测试Amharic和Oromo语音识别。主要发现Q4_K_M量化在尺寸与质量间取得最佳平衡，gemma-4-E",
+  "tags": [
+    "离线AI",
+    "量化",
+    "LLM部署",
+    "语音识别",
+    "边缘计算"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-08T23:17:21+08:00",
+  "updated_at": "2026-10-08T23:17:21+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Q4_K_M量化在2-5B参数模型上实现最佳尺寸-质量权衡，适合边缘设备部署",
+      "离线语音优先架构可服务于网络不可靠的非洲语言社区，支持多语言主题分类和语音识别",
+      "在Raspberry Pi5等低成本硬件上，16GB内存预算内可运行指令微调语言模型"
+    ],
+    "category": "AI系统与部署"
+  }
+}

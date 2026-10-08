@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261008-011",
+  "title": "Joint upper-bound coverage and route-choice utility: an empirical evaluation on two urban proxy tasks",
+  "source_url": "https://arxiv.org/abs/2610.06995",
+  "source_type": "rss",
+  "summary": "该研究评估了交通预测精度与不确定性覆盖对路线选择效用的影响。通过北京和成都的离线代理任务，发现联合上界覆盖率的提升并未改善路线决策，反而增加了迟到率和平均旅行时间。研究表明，联合覆盖率不能作为下游路线效用的替代指标，离线结果无法确立在线或因果收益。",
+  "tags": [
+    "交通预测",
+    "不确定性量化",
+    "路线选择",
+    "离线评估",
+    "代理任务"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-08T23:17:21+08:00",
+  "updated_at": "2026-10-08T23:17:21+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.15,
+    "key_insights": [
+      "联合上界覆盖率的提升并不必然改善路线选择效用，甚至可能增加迟到率和旅行时间。",
+      "预测精度（如速度MAE降低）与路线决策效用之间存在不一致性，需谨慎评估。",
+      "离线代理任务的结果不能直接推广到在线或因果场景，需进一步验证。"
+    ],
+    "category": "交通预测与决策"
+  }
+}

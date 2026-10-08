@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261008-006",
+  "title": "Metonymic Circuits for Abstract Concept Grounding in Vision Transformers",
+  "source_url": "https://arxiv.org/abs/2610.06928",
+  "source_type": "rss",
+  "summary": "该研究探讨视觉Transformer（如CLIP、DINO）如何为抽象概念（如“愤怒”）建立视觉基础。作者提出“转喻接地”机制：抽象预测由具体、可解释的锚概念（如“火”）驱动，通过Transcoders恢复中间特征并追踪电路。实验发现结构化转喻电路，早期层以感知原语为主，物体类锚先于抽象目标；含渲染文本的图像则走独立的感知-文本路径。因果干预验证了转喻中间特征的功能性作用。",
+  "tags": [
+    "视觉Transformer",
+    "概念接地",
+    "可解释性",
+    "多模态",
+    "因果干预"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-08T23:17:21+08:00",
+  "updated_at": "2026-10-08T23:17:21+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "抽象概念在视觉模型中的接地依赖于具体锚概念（转喻机制），而非直接映射。",
+      "通过Transcoders可恢复中间语义特征并追踪抽象识别电路，提升可解释性。",
+      "因果干预证实转喻中间特征对抽象概念识别具有功能必要性。"
+    ],
+    "category": "多模态与视觉理解"
+  }
+}

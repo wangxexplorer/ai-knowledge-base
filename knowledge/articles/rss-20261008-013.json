@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261008-013",
+  "title": "When to Rethink: Learning Multi-Perspective Self-Verification for Vision-Language Models",
+  "source_url": "https://arxiv.org/abs/2610.07018",
+  "source_type": "rss",
+  "summary": "该论文针对视觉语言模型（VLM）在多模态推理中易产生看似合理但错误答案的问题，提出MOTIVE框架。通过分析验证器能力和提示设计对自验证的影响，发现单一标准或固定提示导致可靠性估计不完整且不稳定。MOTIVE从多视角评估候选答案，学习正确性对齐的可靠性分数，并在推理时决定接受或重新思考，从而提升多模态推理的可靠性和效率。",
+  "tags": [
+    "视觉语言模型",
+    "自验证",
+    "多模态推理",
+    "可靠性评估",
+    "自纠正"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-08T23:17:21+08:00",
+  "updated_at": "2026-10-08T23:17:21+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "验证器能力越强，判断越可靠，但验证性能对提示选择高度敏感，无单一提示在所有任务中占优。",
+      "多视角自验证结合可靠性引导的选择性重思考，能有效提升VLM答案可靠性并减少不必要的推理轮次。",
+      "无需外部评判者，通过正确性对齐的多视角验证学习，可实现更可靠且高效的自验证机制。"
+    ],
+    "category": "多模态学习"
+  }
+}

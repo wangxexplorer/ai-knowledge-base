@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261008-007",
+  "title": "Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction",
+  "source_url": "https://arxiv.org/abs/2610.06964",
+  "source_type": "rss",
+  "summary": "该论文提出SAGA框架，旨在解决LLM智能体难以从经验中持续进化的问题。SAGA通过将交互轨迹逐步抽象为情节描述、可复用流程和带适用条件的原理，并保持与执行证据的链接，实现知识抽象与利用。检索到的原理被实例化为任务指导，通过纠正反馈和重采样优化候选动作，形成执行-抽象反馈循环。在ScienceWorld和ALFWorld上的实验表明任务性能提升，消融研究强调了上下文实例化和动作调节对利用原理级知识",
+  "tags": [
+    "LLM Agent",
+    "知识抽象",
+    "经验学习",
+    "外部记忆",
+    "自我进化"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-08T23:17:21+08:00",
+  "updated_at": "2026-10-08T23:17:21+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "SAGA通过将具体交互抽象为可复用原理，解决了外部记忆知识泛化性差的问题。",
+      "执行-抽象反馈循环使智能体能够持续从经验中进化，无需微调模型参数。",
+      "上下文实例化和动作调节是利用原理级知识提升任务性能的关键。"
+    ],
+    "category": "Agent"
+  }
+}

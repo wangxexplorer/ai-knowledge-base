@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261008-014",
+  "title": "Beyond Refusal Patterns: Safe-Role Internalization for Robust and Generalizable LLM Safety Alignment",
+  "source_url": "https://arxiv.org/abs/2610.07023",
+  "source_type": "rss",
+  "summary": "该论文提出SSRFT框架，将LLM安全对齐重新定义为内化预定义安全角色，而非依赖显式拒绝模式。通过构建安全角色问答数据集，合成并验证角色一致响应，扩展至多样场景，使模型内化安全价值观。实验表明，SSRFT在多种模型上比标准SFT更鲁棒、泛化性更强，能抵御预填充攻击和未见越狱域，同时减少对良性查询的过度拒绝，并保持通用能力。",
+  "tags": [
+    "LLM安全对齐",
+    "越狱攻击防御",
+    "监督微调",
+    "角色内化",
+    "鲁棒性"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-08T23:17:21+08:00",
+  "updated_at": "2026-10-08T23:17:21+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "将安全对齐从拒绝模式转向安全角色内化，可提升鲁棒性和泛化性。",
+      "SSRFT在抵御预填充攻击和未见越狱域上优于标准SFT，并减少过度拒绝。",
+      "基于心理测量问题构建安全角色问答数据集，为安全对齐提供新思路。"
+    ],
+    "category": "LLM安全与对齐"
+  }
+}

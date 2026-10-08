@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261008-010",
+  "title": "When better traffic forecasts fail to improve signal control: a layered diagnostic study of forecast-to-decision value",
+  "source_url": "https://arxiv.org/abs/2610.06992",
+  "source_type": "rss",
+  "summary": "该研究通过分层诊断框架，分析交通预测改进为何未能提升信号控制决策。基于宣城29天需求数据，发现预测精度提升（MAE降低约4%）并未转化为闭环控制收益，因果预测甚至使排队车秒增加6.09%。研究揭示预测价值取决于时间可观测性、动作可识别性、动态一致性和目标对齐，为诊断预测到决策的价值转化提供了实用协议。",
+  "tags": [
+    "预测与决策",
+    "闭环控制",
+    "因果推断",
+    "不确定性量化",
+    "智能交通"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-08T23:17:21+08:00",
+  "updated_at": "2026-10-08T23:17:21+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.35,
+    "key_insights": [
+      "预测精度提升不必然改善下游决策，预测价值受时间可观测性、动作可识别性、动态一致性和目标对齐四重因素制约。",
+      "名义90%的共形区间在高需求子集上覆盖率仅75.66%，表明不确定性量化在分布偏移下可能失效。",
+      "仅两个交叉口具备多种有效动作，动作可识别性不足是预测价值无法兑现的关键瓶颈之一。"
+    ],
+    "category": "AI应用与决策系统"
+  }
+}

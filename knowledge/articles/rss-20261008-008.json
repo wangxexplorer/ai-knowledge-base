@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261008-008",
+  "title": "AegisFlow: A Multi-Agent Agentic AI Framework for Autonomous Remediation and Self-Healing in Fragile Data Ecosystems",
+  "source_url": "https://arxiv.org/abs/2610.06971",
+  "source_type": "rss",
+  "summary": "AegisFlow是一个多智能体Agentic AI框架，用于脆弱数据生态系统的自主修复与自愈。它通过Watchdog代理收集运行时遥测，Repair代理基于LLM自动创建、测试和部署代码补丁，并采用并行影子补丁的非侵入式执行模型和MAPE-K循环。实验显示MTTR从170分钟降至3.2分钟，补丁成功率92%，能有效处理JSON模式变更和标点漂移等故障。",
+  "tags": [
+    "多智能体",
+    "LLM",
+    "自愈系统",
+    "数据管道",
+    "自主修复"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-08T23:17:21+08:00",
+  "updated_at": "2026-10-08T23:17:21+08:00",
+  "metadata": {
+    "feed_name": "ArXiv AI"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "利用LLM驱动的多智能体协作实现数据管道故障的自动检测与修复，大幅降低MTTR。",
+      "提出并行影子补丁机制，在数字孪生环境中安全验证补丁，确保非侵入式部署。",
+      "框架可插件化集成到现有管道编排系统，释放约98%的运维人力。"
+    ],
+    "category": "AI Agent应用"
+  }
+}
