@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261009-005",
+  "title": "Deno Is Joining Cloudflare",
+  "source_url": "https://deno.com/blog/cloudflare",
+  "source_type": "rss",
+  "summary": "Deno 加入 Cloudflare，这是一项重大收购，涉及 JavaScript/TypeScript 运行时和边缘计算平台。Deno 由 Node.js 创始人创建，以安全性和现代特性著称。Cloudflare 拥有 Workers 边缘计算平台，此次整合可能增强边缘计算能力，对 AI 和 LLM 部署有潜在影响，但直接相关性较低。",
+  "tags": [
+    "Deno",
+    "Cloudflare",
+    "边缘计算",
+    "JavaScript",
+    "运行时"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-09T23:02:03+08:00",
+  "updated_at": "2026-10-09T23:02:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Deno 加入 Cloudflare 可能加速边缘计算与 Serverless 的融合",
+      "对 AI/LLM 领域无直接影响，但边缘计算可能成为未来 AI 推理的部署平台",
+      "此次收购反映了云厂商对开发者工具和运行时的重视"
+    ],
+    "category": "技术新闻"
+  }
+}

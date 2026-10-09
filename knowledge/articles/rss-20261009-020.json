@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261009-020",
+  "title": "The value of not getting to the point (2015)",
+  "source_url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+  "source_type": "rss",
+  "summary": "本文探讨了在沟通中不直接切入主题的价值，强调迂回表达、铺垫和探索过程可能带来更深入的理解、创新和人际连接。虽然文章本身不涉及AI技术，但其观点对LLM的对话设计、Agent的交互策略以及提示工程有启发意义，例如在复杂任务中允许探索性对话可能提升效果。",
+  "tags": [
+    "沟通策略",
+    "对话设计",
+    "LLM交互",
+    "Agent行为",
+    "提示工程"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-09T23:02:03+08:00",
+  "updated_at": "2026-10-09T23:02:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "迂回沟通可能促进更深层次的理解和创新，对LLM对话设计有借鉴意义",
+      "Agent在任务执行中适当探索可能提高复杂问题解决能力",
+      "提示工程中允许模型'不直接切题'可能激发更丰富的输出"
+    ],
+    "category": "人机交互"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261009-016",
+  "title": "MXC - a sandboxed code execution system",
+  "source_url": "https://github.com/microsoft/mxc",
+  "source_type": "rss",
+  "summary": "MXC是微软开源的一个沙箱化代码执行系统，旨在安全隔离运行不可信代码。它与AI、LLM和Agent领域高度相关，因为LLM驱动的Agent常需执行生成的代码或工具调用，沙箱可防止恶意或错误代码危害宿主环境。MXC为Agent提供安全执行层，是构建可靠自主系统的关键基础设施。",
+  "tags": [
+    "沙箱",
+    "代码执行",
+    "Agent安全",
+    "LLM工具调用",
+    "微软"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-09T23:02:03+08:00",
+  "updated_at": "2026-10-09T23:02:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "MXC为LLM Agent提供安全的代码执行环境，降低自主运行风险",
+      "沙箱隔离是Agent工具调用和代码生成场景的关键安全组件",
+      "微软开源项目可能推动AI Agent执行层的标准化与生态发展"
+    ],
+    "category": "AI基础设施"
+  }
+}

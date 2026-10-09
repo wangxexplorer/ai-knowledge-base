@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261009-015",
+  "title": "I'm in a Meeting",
+  "source_url": "https://iminafleeting.com/",
+  "source_type": "rss",
+  "summary": "该条目是 Hacker News 上的一篇讨论帖，标题为“I'm in a Meeting”，链接指向 iminafleeting.com，获得 266 分和 112 条评论。内容本身未提供具体技术细节，从标题推测可能涉及会议场景下的沟通或效率问题，与 AI、LLM、Agent 领域无直接关联。",
+  "tags": [
+    "Hacker News",
+    "会议",
+    "效率",
+    "讨论帖"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-09T23:02:03+08:00",
+  "updated_at": "2026-10-09T23:02:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "条目为 Hacker News 热门讨论，但缺乏具体技术内容",
+      "标题暗示会议场景，可能与生产力工具相关",
+      "未涉及 AI、LLM 或 Agent 技术"
+    ],
+    "category": "其他"
+  }
+}

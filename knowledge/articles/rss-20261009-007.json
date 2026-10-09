@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261009-007",
+  "title": "Meadows – a small language for stock-and-flow diagrams that run",
+  "source_url": "https://lorezzed.github.io/meadows/",
+  "source_type": "rss",
+  "summary": "Meadows 是一种用于构建可执行存量-流量图的小型语言，源自系统动力学领域。它允许用户以声明式方式定义变量及其相互影响，并直接运行模拟。该语言与 AI、LLM 或 Agent 无直接关联，但可作为建模工具用于构建复杂系统的仿真环境，为 AI 代理提供动态环境或决策模拟平台。",
+  "tags": [
+    "系统动力学",
+    "建模语言",
+    "仿真",
+    "可执行图表",
+    "DSL"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-09T23:02:03+08:00",
+  "updated_at": "2026-10-09T23:02:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.15,
+    "key_insights": [
+      "Meadows 是领域特定语言，专注于系统动力学建模，而非 AI 技术。",
+      "可执行存量-流量图可用于模拟复杂系统，可能作为 AI 代理的训练或测试环境。",
+      "与 LLM 或 Agent 无直接集成，但可间接支持基于模拟的决策研究。"
+    ],
+    "category": "其他"
+  }
+}

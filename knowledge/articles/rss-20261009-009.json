@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261009-009",
+  "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+  "source_url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
+  "source_type": "rss",
+  "summary": "该条目报道了伊朗相关行动利用ChatGPT生成虚假文章并植入美国真实出版物的信息战事件。它直接涉及LLM的滥用与安全风险，展示了生成式AI在虚假信息传播中的实际应用，对AI伦理、内容审核和平台治理具有警示意义。",
+  "tags": [
+    "LLM滥用",
+    "虚假信息",
+    "AI安全",
+    "信息战",
+    "内容审核"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-09T23:02:03+08:00",
+  "updated_at": "2026-10-09T23:02:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "LLM可被用于大规模生成以假乱真的宣传内容",
+      "AI生成内容正成为国家支持信息战的新工具",
+      "平台需加强AI生成内容的检测与溯源机制"
+    ],
+    "category": "AI安全与伦理"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261009-004",
+  "title": "Our $445M Series D",
+  "source_url": "https://oxide.computer/blog/our-445m-series-d",
+  "source_type": "rss",
+  "summary": "Oxide Computer 宣布完成 4.45 亿美元 D 轮融资，该公司专注于为本地数据中心提供软硬件一体的云基础设施（机架级计算平台），主打企业私有云与本地部署场景。该消息本身不涉及 AI、LLM 或 Agent 技术，但本地算力基础设施是 AI 训练与推理的底层支撑，可能间接影响 AI 部署生态。",
+  "tags": [
+    "融资",
+    "云基础设施",
+    "本地部署",
+    "数据中心",
+    "硬件"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-09T23:02:03+08:00",
+  "updated_at": "2026-10-09T23:02:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.15,
+    "key_insights": [
+      "Oxide 聚焦本地云基础设施，与 AI 算力部署存在间接关联",
+      "大额融资反映企业级基础设施市场热度",
+      "条目本身未涉及 AI/LLM/Agent 技术细节"
+    ],
+    "category": "行业动态"
+  }
+}

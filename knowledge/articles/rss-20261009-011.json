@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261009-011",
+  "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+  "source_url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+  "source_type": "rss",
+  "summary": "该项目允许AI代理在屏幕上绘制大箭头、方框和文本，用于可视化指示或标注。它通过简单接口让代理控制屏幕绘图，增强人机交互的直观性，可能应用于演示、教学或调试场景。",
+  "tags": [
+    "AI代理",
+    "屏幕标注",
+    "可视化",
+    "人机交互",
+    "工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-09T23:02:03+08:00",
+  "updated_at": "2026-10-09T23:02:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI代理可通过屏幕绘图增强与用户的视觉沟通",
+      "简单工具可扩展代理的交互能力，适用于演示和调试",
+      "开源项目促进AI代理在现实场景中的实用化"
+    ],
+    "category": "AI应用工具"
+  }
+}

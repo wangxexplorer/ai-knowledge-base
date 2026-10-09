@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261009-019",
+  "title": "AI-ready biological data: $1.8B global commitment",
+  "source_url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+  "source_type": "rss",
+  "summary": "该条目报道了全球投入18亿美元用于构建AI-ready生物数据，旨在推动虚拟生物学计划。这为AI和LLM在生物医学领域的应用提供了大规模高质量数据基础，可能促进AI驱动的药物发现、基因分析等。与AI、LLM和Agent领域高度相关，因为数据是训练和部署AI模型的关键，而Agent可在此类数据上执行自动化科研任务。",
+  "tags": [
+    "AI-ready数据",
+    "生物医学AI",
+    "LLM应用",
+    "虚拟生物学",
+    "数据基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-09T23:02:03+08:00",
+  "updated_at": "2026-10-09T23:02:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "大规模AI-ready生物数据将加速LLM在生命科学中的训练与推理。",
+      "虚拟生物学计划可能催生自主科研Agent，实现假设生成与实验自动化。",
+      "全球性投资表明AI在生物医学领域的战略重要性日益提升。"
+    ],
+    "category": "AI与生物医学"
+  }
+}

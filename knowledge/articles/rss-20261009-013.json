@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261009-013",
+  "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+  "source_url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+  "source_type": "rss",
+  "summary": "OpenAI解雇了三名安全研究员，指控其不当处理研究信息，但研究员否认并警告此举产生寒蝉效应。事件涉及AI安全研究管理、内部治理及伦理争议，与LLM和Agent安全实践间接相关。",
+  "tags": [
+    "AI安全",
+    "OpenAI",
+    "研究伦理",
+    "治理",
+    "寒蝉效应"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-09T23:02:03+08:00",
+  "updated_at": "2026-10-09T23:02:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI安全研究人员的解雇可能影响LLM和Agent安全研究的开放性与透明度。",
+      "事件凸显AI公司内部治理与安全文化之间的紧张关系。",
+      "寒蝉效应可能阻碍未来AI安全领域的独立研究和举报。"
+    ],
+    "category": "AI治理与伦理"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261009-003",
+  "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
+  "source_url": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457",
+  "source_type": "rss",
+  "summary": "该条目报道了一起法律案件：法官因表示喜爱AI生成的受害者视频，导致凶手判决被撤销。案件凸显AI生成内容在司法程序中的潜在影响，涉及AI伦理、法律公正性及技术滥用风险，与AI在司法领域的应用和监管问题相关。",
+  "tags": [
+    "AI伦理",
+    "司法应用",
+    "AI生成内容",
+    "法律风险",
+    "技术滥用"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-09T23:02:03+08:00",
+  "updated_at": "2026-10-09T23:02:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI生成内容可能影响司法判决的公正性",
+      "法官对AI视频的个人偏好引发判决撤销",
+      "需建立AI在司法场景中的使用规范"
+    ],
+    "category": "AI伦理与法律"
+  }
+}

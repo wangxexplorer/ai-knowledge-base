@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261009-006",
+  "title": "Study: Exercise increases cancer survival rates",
+  "source_url": "https://www.nejm.org/doi/10.1056/NEJMoa2502760",
+  "source_type": "rss",
+  "summary": "该条目为《新英格兰医学杂志》发表的一项研究，指出运动能够提高癌症患者的生存率。内容属于医学与健康领域，与人工智能、大语言模型或智能体技术无直接关联。",
+  "tags": [
+    "医学研究",
+    "癌症生存",
+    "运动",
+    "健康",
+    "非AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-09T23:02:03+08:00",
+  "updated_at": "2026-10-09T23:02:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "运动与癌症生存率提升相关",
+      "研究发表于顶级医学期刊NEJM",
+      "与AI/LLM/Agent领域无关"
+    ],
+    "category": "医学健康"
+  }
+}

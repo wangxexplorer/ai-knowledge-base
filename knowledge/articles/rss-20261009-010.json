@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261009-010",
+  "title": "The Hetzner Cloud network stack – history and technical overview",
+  "source_url": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
+  "source_type": "rss",
+  "summary": "本文介绍Hetzner Cloud网络栈的历史与技术概览，涵盖其架构演进、底层实现和运维经验。内容聚焦云基础设施的网络层，未涉及AI、LLM或Agent技术，但对依赖云网络进行分布式AI训练和推理的开发者有间接参考价值。",
+  "tags": [
+    "云网络",
+    "基础设施",
+    "Hetzner",
+    "网络架构",
+    "云计算"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-09T23:02:03+08:00",
+  "updated_at": "2026-10-09T23:02:03+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "Hetzner Cloud网络栈的演进反映了云网络技术的通用趋势",
+      "底层网络性能影响分布式AI训练和推理的通信效率",
+      "该内容与AI/LLM/Agent无直接技术关联"
+    ],
+    "category": "云基础设施"
+  }
+}
