@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261010-011",
+  "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+  "source_url": "https://carrierexplode.com/",
+  "source_type": "rss",
+  "summary": "该项目是一个持续归档iPhone、Pixel和Galaxy等主流手机运营商设置的工具，包含对基带配置的解码和解释。它属于移动通信领域的逆向工程与数据归档项目，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "移动通信",
+    "运营商设置",
+    "基带配置",
+    "逆向工程",
+    "数据归档"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-10T22:17:55+08:00",
+  "updated_at": "2026-10-10T22:17:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该项目专注于移动运营商设置的归档与解码，不涉及AI技术。",
+      "其核心价值在于为手机爱好者提供基带配置的解析，而非智能代理或语言模型。",
+      "与LLM/Agent领域无交叉，属于传统移动通信逆向工程范畴。"
+    ],
+    "category": "移动通信工具"
+  }
+}

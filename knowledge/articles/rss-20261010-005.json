@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261010-005",
+  "title": "`123456' password used in Danish CPR data breach",
+  "source_url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+  "source_type": "rss",
+  "summary": "该条目报道了丹麦CPR数据泄露事件，攻击者利用弱密码'123456'入侵系统，导致大规模个人数据泄露。事件凸显了弱密码和基础安全措施缺失的严重风险，与AI、LLM或Agent技术无直接关联，但可作为AI安全、自动化攻击或防御的案例参考。",
+  "tags": [
+    "数据泄露",
+    "弱密码",
+    "网络安全",
+    "丹麦",
+    "CPR"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-10T22:17:55+08:00",
+  "updated_at": "2026-10-10T22:17:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "弱密码是数据泄露的常见原因，即使在大规模系统中也存在。",
+      "该事件与AI/LLM/Agent无直接技术关联，但可警示AI系统安全。",
+      "自动化攻击可能利用此类漏洞，但报道未涉及AI技术。"
+    ],
+    "category": "网络安全事件"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261010-020",
+  "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+  "source_url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+  "source_type": "rss",
+  "summary": "该文章讲述作者利用AI技术分析400年历史档案，成功发现被遗忘的陨石记录、失踪犀牛踪迹等历史信息。展示了AI在非结构化文本挖掘、历史研究领域的应用潜力，属于AI技术跨学科应用的典型案例。",
+  "tags": [
+    "AI应用",
+    "档案分析",
+    "信息挖掘",
+    "历史研究",
+    "非结构化数据"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-10T22:17:55+08:00",
+  "updated_at": "2026-10-10T22:17:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.65,
+    "key_insights": [
+      "AI可高效处理海量历史档案等非结构化文本，发现人类难以察觉的模式与信息",
+      "该案例展示了AI在跨学科研究中的实用价值，可辅助历史学、生物学等领域的新发现",
+      "此类应用依赖强大的文本理解与信息抽取能力，与LLM技术方向高度契合"
+    ],
+    "category": "AI应用"
+  }
+}

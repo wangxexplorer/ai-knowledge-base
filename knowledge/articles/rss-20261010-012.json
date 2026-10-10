@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261010-012",
+  "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+  "source_url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+  "source_type": "rss",
+  "summary": "陶哲轩探讨数学家应了解的Lean定理证明器，重点分析其可靠性问题以及与AI的结合。文章指出Lean能形式化验证数学证明，但依赖人工编写，而AI可辅助自动证明生成，但需确保可靠性。这为LLM与形式化方法的融合提供了方向，对AI数学推理和可信AI有重要启示。",
+  "tags": [
+    "Lean定理证明器",
+    "AI数学推理",
+    "形式化验证",
+    "LLM可靠性",
+    "智能体"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-10T22:17:55+08:00",
+  "updated_at": "2026-10-10T22:17:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "Lean为数学证明提供形式化验证，但人工编写成本高，AI可辅助自动生成证明。",
+      "AI与Lean结合需解决可靠性问题，避免错误证明通过验证。",
+      "该方向推动LLM在数学推理和可信AI领域的发展。"
+    ],
+    "category": "AI与数学"
+  }
+}

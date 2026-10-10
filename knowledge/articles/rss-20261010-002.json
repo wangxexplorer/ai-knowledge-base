@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261010-002",
+  "title": "Lobbying Is Corruption",
+  "source_url": "https://carette.xyz/posts/lobbying_and_corruption/",
+  "source_type": "rss",
+  "summary": "该条目讨论游说与腐败的关系，属于政治伦理议题，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "政治",
+    "游说",
+    "腐败",
+    "伦理",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-10T22:17:55+08:00",
+  "updated_at": "2026-10-10T22:17:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "游说可能被视为一种制度性腐败",
+      "该话题不涉及AI或LLM技术",
+      "Hacker News上的讨论可能包含多元观点"
+    ],
+    "category": "政治伦理"
+  }
+}

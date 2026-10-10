@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261010-006",
+  "title": "Computers Cannot Make Decisions",
+  "source_url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+  "source_type": "rss",
+  "summary": "该文章探讨计算机无法做出决策的哲学与技术问题，强调决策需要主观意识、价值判断和自由意志，而计算机仅能执行算法。这与AI、LLM和Agent领域高度相关，因为当前AI系统（如LLM驱动的Agent）常被赋予自主决策能力，但本质上仍是基于规则和概率的计算。文章引发对AI决策本质、责任归属及自主性的反思，对理解Agent的局限性有重要启示。",
+  "tags": [
+    "AI决策",
+    "自主Agent",
+    "计算机哲学",
+    "LLM局限性",
+    "责任归属"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-10T22:17:55+08:00",
+  "updated_at": "2026-10-10T22:17:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "计算机决策本质是算法执行，缺乏真正的自主意识和价值判断。",
+      "当前AI Agent的'决策'能力受限于预设规则和训练数据，无法承担道德责任。",
+      "该观点挑战了将AI视为独立决策者的流行叙事，强调人类监督的必要性。"
+    ],
+    "category": "AI伦理与哲学"
+  }
+}

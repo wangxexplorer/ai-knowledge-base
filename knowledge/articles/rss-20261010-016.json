@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261010-016",
+  "title": "Can you use autoregressive diffusion to generate market data?",
+  "source_url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+  "source_type": "rss",
+  "summary": "本文探讨了使用自回归扩散模型生成市场数据的可行性。自回归扩散结合了自回归模型的时间序列建模能力和扩散模型的生成质量，可能用于合成金融数据。文章来自Jane Street博客，属于AI在金融领域的应用探索，与LLM和Agent领域间接相关，但核心是生成模型技术。",
+  "tags": [
+    "自回归扩散",
+    "市场数据生成",
+    "生成模型",
+    "金融AI",
+    "时间序列"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-10T22:17:55+08:00",
+  "updated_at": "2026-10-10T22:17:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "自回归扩散模型可结合自回归与扩散模型优势，用于生成高质量时间序列数据",
+      "市场数据生成在金融领域有重要应用，如模拟、隐私保护等",
+      "该技术虽与LLM/Agent不直接相关，但属于生成式AI的前沿探索"
+    ],
+    "category": "AI应用"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261010-003",
+  "title": "Apple/macOS silently removed from official Unix registry",
+  "source_url": "https://www.opengroup.org//openbrand/register/",
+  "source_type": "rss",
+  "summary": "该条目报道苹果macOS被从官方Unix注册表中移除，属于操作系统认证与标准合规性新闻，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "macOS",
+    "Unix",
+    "操作系统",
+    "标准认证",
+    "苹果"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-10T22:17:55+08:00",
+  "updated_at": "2026-10-10T22:17:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "macOS失去官方Unix认证可能影响开发者对系统兼容性的预期",
+      "该事件反映操作系统生态与标准组织之间的动态关系",
+      "与AI/LLM/Agent领域无技术交集，属于传统系统软件新闻"
+    ],
+    "category": "操作系统与标准"
+  }
+}

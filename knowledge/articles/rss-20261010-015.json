@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261010-015",
+  "title": "Triple-A Minesweeper",
+  "source_url": "https://minesweeper.mikelacher.com/",
+  "source_type": "rss",
+  "summary": "该条目是Hacker News上关于一个名为Triple-A Minesweeper的网页扫雷游戏的讨论帖，获得1125点热度与220条评论。内容本身为休闲游戏，未涉及人工智能、大语言模型或智能体技术，与AI领域无直接关联。",
+  "tags": [
+    "扫雷游戏",
+    "Hacker News",
+    "网页应用",
+    "休闲游戏",
+    "前端项目"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-10T22:17:55+08:00",
+  "updated_at": "2026-10-10T22:17:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.02,
+    "key_insights": [
+      "条目为游戏类项目，与AI/LLM/Agent无技术关联",
+      "高热度反映社区对创意前端项目的关注",
+      "可作为AI生成内容或Agent自动化测试的潜在应用场景参考"
+    ],
+    "category": "其他"
+  }
+}
