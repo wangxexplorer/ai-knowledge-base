@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261011-015",
+  "title": "Knuth reward check",
+  "source_url": "https://www.thomas-huehn.com/knuth-reward-check/",
+  "source_type": "rss",
+  "summary": "该条目介绍高德纳（Donald Knuth）的奖励支票（Knuth reward check），即他向发现其著作中错误的人支付2.56美元支票的传统。这属于计算机科学文化轶事，与AI、LLM或Agent技术无直接关联，仅可能作为AI辅助代码审查或文档纠错的类比参考。",
+  "tags": [
+    "计算机科学文化",
+    "Donald Knuth",
+    "奖励支票",
+    "错误发现",
+    "AI无关"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-11T22:43:31+08:00",
+  "updated_at": "2026-10-11T22:43:31+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "Knuth奖励支票是计算机科学界的文化传统，与AI技术无直接关系。",
+      "该机制可类比于AI辅助代码审查或文档纠错中的激励设计。",
+      "对LLM和Agent领域的技术发展没有实质性影响。"
+    ],
+    "category": "其他"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261011-009",
+  "title": "IRCv3",
+  "source_url": "https://ircv3.net/",
+  "source_type": "rss",
+  "summary": "IRCv3 是 IRC 协议的现代化扩展标准，为传统实时聊天协议增加消息标签、能力协商、消息编辑与反应等功能。它与 AI、LLM、Agent 领域没有直接技术关联，属于网络通信协议与开源基础设施范畴。不过，Agent 系统在需要低延迟、轻量级的人机或多智能体通信时，可能将 IRC 类协议作为消息传输层参考。整体相关性较低。",
+  "tags": [
+    "IRCv3",
+    "通信协议",
+    "实时聊天",
+    "开源标准",
+    "消息传递"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-11T22:43:31+08:00",
+  "updated_at": "2026-10-11T22:43:31+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.08,
+    "key_insights": [
+      "IRCv3 是 IRC 协议的扩展标准，与 AI/LLM 无直接关系",
+      "可作为 Agent 间轻量级消息通信的潜在参考协议",
+      "属于开源网络基础设施，而非人工智能技术"
+    ],
+    "category": "网络通信协议"
+  }
+}

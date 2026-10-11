@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261011-001",
+  "title": "Open-Source Microsoft Office Excel, PowerPoint, and Word Replications",
+  "source_url": "https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next",
+  "source_type": "rss",
+  "summary": "该条目介绍开源社区创建了微软Office（Excel、PowerPoint、Word）的免费替代品，并可能扩展到Autodesk等订阅制软件。内容聚焦于开源软件对商业软件的替代，未涉及AI、LLM或Agent技术。",
+  "tags": [
+    "开源软件",
+    "办公套件",
+    "微软Office",
+    "软件替代",
+    "订阅制"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-11T22:43:31+08:00",
+  "updated_at": "2026-10-11T22:43:31+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "开源克隆降低了商业软件的使用成本",
+      "可能推动订阅制软件的免费替代趋势",
+      "与AI/LLM/Agent领域无直接关联"
+    ],
+    "category": "开源软件"
+  }
+}

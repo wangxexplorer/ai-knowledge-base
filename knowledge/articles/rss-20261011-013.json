@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261011-013",
+  "title": "Build your own decision model",
+  "source_url": "https://nishtahir.com/build-your-own-decision-model/",
+  "source_type": "rss",
+  "summary": "该条目介绍如何构建自定义决策模型，属于决策建模与自动化推理的通用技术实践。它与AI、LLM和Agent领域存在间接关联：决策模型是智能体进行规划、选择行动的基础组件，但文章本身未涉及大语言模型或具体AI算法，更偏向方法论与工程实现。",
+  "tags": [
+    "决策模型",
+    "Agent规划",
+    "自动化推理",
+    "工程实践",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-11T22:43:31+08:00",
+  "updated_at": "2026-10-11T22:43:31+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.45,
+    "key_insights": [
+      "决策模型可作为Agent行动选择与规划的核心组件",
+      "自定义决策模型有助于提升自动化系统的可解释性",
+      "该内容偏通用方法论，与LLM直接结合较少"
+    ],
+    "category": "AI应用与工程"
+  }
+}

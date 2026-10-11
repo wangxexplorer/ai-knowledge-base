@@ -1,0 +1,31 @@
+{
+  "id": "github-20261011-002",
+  "title": "firecrawl",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "source_type": "github",
+  "summary": "Firecrawl 是一个专为 AI 智能体设计的网页数据抓取与搜索工具，使用 TypeScript 开发。它能够将网页内容转换为适合 LLM 处理的格式，为 AI 代理提供实时、结构化的网络数据，从而增强其信息获取与推理能力。该项目在 GitHub 上获得超过 19 万星标，属于 AI 基础设施领域的热门开源项目。",
+  "tags": [
+    "AI Agent",
+    "网页抓取",
+    "LLM 数据",
+    "AI 搜索",
+    "开源工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-11T22:43:31+08:00",
+  "updated_at": "2026-10-11T22:43:31+08:00",
+  "metadata": {
+    "stars": 190369,
+    "language": "TypeScript",
+    "author": "firecrawl"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Firecrawl 解决了 AI 代理获取实时网络数据的关键瓶颈，是连接 LLM 与动态网页的桥梁。",
+      "其高星标数表明开发者对 AI 代理数据供给工具的需求旺盛，生态位重要。",
+      "支持 AI 搜索与抓取，可扩展至 RAG、自动化研究等场景，提升代理的自主性。"
+    ],
+    "category": "AI 基础设施"
+  }
+}

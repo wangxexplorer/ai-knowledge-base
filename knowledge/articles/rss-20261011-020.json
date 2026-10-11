@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261011-020",
+  "title": "Rat's Register Allocator",
+  "source_url": "https://hexrat.cc/pages/blog/2026_10_07",
+  "source_type": "rss",
+  "summary": "该条目介绍了一种名为Rat的寄存器分配器，属于编译器后端优化技术，与AI、LLM或Agent领域无直接关联。寄存器分配是传统编译器设计中的核心问题，旨在高效利用CPU寄存器，不涉及机器学习或智能体技术。",
+  "tags": [
+    "编译器",
+    "寄存器分配",
+    "系统编程"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-11T22:43:31+08:00",
+  "updated_at": "2026-10-11T22:43:31+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "寄存器分配是编译器优化的经典问题，与AI技术栈无关",
+      "该内容属于底层系统编程领域，不涉及LLM或Agent",
+      "对AI应用开发者无直接参考价值"
+    ],
+    "category": "编译器技术"
+  }
+}

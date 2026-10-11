@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261011-011",
+  "title": "LineageOS 24.0",
+  "source_url": "https://lineageos.org/Changelog-32/",
+  "source_type": "rss",
+  "summary": "LineageOS 24.0 是开源 Android 发行版 LineageOS 的新版本更新日志，主要涉及系统功能、设备支持与底层改进，与 AI、LLM 或 Agent 领域没有直接关联。该条目来自 Hacker News，属于移动操作系统与开源社区话题，不涉及大模型训练、推理、智能体框架或相关应用。",
+  "tags": [
+    "LineageOS",
+    "Android",
+    "开源系统",
+    "移动操作系统",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-11T22:43:31+08:00",
+  "updated_at": "2026-10-11T22:43:31+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.02,
+    "key_insights": [
+      "LineageOS 是 Android 第三方开源发行版，聚焦系统定制与设备维护",
+      "该更新与 AI/LLM/Agent 技术栈无直接关系",
+      "条目来源为 Hacker News，属于开源与系统软件社区动态"
+    ],
+    "category": "移动操作系统"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "github-20261011-020",
+  "title": "ai-agent-book",
+  "source_url": "https://github.com/bojieli/ai-agent-book",
+  "source_type": "github",
+  "summary": "《深入理解 AI Agent：设计原理与工程实践》开源主仓库，提供全书正文、PDF及按章配套Python代码，涵盖Agent设计、记忆机制与编码Agent等核心主题，是系统学习AI Agent的优质资源。",
+  "tags": [
+    "AI Agent",
+    "LLM",
+    "Agent设计",
+    "开源书籍",
+    "工程实践"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-11T22:43:31+08:00",
+  "updated_at": "2026-10-11T22:43:31+08:00",
+  "metadata": {
+    "stars": 53480,
+    "language": "Python",
+    "author": "bojieli"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.98,
+    "key_insights": [
+      "系统阐述AI Agent设计原理与工程实践，覆盖记忆、规划等核心模块",
+      "提供可运行的Python配套代码，便于动手实践与二次开发",
+      "高星标（53k+）反映社区高度认可，是Agent领域重要学习资料"
+    ],
+    "category": "AI Agent"
+  }
+}

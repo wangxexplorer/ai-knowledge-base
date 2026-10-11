@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261011-010",
+  "title": "3rd Yandex Cloud Data Center Was Hit",
+  "source_url": "https://status.yandex.cloud/en/incidents/2136",
+  "source_type": "rss",
+  "summary": "该条目报道了Yandex Cloud第三个数据中心遭遇故障的事件，来源为Yandex Cloud状态页面和Hacker News讨论。内容涉及云基础设施的可用性问题，未直接提及AI、LLM或Agent技术。但云数据中心是AI训练和推理的重要基础设施，其稳定性间接影响AI服务的可靠性。",
+  "tags": [
+    "云基础设施",
+    "数据中心故障",
+    "Yandex Cloud",
+    "AI基础设施",
+    "服务可用性"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-11T22:43:31+08:00",
+  "updated_at": "2026-10-11T22:43:31+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "云数据中心故障可能影响托管在其上的AI/LLM服务的可用性",
+      "AI和LLM应用依赖云基础设施的稳定性，但该事件本身不涉及AI技术",
+      "多数据中心冗余是保障AI服务连续性的关键策略"
+    ],
+    "category": "云计算"
+  }
+}

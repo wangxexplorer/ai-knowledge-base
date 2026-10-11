@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261011-014",
+  "title": "A city-building game in which the city would prefer you didn't",
+  "source_url": "https://housing.over.pizza/",
+  "source_type": "rss",
+  "summary": "该条目介绍了一款名为《Housing Over Pizza》的城市建造游戏，其核心设定是城市本身会主动抵抗玩家的规划意图，形成一种对抗性玩法。游戏通过模拟城市对玩家决策的负面反馈，营造出独特的策略挑战。从AI与LLM领域看，该条目本身不涉及大模型、智能体或机器学习技术，但对抗性环境设计、动态反馈系统等概念与强化学习中的多智能体博弈、环境建模有间接关联。整体相关性较低，属于游戏设计与AI边缘交叉话题",
+  "tags": [
+    "城市建造游戏",
+    "对抗性设计",
+    "强化学习",
+    "环境建模",
+    "游戏AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-11T22:43:31+08:00",
+  "updated_at": "2026-10-11T22:43:31+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.15,
+    "key_insights": [
+      "游戏中的对抗性城市反馈机制可类比强化学习中的非合作环境建模",
+      "动态抵抗系统为多智能体博弈提供了一种叙事化交互范式",
+      "该条目本身不涉及LLM或Agent技术，相关性主要停留在概念隐喻层面"
+    ],
+    "category": "游戏设计"
+  }
+}

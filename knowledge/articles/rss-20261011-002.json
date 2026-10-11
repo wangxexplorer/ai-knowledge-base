@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261011-002",
+  "title": "Terence Tao: Math 2.0 [pdf]",
+  "source_url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+  "source_type": "rss",
+  "summary": "陶哲轩在Caltech演讲中提出'数学2.0'概念，探讨AI与LLM如何变革数学研究范式。他讨论了形式化证明助手、大语言模型辅助猜想生成与证明验证，以及人机协作的数学发现新模式。该演讲预示AI将成为数学家的核心工具，推动数学从纯人力向人机协同演进。",
+  "tags": [
+    "AI for Math",
+    "LLM",
+    "形式化证明",
+    "人机协作",
+    "数学发现"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-11T22:43:31+08:00",
+  "updated_at": "2026-10-11T22:43:31+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "LLM与形式化工具正在重塑数学证明与发现流程",
+      "数学2.0强调人机协作而非AI替代数学家",
+      "AI辅助数学可能加速猜想生成与验证循环"
+    ],
+    "category": "AI应用"
+  }
+}
