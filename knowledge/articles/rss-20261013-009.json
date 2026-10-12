@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261013-009",
+  "title": "Hackers heat French supermarket fridges, sparking fires and food losses",
+  "source_url": "https://www.reuters.com/business/retail-consumer/french-supermarket-chain-intermarche-hit-by-cyberattack-150-stories-targeted-2026-10-12/",
+  "source_type": "rss",
+  "summary": "该条目报道了法国超市连锁店Intermarche遭受网络攻击，黑客远程操控冷藏设备导致火灾和食品损失。事件属于网络安全领域，涉及物联网设备安全，但与AI、LLM、Agent技术无直接关联。",
+  "tags": [
+    "网络安全",
+    "物联网",
+    "供应链攻击"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-13T01:27:47+08:00",
+  "updated_at": "2026-10-13T01:27:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "网络攻击可针对物理基础设施造成直接破坏",
+      "物联网设备安全漏洞可能被利用引发物理事故",
+      "该事件未涉及AI或LLM技术"
+    ],
+    "category": "网络安全"
+  }
+}

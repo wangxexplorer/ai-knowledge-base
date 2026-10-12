@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261013-010",
+  "title": "Deep dive into Azure Maia 300 architecture",
+  "source_url": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
+  "source_type": "rss",
+  "summary": "微软Azure Maia 300是专为AI工作负载设计的定制加速器，其架构深度解析涉及芯片设计、内存带宽、计算单元等，旨在提升大语言模型训练和推理效率。该技术直接服务于AI基础设施，对LLM和Agent的部署与性能优化有重要影响，属于AI硬件领域的关键进展。",
+  "tags": [
+    "AI硬件",
+    "Azure",
+    "LLM加速",
+    "芯片架构",
+    "AI基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-13T01:27:47+08:00",
+  "updated_at": "2026-10-13T01:27:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "Maia 300是微软自研AI芯片，针对LLM训练和推理优化，可能降低对英伟达GPU的依赖。",
+      "架构细节涉及计算单元、内存层次和互连，直接影响大模型训练效率和成本。",
+      "该芯片的部署将推动Azure云上AI服务性能提升，对Agent等实时应用有潜在加速作用。"
+    ],
+    "category": "AI基础设施"
+  }
+}

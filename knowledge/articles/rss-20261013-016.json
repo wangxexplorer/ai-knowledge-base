@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261013-016",
+  "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
+  "source_url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+  "source_type": "rss",
+  "summary": "本文详细披露了在Google DevSite中发现的一个远程代码执行漏洞，该漏洞源于Flask会话使用Pickle序列化，攻击者可构造恶意会话数据实现RCE，最终获得9万美元赏金。文章深入分析了漏洞成因、利用链及修复方案，对Web安全领域具有重要参考价值。",
+  "tags": [
+    "安全漏洞",
+    "Flask",
+    "Pickle反序列化",
+    "RCE",
+    "Google"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-13T01:27:47+08:00",
+  "updated_at": "2026-10-13T01:27:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.2,
+    "key_insights": [
+      "Flask会话使用Pickle序列化可能导致反序列化漏洞，进而引发远程代码执行。",
+      "漏洞赏金计划激励安全研究者发现并报告高危漏洞，有助于提升产品安全性。",
+      "该漏洞利用链展示了从会话操纵到RCE的完整攻击路径，对安全防御有警示作用。"
+    ],
+    "category": "网络安全"
+  }
+}

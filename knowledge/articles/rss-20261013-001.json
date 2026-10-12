@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261013-001",
+  "title": "Muse Wonder",
+  "source_url": "https://research.meta.ai/blog/muse-wonder",
+  "source_type": "rss",
+  "summary": "该条目来自Meta研究博客，标题为Muse Wonder，但描述仅包含链接和Hacker News评论信息，缺乏实质技术内容。无法判断其是否涉及AI、LLM或Agent领域。基于现有信息，相关性极低，可能为Meta在生成式AI或创意工具方面的研究，但无证据支持。",
+  "tags": [
+    "Meta",
+    "研究博客",
+    "Hacker News",
+    "信息不足"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-13T01:27:47+08:00",
+  "updated_at": "2026-10-13T01:27:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "条目内容仅为链接和元数据，无技术细节",
+      "无法确认与AI/LLM/Agent的直接关联",
+      "需访问原文才能准确评估"
+    ],
+    "category": "其他"
+  }
+}

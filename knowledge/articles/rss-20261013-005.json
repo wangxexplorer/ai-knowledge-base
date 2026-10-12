@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261013-005",
+  "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
+  "source_url": "https://z.ai/blog/glm-legal",
+  "source_type": "rss",
+  "summary": "GLM-Legal是智谱AI推出的面向法律领域的智能体（Agentic）大模型系统，旨在通过LLM与Agent技术提升法律任务的自动化与智能化水平。该条目来自Hacker News，获得117点热度，表明业界对法律AI Agent的关注。其核心在于将通用大模型能力与法律专业知识结合，实现合同审查、法律检索、文书生成等复杂工作流的自主执行，代表了垂直领域Agentic AI的重要进展。",
+  "tags": [
+    "法律AI",
+    "Agentic AI",
+    "LLM应用",
+    "垂直领域大模型",
+    "GLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-13T01:27:47+08:00",
+  "updated_at": "2026-10-13T01:27:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "GLM-Legal展示了LLM在垂直领域（法律）向Agentic智能演进的方向，强调自主任务执行而非简单问答。",
+      "法律领域对准确性、合规性要求极高，是检验Agent可靠性与推理能力的理想场景。",
+      "该工作由智谱AI（GLM系列）推出，反映了国产大模型在行业Agent化落地上的积极布局。"
+    ],
+    "category": "AI应用"
+  }
+}

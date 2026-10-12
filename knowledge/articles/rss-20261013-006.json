@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261013-006",
+  "title": "French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack",
+  "source_url": "https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html",
+  "source_type": "rss",
+  "summary": "法国超市遭遇前所未有的网络攻击，导致冷藏柜关闭，造成食品损失和运营中断。该事件凸显关键基础设施的网络安全风险，但与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "网络安全",
+    "关键基础设施",
+    "供应链"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-13T01:27:47+08:00",
+  "updated_at": "2026-10-13T01:27:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "网络攻击可导致物理基础设施中断",
+      "超市冷藏系统成为攻击目标",
+      "事件与AI/LLM/Agent无直接技术关联"
+    ],
+    "category": "网络安全"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261013-014",
+  "title": "QGIS: No A contributions permitted",
+  "source_url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+  "source_type": "rss",
+  "summary": "该条目是QGIS增强提案（QEP）的GitHub拉取请求，标题为“No A contributions permitted”，讨论是否禁止AI生成的贡献。该议题在Hacker News上引发广泛讨论（330分，355条评论），反映了开源社区对AI生成代码的接受度、伦理和治理问题的关注。与AI、LLM、Agent领域间接相关，主要涉及AI在软件开发中的使用政策。",
+  "tags": [
+    "AI贡献政策",
+    "开源治理",
+    "QGIS",
+    "LLM应用",
+    "社区讨论"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-13T01:27:47+08:00",
+  "updated_at": "2026-10-13T01:27:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.4,
+    "key_insights": [
+      "开源项目开始明确限制或禁止AI生成的贡献，以维护代码质量和知识产权。",
+      "社区对AI参与开源开发的接受度存在分歧，引发关于透明度和责任的讨论。",
+      "该议题反映了LLM在代码生成领域日益普及后带来的治理挑战。"
+    ],
+    "category": "AI伦理与政策"
+  }
+}

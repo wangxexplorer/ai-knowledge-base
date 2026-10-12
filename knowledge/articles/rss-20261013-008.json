@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261013-008",
+  "title": "Fridges in French supermarkets hit by cyber attack",
+  "source_url": "https://www.bbc.com/news/articles/crq5nzxv9q4yo",
+  "source_type": "rss",
+  "summary": "该条目报道了法国超市的冰箱系统遭受网络攻击，属于网络安全事件，与AI、LLM或Agent领域无直接关联。",
+  "tags": [
+    "网络安全",
+    "物联网",
+    "供应链攻击",
+    "零售业",
+    "基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-13T01:27:47+08:00",
+  "updated_at": "2026-10-13T01:27:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "攻击目标为超市冰箱等物联网设备，凸显IoT安全风险。",
+      "事件与AI、LLM或Agent技术无直接联系。",
+      "此类攻击可能影响供应链和零售运营。"
+    ],
+    "category": "网络安全"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261013-002",
+  "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+  "source_url": "https://news.ycombinator.com/item?id=50059096",
+  "source_type": "rss",
+  "summary": "Agent37 提供低成本 AI 代理沙箱，成本低于主流供应商 90%，平均每沙箱每月 0.37 美元。通过分析代理工作负载的 CPU/RAM 使用模式、跳过超大规模云厂商、使用 gVisor 共享资源、优化主机内存配置，实现免费计划，基础设施成本每用户每月 0.05-0.10 美元。",
+  "tags": [
+    "AI Agent",
+    "沙箱",
+    "成本优化",
+    "基础设施",
+    "gVisor"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-13T01:27:47+08:00",
+  "updated_at": "2026-10-13T01:27:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "代理工作负载具有突发 CPU 和较高内存需求，优化资源利用可大幅降低成本。",
+      "跳过超大规模云厂商，直接使用 Hetzner/OVH 等供应商，是降低成本的重大杠杆。",
+      "使用 gVisor 实现资源缓存和共享，避免为每个沙箱预留完整 VM 内存，但牺牲了 Docker-in-Docker 等兼容性。"
+    ],
+    "category": "AI基础设施"
+  }
+}

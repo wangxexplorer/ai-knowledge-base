@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261013-017",
+  "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+  "source_url": "https://github.com/snuri00/ps2-web-recomp",
+  "source_type": "rss",
+  "summary": "该项目将PS2游戏静态重编译为WebAssembly，使经典游戏能在浏览器中运行。技术核心是二进制翻译与静态重编译，属于系统级软件工程，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "WebAssembly",
+    "静态重编译",
+    "PS2模拟",
+    "二进制翻译",
+    "游戏移植"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-13T01:27:47+08:00",
+  "updated_at": "2026-10-13T01:27:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "静态重编译技术可将旧平台二进制代码转换为现代Web可执行格式",
+      "WebAssembly为跨平台游戏运行提供了高性能沙箱环境",
+      "该工作不涉及机器学习或智能体技术"
+    ],
+    "category": "系统与编译技术"
+  }
+}

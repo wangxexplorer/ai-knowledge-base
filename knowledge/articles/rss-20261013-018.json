@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261013-018",
+  "title": "Type-safe HTML templating in Zig",
+  "source_url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+  "source_type": "rss",
+  "summary": "该条目介绍在Zig语言中实现类型安全的HTML模板系统，属于编程语言与Web开发技术，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "Zig",
+    "HTML模板",
+    "类型安全",
+    "Web开发",
+    "编程语言"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-13T01:27:47+08:00",
+  "updated_at": "2026-10-13T01:27:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "类型安全模板可减少运行时错误",
+      "Zig的编译期特性适合构建安全DSL",
+      "与AI/LLM/Agent技术栈无直接交集"
+    ],
+    "category": "编程语言与Web开发"
+  }
+}

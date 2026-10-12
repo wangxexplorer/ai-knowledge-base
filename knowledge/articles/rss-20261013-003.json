@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261013-003",
+  "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
+  "source_url": "https://github.com/morluto/rea",
+  "source_type": "rss",
+  "summary": "该项目（rea）利用AI Agent技术实现逆向工程，能够从应用行为分析到原生二进制文件进行自动化逆向。它展示了Agent在复杂技术任务中的自主执行能力，将LLM的推理与工具调用结合，用于安全分析、漏洞挖掘和软件理解。该条目与AI Agent领域高度相关，体现了Agent在专业垂直场景中的落地潜力。",
+  "tags": [
+    "AI Agent",
+    "逆向工程",
+    "二进制分析",
+    "自动化",
+    "安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-13T01:27:47+08:00",
+  "updated_at": "2026-10-13T01:27:47+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "Agent可自主完成从应用行为到二进制层的逆向工程任务",
+      "LLM与工具调用结合可提升安全分析自动化水平",
+      "展示了Agent在专业垂直领域的落地潜力"
+    ],
+    "category": "AI Agent应用"
+  }
+}
