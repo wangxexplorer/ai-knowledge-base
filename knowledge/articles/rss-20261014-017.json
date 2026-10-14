@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261014-017",
+  "title": "Show HN: How random are you?",
+  "source_url": "https://lab.specr.net/rigged-draw/",
+  "source_type": "rss",
+  "summary": "该条目是Hacker News上展示的一个名为“How random are you?”的交互式网页项目，用户可通过链接体验随机性测试。项目本身与AI、LLM或Agent技术无直接关联，但随机性概念在AI领域（如随机采样、生成模型）中有基础性作用。",
+  "tags": [
+    "随机性",
+    "交互式网页",
+    "Hacker News",
+    "概率",
+    "生成模型"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-14T21:22:12+08:00",
+  "updated_at": "2026-10-14T21:22:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "随机性是AI生成模型（如GAN、扩散模型）的核心机制之一",
+      "该项目可能用于测试人类对随机性的感知，与AI中的随机采样有概念联系",
+      "缺乏与LLM或Agent技术的直接关联"
+    ],
+    "category": "其他"
+  }
+}

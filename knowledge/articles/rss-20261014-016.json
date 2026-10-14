@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261014-016",
+  "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+  "source_url": "https://guitoro.com/",
+  "source_type": "rss",
+  "summary": "Guitoro 是一个免费的浏览器虚拟吉他应用，用户可通过键盘、鼠标或触摸屏弹奏，支持原声、古典、电吉他和贝斯，提供和弦指法显示、慢速练习（最低20%速度）、调音器等工具，无需注册或下载。该条目与AI、LLM、Agent领域无直接关联，属于音乐工具类产品。",
+  "tags": [
+    "虚拟乐器",
+    "音乐工具",
+    "Web应用",
+    "浏览器",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-14T21:22:12+08:00",
+  "updated_at": "2026-10-14T21:22:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该条目为音乐工具类产品，不涉及AI、LLM或Agent技术。",
+      "产品特点包括键盘弹奏、慢速练习和和弦工具，面向音乐学习场景。",
+      "与AI技术知识库的主题无关，建议归入非AI类别。"
+    ],
+    "category": "其他"
+  }
+}

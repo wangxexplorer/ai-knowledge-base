@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261014-002",
+  "title": "Smart people don't think others are stupid",
+  "source_url": "https://sive.rs/ss",
+  "source_type": "rss",
+  "summary": "该条目是一篇关于认知偏见与人际理解的短文，标题为《聪明人不认为别人愚蠢》，来自个人博客，与AI、LLM或Agent技术无直接关联。它讨论的是人类心理与社交智慧，而非机器学习、大语言模型或智能体系统。因此，在AI技术知识库中相关性极低。",
+  "tags": [
+    "认知偏见",
+    "人际理解",
+    "心理学",
+    "非技术",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-14T21:22:12+08:00",
+  "updated_at": "2026-10-14T21:22:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "该内容属于人类认知与社交心理范畴，不涉及AI技术",
+      "与LLM、Agent等领域的核心概念无交集",
+      "仅可作为AI伦理或人机交互的间接背景参考"
+    ],
+    "category": "非技术/人文社科"
+  }
+}

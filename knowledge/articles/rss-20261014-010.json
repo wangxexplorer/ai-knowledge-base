@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261014-010",
+  "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+  "source_url": "https://typeof.net/Iosevka/",
+  "source_type": "rss",
+  "summary": "Iosevka 是一款开源的无衬线和粗衬线等宽字体，专为编程和终端设计，支持多种语言和连字。该条目来自 Hacker News，仅包含字体介绍和讨论链接，未涉及 AI、LLM 或 Agent 技术。因此，与 AI 领域相关性极低。",
+  "tags": [
+    "开源字体",
+    "等宽字体",
+    "编程字体",
+    "Hacker News",
+    "非AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-14T21:22:12+08:00",
+  "updated_at": "2026-10-14T21:22:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "Iosevka 是面向开发者的开源等宽字体，与 AI 技术无直接关联。",
+      "该条目属于通用开发工具新闻，不涉及 LLM 或 Agent 领域。",
+      "在 AI 知识库中，此类内容仅作为辅助工具参考，相关性极低。"
+    ],
+    "category": "开发工具"
+  }
+}

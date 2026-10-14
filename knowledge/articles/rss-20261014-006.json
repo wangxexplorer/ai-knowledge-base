@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261014-006",
+  "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+  "source_url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
+  "source_type": "rss",
+  "summary": "QuEra公司利用AI技术自动锁定和调谐量子计算机的激光系统，以提升量子计算的稳定性和效率。该技术通过机器学习算法优化激光参数，减少人工干预，属于AI在量子计算硬件控制中的交叉应用。",
+  "tags": [
+    "AI for Science",
+    "量子计算",
+    "激光控制",
+    "自动化调谐",
+    "硬件优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-14T21:22:12+08:00",
+  "updated_at": "2026-10-14T21:22:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.6,
+    "key_insights": [
+      "AI可用于量子计算机激光系统的自动锁定与调谐，提高稳定性",
+      "该技术展示了AI在科学硬件控制中的潜力，减少人工干预",
+      "AI与量子计算的结合是前沿交叉领域，但非LLM/Agent核心方向"
+    ],
+    "category": "AI应用"
+  }
+}

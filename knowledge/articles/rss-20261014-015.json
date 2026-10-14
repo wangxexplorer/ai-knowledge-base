@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261014-015",
+  "title": "AlphaNIST",
+  "source_url": "https://alpha-nist.github.io/",
+  "source_type": "rss",
+  "summary": "AlphaNIST 是一个在 Hacker News 上获得 82 分、30 条评论的项目页面，标题暗示其可能与 NIST 标准或数据集相关，但条目仅提供链接与评论信息，未包含具体技术描述。无法确认其是否涉及 AI、LLM 或 Agent 技术，因此与这些领域的直接相关性极低。",
+  "tags": [
+    "Hacker News",
+    "NIST",
+    "未知项目",
+    "技术链接",
+    "低信息量"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-14T21:22:12+08:00",
+  "updated_at": "2026-10-14T21:22:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "条目信息量极少，仅有标题和链接，无法判断技术内容",
+      "标题中的 NIST 可能指向标准或数据集，但与 AI/LLM/Agent 无明确关联",
+      "Hacker News 热度表明社区有一定关注，但不足以推断 AI 相关性"
+    ],
+    "category": "其他"
+  }
+}

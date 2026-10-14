@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261014-004",
+  "title": "TV4 postpones show after AI agent erases edited material",
+  "source_url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+  "source_type": "rss",
+  "summary": "瑞典TV4电视台因AI代理意外删除已编辑的节目素材，被迫将节目《The Challenge》推迟至2027年播出。该事件暴露了AI代理在媒体制作流程中的操作风险，引发对AI系统可靠性和安全控制的讨论。",
+  "tags": [
+    "AI代理",
+    "媒体制作",
+    "技术故障",
+    "AI安全",
+    "自动化风险"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-14T21:22:12+08:00",
+  "updated_at": "2026-10-14T21:22:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.75,
+    "key_insights": [
+      "AI代理在关键业务流程中可能造成不可逆的数据损失",
+      "自动化系统需要更严格的权限控制和操作审计机制",
+      "该事件凸显了AI代理在媒体行业落地时的可靠性挑战"
+    ],
+    "category": "AI应用与风险"
+  }
+}

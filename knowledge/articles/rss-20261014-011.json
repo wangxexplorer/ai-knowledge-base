@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261014-011",
+  "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+  "source_url": "https://github.com/android/ndk/issues/2260",
+  "source_type": "rss",
+  "summary": "该条目讨论AOSP源代码发布延迟，导致开发者不得不反汇编库来报告bug。内容涉及Android开源项目的开发流程和工具链问题，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "AOSP",
+    "Android",
+    "开源",
+    "开发工具",
+    "bug报告"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-14T21:22:12+08:00",
+  "updated_at": "2026-10-14T21:22:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "AOSP源代码发布延迟影响开发者效率",
+      "开发者采用反汇编手段定位问题",
+      "该问题与AI/LLM/Agent领域无关"
+    ],
+    "category": "移动开发"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rss-20261014-014",
+  "title": "Recreational Programming",
+  "source_url": "https://www.cphiri.dev/presentations/recreational-programming",
+  "source_type": "rss",
+  "summary": "该条目为Hacker News上关于“休闲编程”的讨论，标题为Recreational Programming，附有演示文稿链接和评论链接。内容未涉及AI、LLM或Agent技术，仅关注编程实践与乐趣，与AI领域无直接关联。",
+  "tags": [
+    "休闲编程",
+    "编程实践",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-14T21:22:12+08:00",
+  "updated_at": "2026-10-14T21:22:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该条目讨论的是编程的娱乐性，而非AI技术",
+      "未涉及LLM或Agent相关概念",
+      "与AI领域无直接相关性"
+    ],
+    "category": "非AI技术"
+  }
+}

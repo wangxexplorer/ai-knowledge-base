@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261014-019",
+  "title": "Redesigning source control at Anthropic",
+  "source_url": "https://www.anthropic.com/engineering/redesigning-source-control",
+  "source_type": "rss",
+  "summary": "Anthropic 重新设计源代码控制系统，以支持其 AI 模型和 Agent 开发的高效协作。文章可能涉及大规模代码管理、自动化工作流及 AI 辅助编程的集成，反映了 AI 公司对开发基础设施的定制化需求，对理解 LLM 时代工程实践有参考价值。",
+  "tags": [
+    "源代码控制",
+    "AI开发工具",
+    "Anthropic",
+    "工程实践",
+    "LLM"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-14T21:22:12+08:00",
+  "updated_at": "2026-10-14T21:22:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.7,
+    "key_insights": [
+      "AI 公司需要定制化源代码控制以应对大规模模型开发挑战",
+      "源代码控制系统的重新设计可能集成 AI 辅助代码审查与自动化",
+      "该实践反映了 LLM 时代软件工程基础设施的演进方向"
+    ],
+    "category": "AI工程"
+  }
+}

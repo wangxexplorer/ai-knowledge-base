@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261014-007",
+  "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
+  "source_url": "https://museumofages.org/w/vinci",
+  "source_type": "rss",
+  "summary": "该项目是一个基于Three.js和WebGPU构建的3D虚拟达芬奇博物馆，提供17个站点的虚拟导览，展示画作、机器、解剖图及手稿，支持多语言和可访问性设计。其核心是数字博物馆的沉浸式体验，未涉及AI、LLM或Agent技术。",
+  "tags": [
+    "3D虚拟博物馆",
+    "WebGPU",
+    "Three.js",
+    "数字文化遗产",
+    "可访问性"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-14T21:22:12+08:00",
+  "updated_at": "2026-10-14T21:22:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "项目专注于3D虚拟博物馆的构建与可访问性，而非AI技术。",
+      "使用WebGPU和Three.js实现渲染，与AI/LLM/Agent无直接关联。",
+      "开源代码和CC许可内容，但未涉及机器学习或智能体。"
+    ],
+    "category": "其他"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261014-001",
+  "title": "The Aaronson Oracle",
+  "source_url": "https://aaronsonoracle.com/",
+  "source_type": "rss",
+  "summary": "该条目指向一个名为The Aaronson Oracle的网站，标题可能源自理论计算机科学家Scott Aaronson，或与其提出的预言机概念相关。但描述仅包含文章链接和Hacker News评论链接，缺乏实质内容，无法判断其具体主题。因此与AI、LLM、Agent领域的相关性极低，仅能推测可能涉及计算理论或AI哲学讨论。",
+  "tags": [
+    "Aaronson",
+    "Oracle",
+    "Hacker News",
+    "计算理论",
+    "AI哲学"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-14T21:22:12+08:00",
+  "updated_at": "2026-10-14T21:22:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "标题可能关联Scott Aaronson的理论计算机科学工作",
+      "预言机概念在计算复杂性中常见，但与LLM Agent无直接联系",
+      "缺乏实质内容，无法进行深入分析"
+    ],
+    "category": "其他"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261014-005",
+  "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+  "source_url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
+  "source_type": "rss",
+  "summary": "该条目介绍了一个名为Pulsar的新Smalltalk IDE，在ESUG 2026会议上展示。Smalltalk是一种历史悠久的面向对象编程语言，其IDE环境对开发者工具设计有影响。但该内容与AI、LLM或Agent领域无直接关联，属于编程语言和开发工具范畴。",
+  "tags": [
+    "Smalltalk",
+    "IDE",
+    "编程语言",
+    "开发工具",
+    "ESUG"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-14T21:22:12+08:00",
+  "updated_at": "2026-10-14T21:22:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "Pulsar是Smalltalk生态的新IDE，可能继承Smalltalk的交互式编程特性",
+      "Smalltalk的MVC和实时环境理念对现代IDE有历史影响，但与当前AI技术栈无关",
+      "该内容不涉及LLM、Agent或机器学习，仅适合对编程语言历史感兴趣的读者"
+    ],
+    "category": "编程语言与开发工具"
+  }
+}

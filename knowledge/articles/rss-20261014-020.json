@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261014-020",
+  "title": "The United Kingdom generates less electricity per person than in the 1970s",
+  "source_url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+  "source_type": "rss",
+  "summary": "该条目来自Our World in Data，指出英国人均发电量已降至1970年代水平，较2000年代初峰值下降约三分之一。内容聚焦能源统计与趋势，未涉及人工智能、大语言模型或智能体技术。",
+  "tags": [
+    "能源统计",
+    "英国",
+    "人均发电量",
+    "数据洞察",
+    "非AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-14T21:22:12+08:00",
+  "updated_at": "2026-10-14T21:22:12+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "英国人均发电量较2000年代初峰值下降约三分之一",
+      "当前人均发电量低于1970年代水平",
+      "该条目与AI、LLM、Agent领域无直接关联"
+    ],
+    "category": "能源与环境"
+  }
+}
