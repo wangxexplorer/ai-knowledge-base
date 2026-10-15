@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261015-019",
+  "title": "Your C is not standard C",
+  "source_url": "https://sebsite.pw/w/20261012-notstdc.html",
+  "source_type": "rss",
+  "summary": "该条目讨论C语言标准合规性问题，指出许多编译器或代码实际并不符合标准C规范。内容属于编程语言底层技术讨论，与AI、LLM或Agent领域无直接关联，不涉及机器学习、模型训练、推理或智能体设计等主题。",
+  "tags": [
+    "C语言",
+    "编程语言",
+    "标准合规",
+    "编译器",
+    "底层技术"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-15T21:07:54+08:00",
+  "updated_at": "2026-10-15T21:07:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "C语言实现常偏离标准，影响跨平台兼容性",
+      "底层语言规范问题与AI/LLM技术栈无直接联系",
+      "该内容更适合系统编程或编译器开发者关注"
+    ],
+    "category": "编程语言与编译器"
+  }
+}

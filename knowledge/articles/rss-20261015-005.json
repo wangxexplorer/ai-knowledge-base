@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261015-005",
+  "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+  "source_url": "https://github.com/awslabs/aidlc-workflows",
+  "source_type": "rss",
+  "summary": "Aidlc 是 AWS Labs 在 GitHub 上开源的项目，旨在为 AI 编码代理提供自适应工作流引导规则。该项目通过动态调整工作流规则，帮助 AI 编码代理更高效地完成软件开发任务，属于 AI Agent 在代码生成领域的应用实践。",
+  "tags": [
+    "AI编码代理",
+    "工作流引导",
+    "自适应规则",
+    "AWS Labs",
+    "Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-15T21:07:54+08:00",
+  "updated_at": "2026-10-15T21:07:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "为 AI 编码代理提供动态工作流规则，提升任务执行效率",
+      "自适应机制使代理能根据上下文调整行为",
+      "由 AWS Labs 开源，可能集成到现有开发工具链中"
+    ],
+    "category": "AI Agent 应用"
+  }
+}

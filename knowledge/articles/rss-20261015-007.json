@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261015-007",
+  "title": "The Double Headed Stack Allocator",
+  "source_url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+  "source_type": "rss",
+  "summary": "该条目介绍一种名为“双头栈分配器”的内存管理技术，属于底层系统编程与性能优化范畴。它讨论如何通过双向增长的栈结构提升内存分配效率，与AI、LLM或Agent领域无直接关联，不涉及模型训练、推理、智能体架构或大语言模型应用。",
+  "tags": [
+    "内存分配",
+    "系统编程",
+    "性能优化",
+    "数据结构",
+    "底层技术"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-15T21:07:54+08:00",
+  "updated_at": "2026-10-15T21:07:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "双头栈分配器是底层内存管理技术，与AI/LLM/Agent无直接关系",
+      "可能间接影响AI系统运行时性能，但非核心AI技术",
+      "对关注推理引擎底层优化的开发者有参考价值"
+    ],
+    "category": "系统编程"
+  }
+}

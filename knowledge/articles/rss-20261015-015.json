@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261015-015",
+  "title": "Americans' social activity has steeply declined in the past 30 years",
+  "source_url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+  "source_type": "rss",
+  "summary": "该条目报道美国过去30年社会活动急剧下降，属于社会趋势分析，与AI、LLM、Agent领域无直接技术关联。",
+  "tags": [
+    "社会趋势",
+    "美国社会",
+    "社交活动",
+    "数据分析",
+    "非技术"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-15T21:07:54+08:00",
+  "updated_at": "2026-10-15T21:07:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "美国社会活动30年持续下降",
+      "该内容为社会学研究，不涉及AI技术",
+      "与LLM/Agent领域无直接关联"
+    ],
+    "category": "社会与行为科学"
+  }
+}

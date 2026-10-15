@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261015-011",
+  "title": "OpenCode 2.0",
+  "source_url": "https://anoma.ly/notes/opencode-2-0/",
+  "source_type": "rss",
+  "summary": "OpenCode 2.0 是 Hacker News 上引发热议的技术项目更新，获得 707 分和 298 条评论。从名称与社区关注度推断，它很可能是一个面向代码生成或编程辅助的开源工具，与 AI 编码助手、LLM 驱动的开发工作流高度相关。该条目本身仅包含链接和热度数据，缺乏具体技术细节，但其高讨论度表明它在开发者社区中具有重要影响，可能涉及 Agent 式代码自动化、IDE 集成或 LLM 代",
+  "tags": [
+    "OpenCode",
+    "代码生成",
+    "LLM编程助手",
+    "开发者工具",
+    "开源项目"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-15T21:07:54+08:00",
+  "updated_at": "2026-10-15T21:07:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.72,
+    "key_insights": [
+      "OpenCode 2.0 在 Hacker News 获得极高关注度，反映 AI 编码工具是当前开发者社区的核心热点",
+      "该项目很可能属于 LLM 驱动的代码生成或 Agent 式编程辅助工具类别",
+      "条目信息有限，需访问原文才能确认其具体 AI/LLM 技术架构与能力边界"
+    ],
+    "category": "AI编程工具"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261015-006",
+  "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+  "source_url": "https://github.com/andunieee/flipflop",
+  "source_type": "rss",
+  "summary": "Flipflop 是一个基于 Iroh 的持久化隧道文件共享工具，旨在解决 LocalSend 和 DashBeam 等工具的不足，提供快速、始终在线的设备间通信通道，并尝试使用 Slint 框架。该项目与 AI、LLM、Agent 领域无直接关联，属于网络通信和文件传输工具。",
+  "tags": [
+    "文件共享",
+    "P2P",
+    "隧道",
+    "Iroh",
+    "Slint"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-15T21:07:54+08:00",
+  "updated_at": "2026-10-15T21:07:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Flipflop 利用 Iroh 实现持久化隧道，支持始终在线的可信通信。",
+      "项目目标是提供快速、可靠的文件传输，替代 LocalSend 和 DashBeam。",
+      "该工具不涉及 AI、LLM 或 Agent 技术，属于传统网络应用。"
+    ],
+    "category": "网络工具"
+  }
+}

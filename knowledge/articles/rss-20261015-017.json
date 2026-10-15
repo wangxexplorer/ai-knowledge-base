@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261015-017",
+  "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
+  "source_url": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
+  "source_type": "rss",
+  "summary": "该条目介绍阿根廷农村居民通过AM广播电台发送消息，形成一种早期的社交网络。内容聚焦于传统通信技术的社会应用，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "社交网络",
+    "AM广播",
+    "农村通信",
+    "传统技术"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-15T21:07:54+08:00",
+  "updated_at": "2026-10-15T21:07:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "AM广播可作为社交网络媒介，但非AI技术",
+      "该案例展示了低技术环境下的通信创新",
+      "与LLM、Agent等AI领域无直接联系"
+    ],
+    "category": "其他"
+  }
+}

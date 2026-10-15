@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261015-001",
+  "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+  "source_url": "https://libreboot.org/news/libreboot2610.html",
+  "source_type": "rss",
+  "summary": "Libreboot 26.10 版本发布，新增 UEFI 和 Chromebook 支持。Libreboot 是一个自由固件项目，旨在替代专有 BIOS/UEFI，强调开源和用户自由。该版本扩展了硬件兼容性，但内容与 AI、LLM 或 Agent 领域无直接关联。",
+  "tags": [
+    "固件",
+    "开源",
+    "UEFI",
+    "Chromebook",
+    "Libreboot"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-15T21:07:54+08:00",
+  "updated_at": "2026-10-15T21:07:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "Libreboot 是自由固件项目，与 AI 技术栈无直接关系",
+      "新增 UEFI 和 Chromebook 支持，提升硬件兼容性",
+      "该发布属于系统底层软件，不涉及 AI/LLM/Agent 技术"
+    ],
+    "category": "系统软件"
+  }
+}

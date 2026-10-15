@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261015-009",
+  "title": "Show HN: Ito – Build Terminal UIs in Lua",
+  "source_url": "https://uji.sh/ito/",
+  "source_type": "rss",
+  "summary": "Ito是一个用Lua构建终端用户界面（TUI）的库，作者受Neovim和终端定制文化启发，旨在提供比JavaScript更契合的Lua方案，并基于Rust提升性能。项目提供自定义画布实现并导出为WASM，支持在线实验，同时为AI编码助手提供llms.txt文件，便于LLM理解和使用该库。",
+  "tags": [
+    "Lua",
+    "终端UI",
+    "WASM",
+    "llms.txt",
+    "AI辅助编码"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-15T21:07:54+08:00",
+  "updated_at": "2026-10-15T21:07:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.3,
+    "key_insights": [
+      "提供llms.txt文件，方便LLM理解库的用法，提升AI辅助编码效率。",
+      "使用Lua和Rust构建，强调性能与可定制性，适合终端爱好者。",
+      "通过WASM实现在线实验环境，降低尝试门槛。"
+    ],
+    "category": "开发工具"
+  }
+}

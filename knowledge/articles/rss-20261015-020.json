@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261015-020",
+  "title": "Tracing Mystery Network Traffic with eBPF Across HRT's Global Compute Cluster",
+  "source_url": "https://www.hudsonrivertrading.com/hrtbeat/long-on-research-short-on-bandwidth/",
+  "source_type": "rss",
+  "summary": "本文介绍Hudson River Trading（HRT）如何利用eBPF技术在其全球计算集群中追踪神秘网络流量，以优化带宽使用和排查网络问题。eBPF是一种内核级可编程技术，常用于可观测性和网络监控。该内容与AI、LLM、Agent领域无直接关联，但eBPF作为底层基础设施技术，可间接支持AI系统的网络性能监控和优化。",
+  "tags": [
+    "eBPF",
+    "网络监控",
+    "可观测性",
+    "基础设施",
+    "性能优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-15T21:07:54+08:00",
+  "updated_at": "2026-10-15T21:07:54+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.1,
+    "key_insights": [
+      "eBPF可用于大规模分布式系统的网络流量追踪和性能分析",
+      "该技术有助于优化计算集群的带宽使用和故障排查",
+      "与AI/LLM/Agent领域无直接关系，但可作为底层支撑技术"
+    ],
+    "category": "网络与基础设施"
+  }
+}
