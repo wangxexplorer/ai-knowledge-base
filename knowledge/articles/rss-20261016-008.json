@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261016-008",
+  "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+  "source_url": "https://github.com/johnrash/bebox",
+  "source_type": "rss",
+  "summary": "BeBox是一个Haiku操作系统上的应用程序，用于模拟Be Inc.的BeBox硬件。该项目与AI、LLM或Agent领域无直接关联，属于复古计算和操作系统模拟范畴。",
+  "tags": [
+    "Haiku",
+    "BeBox",
+    "模拟器",
+    "复古计算",
+    "操作系统"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-16T21:04:53+08:00",
+  "updated_at": "2026-10-16T21:04:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该项目专注于硬件模拟，不涉及AI技术",
+      "与LLM或Agent领域无任何交集",
+      "属于操作系统和复古计算社区的兴趣项目"
+    ],
+    "category": "其他"
+  }
+}

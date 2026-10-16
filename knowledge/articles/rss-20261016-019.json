@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261016-019",
+  "title": "Wayland desktop for Linux with skeuomorphic design",
+  "source_url": "https://github.com/fyzugx/DEsk",
+  "source_type": "rss",
+  "summary": "该条目介绍了一个名为DEsk的Linux Wayland桌面环境，采用拟物化设计，并在Hacker News上引发讨论。内容聚焦于Linux桌面系统的界面设计与实现，未涉及人工智能、大语言模型或智能体相关技术。",
+  "tags": [
+    "Linux",
+    "Wayland",
+    "桌面环境",
+    "拟物化设计",
+    "开源"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-16T21:04:53+08:00",
+  "updated_at": "2026-10-16T21:04:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "该条目与AI、LLM、Agent领域无直接关联",
+      "内容属于Linux桌面环境开发，侧重UI设计",
+      "拟物化设计是桌面交互的一种风格，不涉及智能技术"
+    ],
+    "category": "操作系统与桌面环境"
+  }
+}

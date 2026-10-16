@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261016-006",
+  "title": "RPKI now protects 70% of internet routes",
+  "source_url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+  "source_type": "rss",
+  "summary": "该条目报道RPKI（资源公钥基础设施）现已保护70%的互联网路由，属于互联网路由安全与BGP前缀验证领域。RPKI通过密码学签名验证路由起源，防止路由劫持。该技术与AI、LLM、Agent无直接关联，不涉及机器学习、大语言模型或智能体系统。",
+  "tags": [
+    "RPKI",
+    "互联网路由安全",
+    "BGP",
+    "网络基础设施",
+    "路由劫持"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-16T21:04:53+08:00",
+  "updated_at": "2026-10-16T21:04:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "RPKI是互联网路由安全的关键技术，与AI/LLM/Agent领域无关。",
+      "该条目属于网络基础设施与安全范畴，不涉及人工智能技术。",
+      "AI在网络安全中可能有应用，但此条目未提及任何AI相关方法。"
+    ],
+    "category": "网络与安全"
+  }
+}

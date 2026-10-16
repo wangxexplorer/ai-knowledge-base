@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261016-015",
+  "title": "Krea 3 – An image model built for editing at scale",
+  "source_url": "https://www.krea.ai/krea-3",
+  "source_type": "rss",
+  "summary": "Krea 3 是一款面向大规模编辑场景构建的图像模型，在 Hacker News 上获得 321 点热度与 104 条评论。该条目属于生成式视觉模型领域，与 AI 图像生成和编辑技术直接相关，但与 LLM、Agent 等文本智能体方向关联较弱，更多体现为多模态生成能力在图像编辑工作流中的工程化落地。",
+  "tags": [
+    "图像生成",
+    "生成式AI",
+    "图像编辑",
+    "多模态",
+    "扩散模型"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-16T21:04:53+08:00",
+  "updated_at": "2026-10-16T21:04:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.55,
+    "key_insights": [
+      "Krea 3 聚焦大规模图像编辑场景，强调可扩展的编辑能力而非单纯生成",
+      "高社区热度反映生成式图像编辑工具在开发者中关注度持续上升",
+      "与 LLM/Agent 关联有限，属于多模态生成方向而非语言智能体技术"
+    ],
+    "category": "生成式视觉模型"
+  }
+}

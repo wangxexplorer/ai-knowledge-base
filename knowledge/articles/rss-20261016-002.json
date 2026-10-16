@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261016-002",
+  "title": "The Folders Programming Language",
+  "source_url": "https://danieltemkin.com/esolangs/folders",
+  "source_type": "rss",
+  "summary": "Folders 是一种深奥编程语言（esolang），其核心思想是用文件夹结构本身作为程序代码，通过目录层级和文件命名来表达计算逻辑。该条目来自 Hacker News，讨论热度较高。它与 AI、LLM 或 Agent 领域没有直接关联，属于编程语言理论与趣味计算范畴，但可启发对非传统代码表示形式的思考。",
+  "tags": [
+    "esolang",
+    "编程语言",
+    "文件夹结构",
+    "Hacker News",
+    "非传统计算"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-16T21:04:53+08:00",
+  "updated_at": "2026-10-16T21:04:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "Folders 将文件系统结构本身作为程序语法，属于深奥编程语言",
+      "与 AI/LLM/Agent 无直接技术关联",
+      "可启发对代码表示与结构化数据的新思路"
+    ],
+    "category": "编程语言理论"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261016-012",
+  "title": "Muse Spark Open",
+  "source_url": "https://research.meta.ai/blog/muse-spark-open",
+  "source_type": "rss",
+  "summary": "Meta发布开源大模型Muse Spark Open，参数规模816B，采用MoE架构（激活42B），在Hugging Face上提供模型权重，并在开发者博客提供构建指南。该模型是Meta在开源AI领域的重要进展，可能对LLM生态和Agent应用产生显著影响。",
+  "tags": [
+    "开源大模型",
+    "Meta",
+    "MoE架构",
+    "LLM",
+    "Hugging Face"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-16T21:04:53+08:00",
+  "updated_at": "2026-10-16T21:04:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "Muse Spark Open是Meta推出的开源大模型，参数规模达816B，采用MoE架构，激活参数42B，平衡性能与效率。",
+      "模型权重在Hugging Face发布，并提供开发者博客指南，降低使用门槛，促进社区创新。",
+      "该模型可能推动LLM和Agent领域发展，为复杂任务提供更强基础模型。"
+    ],
+    "category": "大语言模型"
+  }
+}

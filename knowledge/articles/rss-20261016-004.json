@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261016-004",
+  "title": "Any window from your Mac, on your iPhone and iPad",
+  "source_url": "https://github.com/Saffsanity/sill",
+  "source_type": "rss",
+  "summary": "该条目介绍了一个名为sill的GitHub项目，可将Mac上的任意窗口投射到iPhone和iPad上，属于跨设备屏幕共享与远程桌面工具。它与AI、LLM或Agent领域没有直接关联，不涉及模型推理、智能体决策或自然语言处理技术，仅属于系统工具与远程访问范畴。",
+  "tags": [
+    "屏幕共享",
+    "远程桌面",
+    "跨设备",
+    "Mac",
+    "iOS"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-16T21:04:53+08:00",
+  "updated_at": "2026-10-16T21:04:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "该项目是跨设备窗口投射工具，与AI技术栈无关",
+      "不涉及LLM推理、训练或Agent框架",
+      "仅在广义上可能作为AI应用的辅助显示终端"
+    ],
+    "category": "系统工具"
+  }
+}

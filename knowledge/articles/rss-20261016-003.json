@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261016-003",
+  "title": "Comparing Chromium Development at Google and Igalia",
+  "source_url": "https://lwn.net/Articles/1094721/",
+  "source_type": "rss",
+  "summary": "该条目对比了Google与Igalia在Chromium开发上的模式差异，涉及浏览器引擎的工程协作、开源治理与商业利益平衡。内容聚焦Web平台底层技术，未涉及AI、LLM或Agent相关方法、模型或应用，因此与AI领域关联极低。",
+  "tags": [
+    "Chromium",
+    "开源治理",
+    "浏览器引擎",
+    "Igalia",
+    "Google"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-16T21:04:53+08:00",
+  "updated_at": "2026-10-16T21:04:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "Chromium开发由Google主导，Igalia作为第三方贡献者参与，体现开源协作与商业控制的张力",
+      "该讨论属于Web基础设施工程，不涉及AI/LLM/Agent技术",
+      "对AI领域无直接技术或应用启示"
+    ],
+    "category": "Web与浏览器技术"
+  }
+}

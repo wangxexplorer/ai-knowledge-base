@@ -1,0 +1,31 @@
+{
+  "id": "github-20261016-002",
+  "title": "firecrawl",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "source_type": "github",
+  "summary": "Firecrawl是一个开源项目，旨在为AI代理提供从网络及其他来源获取数据的能力，支持AI爬虫、抓取和搜索，以增强AI代理的智能。",
+  "tags": [
+    "AI代理",
+    "网络爬虫",
+    "数据抓取",
+    "AI搜索",
+    "开源"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-16T21:04:53+08:00",
+  "updated_at": "2026-10-16T21:04:53+08:00",
+  "metadata": {
+    "stars": 192063,
+    "language": "TypeScript",
+    "author": "firecrawl"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "为AI代理提供网络数据获取能力，扩展其知识边界",
+      "集成爬虫、抓取和搜索功能，一站式服务",
+      "高星标数表明社区高度关注"
+    ],
+    "category": "AI工具"
+  }
+}

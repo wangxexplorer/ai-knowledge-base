@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261016-014",
+  "title": "BIPM decides to stop adding leap seconds to UTC",
+  "source_url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+  "source_type": "rss",
+  "summary": "国际计量局（BIPM）决定停止在协调世界时（UTC）中添加闰秒，这是时间计量领域的重大政策变化。该决定将影响全球时间标准、计算机系统、卫星导航和网络时间协议等。虽然与AI、LLM、Agent领域无直接关联，但时间同步是分布式系统、实时AI应用和智能体协作的基础设施，因此具有间接相关性。",
+  "tags": [
+    "时间标准",
+    "UTC",
+    "闰秒",
+    "分布式系统",
+    "基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-16T21:04:53+08:00",
+  "updated_at": "2026-10-16T21:04:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.15,
+    "key_insights": [
+      "闰秒的取消将简化时间同步，减少分布式系统（包括AI训练集群）的复杂性。",
+      "对实时AI应用和智能体系统而言，时间标准的变化可能影响事件排序和协调机制。",
+      "该决定反映了全球技术基础设施的演进，但本身不涉及AI或LLM技术。"
+    ],
+    "category": "其他"
+  }
+}

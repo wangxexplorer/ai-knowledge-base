@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261016-016",
+  "title": "Neural networks are clean",
+  "source_url": "https://already-clean.goodfire.com/",
+  "source_type": "rss",
+  "summary": "该条目标题为“Neural networks are clean”，来自Hacker News，链接指向一个演示页面，并关联到Nick Cammarata的推文。内容可能探讨神经网络内部表示的“清洁性”或可解释性，与AI领域直接相关，但信息有限，缺乏详细描述。",
+  "tags": [
+    "神经网络",
+    "可解释性",
+    "AI",
+    "表示学习",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-16T21:04:53+08:00",
+  "updated_at": "2026-10-16T21:04:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.8,
+    "key_insights": [
+      "标题暗示神经网络可能具有内在的清洁或可解释结构",
+      "关联推文作者Nick Cammarata可能涉及可解释性研究",
+      "Hacker News高热度讨论反映社区对神经网络本质的关注"
+    ],
+    "category": "AI基础研究"
+  }
+}

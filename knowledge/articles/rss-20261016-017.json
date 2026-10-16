@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261016-017",
+  "title": "Celebrating 70 Years of Fortran",
+  "source_url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+  "source_type": "rss",
+  "summary": "该条目庆祝Fortran语言诞生70周年，回顾其历史与影响。Fortran作为最早的高级编程语言，在科学计算领域影响深远，但与AI、LLM、Agent领域无直接关联，仅作为编程语言历史背景存在。",
+  "tags": [
+    "Fortran",
+    "编程语言历史",
+    "科学计算",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-16T21:04:53+08:00",
+  "updated_at": "2026-10-16T21:04:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "Fortran是科学计算领域的奠基性语言，但现代AI开发主要使用Python等语言。",
+      "该条目属于技术历史回顾，不涉及AI、LLM或Agent技术内容。",
+      "对AI领域从业者而言，了解编程语言演进有助于理解技术生态发展。"
+    ],
+    "category": "编程语言历史"
+  }
+}

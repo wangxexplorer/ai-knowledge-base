@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261016-001",
+  "title": "Tesla's new Roadster makes a flying debut, hitting 60 MPH in under a second",
+  "source_url": "https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second",
+  "source_type": "rss",
+  "summary": "特斯拉新款Roadster首次亮相，展示飞行能力，0-60英里加速不到1秒。该新闻聚焦于电动汽车和物理性能，与AI、LLM、Agent领域无直接关联。",
+  "tags": [
+    "特斯拉",
+    "电动汽车",
+    "飞行汽车",
+    "加速性能",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-16T21:04:53+08:00",
+  "updated_at": "2026-10-16T21:04:53+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "特斯拉Roadster的飞行和加速性能是物理工程突破，不涉及AI技术",
+      "该新闻与LLM或Agent领域无任何交集",
+      "AI相关性极低，属于汽车行业新闻"
+    ],
+    "category": "科技新闻"
+  }
+}
