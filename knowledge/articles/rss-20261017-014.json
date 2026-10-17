@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261017-014",
+  "title": "Designing more efficient quantum circuits with Claude",
+  "source_url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+  "source_type": "rss",
+  "summary": "Anthropic研究文章介绍利用Claude辅助设计更高效的量子电路，展示LLM在量子计算硬件优化中的实际应用。该条目来自Hacker News，讨论热度较高，体现大模型作为科研辅助工具向专业科学领域扩展的趋势。",
+  "tags": [
+    "Claude",
+    "LLM应用",
+    "量子计算",
+    "科研辅助",
+    "电路优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-17T20:01:22+08:00",
+  "updated_at": "2026-10-17T20:01:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.82,
+    "key_insights": [
+      "LLM可被用于专业科学工程任务，如量子电路设计优化",
+      "Anthropic将Claude定位为科研协作工具，拓展AI在硬科学中的应用边界",
+      "该方向体现Agent式AI辅助科学发现的潜力"
+    ],
+    "category": "LLM应用"
+  }
+}

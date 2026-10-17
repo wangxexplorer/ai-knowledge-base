@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261017-015",
+  "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+  "source_url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+  "source_type": "rss",
+  "summary": "该条目指出，美国90%的工作时间用于AI基准测试未充分覆盖的任务，揭示当前AI评估体系与实际劳动需求之间存在显著错位。这直接关系到LLM和Agent的能力边界评估：现有基准可能高估AI在实际工作场景中的适用性，提示Agent设计需关注长尾、非标准化任务。",
+  "tags": [
+    "AI基准测试",
+    "LLM评估",
+    "Agent能力边界",
+    "劳动市场影响",
+    "任务覆盖"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-17T20:01:22+08:00",
+  "updated_at": "2026-10-17T20:01:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.78,
+    "key_insights": [
+      "现有AI基准与实际工作任务覆盖严重不匹配，90%工作时间处于评估盲区",
+      "LLM/Agent能力评估需扩展至非标准化、长尾任务场景",
+      "基准偏差可能导致对AI自动化潜力的高估，影响Agent部署决策"
+    ],
+    "category": "AI评估与基准"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261017-013",
+  "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+  "source_url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+  "source_type": "rss",
+  "summary": "该条目报道eBay限制无线电设备上架，但豁免仅限业余频段的设备。内容属于电商平台政策与业余无线电监管领域，与AI、LLM或Agent技术无直接关联，也未涉及机器学习、自然语言处理或智能体系统。",
+  "tags": [
+    "eBay政策",
+    "无线电设备",
+    "业余无线电",
+    "电商监管"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-17T20:01:22+08:00",
+  "updated_at": "2026-10-17T20:01:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.02,
+    "key_insights": [
+      "条目聚焦电商平台对无线电设备的销售限制，不涉及AI技术",
+      "豁免条款针对业余频段设备，属于监管与合规话题",
+      "与LLM、Agent领域无实质技术交集"
+    ],
+    "category": "其他"
+  }
+}

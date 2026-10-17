@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261017-004",
+  "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+  "source_url": "https://llmspeed.dev/",
+  "source_type": "rss",
+  "summary": "Llmspeed 是一个面向本地 LLM 部署的硬件选型工具，让用户在购买硬件前先体验本地大模型的运行速度。该条目来自 Hacker News 的 Show HN，获得 103 分和 40 条评论，说明社区对本地 LLM 推理性能评估有较高关注。它直接服务于 LLM 本地化部署场景，帮助用户评估硬件与模型组合的推理速度，降低采购决策风险。",
+  "tags": [
+    "本地LLM",
+    "推理性能",
+    "硬件选型",
+    "LLM部署",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-17T20:01:22+08:00",
+  "updated_at": "2026-10-17T20:01:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.82,
+    "key_insights": [
+      "本地 LLM 部署的硬件选型存在信息不对称，速度基准工具可降低试错成本",
+      "社区热度表明本地推理性能评估是 LLM 落地的实际痛点",
+      "此类工具可辅助 Agent 与私有化 LLM 应用的硬件规划"
+    ],
+    "category": "LLM基础设施与工具"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261017-005",
+  "title": "Butlerian Jihad",
+  "source_url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+  "source_type": "rss",
+  "summary": "该条目指向《沙丘》宇宙中的巴特勒圣战设定页面，描述人类在经历机器统治后发起的反人工智能运动，最终禁止制造模仿人类思维的机器。它与AI、LLM、Agent领域没有直接技术关联，但作为科幻文化符号，常被用于讨论AI安全、技术依赖和人类自主性等议题。",
+  "tags": [
+    "科幻文化",
+    "AI伦理",
+    "技术禁令",
+    "人类自主性",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-17T20:01:22+08:00",
+  "updated_at": "2026-10-17T20:01:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.15,
+    "key_insights": [
+      "巴特勒圣战是科幻中反AI叙事的经典符号，常被引用于AI安全与治理讨论",
+      "该条目本身不涉及LLM或Agent技术，相关性主要来自文化隐喻",
+      "Hacker News上的高热度反映技术社区对AI依赖与失控风险的持续关注"
+    ],
+    "category": "科幻与AI文化"
+  }
+}

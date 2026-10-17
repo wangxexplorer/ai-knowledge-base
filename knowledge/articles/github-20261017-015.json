@@ -1,0 +1,31 @@
+{
+  "id": "github-20261017-015",
+  "title": "headroom",
+  "source_url": "https://github.com/headroomlabs-ai/headroom",
+  "source_type": "github",
+  "summary": "headroom 是一个面向 LLM 应用的上下文压缩工具，可在工具输出、日志、文件和 RAG 分块进入大模型前进行压缩，为编码 Agent 减少约 20% token，对 JSON 数据可减少 60-95% token 且保持答案一致。项目以 Python 库、代理和 MCP 服务器三种形态提供，直接服务于 Agent 与 LLM 的上下文成本优化。",
+  "tags": [
+    "上下文压缩",
+    "LLM",
+    "Agent",
+    "MCP",
+    "RAG"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-17T20:01:22+08:00",
+  "updated_at": "2026-10-17T20:01:22+08:00",
+  "metadata": {
+    "stars": 75556,
+    "language": "Python",
+    "author": "headroomlabs-ai"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "通过前置压缩显著降低 Agent 与 LLM 的 token 消耗和调用成本",
+      "对 JSON 等结构化数据压缩率高达 60-95% 且不损失答案质量",
+      "以库、代理、MCP 服务器多形态集成，适配 Claude Code 等编码 Agent 生态"
+    ],
+    "category": "LLM 工程与优化"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261017-007",
+  "title": "Nine-Inch Snails",
+  "source_url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+  "source_type": "rss",
+  "summary": "该条目是《大西洋月刊》关于佛罗里达州巨型非洲蜗牛入侵的科普文章，来自Hacker News的RSS订阅，讨论生态入侵与物种管理，不涉及任何人工智能、大语言模型或智能体技术内容。",
+  "tags": [
+    "生态入侵",
+    "科普文章",
+    "Hacker News",
+    "非技术"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-17T20:01:22+08:00",
+  "updated_at": "2026-10-17T20:01:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "内容主题为生物入侵与生态管理，与AI/LLM/Agent领域无关",
+      "来源为Hacker News综合科技资讯流，但本条属于自然科学类",
+      "对AI技术知识库无直接参考价值"
+    ],
+    "category": "其他"
+  }
+}

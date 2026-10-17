@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261017-011",
+  "title": "Claude reveals ECDSA curve origins",
+  "source_url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+  "source_type": "rss",
+  "summary": "该条目来自Hacker News，标题称Claude揭示了ECDSA曲线起源，指向Anthropic研究与密码学博客讨论。内容涉及LLM辅助密码学溯源，体现大模型在数学与安全分析中的应用，与AI、LLM领域中度相关。",
+  "tags": [
+    "Claude",
+    "LLM应用",
+    "密码学",
+    "ECDSA",
+    "AI辅助研究"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-17T20:01:22+08:00",
+  "updated_at": "2026-10-17T20:01:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.55,
+    "key_insights": [
+      "展示LLM在密码学溯源等专业研究中的辅助价值",
+      "反映大模型参与数学与安全分析的探索趋势",
+      "高热度讨论表明AI辅助科研受关注"
+    ],
+    "category": "AI应用与研究"
+  }
+}

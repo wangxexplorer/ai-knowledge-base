@@ -1,0 +1,31 @@
+{
+  "id": "github-20261017-019",
+  "title": "context7",
+  "source_url": "https://github.com/upstash/context7",
+  "source_type": "github",
+  "summary": "Context7 是 Upstash 推出的开源平台，为 AI 编程代理提供实时、最新的库文档。它基于 MCP（Model Context Protocol）服务器实现，让 LLM 在 vibe-coding 等场景中获取准确 API 信息，避免因训练数据过时而产生幻觉。项目用 TypeScript 编写，GitHub 星标超 6.3 万，是 AI Agent 工具生态中重要的上下文增强基础设施。",
+  "tags": [
+    "MCP",
+    "LLM",
+    "AI Agent",
+    "文档检索",
+    "vibe-coding"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-17T20:01:22+08:00",
+  "updated_at": "2026-10-17T20:01:22+08:00",
+  "metadata": {
+    "stars": 63183,
+    "language": "TypeScript",
+    "author": "upstash"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "通过 MCP 协议为 AI 代理注入实时文档，缓解 LLM 知识过时与幻觉问题",
+      "高星标表明开发者对 Agent 上下文供给工具需求强烈",
+      "代表 vibe-coding 趋势下文档服务与 AI 编程工具链的融合方向"
+    ],
+    "category": "AI Agent 基础设施"
+  }
+}

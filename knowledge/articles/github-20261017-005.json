@@ -1,0 +1,31 @@
+{
+  "id": "github-20261017-005",
+  "title": "langchain",
+  "source_url": "https://github.com/langchain-ai/langchain",
+  "source_type": "github",
+  "summary": "LangChain 是一个面向 Agent 工程的开源平台，使用 Python 开发，在 GitHub 上拥有近 15 万星标。项目聚焦 AI Agent 的构建与编排，支持接入 Anthropic、ChatGPT 等主流大模型，是 LLM 应用开发领域最具影响力的框架之一，为开发者提供构建智能体、链式调用和工具集成的能力。",
+  "tags": [
+    "LangChain",
+    "AI Agent",
+    "LLM框架",
+    "Python",
+    "Agent工程"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-17T20:01:22+08:00",
+  "updated_at": "2026-10-17T20:01:22+08:00",
+  "metadata": {
+    "stars": 147971,
+    "language": "Python",
+    "author": "langchain-ai"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.98,
+    "key_insights": [
+      "LangChain 是 Agent 工程领域的核心开源平台，社区规模庞大（近15万星），生态成熟",
+      "支持 Anthropic、ChatGPT 等多种 LLM 后端，具备良好的模型兼容性与可扩展性",
+      "以 Python 为主，提供构建 AI Agent 和链式工作流的基础设施，是 LLM 应用开发的重要入口"
+    ],
+    "category": "AI Agent 开发框架"
+  }
+}

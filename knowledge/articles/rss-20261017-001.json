@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261017-001",
+  "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+  "source_url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+  "source_type": "rss",
+  "summary": "该条目为Hacker News上关于DeepSeek v4.1 Flash 1017模型的讨论帖，链接指向OpenRouter平台上的模型页面，获得232点热度与70条评论。DeepSeek是知名大语言模型研发机构，v4.1 Flash推测为其轻量快速版本模型，属于LLM领域新模型发布或可用性更新，社区关注度较高。",
+  "tags": [
+    "DeepSeek",
+    "LLM",
+    "模型发布",
+    "OpenRouter",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-17T20:01:22+08:00",
+  "updated_at": "2026-10-17T20:01:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.92,
+    "key_insights": [
+      "DeepSeek推出v4.1 Flash版本，可能主打低延迟高性价比推理",
+      "模型通过OpenRouter平台提供访问，便于开发者集成",
+      "Hacker News高热度讨论反映社区对国产开源LLM进展的持续关注"
+    ],
+    "category": "大语言模型"
+  }
+}

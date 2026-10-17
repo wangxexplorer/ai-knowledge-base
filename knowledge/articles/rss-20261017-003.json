@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261017-003",
+  "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
+  "source_url": "https://github.com/CLoaKY233/siltop",
+  "source_type": "rss",
+  "summary": "该项目是一个面向苹果M系列芯片的macOS系统监控工具siltop，通过SMC和IOReport读取真实功耗、GPU、每核频率与温度，并以自然语言提示系统瓶颈。它属于系统运维与性能观测工具，本身不涉及AI、LLM或Agent技术，但可作为本地运行LLM推理时观测GPU/CPU功耗与热状态的辅助手段。",
+  "tags": [
+    "系统监控",
+    "macOS",
+    "性能观测",
+    "硬件功耗",
+    "非AI工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-17T20:01:22+08:00",
+  "updated_at": "2026-10-17T20:01:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.12,
+    "key_insights": [
+      "核心功能是硬件级性能与功耗监控，与AI模型或算法无直接关系",
+      "可作为本地LLM推理部署时的资源与热状态观测辅助工具",
+      "低开销、无sudo、无遥测的设计对本地AI实验环境有一定实用价值"
+    ],
+    "category": "系统工具"
+  }
+}

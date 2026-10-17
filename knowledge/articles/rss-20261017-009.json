@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261017-009",
+  "title": "How the Claude Code team does code review",
+  "source_url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+  "source_type": "rss",
+  "summary": "该条目介绍Claude Code团队如何进行代码审查，指向Anthropic官方博客文章，并在Hacker News上引发369点、338条评论的热议。内容涉及AI编程助手Claude Code在真实开发流程中的代码审查实践，属于LLM在软件工程与Agent工作流中的落地案例，对理解AI辅助开发、自动化代码审查及智能体协作具有较高参考价值。",
+  "tags": [
+    "Claude Code",
+    "代码审查",
+    "AI编程助手",
+    "LLM应用",
+    "Agent工作流"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-17T20:01:22+08:00",
+  "updated_at": "2026-10-17T20:01:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "展示LLM驱动的编程助手在真实代码审查流程中的落地方式",
+      "反映AI Agent参与软件开发协作的工程实践趋势",
+      "高社区讨论度说明AI辅助代码审查是当前开发者关注热点"
+    ],
+    "category": "AI工程实践"
+  }
+}

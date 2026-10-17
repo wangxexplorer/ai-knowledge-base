@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261017-012",
+  "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+  "source_url": "https://github.com/cobanov/PS5LM",
+  "source_type": "rss",
+  "summary": "该项目展示在越狱的PS5主机上原生运行llama.cpp，从而加载任意GGUF格式的大语言模型。它把桌面级LLM推理引擎移植到游戏主机，利用其硬件资源进行本地推理，属于边缘设备部署LLM的探索性实践，对理解LLM在非传统平台上的可行性有参考价值。",
+  "tags": [
+    "llama.cpp",
+    "GGUF",
+    "本地推理",
+    "边缘部署",
+    "PS5"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-17T20:01:22+08:00",
+  "updated_at": "2026-10-17T20:01:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.72,
+    "key_insights": [
+      "llama.cpp的跨平台特性使其可移植到游戏主机等非传统硬件",
+      "GGUF模型格式支持在资源受限或异构设备上本地运行LLM",
+      "越狱主机运行LLM展示了边缘端隐私友好推理的潜力"
+    ],
+    "category": "LLM部署与推理"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261017-018",
+  "title": "Show HN: Gemini 4 Argon plays StarCraft",
+  "source_url": "https://starskirmish.com/bench/v0-2/",
+  "source_type": "rss",
+  "summary": "StarSkirmish Bench 是一个让 LLM 通过编写代码来玩《星际争霸：母巢之战》的基准测试，本次更新发布了 OpenAI、Anthropic、Google 和 Muse 旗舰模型的评测结果。该条目展示了 LLM 在需要策略规划、代码生成与游戏操作结合的复杂任务中的表现，属于 LLM 能力评估与 Agent 式任务执行的前沿实践。",
+  "tags": [
+    "LLM基准测试",
+    "Agent",
+    "代码生成",
+    "游戏AI",
+    "策略规划"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-17T20:01:22+08:00",
+  "updated_at": "2026-10-17T20:01:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.88,
+    "key_insights": [
+      "通过让 LLM 编写代码操控游戏，可综合评估其推理、规划与代码生成能力",
+      "多厂商旗舰模型同台竞技，提供了横向对比 LLM 复杂任务表现的公开基准",
+      "此类基准接近 Agent 场景，反映 LLM 作为自主决策执行体的潜力与局限"
+    ],
+    "category": "LLM评测与基准"
+  }
+}

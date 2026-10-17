@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261017-019",
+  "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+  "source_url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+  "source_type": "rss",
+  "summary": "苹果机器学习研究团队发布Muse Spark，基于MLX框架在Mac Studio上实现分布式推理。该工作展示了在Apple Silicon设备上高效运行大模型推理的可行性，通过MLX的分布式能力将推理负载分配到多台Mac Studio，降低对云端GPU的依赖。这对本地化LLM部署、隐私敏感场景和边缘AI具有参考价值，也体现苹果在端侧AI基础设施上的持续投入。",
+  "tags": [
+    "MLX",
+    "分布式推理",
+    "Apple Silicon",
+    "LLM部署",
+    "端侧AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-17T20:01:22+08:00",
+  "updated_at": "2026-10-17T20:01:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.82,
+    "key_insights": [
+      "MLX分布式推理让Mac Studio集群可承载大模型推理，提供云端GPU之外的本地化方案",
+      "端侧/本地推理有助于隐私保护和降低延迟，契合Agent对低延迟工具调用的需求",
+      "苹果持续完善MLX生态，可能推动更多LLM与Agent应用在Apple设备上原生运行"
+    ],
+    "category": "AI基础设施与推理"
+  }
+}
