@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261018-019",
+  "title": "Teal – A statically-typed dialect of Lua",
+  "source_url": "https://teal-language.org/",
+  "source_type": "rss",
+  "summary": "Teal 是 Lua 的静态类型方言，为 Lua 增加类型注解和编译期检查，同时保持与 Lua 生态兼容。该条目来自 Hacker News，属于编程语言与开发者工具话题，与 AI、LLM 或 Agent 技术没有直接关联，仅在作为 Agent 工具链或 LLM 代码生成目标语言时存在间接可能性。",
+  "tags": [
+    "Teal",
+    "Lua",
+    "静态类型",
+    "编程语言",
+    "开发者工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-18T20:29:24+08:00",
+  "updated_at": "2026-10-18T20:29:24+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "Teal 是 Lua 的静态类型扩展，提升类型安全但非 AI 技术",
+      "与 LLM/Agent 无直接关系，仅可能作为代码生成或工具脚本语言间接相关",
+      "属于通用软件开发工具，AI 相关性极低"
+    ],
+    "category": "编程语言与工具"
+  }
+}

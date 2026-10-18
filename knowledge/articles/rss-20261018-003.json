@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261018-003",
+  "title": "How employment is changing at Anthropic",
+  "source_url": "https://www.anthropic.com/research/employment-at-anthropic",
+  "source_type": "rss",
+  "summary": "该条目是Anthropic发布的研究文章，探讨其公司内部就业岗位的变化情况，来源为Hacker News。内容聚焦AI企业自身的人力结构调整，可能涉及AI对组织内工作方式、岗位需求的影响，但描述信息有限，未提供具体数据或结论。与AI、LLM、Agent领域存在间接关联，主要体现为AI公司运营与就业趋势的观察，而非技术本身。",
+  "tags": [
+    "Anthropic",
+    "AI就业",
+    "组织变革",
+    "行业观察",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-18T20:29:24+08:00",
+  "updated_at": "2026-10-18T20:29:24+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.45,
+    "key_insights": [
+      "Anthropic作为头部AI公司，其就业变化可作为AI对知识工作影响的观察样本",
+      "条目来自Hacker News，讨论热度较高，反映社区对AI就业议题的关注",
+      "描述信息有限，需阅读原文才能获取具体岗位变化数据与结论"
+    ],
+    "category": "AI行业与社会影响"
+  }
+}

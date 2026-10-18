@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261018-020",
+  "title": "You could have invented transformers from memory",
+  "source_url": "https://alexwang.ai/posts/associative-memory/",
+  "source_type": "rss",
+  "summary": "该条目介绍如何从联想记忆（associative memory）的角度重新推导Transformer架构，帮助读者从记忆检索的直觉出发理解注意力机制。文章面向希望深入理解Transformer原理的开发者，强调从第一性原理构建认知，而非死记公式。",
+  "tags": [
+    "Transformer",
+    "注意力机制",
+    "联想记忆",
+    "深度学习原理",
+    "LLM基础"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-18T20:29:24+08:00",
+  "updated_at": "2026-10-18T20:29:24+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.9,
+    "key_insights": [
+      "从联想记忆视角可直观推导注意力机制，降低理解门槛",
+      "第一性原理推导有助于深入掌握Transformer架构",
+      "理解底层机制对LLM应用与Agent开发具有基础价值"
+    ],
+    "category": "AI基础理论"
+  }
+}

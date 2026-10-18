@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261018-005",
+  "title": "Parser Combinators",
+  "source_url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+  "source_type": "rss",
+  "summary": "该条目介绍解析器组合子（Parser Combinators）这一函数式编程技术，用于以组合小型解析器的方式构建语法解析器。它与AI、LLM、Agent领域无直接关联，属于通用编程方法与编译原理范畴，仅在构建LLM工具链或Agent输入解析时可能间接用到。",
+  "tags": [
+    "解析器组合子",
+    "函数式编程",
+    "编译原理",
+    "编程技术"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-18T20:29:24+08:00",
+  "updated_at": "2026-10-18T20:29:24+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.08,
+    "key_insights": [
+      "解析器组合子是通用编程技术，非AI/LLM/Agent专属方法",
+      "可作为构建LLM工具链或Agent输入解析的底层实现手段",
+      "对AI领域无直接理论或应用贡献，相关性很低"
+    ],
+    "category": "编程技术"
+  }
+}

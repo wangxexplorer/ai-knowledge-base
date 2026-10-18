@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261018-004",
+  "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+  "source_url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+  "source_type": "rss",
+  "summary": "文章报道法律专家警告Meta更新后的服务条款尽管修改措辞，仍授予广泛的网页抓取权限。该话题与AI和LLM领域高度相关，因为大规模网页抓取是训练大语言模型和构建AI Agent的关键数据来源，条款的宽松程度直接影响训练数据的合法获取、版权合规与平台数据治理。",
+  "tags": [
+    "数据抓取",
+    "LLM训练数据",
+    "版权合规",
+    "平台条款",
+    "数据治理"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-18T20:29:24+08:00",
+  "updated_at": "2026-10-18T20:29:24+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.72,
+    "key_insights": [
+      "Meta条款仍允许广泛抓取，可能影响LLM训练数据的合法获取边界",
+      "法律专家对措辞修改的质疑反映AI训练数据版权合规风险持续存在",
+      "平台抓取政策是AI Agent与模型开发者获取外部数据的重要约束条件"
+    ],
+    "category": "AI数据与合规"
+  }
+}

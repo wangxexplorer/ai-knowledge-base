@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261018-009",
+  "title": "NY announces game ownership bill requiring ownership rather than licensing",
+  "source_url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+  "source_type": "rss",
+  "summary": "纽约州议员提出游戏所有权法案，要求游戏以所有权而非许可方式销售给消费者，并强制发行商在停止支持后保持游戏可运行。该条目属于数字消费权益与软件许可立法领域，与AI、LLM、Agent技术无直接关联，仅在软件生命周期维护义务层面有间接参考意义。",
+  "tags": [
+    "游戏所有权",
+    "数字许可",
+    "消费者权益",
+    "立法监管",
+    "软件维护"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-18T20:29:24+08:00",
+  "updated_at": "2026-10-18T20:29:24+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "法案聚焦数字商品所有权与许可模式的法律界定，不涉及AI技术",
+      "强制停止支持后保持可运行的要求，对AI软件生命周期管理有间接借鉴意义",
+      "反映监管对数字产品长期可用性的关注趋势"
+    ],
+    "category": "政策法规"
+  }
+}

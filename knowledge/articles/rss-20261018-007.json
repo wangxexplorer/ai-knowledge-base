@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261018-007",
+  "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+  "source_url": "https://sphinx-six-theta.vercel.app/",
+  "source_type": "rss",
+  "summary": "Sphinx 是一个开源工具，可接入现有编码 Agent 工作流，在每次推送到生产环境前弹出问卷，检验开发者是否真正理解 AI 生成的代码逻辑。它针对 AI 辅助编程中开发者盲目信任生成代码的风险，通过强制自测提升代码审查质量与责任意识。",
+  "tags": [
+    "AI编程助手",
+    "代码审查",
+    "开发者工具",
+    "AI安全",
+    "Agent工作流"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-18T20:29:24+08:00",
+  "updated_at": "2026-10-18T20:29:24+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.72,
+    "key_insights": [
+      "将理解验证嵌入Agent工作流，缓解AI生成代码的盲目信任问题",
+      "以问卷形式强制开发者自检，提升生产发布前的代码责任意识",
+      "反映AI辅助编程从生成效率向质量保障与可解释性延伸的趋势"
+    ],
+    "category": "AI开发工具"
+  }
+}

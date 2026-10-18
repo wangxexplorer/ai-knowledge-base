@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261018-010",
+  "title": "Codex Desktop continuously generates Crashpad pending dumps",
+  "source_url": "https://github.com/openai/codex/issues/25921",
+  "source_type": "rss",
+  "summary": "该条目是OpenAI Codex桌面应用的一个GitHub问题报告，指出Codex Desktop会持续生成Crashpad待处理转储文件，属于AI编程助手客户端的稳定性与崩溃诊断缺陷。Codex是OpenAI面向代码生成与Agent式编程的工具，因此该问题与LLM应用工程化相关，但内容本身聚焦客户端崩溃日志堆积，而非模型能力或Agent架构创新。",
+  "tags": [
+    "Codex",
+    "OpenAI",
+    "崩溃诊断",
+    "AI编程助手",
+    "客户端稳定性"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-18T20:29:24+08:00",
+  "updated_at": "2026-10-18T20:29:24+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.55,
+    "key_insights": [
+      "反映LLM编程助手在桌面客户端工程化中的稳定性挑战",
+      "Crashpad转储堆积可能影响磁盘占用与崩溃分析效率",
+      "属于AI Agent工具链运维层面的实际问题，而非模型能力进展"
+    ],
+    "category": "AI工具与工程问题"
+  }
+}

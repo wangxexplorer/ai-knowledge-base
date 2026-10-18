@@ -1,0 +1,31 @@
+{
+  "id": "github-20261018-009",
+  "title": "caveman",
+  "source_url": "https://github.com/JuliusBrussee/caveman",
+  "source_type": "github",
+  "summary": "caveman 是一个面向编码智能体（coding agents）的代理与技能工具，通过让模型以“原始人式”极简语言表达，减少约65%的 token 消耗。项目用 Go 编写，主要适配 Claude/Claude Code 与 Anthropic 生态，在 GitHub 上获得极高关注。其核心思路是压缩提示与输出中的冗余表达，从而降低 LLM 调用成本与延迟，属于 LLM 应用层的 token 优",
+  "tags": [
+    "LLM token优化",
+    "编码智能体",
+    "Claude Code",
+    "代理工具",
+    "提示压缩"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-18T20:29:24+08:00",
+  "updated_at": "2026-10-18T20:29:24+08:00",
+  "metadata": {
+    "stars": 113375,
+    "language": "Go",
+    "author": "JuliusBrussee"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.82,
+    "key_insights": [
+      "通过极简语言风格压缩提示与输出，可显著降低 LLM token 成本",
+      "面向编码智能体的代理层优化，可直接接入 Claude Code 等工具链",
+      "高星标反映社区对 LLM 成本与效率优化的强烈需求"
+    ],
+    "category": "LLM应用与Agent工具"
+  }
+}

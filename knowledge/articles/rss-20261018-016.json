@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261018-016",
+  "title": "DeepSeek-v4.1-Flash-1017",
+  "source_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+  "source_type": "rss",
+  "summary": "该条目指向DeepSeek在Hugging Face发布的DeepSeek-V4.1-Flash-1017模型，并附有官方API文档与OpenRouter访问链接，同时在Hacker News引发高热度讨论（887分、667条评论）。内容属于大语言模型新版本发布，涉及模型能力、API可用性与社区反馈，与AI、LLM领域高度相关，但未提供具体技术细节。",
+  "tags": [
+    "DeepSeek",
+    "LLM",
+    "模型发布",
+    "Hugging Face",
+    "OpenRouter"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-18T20:29:24+08:00",
+  "updated_at": "2026-10-18T20:29:24+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "DeepSeek发布V4.1-Flash新版本模型，属于LLM迭代更新",
+      "模型可通过官方API和OpenRouter访问，具备实际部署可用性",
+      "Hacker News高热度讨论反映社区对大模型发布的强烈关注"
+    ],
+    "category": "大语言模型"
+  }
+}

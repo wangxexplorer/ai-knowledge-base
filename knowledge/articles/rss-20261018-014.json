@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261018-014",
+  "title": "Show HN: High-quality duck audio synthesizer",
+  "source_url": "https://celphase.github.io/duck-pond/",
+  "source_type": "rss",
+  "summary": "该条目是Hacker News上展示的一个高质量鸭子音频合成器项目，属于音频信号合成与Web音频技术演示，与AI、LLM或Agent领域无直接关联，不涉及机器学习模型、语言模型或智能体技术。",
+  "tags": [
+    "音频合成",
+    "Web音频",
+    "Hacker News",
+    "创意项目"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-18T20:29:24+08:00",
+  "updated_at": "2026-10-18T20:29:24+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.02,
+    "key_insights": [
+      "项目聚焦音频合成技术而非AI模型",
+      "属于创意Web演示，与LLM/Agent无关",
+      "可作为多模态音频生成的非AI参考案例"
+    ],
+    "category": "音频技术"
+  }
+}

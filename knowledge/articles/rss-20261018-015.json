@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261018-015",
+  "title": "Interactive Linear Programming in the Browser",
+  "source_url": "https://lpviz.net/",
+  "source_type": "rss",
+  "summary": "该条目介绍了一个在浏览器中交互式求解和可视化线性规划问题的工具网站 lpviz.net。线性规划是运筹学与优化领域的经典方法，与 AI、LLM、Agent 没有直接技术关联；它既不是大模型训练或推理技术，也不涉及智能体框架。不过，优化算法可作为 Agent 决策规划、资源分配与工具调用的底层数学基础，因此存在间接的弱相关性。",
+  "tags": [
+    "线性规划",
+    "优化算法",
+    "浏览器可视化",
+    "运筹学",
+    "交互式工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-18T20:29:24+08:00",
+  "updated_at": "2026-10-18T20:29:24+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.15,
+    "key_insights": [
+      "该工具聚焦线性规划的交互式可视化，属于运筹优化领域，而非 AI/LLM 技术",
+      "优化求解方法可作为 Agent 规划与资源分配决策的底层数学基础",
+      "与 LLM 训练、推理及 Agent 框架无直接关联，相关性较弱"
+    ],
+    "category": "优化与运筹工具"
+  }
+}
