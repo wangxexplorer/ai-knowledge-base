@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261019-016",
+  "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+  "source_url": "https://github.com/finereli/whatsapp-mcp",
+  "source_type": "rss",
+  "summary": "该项目是一个在Cloudflare上免费运行的WhatsApp MCP服务器，让Claude等AI代理能访问个人WhatsApp消息。它通过Google账户获取联系人姓名以改善搜索，采用单用户安装模式，用户可让代理自动配置。项目展示了MCP协议在个人数据集成中的实际应用，属于AI代理工具生态的扩展。",
+  "tags": [
+    "MCP",
+    "WhatsApp",
+    "Cloudflare",
+    "AI Agent",
+    "Claude"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-19T23:20:22+08:00",
+  "updated_at": "2026-10-19T23:20:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.82,
+    "key_insights": [
+      "MCP协议正被用于将个人通信数据接入LLM代理，扩展代理的实际可用场景",
+      "Cloudflare免费托管降低了个人AI代理集成的部署门槛",
+      "单用户自托管模式反映了隐私敏感数据与AI代理结合时的现实权衡"
+    ],
+    "category": "AI Agent工具与集成"
+  }
+}

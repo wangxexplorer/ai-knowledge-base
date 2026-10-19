@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261019-010",
+  "title": "Timestral: Mistral release time-series foundation models",
+  "source_url": "https://mistral.ai/news/timestral/",
+  "source_type": "rss",
+  "summary": "Mistral发布名为Timestral的时间序列基础模型，属于其基础模型产品线的新扩展。该条目来自Hacker News，仅包含链接和讨论信息，未提供技术细节。时间序列基础模型与LLM、Agent领域存在间接关联：它体现基础模型向非文本模态延伸的趋势，可能为Agent提供时序预测与决策支持能力，但本身并非LLM或Agent技术。",
+  "tags": [
+    "Mistral",
+    "时间序列基础模型",
+    "基础模型",
+    "时序预测",
+    "Agent工具"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-19T23:20:22+08:00",
+  "updated_at": "2026-10-19T23:20:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.35,
+    "key_insights": [
+      "Mistral将基础模型范式扩展至时间序列领域，体现多模态基础模型趋势",
+      "时序基础模型可作为Agent的预测与决策组件，增强其环境感知能力",
+      "条目信息有限，缺乏模型架构、训练方法与基准表现等细节"
+    ],
+    "category": "基础模型"
+  }
+}

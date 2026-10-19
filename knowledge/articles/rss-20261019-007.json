@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261019-007",
+  "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
+  "source_url": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
+  "source_type": "rss",
+  "summary": "该条目介绍欧空局Hera探测器前往Dimorphos小行星，观测NASA DART撞击留下的疤痕，属于行星防御与深空探测任务，不涉及人工智能、大语言模型或智能体技术。",
+  "tags": [
+    "行星防御",
+    "深空探测",
+    "小行星",
+    "ESA",
+    "DART"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-19T23:20:22+08:00",
+  "updated_at": "2026-10-19T23:20:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.02,
+    "key_insights": [
+      "Hera任务聚焦DART撞击后的形貌与轨道效应评估",
+      "内容为航天工程与行星科学，与AI/LLM/Agent无直接关联",
+      "可作为多智能体自主导航等航天AI应用的背景场景，但条目本身未涉及"
+    ],
+    "category": "航天与行星科学"
+  }
+}

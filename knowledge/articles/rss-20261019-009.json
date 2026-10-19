@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261019-009",
+  "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+  "source_url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+  "source_type": "rss",
+  "summary": "Let's Encrypt 宣布为域名验证新增两个远程验证视角，以提升证书签发的安全性和可靠性。该变更属于公钥基础设施（PKI）和网络安全领域的工程改进，与 AI、LLM 或 Agent 技术无直接关联。",
+  "tags": [
+    "Let's Encrypt",
+    "域名验证",
+    "PKI",
+    "网络安全",
+    "证书签发"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-19T23:20:22+08:00",
+  "updated_at": "2026-10-19T23:20:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "该条目聚焦 TLS 证书域名验证机制，属于网络安全基础设施改进",
+      "多远程视角验证可降低单点故障和验证绕过风险",
+      "内容不涉及 AI、LLM 或 Agent 相关技术"
+    ],
+    "category": "网络安全"
+  }
+}

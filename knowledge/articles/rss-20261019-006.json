@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261019-006",
+  "title": "Harness2 by Google Research – Recursive Agent Harnessing",
+  "source_url": "https://github.com/google-research/harness2",
+  "source_type": "rss",
+  "summary": "Google Research 发布 Harness2 开源项目，主题为递归式 Agent Harnessing（递归智能体编排/驾驭）。该项目聚焦让 Agent 以递归方式调用、组合和管理子智能体或工具，属于 Agent 框架与编排基础设施方向。条目仅含 GitHub 链接与 HN 讨论，缺少细节，但来源权威、方向明确，对研究多智能体递归架构与 Agent 工程化有参考价值。",
+  "tags": [
+    "Agent",
+    "递归编排",
+    "Google Research",
+    "多智能体",
+    "开源框架"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-19T23:20:22+08:00",
+  "updated_at": "2026-10-19T23:20:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.82,
+    "key_insights": [
+      "递归式 harnessing 可能让 Agent 动态生成并管理子 Agent，提升复杂任务分解能力",
+      "由 Google Research 出品，或成为 Agent 编排领域的重要参考实现",
+      "当前信息有限，需关注其递归调用机制与工具集成方式"
+    ],
+    "category": "Agent框架与编排"
+  }
+}

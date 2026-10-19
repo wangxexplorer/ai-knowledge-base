@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261019-008",
+  "title": "Alternatives to Animal Testing Are Finally Taking Off",
+  "source_url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+  "source_type": "rss",
+  "summary": "该条目讨论动物实验替代方案的兴起，属于生物医学与伦理技术领域。内容未涉及人工智能、大语言模型或智能体技术，与AI核心主题无直接关联。仅在替代方法可能采用计算建模或AI辅助筛选的假设下存在极弱间接联系，但条目本身未提及。",
+  "tags": [
+    "动物实验替代",
+    "生物医学",
+    "伦理技术",
+    "计算建模"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-19T23:20:22+08:00",
+  "updated_at": "2026-10-19T23:20:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "主题聚焦动物实验替代方法，非AI领域",
+      "未提及LLM或Agent相关技术",
+      "潜在间接联系仅在于计算建模可能辅助替代实验"
+    ],
+    "category": "生物医学技术"
+  }
+}

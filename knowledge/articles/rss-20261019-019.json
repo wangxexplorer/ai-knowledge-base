@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261019-019",
+  "title": "Free Pascal compiler now supports dynamic packages",
+  "source_url": "https://www.getlazarus.org/dynamic/",
+  "source_type": "rss",
+  "summary": "该条目介绍Free Pascal编译器新增动态包支持，属于编程语言与编译器工程领域的技术进展，与AI、LLM或Agent无直接关联。动态包机制可提升模块化与运行时加载能力，但未涉及机器学习、模型推理或智能体框架。",
+  "tags": [
+    "Free Pascal",
+    "编译器",
+    "动态包",
+    "编程语言",
+    "Lazarus"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-19T23:20:22+08:00",
+  "updated_at": "2026-10-19T23:20:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "动态包支持增强Pascal生态的模块化部署能力",
+      "该进展与AI/LLM/Agent技术栈无直接交集",
+      "对AI工程化的间接影响仅限于底层工具链层面"
+    ],
+    "category": "编程语言与编译器"
+  }
+}

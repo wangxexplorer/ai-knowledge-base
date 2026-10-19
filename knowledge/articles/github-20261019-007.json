@@ -1,0 +1,31 @@
+{
+  "id": "github-20261019-007",
+  "title": "browser-use",
+  "source_url": "https://github.com/browser-use/browser-use",
+  "source_type": "github",
+  "summary": "browser-use 是一个开源 Python 库，用于构建 AI 浏览器智能体，让 LLM 能够直接操控浏览器完成网页操作任务；同时提供 Browser Use Cloud，包含隐身浏览器与托管式 Agent API。项目在 GitHub 上获得约 11.8 万星标，属于 AI Agent 与浏览器自动化交叉领域的高热度基础设施，可视为连接大模型与真实 Web 环境的关键执行层。",
+  "tags": [
+    "ai-agents",
+    "browser-agent",
+    "browser-automation",
+    "llm-tooling",
+    "python"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-19T23:20:22+08:00",
+  "updated_at": "2026-10-19T23:20:22+08:00",
+  "metadata": {
+    "stars": 118499,
+    "language": "Python",
+    "author": "browser-use"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "为 LLM 提供浏览器操作能力，是 Agent 落地真实 Web 任务的关键执行层",
+      "开源库加云托管 API 的双模式降低了 AI 浏览器智能体的开发与部署门槛",
+      "高星标反映浏览器 Agent 是当前 AI Agent 领域的热门方向"
+    ],
+    "category": "AI Agent 基础设施"
+  }
+}

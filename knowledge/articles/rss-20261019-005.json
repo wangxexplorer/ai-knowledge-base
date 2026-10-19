@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261019-005",
+  "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+  "source_url": "https://100toolkit.com/blog/deslop-model/",
+  "source_type": "rss",
+  "summary": "该条目介绍了一个基于Qwen3-4B的微调模型，旨在去除AI写作中常见的“套路化”表达（如过度使用某些连接词、模板化句式等），使生成文本更自然。项目在Hacker News上获得81分和59条评论，属于LLM应用优化与模型微调方向，对关注LLM输出质量、风格控制及小模型落地的开发者有参考价值。",
+  "tags": [
+    "Qwen3-4B",
+    "LLM微调",
+    "AI写作",
+    "文本风格控制",
+    "开源模型"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-19T23:20:22+08:00",
+  "updated_at": "2026-10-19T23:20:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.82,
+    "key_insights": [
+      "针对LLM生成文本的模板化问题，可通过微调小模型（4B）实现风格去套路化",
+      "Qwen3-4B作为基座模型，展示了小参数模型在特定风格任务上的可行性",
+      "社区反馈活跃（59条评论），说明AI写作自然度是实际痛点"
+    ],
+    "category": "LLM应用与微调"
+  }
+}

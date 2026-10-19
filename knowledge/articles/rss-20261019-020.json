@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261019-020",
+  "title": "Someone behind the software",
+  "source_url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+  "source_type": "rss",
+  "summary": "该条目是Hacker News上的一篇讨论帖，标题为《软件背后的人》，指向karrisaarinen.com的一篇博客文章，获得509点热度与184条评论。文章主题推测探讨软件开发背后的人类因素、团队协作或产品背后的人物故事，属于软件工程与人文交叉话题。内容未直接涉及AI、LLM或Agent技术，与AI领域相关性较低，但其中关于开发者角色与软件背后人的讨论，可能间接关联AI辅助开发中人类角色的思考",
+  "tags": [
+    "软件工程",
+    "开发者文化",
+    "Hacker News",
+    "人文视角"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-19T23:20:22+08:00",
+  "updated_at": "2026-10-19T23:20:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.15,
+    "key_insights": [
+      "文章聚焦软件背后的人而非技术本身，属于开发者文化讨论",
+      "高热度评论表明社区对软件人文话题关注度高",
+      "与AI/LLM/Agent无直接技术关联，仅可间接引申至AI时代人类开发者角色"
+    ],
+    "category": "软件工程与开发者文化"
+  }
+}

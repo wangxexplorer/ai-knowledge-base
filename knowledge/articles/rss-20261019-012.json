@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261019-012",
+  "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+  "source_url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+  "source_type": "rss",
+  "summary": "文章探讨如何用 tmux 管理 Claude Code 等 AI 编码代理的会话，通过 send-keys 实现多会话控制与自动化交互，并讨论这种终端复用方案在复杂代理工作流中的能力上限与局限。",
+  "tags": [
+    "Claude Code",
+    "AI Agent",
+    "tmux",
+    "终端自动化",
+    "会话管理"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-19T23:20:22+08:00",
+  "updated_at": "2026-10-19T23:20:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.82,
+    "key_insights": [
+      "tmux 可作为轻量级基础设施，为 AI 编码代理提供持久会话与多任务并行控制",
+      "send-keys 机制让外部脚本能驱动 Claude Code 等代理，实现自动化编排",
+      "该方案存在能力天花板，复杂代理协作仍需更专门的运行时与编排框架"
+    ],
+    "category": "AI Agent 工程实践"
+  }
+}

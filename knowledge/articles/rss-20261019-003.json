@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261019-003",
+  "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+  "source_url": "https://github.com/kividbio/kividb",
+  "source_type": "rss",
+  "summary": "KiviDB 是一个用 Rust 编写、兼容 Redis 协议的内存数据库与向量缓存，支持 RESP2/RESP3 及约 98-99% 的 Redis 8.10 命令。项目强调多线程分片、io_uring 高性能与无 GC 停顿，并提供向量摄入与查询能力，可作为 LLM/Agent 场景的向量缓存或记忆存储后端。作者借助 Claude 辅助设计与云服务部署，但核心设计由人工决策。",
+  "tags": [
+    "向量数据库",
+    "Redis兼容",
+    "内存数据库",
+    "Rust",
+    "LLM基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-19T23:20:22+08:00",
+  "updated_at": "2026-10-19T23:20:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.55,
+    "key_insights": [
+      "提供向量缓存与查询能力，可作为 RAG/Agent 记忆存储的底层组件",
+      "兼容 Redis 协议，便于替换现有缓存层并降低 LLM 应用集成成本",
+      "AI 仅用于辅助设计与部署，核心架构仍由人工决策，体现 AI 辅助工程实践"
+    ],
+    "category": "向量数据库与存储"
+  }
+}

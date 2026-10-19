@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261019-013",
+  "title": "Superlite: A Faster Alternatie to Superpowers",
+  "source_url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+  "source_type": "rss",
+  "summary": "该条目介绍名为Superlite的工具，声称是Superpowers的更快替代方案，并涉及“hand an agent a spec”的Agent工作流。由于仅有标题和链接，缺乏具体技术细节，无法确认其底层实现。从命名和上下文看，它可能与AI Agent的任务规范传递或工具编排相关，但相关性证据有限，需进一步阅读原文才能准确评估。",
+  "tags": [
+    "AI Agent",
+    "工具替代",
+    "任务规范",
+    "工作流",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-19T23:20:22+08:00",
+  "updated_at": "2026-10-19T23:20:22+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.45,
+    "key_insights": [
+      "标题暗示Superlite是面向Agent场景的轻量/快速替代工具",
+      "“hand an agent a spec”表明其关注向Agent传递任务规范的流程",
+      "信息不足，需阅读原文以确认与LLM/Agent的实际技术关联"
+    ],
+    "category": "AI Agent工具"
+  }
+}
