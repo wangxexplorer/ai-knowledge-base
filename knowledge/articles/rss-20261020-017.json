@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261020-017",
+  "title": "Why Is Speculative Decoding Fast?",
+  "source_url": "https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast/",
+  "source_type": "rss",
+  "summary": "该条目讨论推测解码（Speculative Decoding）为何能加速大语言模型推理，属于LLM推理优化技术。推测解码通过小模型草稿加目标模型验证，在不损失输出质量的前提下减少解码步数、提升吞吐，是当前LLM部署中的热门加速手段。",
+  "tags": [
+    "推测解码",
+    "LLM推理加速",
+    "解码优化",
+    "大语言模型",
+    "推理效率"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-20T21:23:59+08:00",
+  "updated_at": "2026-10-20T21:23:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "推测解码利用小模型生成候选token、大模型并行验证，降低串行解码开销",
+      "其加速本质在于将内存带宽受限的解码转为更高效的并行计算",
+      "该技术对LLM部署延迟和吞吐有直接影响，是Agent实时推理的重要优化方向"
+    ],
+    "category": "LLM推理优化"
+  }
+}

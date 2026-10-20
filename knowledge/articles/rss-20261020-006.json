@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261020-006",
+  "title": "OpenBSD 8.0",
+  "source_url": "https://www.openbsd.org/80.html",
+  "source_type": "rss",
+  "summary": "OpenBSD 8.0 是开源操作系统 OpenBSD 的新版本发布公告，属于系统软件与操作系统领域，与 AI、LLM 或 Agent 技术没有直接关联。该条目仅包含发布链接和 Hacker News 讨论信息，未涉及机器学习、大模型、智能体或相关工具链内容。",
+  "tags": [
+    "OpenBSD",
+    "操作系统",
+    "开源软件",
+    "系统安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-20T21:23:59+08:00",
+  "updated_at": "2026-10-20T21:23:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.02,
+    "key_insights": [
+      "OpenBSD 8.0 属于操作系统发布，不涉及 AI/LLM/Agent 技术",
+      "该条目与 AI 领域相关性极低，仅可作为底层基础设施参考",
+      "若 AI 系统部署在 OpenBSD 上，可能存在间接的运行时环境关联"
+    ],
+    "category": "操作系统与系统软件"
+  }
+}

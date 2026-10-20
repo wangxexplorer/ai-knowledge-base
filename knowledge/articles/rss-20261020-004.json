@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261020-004",
+  "title": "DeepSeek just open-sourced its inference engine",
+  "source_url": "https://github.com/deepseek-ai/DeepInfer",
+  "source_type": "rss",
+  "summary": "DeepSeek开源了其推理引擎DeepInfer，项目托管于GitHub并在Hacker News引发热议（905分、309条评论）。推理引擎是LLM部署与服务的核心组件，负责模型加载、批处理调度、KV缓存管理和算子优化，直接影响推理延迟、吞吐与成本。此次开源有助于开发者复现DeepSeek模型的高效推理路径，降低自建LLM服务的门槛，并可能推动推理优化生态的开放竞争。",
+  "tags": [
+    "推理引擎",
+    "DeepSeek",
+    "开源",
+    "LLM部署",
+    "推理优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-20T21:23:59+08:00",
+  "updated_at": "2026-10-20T21:23:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.95,
+    "key_insights": [
+      "推理引擎是LLM落地的关键基础设施，开源可显著降低高效部署门槛",
+      "DeepSeek开源推理栈有助于生态复现其模型性能并加速社区优化创新",
+      "高社区热度反映业界对低成本、高吞吐LLM推理方案的强烈需求"
+    ],
+    "category": "LLM基础设施"
+  }
+}

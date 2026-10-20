@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261020-005",
+  "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+  "source_url": "https://github.com/microg/GmsCore/wiki",
+  "source_type": "rss",
+  "summary": "MicroG 是 Google 专有 Android 用户空间（GmsCore）的自由开源重实现，旨在为 Android 设备提供不依赖 Google 服务的替代方案，涵盖位置、推送、账户等 API。该条目来自 Hacker News，讨论热度较高。其内容聚焦移动操作系统与开源生态，与 AI、LLM、Agent 领域无直接技术关联，仅在 Agent 运行于 Android 环境时可能作为基础设施被",
+  "tags": [
+    "Android",
+    "开源替代",
+    "Google服务",
+    "移动系统",
+    "隐私"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-20T21:23:59+08:00",
+  "updated_at": "2026-10-20T21:23:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "MicroG 是 Google 移动服务的开源重实现，与 AI 技术栈无直接关系",
+      "仅在 Android 端 Agent 部署场景中可能作为运行环境基础设施被间接涉及",
+      "该条目反映开源社区对去 Google 化移动生态的关注，而非 AI 领域进展"
+    ],
+    "category": "移动操作系统与开源生态"
+  }
+}

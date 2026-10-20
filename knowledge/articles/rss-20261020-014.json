@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261020-014",
+  "title": "Spending 10 months building the most human-like chess bot",
+  "source_url": "https://mbuffett.com/posts/most-human-chess-bot",
+  "source_type": "rss",
+  "summary": "该条目介绍作者耗时10个月打造最像人类棋手的国际象棋机器人，属于游戏AI与行为建模实践。其核心在于让AI模拟人类决策风格、失误模式与思考节奏，而非追求最强棋力，涉及模仿学习、风格建模与人机交互体验。与LLM和Agent领域直接关联较弱，但对智能体拟人化行为设计有参考价值。",
+  "tags": [
+    "游戏AI",
+    "行为建模",
+    "拟人化AI",
+    "模仿学习",
+    "国际象棋"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-20T21:23:59+08:00",
+  "updated_at": "2026-10-20T21:23:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.35,
+    "key_insights": [
+      "通过模拟人类失误与决策风格提升AI拟人度，而非单纯追求性能最优",
+      "长期迭代单一AI项目体现行为建模与调优的工程实践",
+      "对Agent拟人化交互与风格化决策设计具有借鉴意义"
+    ],
+    "category": "AI应用实践"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261020-013",
+  "title": "MiniMax M3.1 Flash",
+  "source_url": "https://www.minimax.io/blog/minimax-m31f",
+  "source_type": "rss",
+  "summary": "该条目为MiniMax发布的M3.1 Flash模型博客文章，在Hacker News上获得488分和207条评论，表明社区高度关注。MiniMax是知名大模型厂商，M3.1 Flash很可能是一款面向高吞吐、低延迟场景的LLM推理模型，属于LLM领域的重要产品动态。",
+  "tags": [
+    "LLM",
+    "MiniMax",
+    "模型发布",
+    "推理优化",
+    "Hacker News"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-20T21:23:59+08:00",
+  "updated_at": "2026-10-20T21:23:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.92,
+    "key_insights": [
+      "MiniMax发布M3.1 Flash新模型，可能主打快速推理与低成本部署",
+      "Hacker News高热度讨论反映开发者对高效LLM的强烈需求",
+      "该模型或对Agent应用的实时响应能力与成本结构产生影响"
+    ],
+    "category": "大语言模型"
+  }
+}

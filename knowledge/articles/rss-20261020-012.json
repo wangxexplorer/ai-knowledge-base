@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261020-012",
+  "title": "One Hash Bloom Filters",
+  "source_url": "https://calabro.io/ohbf",
+  "source_type": "rss",
+  "summary": "该条目介绍一种名为One Hash Bloom Filters的数据结构技术文章，讨论布隆过滤器的哈希优化变体。布隆过滤器是计算机科学中用于概率性集合成员查询的经典结构，与AI、LLM或Agent领域无直接关联。其潜在间接价值在于可被AI系统用作缓存、去重或检索加速的底层组件，但文章本身聚焦数据结构设计，不涉及机器学习、大模型训练推理或智能体架构。",
+  "tags": [
+    "布隆过滤器",
+    "数据结构",
+    "哈希算法",
+    "概率数据结构",
+    "系统优化"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-20T21:23:59+08:00",
+  "updated_at": "2026-10-20T21:23:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.08,
+    "key_insights": [
+      "布隆过滤器可作为AI系统缓存与去重的底层组件",
+      "单哈希优化降低计算开销，适合高吞吐场景",
+      "该内容属通用计算机科学，与LLM/Agent无直接技术关联"
+    ],
+    "category": "数据结构与算法"
+  }
+}

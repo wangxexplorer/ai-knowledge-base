@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261020-003",
+  "title": "Google cloud outage takes down banks",
+  "source_url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+  "source_type": "rss",
+  "summary": "该条目报道了Google Cloud发生故障，导致汇丰、Revolut、苏格兰银行、劳埃德、Equifax等多家银行和金融机构的服务中断。内容属于云计算基础设施可靠性新闻，未涉及人工智能、大语言模型或智能体技术。与AI领域的直接相关性很低，仅可作为AI系统依赖云基础设施时需考虑可用性风险的间接背景。",
+  "tags": [
+    "Google Cloud",
+    "云服务中断",
+    "金融科技",
+    "基础设施可靠性"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-20T21:23:59+08:00",
+  "updated_at": "2026-10-20T21:23:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "云服务中断会波及依赖其运行的金融业务系统",
+      "AI/LLM应用若部署在公有云上同样面临此类可用性风险",
+      "该事件本身不涉及AI、LLM或Agent技术内容"
+    ],
+    "category": "云计算与基础设施"
+  }
+}

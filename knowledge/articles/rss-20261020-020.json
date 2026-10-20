@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261020-020",
+  "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+  "source_url": "https://news.ycombinator.com/item?id=50151036",
+  "source_type": "rss",
+  "summary": "该条目是Hacker News上的讨论帖，源于Meta工程师的LinkedIn感慨：AI生成代码正成为交付新常态，工程师难以逐行理解代码，形成'黑盒'系统，违背传统软件工程直觉。发帖人询问其他工程师是否有同感及应对方式，获得516分和635条评论，反映业界对AI编码工具信任、代码审查成本与工程责任的广泛焦虑。",
+  "tags": [
+    "AI编码",
+    "代码审查",
+    "软件工程",
+    "LLM应用",
+    "人机协作"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-20T21:23:59+08:00",
+  "updated_at": "2026-10-20T21:23:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.82,
+    "key_insights": [
+      "AI生成代码的'黑盒化'正在改变软件工程师对代码理解深度的传统标准",
+      "逐行审查AI代码的成本过高，团队需在交付速度与可理解性之间建立新的权衡机制",
+      "该讨论体现LLM编码助手落地后的真实工程治理与责任归属挑战"
+    ],
+    "category": "AI工程实践"
+  }
+}

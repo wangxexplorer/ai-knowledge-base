@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261020-019",
+  "title": "Wine ported to OpenBSD",
+  "source_url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+  "source_type": "rss",
+  "summary": "该条目报道Wine兼容层被移植到OpenBSD操作系统，属于开源系统软件与跨平台兼容性领域的技术进展，与AI、LLM或Agent技术无直接关联。",
+  "tags": [
+    "Wine",
+    "OpenBSD",
+    "开源软件",
+    "系统兼容层"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-20T21:23:59+08:00",
+  "updated_at": "2026-10-20T21:23:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.02,
+    "key_insights": [
+      "Wine移植到OpenBSD扩展了类Unix系统运行Windows应用的能力",
+      "该进展属于系统软件工程范畴，不涉及AI或机器学习",
+      "对AI基础设施的间接影响有限，主要体现为跨平台工具链的可用性"
+    ],
+    "category": "操作系统与开源软件"
+  }
+}

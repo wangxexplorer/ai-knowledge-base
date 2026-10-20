@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261020-015",
+  "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+  "source_url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+  "source_type": "rss",
+  "summary": "美国国土安全部发布命令，禁止联邦民事机构使用中国AI公司DeepSeek的系统，理由涉及政府IT系统安全。该条目属于AI监管与地缘政治新闻，反映大模型产品在政府场景面临合规限制，对LLM部署与Agent应用有间接影响。",
+  "tags": [
+    "DeepSeek",
+    "AI监管",
+    "地缘政治",
+    "LLM合规",
+    "政府IT"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-20T21:23:59+08:00",
+  "updated_at": "2026-10-20T21:23:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.55,
+    "key_insights": [
+      "美国联邦机构对DeepSeek实施使用禁令，凸显LLM产品的合规与供应链风险",
+      "政府场景的AI采购受地缘政治影响，可能改变企业LLM选型策略",
+      "对Agent系统集成第三方大模型提出数据主权与安全审查要求"
+    ],
+    "category": "AI政策与监管"
+  }
+}

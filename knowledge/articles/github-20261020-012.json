@@ -1,0 +1,31 @@
+{
+  "id": "github-20261020-012",
+  "title": "crawl4ai",
+  "source_url": "https://github.com/unclecode/crawl4ai",
+  "source_type": "github",
+  "summary": "crawl4ai 是一个面向 LLM 与 AI Agent 的开源网页爬虫与抓取工具，可将任意网站内容转换为干净、适合 LLM 处理的 Markdown 格式，支持自托管或使用 Crawl4AI Cloud 服务。项目以 Python 实现，GitHub 星标约 8.6 万，社区活跃，为 AI 应用提供高质量数据采集与预处理能力。",
+  "tags": [
+    "LLM",
+    "AI Agent",
+    "网页爬虫",
+    "数据提取",
+    "Markdown"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-20T21:23:59+08:00",
+  "updated_at": "2026-10-20T21:23:59+08:00",
+  "metadata": {
+    "stars": 85902,
+    "language": "Python",
+    "author": "unclecode"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.92,
+    "key_insights": [
+      "为 LLM 和 Agent 提供结构化、可直接消费的网页数据，降低数据预处理成本",
+      "高星标与活跃社区表明其在 AI 数据采集领域具有广泛采用度",
+      "支持自托管与云服务两种模式，兼顾隐私控制与快速接入"
+    ],
+    "category": "AI 数据基础设施"
+  }
+}

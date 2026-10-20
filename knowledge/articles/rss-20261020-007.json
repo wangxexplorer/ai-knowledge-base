@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261020-007",
+  "title": "France's supermarket fridges were vulnerable online for months",
+  "source_url": "https://ipinfo.io/blog/france-fridges-hack",
+  "source_type": "rss",
+  "summary": "该条目报道法国超市冰箱在线暴露数月，黑客可远程激活自动除霜功能，属于物联网安全事件。内容不涉及人工智能、大语言模型或智能体技术，与AI领域无直接关联，仅可作为AIoT安全背景参考。",
+  "tags": [
+    "物联网安全",
+    "冰箱漏洞",
+    "法国",
+    "远程控制",
+    "AIoT"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-20T21:23:59+08:00",
+  "updated_at": "2026-10-20T21:23:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "事件核心是IoT设备暴露与远程控制风险，而非AI技术",
+      "可作为AIoT/智能设备安全治理的反面案例",
+      "对LLM与Agent领域无直接技术贡献"
+    ],
+    "category": "物联网安全"
+  }
+}

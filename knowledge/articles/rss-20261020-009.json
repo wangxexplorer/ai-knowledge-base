@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261020-009",
+  "title": "How abliterated models can get you pwned",
+  "source_url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+  "source_type": "rss",
+  "summary": "该条目讨论“abliterated模型”（通过消融技术移除安全对齐的LLM）可能带来的安全风险，指出这类模型易被利用导致系统被攻陷（pwned）。文章来自ProjectDiscovery研究，在Hacker News引发关注，涉及LLM安全对齐、模型滥用与AI安全攻防，对理解开源模型安全边界和Agent部署风险具有参考价值。",
+  "tags": [
+    "LLM安全",
+    "模型对齐",
+    "AI安全",
+    "越狱攻击",
+    "开源模型"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-20T21:23:59+08:00",
+  "updated_at": "2026-10-20T21:23:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "移除安全对齐的abliterated模型会显著增加被恶意利用的风险",
+      "模型安全对齐是LLM部署中不可忽视的防线",
+      "AI安全研究需关注模型修改带来的下游攻击面"
+    ],
+    "category": "AI安全与对齐"
+  }
+}

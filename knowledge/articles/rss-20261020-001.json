@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261020-001",
+  "title": "Demographic \"Doomsday\" Misses the Mark",
+  "source_url": "https://www.science.org/doi/10.1126/science.ael8752",
+  "source_type": "rss",
+  "summary": "该条目是《Science》期刊的一篇文章，讨论人口统计“末日论”的谬误，属于人口学与社会政策领域，与AI、LLM或Agent技术无直接关联。内容未涉及机器学习、大模型、智能体或相关技术应用。",
+  "tags": [
+    "人口统计",
+    "社会政策",
+    "Science期刊",
+    "非AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-20T21:23:59+08:00",
+  "updated_at": "2026-10-20T21:23:59+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.02,
+    "key_insights": [
+      "主题为人口学争议，不涉及AI技术",
+      "与LLM/Agent领域无技术交集",
+      "仅可作为跨领域背景参考"
+    ],
+    "category": "其他"
+  }
+}
