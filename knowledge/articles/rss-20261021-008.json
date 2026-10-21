@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261021-008",
+  "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+  "source_url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+  "source_type": "rss",
+  "summary": "文章讨论eMudhra证书颁发机构的CA密钥因熵值不足（仅8比特信任）在毫秒级内被破解，属于公钥基础设施与密码学安全事件，与AI、LLM、Agent领域无直接技术关联。",
+  "tags": [
+    "密码学安全",
+    "PKI",
+    "CA密钥",
+    "网络安全"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-21T21:30:41+08:00",
+  "updated_at": "2026-10-21T21:30:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "CA密钥熵不足导致可被快速暴力破解，暴露证书信任链风险",
+      "该事件与AI/LLM/Agent技术栈无直接关联",
+      "对AI系统依赖的TLS/证书基础设施有间接安全启示"
+    ],
+    "category": "网络安全"
+  }
+}

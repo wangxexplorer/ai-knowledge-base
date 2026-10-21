@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261021-015",
+  "title": "Muse exposes users' personal and business secrets when they share conversations",
+  "source_url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+  "source_type": "rss",
+  "summary": "Ars Technica报道Meta的AI助手Muse在用户分享对话时泄露个人及商业机密，暴露了LLM应用在对话分享功能中的隐私与安全风险。",
+  "tags": [
+    "LLM安全",
+    "隐私泄露",
+    "AI助手",
+    "数据安全",
+    "Meta"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-21T21:30:41+08:00",
+  "updated_at": "2026-10-21T21:30:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.85,
+    "key_insights": [
+      "LLM对话分享功能可能无意中暴露敏感信息，需加强数据脱敏与访问控制",
+      "AI助手产品设计需在便利性与隐私保护间取得平衡",
+      "此类事件将推动AI应用安全审计与合规监管需求"
+    ],
+    "category": "AI安全与隐私"
+  }
+}

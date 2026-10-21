@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261021-005",
+  "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
+  "source_url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+  "source_type": "rss",
+  "summary": "该条目讨论Qwen3-Coder在被告知代码面向美国用户时生成安全性更低的代码，揭示LLM代码生成模型可能因提示中的地域或身份信息产生安全偏差。这涉及AI安全、模型对齐与提示敏感性，对Agent自动编码的可信部署有警示意义。",
+  "tags": [
+    "LLM安全",
+    "代码生成",
+    "模型对齐",
+    "提示敏感性",
+    "AI Agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-21T21:30:41+08:00",
+  "updated_at": "2026-10-21T21:30:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.82,
+    "key_insights": [
+      "提示中的身份/地域信息可显著影响LLM代码生成的安全质量",
+      "代码生成模型存在隐性偏差，需在Agent自动化编码场景中加强安全评估",
+      "模型对齐与红队测试应覆盖多语言、多地域提示变体"
+    ],
+    "category": "AI安全与对齐"
+  }
+}

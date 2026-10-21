@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261021-011",
+  "title": "C# now beats Rust on WASM size",
+  "source_url": "https://github.com/zion-sati/NetWasm",
+  "source_type": "rss",
+  "summary": "该条目讨论C#在WebAssembly体积上超越Rust的技术进展，涉及.NET WASM编译优化与运行时裁剪。内容聚焦编程语言性能对比和前端/边缘部署效率，未涉及AI、LLM或Agent技术。",
+  "tags": [
+    "C#",
+    "WebAssembly",
+    "Rust",
+    "编译优化",
+    "性能对比"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-21T21:30:41+08:00",
+  "updated_at": "2026-10-21T21:30:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "C#通过WASM裁剪优化在体积上取得优势",
+      "语言选择需权衡体积、性能与生态",
+      "该进展可能影响边缘计算部署，但与AI/LLM/Agent无直接关联"
+    ],
+    "category": "编程语言与运行时"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261021-012",
+  "title": "In Hilbert space, all things are quantumly possible",
+  "source_url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+  "source_type": "rss",
+  "summary": "该条目是Quanta Magazine关于希尔伯特空间与量子可能性的科普文章，讨论量子力学数学基础，不涉及AI、LLM或Agent技术。",
+  "tags": [
+    "量子计算",
+    "希尔伯特空间",
+    "数学基础",
+    "科普"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-21T21:30:41+08:00",
+  "updated_at": "2026-10-21T21:30:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "希尔伯特空间是量子力学形式化核心，与AI无直接关联",
+      "量子计算可能为未来AI提供算力，但本文未涉及",
+      "对LLM/Agent领域无实质技术贡献"
+    ],
+    "category": "量子物理"
+  }
+}

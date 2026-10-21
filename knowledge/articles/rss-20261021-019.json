@@ -1,0 +1,29 @@
+{
+  "id": "rss-20261021-019",
+  "title": "Show HN: SimCity, but with Permits",
+  "source_url": "https://permit.petercai.com/",
+  "source_type": "rss",
+  "summary": "这是一个名为“SimCity, but with Permits”的Show HN项目，将模拟城市玩法与行政审批流程结合，属于网页游戏或交互式模拟工具。条目仅包含标题、链接和HN讨论数据，未涉及AI、LLM或Agent技术。与AI领域无直接关联，可能仅作为创意交互设计参考。",
+  "tags": [
+    "模拟游戏",
+    "Show HN",
+    "网页应用",
+    "行政审批",
+    "交互设计"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-21T21:30:41+08:00",
+  "updated_at": "2026-10-21T21:30:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "该项目是游戏化模拟工具，不涉及AI或LLM技术",
+      "HN高热度反映社区对创意交互形式的关注",
+      "对Agent领域无直接技术贡献"
+    ],
+    "category": "其他"
+  }
+}

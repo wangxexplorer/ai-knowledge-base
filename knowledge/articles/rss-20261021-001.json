@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261021-001",
+  "title": "Most advice is right for the person giving it",
+  "source_url": "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/",
+  "source_type": "rss",
+  "summary": "该条目是一篇关于人生建议本质的随笔，指出大多数建议只对给出建议的人自身成立，强调建议的情境依赖性。内容与AI、LLM、Agent技术无直接关联，属于个人成长与沟通类话题，仅在Hacker News上被提及。",
+  "tags": [
+    "人生建议",
+    "情境依赖",
+    "Hacker News",
+    "非技术"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-21T21:30:41+08:00",
+  "updated_at": "2026-10-21T21:30:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "建议具有强烈的情境依赖性，难以普适迁移",
+      "该内容不涉及AI、LLM或Agent技术",
+      "可作为Agent提供个性化建议时需注意语境适配的隐喻参考"
+    ],
+    "category": "非技术/个人成长"
+  }
+}

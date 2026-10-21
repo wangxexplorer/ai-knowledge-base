@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261021-003",
+  "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
+  "source_url": "https://www.ncsc.nl/actueel",
+  "source_type": "rss",
+  "summary": "该条目讨论荷兰国家网络安全中心网站因使用PHP而离线，属于Web基础设施与安全运维话题，与AI、LLM或Agent技术无直接关联。内容仅涉及网站技术栈故障，未涉及机器学习、大模型推理、智能体架构或AI安全应用。",
+  "tags": [
+    "网络安全",
+    "PHP",
+    "网站运维",
+    "基础设施"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-21T21:30:41+08:00",
+  "updated_at": "2026-10-21T21:30:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.05,
+    "key_insights": [
+      "条目聚焦Web技术栈故障，不涉及AI/LLM/Agent技术",
+      "网络安全中心离线事件与AI安全无直接关系",
+      "对AI领域知识库贡献极低"
+    ],
+    "category": "网络安全与Web基础设施"
+  }
+}

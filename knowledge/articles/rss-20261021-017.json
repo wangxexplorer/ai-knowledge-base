@@ -1,0 +1,28 @@
+{
+  "id": "rss-20261021-017",
+  "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+  "source_url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+  "source_type": "rss",
+  "summary": "该条目报道美国联邦调查人员怀疑一名勒索软件谈判代表运营了ShinyHunters勒索网站，属于网络安全与网络犯罪执法新闻，未涉及人工智能、大语言模型或智能体技术。",
+  "tags": [
+    "网络安全",
+    "勒索软件",
+    "网络犯罪",
+    "执法调查"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-21T21:30:41+08:00",
+  "updated_at": "2026-10-21T21:30:41+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.02,
+    "key_insights": [
+      "内容聚焦勒索软件生态与执法调查，与AI/LLM/Agent无直接技术关联",
+      "勒索谈判代表角色凸显网络犯罪服务化趋势",
+      "对AI安全治理仅有间接背景参考价值"
+    ],
+    "category": "网络安全"
+  }
+}

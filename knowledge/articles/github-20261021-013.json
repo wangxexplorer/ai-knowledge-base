@@ -1,0 +1,31 @@
+{
+  "id": "github-20261021-013",
+  "title": "deer-flow",
+  "source_url": "https://github.com/bytedance/deer-flow",
+  "source_type": "github",
+  "summary": "deer-flow 是字节跳动开源的长时程 SuperAgent 框架，用 Python 编写，通过沙箱、记忆、工具、技能、子代理和消息网关等组件，支持研究、编码与创作等需数分钟至数小时的多层级任务，属于 Agentic 工作流与智能体框架方向，与 AI、LLM、Agent 领域高度相关。",
+  "tags": [
+    "Agent",
+    "Agentic Framework",
+    "LLM",
+    "长时程任务",
+    "开源"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-21T21:30:41+08:00",
+  "updated_at": "2026-10-21T21:30:41+08:00",
+  "metadata": {
+    "stars": 84238,
+    "language": "Python",
+    "author": "bytedance"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.97,
+    "key_insights": [
+      "面向长时程复杂任务，强调沙箱、记忆与子代理协同",
+      "提供完整 Agentic 工作流编排能力，可支撑研究、编码与创作场景",
+      "高热度开源项目，反映 LLM Agent 工程化落地趋势"
+    ],
+    "category": "Agent框架"
+  }
+}
