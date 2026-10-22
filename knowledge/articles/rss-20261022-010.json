@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261022-010",
+  "title": "mitmproxy adds --emudhra option",
+  "source_url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+  "source_type": "rss",
+  "summary": "Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b Comments URL: https://news.ycombinator.com/item?id=50189232 Points: 538 # Comments: 130",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-22T21:31:23+08:00",
+  "updated_at": "2026-10-22T21:31:23+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "github-20261022-020",
+  "title": "humanizer",
+  "source_url": "https://github.com/blader/humanizer",
+  "source_type": "github",
+  "summary": "Agent skill that removes signs of AI-generated writing from text",
+  "tags": [
+    "agent-skills",
+    "ai-humanizer",
+    "ai-writing",
+    "chatgpt",
+    "claude"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-22T21:31:23+08:00",
+  "updated_at": "2026-10-22T21:31:23+08:00",
+  "metadata": {
+    "stars": 59522,
+    "language": "Python",
+    "author": "blader"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}
