@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261023-018",
+  "title": "Getting ready to operate GNU Taler in Germany",
+  "source_url": "https://www.taler.net/en/news/2026-13.html",
+  "source_type": "rss",
+  "summary": "Article URL: https://www.taler.net/en/news/2026-13.html Comments URL: https://news.ycombinator.com/item?id=50197404 Points: 329 # Comments: 147",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-23T21:07:33+08:00",
+  "updated_at": "2026-10-23T21:07:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}

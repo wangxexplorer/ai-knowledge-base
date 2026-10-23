@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261023-008",
+  "title": "Show HN: Making a smart TV dumb and then smart",
+  "source_url": "https://github.com/anubhavmalhotra/r2d2-tv",
+  "source_type": "rss",
+  "summary": "A recent (unwanted) webOS update that got installed on TV prompted me to start going down the rabbit hole of writing new TV software. After a couple of weekends and massive help from 4 different model",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-23T21:07:33+08:00",
+  "updated_at": "2026-10-23T21:07:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}

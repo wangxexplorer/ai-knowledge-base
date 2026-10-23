@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261023-002",
+  "title": "Is this the new cyber normal?",
+  "source_url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
+  "source_type": "rss",
+  "summary": "Article URL: https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/ Comments URL: https://news.ycombinator.com/item?id=50207115 Points: 93 # Comments: 86",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-23T21:07:33+08:00",
+  "updated_at": "2026-10-23T21:07:33+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}
