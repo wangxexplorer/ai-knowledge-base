@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261024-016",
+  "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+  "source_url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+  "source_type": "rss",
+  "summary": "https://www.kimi.com/code/docs/en/kimi-code/models.html https://artificialanalysis.ai/models/kimi-k3-1-pro https://www.modelcompare.ai/blog/china-open-source-ai Comments URL: https://news.ycombinator.",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-24T20:28:32+08:00",
+  "updated_at": "2026-10-24T20:28:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}
