@@ -1,0 +1,29 @@
+{
+  "id": "github-20261025-014",
+  "title": "unsloth",
+  "source_url": "https://github.com/unslothai/unsloth",
+  "source_type": "github",
+  "summary": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
+  "tags": [
+    "agent",
+    "ai",
+    "chatgpt",
+    "deepseek",
+    "fine-tuning"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-25T20:59:53+08:00",
+  "updated_at": "2026-10-25T20:59:53+08:00",
+  "metadata": {
+    "stars": 78543,
+    "language": "Python",
+    "author": "unslothai"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}
