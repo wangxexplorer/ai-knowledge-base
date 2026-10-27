@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261027-003",
+  "title": "New iMac with M6",
+  "source_url": "https://www.apple.com/imac/",
+  "source_type": "rss",
+  "summary": "Article URL: https://www.apple.com/imac/ Comments URL: https://news.ycombinator.com/item?id=50258538 Points: 4 # Comments: 0",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-27T22:01:55+08:00",
+  "updated_at": "2026-10-27T22:01:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}

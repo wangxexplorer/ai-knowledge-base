@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261027-016",
+  "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+  "source_url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+  "source_type": "rss",
+  "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 155 # Comments: 53",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-27T22:01:55+08:00",
+  "updated_at": "2026-10-27T22:01:55+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}
