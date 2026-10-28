@@ -1,0 +1,29 @@
+{
+  "id": "github-20261028-009",
+  "title": "caveman",
+  "source_url": "https://github.com/JuliusBrussee/caveman",
+  "source_type": "github",
+  "summary": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+  "tags": [
+    "ai",
+    "anthropic",
+    "caveman",
+    "claude",
+    "claude-code"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-28T22:53:42+08:00",
+  "updated_at": "2026-10-28T22:53:42+08:00",
+  "metadata": {
+    "stars": 115703,
+    "language": "Go",
+    "author": "JuliusBrussee"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}
