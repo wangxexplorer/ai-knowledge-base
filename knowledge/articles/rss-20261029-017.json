@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261029-017",
+  "title": "StackOverflow now gets fewer than 1000 questions a month",
+  "source_url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+  "source_type": "rss",
+  "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1 Comments URL: https://news.ycombinator.com/item?id=50282454 Points: 632 # Comments: 527",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-29T22:58:56+08:00",
+  "updated_at": "2026-10-29T22:58:56+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}
