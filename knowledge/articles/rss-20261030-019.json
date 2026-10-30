@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261030-019",
+  "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+  "source_url": "https://github.com/SheepSeb/tinyworldformer",
+  "source_type": "rss",
+  "summary": "Article URL: https://github.com/SheepSeb/tinyworldformer Comments URL: https://news.ycombinator.com/item?id=50295450 Points: 252 # Comments: 16",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-30T22:52:32+08:00",
+  "updated_at": "2026-10-30T22:52:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}

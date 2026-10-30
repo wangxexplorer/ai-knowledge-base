@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261030-013",
+  "title": "Herdr has released native app",
+  "source_url": "https://github.com/herdrdev/herdr-app",
+  "source_type": "rss",
+  "summary": "Article URL: https://github.com/herdrdev/herdr-app Comments URL: https://news.ycombinator.com/item?id=50298436 Points: 284 # Comments: 186",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-30T22:52:32+08:00",
+  "updated_at": "2026-10-30T22:52:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}

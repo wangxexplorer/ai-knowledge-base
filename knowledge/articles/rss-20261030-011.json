@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261030-011",
+  "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+  "source_url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+  "source_type": "rss",
+  "summary": "Article URL: https://phorion.io/blog/offical-claude-code-vsx-compromise/ Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 58 # Comments: 8",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-30T22:52:32+08:00",
+  "updated_at": "2026-10-30T22:52:32+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}
