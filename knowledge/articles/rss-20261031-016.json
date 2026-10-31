@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261031-016",
+  "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+  "source_url": "https://github.com/dbreunig/nesformer",
+  "source_type": "rss",
+  "summary": "Article URL: https://github.com/dbreunig/nesformer Comments URL: https://news.ycombinator.com/item?id=50306442 Points: 269 # Comments: 132",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-31T22:20:35+08:00",
+  "updated_at": "2026-10-31T22:20:35+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}

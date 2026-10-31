@@ -1,0 +1,579 @@
+{
+  "source": "github,rss",
+  "collected_at": "2026-10-31T22:19:43+08:00",
+  "query": "AI LLM Agent",
+  "items": [
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "hermes-agent",
+      "title": "hermes-agent",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 259061,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "NousResearch/hermes-agent",
+      "author": "NousResearch"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "firecrawl",
+      "title": "firecrawl",
+      "source_url": "https://github.com/firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "stars": 197283,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-crawler",
+        "ai-scraping",
+        "ai-search"
+      ],
+      "full_name": "firecrawl/firecrawl",
+      "author": "firecrawl"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ponytail",
+      "title": "ponytail",
+      "source_url": "https://github.com/DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 181300,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin"
+      ],
+      "full_name": "DietrichGebert/ponytail",
+      "author": "DietrichGebert"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "dify",
+      "title": "dify",
+      "source_url": "https://github.com/langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "stars": 160082,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "full_name": "langgenius/dify",
+      "author": "langgenius"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "langchain",
+      "title": "langchain",
+      "source_url": "https://github.com/langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform.",
+      "stars": 148764,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt"
+      ],
+      "full_name": "langchain-ai/langchain",
+      "author": "langchain-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "awesome-llm-apps",
+      "title": "awesome-llm-apps",
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "stars": 143561,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "llms",
+        "python",
+        "rag"
+      ],
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "author": "Shubhamsaboo"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "browser-use",
+      "title": "browser-use",
+      "source_url": "https://github.com/browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+      "stars": 119642,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "browser-agent",
+        "browser-automation",
+        "browser-use"
+      ],
+      "full_name": "browser-use/browser-use",
+      "author": "browser-use"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "pi",
+      "title": "pi",
+      "source_url": "https://github.com/earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 119128,
+      "language": "TypeScript",
+      "topics": [],
+      "full_name": "earendil-works/pi",
+      "author": "earendil-works"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "caveman",
+      "title": "caveman",
+      "source_url": "https://github.com/JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": 116455,
+      "language": "Go",
+      "topics": [
+        "ai",
+        "anthropic",
+        "caveman",
+        "claude",
+        "claude-code"
+      ],
+      "full_name": "JuliusBrussee/caveman",
+      "author": "JuliusBrussee"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "ragflow",
+      "title": "ragflow",
+      "source_url": "https://github.com/infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 93252,
+      "language": "Go",
+      "topics": [
+        "agent-harness",
+        "agentic-ai",
+        "agentic-nagive",
+        "agentic-retrieval",
+        "agentic-search"
+      ],
+      "full_name": "infiniflow/ragflow",
+      "author": "infiniflow"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "OpenHands",
+      "title": "OpenHands",
+      "source_url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "stars": 92334,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli"
+      ],
+      "full_name": "OpenHands/OpenHands",
+      "author": "OpenHands"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "crawl4ai",
+      "title": "crawl4ai",
+      "source_url": "https://github.com/unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf",
+      "stars": 86636,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "crawler",
+        "data-extraction",
+        "llm"
+      ],
+      "full_name": "unclecode/crawl4ai",
+      "author": "unclecode"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "deer-flow",
+      "title": "deer-flow",
+      "source_url": "https://github.com/bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 84760,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai"
+      ],
+      "full_name": "bytedance/deer-flow",
+      "author": "bytedance"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "unsloth",
+      "title": "unsloth",
+      "source_url": "https://github.com/unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
+      "stars": 78855,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "chatgpt",
+        "deepseek",
+        "fine-tuning"
+      ],
+      "full_name": "unslothai/unsloth",
+      "author": "unslothai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "headroom",
+      "title": "headroom",
+      "source_url": "https://github.com/headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "stars": 78442,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "anthropic",
+        "claude-code",
+        "compression"
+      ],
+      "full_name": "headroomlabs-ai/headroom",
+      "author": "headroomlabs-ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "LlamaFactory",
+      "title": "LlamaFactory",
+      "source_url": "https://github.com/hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars": 75804,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "deepseek",
+        "fine-tuning",
+        "gemma"
+      ],
+      "full_name": "hiyouga/LlamaFactory",
+      "author": "hiyouga"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "MetaGPT",
+      "title": "MetaGPT",
+      "source_url": "https://github.com/FoundationAgents/MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "stars": 71101,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "gpt",
+        "llm",
+        "metagpt",
+        "multi-agent"
+      ],
+      "full_name": "FoundationAgents/MetaGPT",
+      "author": "FoundationAgents"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "mem0",
+      "title": "mem0",
+      "source_url": "https://github.com/mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
+      "stars": 68151,
+      "language": "Python",
+      "topics": [
+        "agentic-memory",
+        "agentic-memory-system",
+        "agents",
+        "ai",
+        "ai-agents"
+      ],
+      "full_name": "mem0ai/mem0",
+      "author": "mem0ai"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "context7",
+      "title": "context7",
+      "source_url": "https://github.com/upstash/context7",
+      "url": "https://github.com/upstash/context7",
+      "description": "Context7 Platform -- Up-to-date docs for AI agents",
+      "stars": 64003,
+      "language": "TypeScript",
+      "topics": [
+        "llm",
+        "mcp",
+        "mcp-server",
+        "vibe-coding"
+      ],
+      "full_name": "upstash/context7",
+      "author": "upstash"
+    },
+    {
+      "source": "github",
+      "source_type": "github",
+      "name": "humanizer",
+      "title": "humanizer",
+      "source_url": "https://github.com/blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "stars": 62884,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-humanizer",
+        "ai-writing",
+        "chatgpt",
+        "claude"
+      ],
+      "full_name": "blader/humanizer",
+      "author": "blader"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+      "source_url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+      "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+      "description": "Article URL: https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26 Comments URL: https://news.ycombinator.com/item?id=50315990 Points: 38 # Comments: 6",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Why Did Meta Suspend a US Senate Candidate's Instagram in the Middle of a Rally?",
+      "source_url": "https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account",
+      "url": "https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account",
+      "description": "Article URL: https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account Comments URL: https://news.ycombinator.com/item?id=50315776 Points: 10 # Comments: 1",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Why Anthropic's Filing Crushed Tech Stocks",
+      "source_url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+      "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+      "description": "Article URL: https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech Comments URL: https://news.ycombinator.com/item?id=50315574 Points: 31 # Comments: 33",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Prospero: A new coding harness for a more civilized age",
+      "source_url": "https://nullprogram.com/blog/2026/10/31/",
+      "url": "https://nullprogram.com/blog/2026/10/31/",
+      "description": "Article URL: https://nullprogram.com/blog/2026/10/31/ Comments URL: https://news.ycombinator.com/item?id=50315226 Points: 39 # Comments: 15",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Shiny Object Syndrome",
+      "source_url": "https://en.wikipedia.org/wiki/Shiny_object_syndrome",
+      "url": "https://en.wikipedia.org/wiki/Shiny_object_syndrome",
+      "description": "Article URL: https://en.wikipedia.org/wiki/Shiny_object_syndrome Comments URL: https://news.ycombinator.com/item?id=50314872 Points: 41 # Comments: 15",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "We Took over ChatGPT Accounts",
+      "source_url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "description": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 102 # Comments: 46",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+      "source_url": "https://piefed.world/post/1503394",
+      "url": "https://piefed.world/post/1503394",
+      "description": "Article URL: https://piefed.world/post/1503394 Comments URL: https://news.ycombinator.com/item?id=50314666 Points: 102 # Comments: 61",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Serbia just elected the world's brainiest parliament",
+      "source_url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "description": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 457 # Comments: 276",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Switch Lowering in GCC",
+      "source_url": "https://xoranth.net/gcc-switch/",
+      "url": "https://xoranth.net/gcc-switch/",
+      "description": "Article URL: https://xoranth.net/gcc-switch/ Comments URL: https://news.ycombinator.com/item?id=50314085 Points: 110 # Comments: 23",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Digital Minimalism",
+      "source_url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "description": "Article URL: https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html Comments URL: https://news.ycombinator.com/item?id=50313661 Points: 130 # Comments: 89",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Tell HN: Scribd Breached",
+      "source_url": "https://news.ycombinator.com/item?id=50312756",
+      "url": "https://news.ycombinator.com/item?id=50312756",
+      "description": "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026: Subject: Notice of Security Incident This notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.’s notification partner. Hello, We are writing to let you know that Scribd, Inc. recently experienced a security incident that may have affected your data. We detected that an unauthorized third party may have gained access to certain user data in one of our systems. After investigating this activity, we found that the third party may have accessed your email address and the following of your information: last 4 digits of your credit card and country, credit card issuer, credit card expiry date, payment history (not including credit card details). We have no evidence that this data has been misused, but we are notifying you out of an abundance of caution so that you can take steps to protect your information. Watch for phishing We encourage you to stay vigilant for phishing attempts by bad actors pretending to be Scribd, Inc. or Scribd, Slideshare, Everand or Fable. Remember that Scribd, Inc. will never ask you for your username and password or other sensitive information via email or text. If you did receive a message like that: Don't click on any links in it. Instead type scribd.com, slideshare.net, everand.com, or fable.co directly into your browser. Call us at: +1-877-361-9887. Hours of operation are Monday-Friday, 11:00 a.m.-11:00 p.m., Central European Time. Report it through Scribd, Inc.'s Help Center. For more information We regret that this incident occurred and any concern it may cause you. If you have additional questions, contact the dedicated call center at +1-877-361-9887. Hours of operation are Monday-Friday, 11:00 a.m.-11:00 p.m. Central European Time. The National Cyber Security Center has helpful guidance on how to recognize and avoid phishing scams here. What Scribd, Inc. is doing We have secured the affected system and ended the unauthorized access. We have notified law enforcement as well as the relevant data protection authorities. We are working with an expert third party cybersecurity firm to strengthen our access controls and monitoring. We value the trust you place in us with your information, and don’t take that lightly. We are deeply sorry this happened and will keep you updated if anything further changes. Scribd, Inc. Comments URL: https://news.ycombinator.com/item?id=50312756 Points: 270 # Comments: 103",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "source_url": "https://tng.episodle.com/",
+      "url": "https://tng.episodle.com/",
+      "description": "Article URL: https://tng.episodle.com/ Comments URL: https://news.ycombinator.com/item?id=50311686 Points: 207 # Comments: 60",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Jules Verne's Lost Novel",
+      "source_url": "https://blue-continuum.com/verne-paris",
+      "url": "https://blue-continuum.com/verne-paris",
+      "description": "Article URL: https://blue-continuum.com/verne-paris Comments URL: https://news.ycombinator.com/item?id=50309314 Points: 128 # Comments: 32",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "The oldest ice disappears and the Stone Age emerges from it",
+      "source_url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+      "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+      "description": "Article URL: https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921 Comments URL: https://news.ycombinator.com/item?id=50309266 Points: 176 # Comments: 70",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "source_url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "description": "Article URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/ Comments URL: https://news.ycombinator.com/item?id=50307190 Points: 338 # Comments: 99",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "source_url": "https://github.com/dbreunig/nesformer",
+      "url": "https://github.com/dbreunig/nesformer",
+      "description": "Article URL: https://github.com/dbreunig/nesformer Comments URL: https://news.ycombinator.com/item?id=50306442 Points: 269 # Comments: 132",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "source_url": "https://github.com/kevinraymond/florilegium",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "description": "Article URL: https://github.com/kevinraymond/florilegium Comments URL: https://news.ycombinator.com/item?id=50305637 Points: 328 # Comments: 49",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "The federated code forge",
+      "source_url": "https://tangled.org/blog/forge/",
+      "url": "https://tangled.org/blog/forge/",
+      "description": "Article URL: https://tangled.org/blog/forge/ Comments URL: https://news.ycombinator.com/item?id=50305573 Points: 304 # Comments: 89",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Northflank Breached",
+      "source_url": "https://status.northflank.com",
+      "url": "https://status.northflank.com",
+      "description": "Article URL: https://status.northflank.com Comments URL: https://news.ycombinator.com/item?id=50305025 Points: 456 # Comments: 331",
+      "feed_name": "Hacker News"
+    },
+    {
+      "source": "rss",
+      "source_type": "rss",
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "source_url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "description": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 230 # Comments: 280",
+      "feed_name": "Hacker News"
+    }
+  ]
+}

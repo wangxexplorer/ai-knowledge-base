@@ -1,0 +1,29 @@
+{
+  "id": "github-20261031-011",
+  "title": "OpenHands",
+  "source_url": "https://github.com/OpenHands/OpenHands",
+  "source_type": "github",
+  "summary": "🙌 OpenHands: AI-Driven Development",
+  "tags": [
+    "agent",
+    "artificial-intelligence",
+    "chatgpt",
+    "claude-ai",
+    "cli"
+  ],
+  "status": "draft",
+  "created_at": "2026-10-31T22:20:35+08:00",
+  "updated_at": "2026-10-31T22:20:35+08:00",
+  "metadata": {
+    "stars": 92334,
+    "language": "TypeScript",
+    "author": "OpenHands"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}
