@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261101-012",
+  "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+  "source_url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+  "source_type": "rss",
+  "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve Comments URL: https://news.ycombinator.com/item?id=50320995 Points: 324 # Comments: 156",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-01T22:47:01+08:00",
+  "updated_at": "2026-11-01T22:47:01+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}
