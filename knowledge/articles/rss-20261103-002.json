@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261103-002",
+  "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+  "source_url": "https://momentic.ai/",
+  "source_type": "rss",
+  "summary": "Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, iOS, Android, and (soon) desktop apps to catch bug",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-03T01:53:29+08:00",
+  "updated_at": "2026-11-03T01:53:29+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}
