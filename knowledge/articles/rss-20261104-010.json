@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261104-010",
+  "title": "Ask HN: What's your current AI agentic setup?",
+  "source_url": "https://news.ycombinator.com/item?id=50366117",
+  "source_type": "rss",
+  "summary": "I'm curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a gut",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-04T23:59:17+08:00",
+  "updated_at": "2026-11-04T23:59:17+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}
