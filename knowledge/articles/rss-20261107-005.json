@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261107-005",
+  "title": "Port 0: The Port That Does Not Exist",
+  "source_url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+  "source_type": "rss",
+  "summary": "Article URL: https://acid.vegas/blog/the-port-that-does-not-exist/ Comments URL: https://news.ycombinator.com/item?id=50403063 Points: 27 # Comments: 6",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-07T22:43:21+08:00",
+  "updated_at": "2026-11-07T22:43:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}

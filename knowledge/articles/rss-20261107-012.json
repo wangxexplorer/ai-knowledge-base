@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261107-012",
+  "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+  "source_url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+  "source_type": "rss",
+  "summary": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 526 # Comments: 124",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-07T22:43:21+08:00",
+  "updated_at": "2026-11-07T22:43:21+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}
