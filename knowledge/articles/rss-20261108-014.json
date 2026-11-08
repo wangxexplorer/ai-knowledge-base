@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261108-014",
+  "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+  "source_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+  "source_type": "rss",
+  "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 465 # Comments: 327",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-08T22:48:35+08:00",
+  "updated_at": "2026-11-08T22:48:35+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}

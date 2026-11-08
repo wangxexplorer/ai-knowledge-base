@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261108-017",
+  "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+  "source_url": "https://github.com/hedgerow-dev/coldframe",
+  "source_type": "rss",
+  "summary": "I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-08T22:48:35+08:00",
+  "updated_at": "2026-11-08T22:48:35+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}
