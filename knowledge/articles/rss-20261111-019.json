@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261111-019",
+  "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+  "source_url": "https://github.com/adrbn/bo2-mac",
+  "source_type": "rss",
+  "summary": "I grew up with Black Ops 2 and wanted to see if I could make it work on my 2020 MacBook Pro. So I used Claude Opus 5.5 to create a tool that converts your copy of the game (from Steam) to a native ARM",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-11T23:54:04+08:00",
+  "updated_at": "2026-11-11T23:54:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}

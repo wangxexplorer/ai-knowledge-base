@@ -1,0 +1,29 @@
+{
+  "id": "github-20261111-020",
+  "title": "ai-agent-book",
+  "source_url": "https://github.com/bojieli/ai-agent-book",
+  "source_type": "github",
+  "summary": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+  "tags": [
+    "agent",
+    "agent-memory",
+    "ai-agent",
+    "book",
+    "coding-agent"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-11T23:54:04+08:00",
+  "updated_at": "2026-11-11T23:54:04+08:00",
+  "metadata": {
+    "stars": 57764,
+    "language": "Python",
+    "author": "bojieli"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}

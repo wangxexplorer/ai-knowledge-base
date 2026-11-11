@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261111-007",
+  "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
+  "source_url": "https://machinelearning.apple.com/research/attention-mamba-distillation",
+  "source_type": "rss",
+  "summary": "Article URL: https://machinelearning.apple.com/research/attention-mamba-distillation Comments URL: https://news.ycombinator.com/item?id=50453171 Points: 5 # Comments: 0",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-11T23:54:04+08:00",
+  "updated_at": "2026-11-11T23:54:04+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}
