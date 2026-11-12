@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261113-018",
+  "title": "Critical RCE Vulnerability in Apache HTTP Server",
+  "source_url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+  "source_type": "rss",
+  "summary": "Article URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability Comments URL: https://news.ycombinator.com/item?id=50462177 Points: 314 # Comments: 159",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-13T00:37:28+08:00",
+  "updated_at": "2026-11-13T00:37:28+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}
