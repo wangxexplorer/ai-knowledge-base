@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261114-012",
+  "title": "Ggml v1.0.0",
+  "source_url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+  "source_type": "rss",
+  "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 332 # Comments: 52",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-14T22:48:45+08:00",
+  "updated_at": "2026-11-14T22:48:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261114-005",
+  "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+  "source_url": "https://gitlab.com/snipedbywifi/terminactory",
+  "source_type": "rss",
+  "summary": "Hey HN readers! I'm snipedbywifi ( https://gitlab.com/snipedbywifi ), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent ta",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-14T22:48:45+08:00",
+  "updated_at": "2026-11-14T22:48:45+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}
