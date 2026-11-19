@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261120-007",
+  "title": "Show HN: Watch weight-space programming in action with WebGPU",
+  "source_url": "https://tabbyml.github.io/weight-space-playground/",
+  "source_type": "rss",
+  "summary": "I wanted to build a full weight-space programming loop entirely in the browser with WebGPU: let an LLM inspect Qwen3.5-0.8B, edit its weights, evaluate, and repeat. the full loop needed too much VRAM.",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-20T01:06:15+08:00",
+  "updated_at": "2026-11-20T01:06:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}

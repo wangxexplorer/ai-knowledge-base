@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261120-001",
+  "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+  "source_url": "https://github.com/onlook-dev/onlook/",
+  "source_type": "rss",
+  "summary": "Hey HN, I'm Daniel, founder of Onlook ( https://github.com/onlook-dev/onlook and onlook.com). Onlook is a desktop app that puts a canvas on top of your real codebase, letting you design directly in co",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-20T01:06:15+08:00",
+  "updated_at": "2026-11-20T01:06:15+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}
