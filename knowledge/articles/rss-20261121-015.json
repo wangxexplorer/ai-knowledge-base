@@ -1,0 +1,23 @@
+{
+  "id": "rss-20261121-015",
+  "title": "FFmpeg 9.1 'Gauss'",
+  "source_url": "https://ffmpeg.org/download.html#release_9.1",
+  "source_type": "rss",
+  "summary": "Article URL: https://ffmpeg.org/download.html#release_9.1 Comments URL: https://news.ycombinator.com/item?id=50569998 Points: 246 # Comments: 33",
+  "tags": [
+    "AI"
+  ],
+  "status": "draft",
+  "created_at": "2026-11-21T00:44:39+08:00",
+  "updated_at": "2026-11-21T00:44:39+08:00",
+  "metadata": {
+    "feed_name": "Hacker News"
+  },
+  "ai_analysis": {
+    "relevance_score": 0.0,
+    "key_insights": [
+      "LLM分析不可用，已使用默认结果。"
+    ],
+    "category": "未分类"
+  }
+}
